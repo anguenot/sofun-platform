@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110911T101659,993Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU6
+-->
+<wapresults>
+  <Officials>
+    <Official id="3" official_name="Wayne Barnes" role="referee" />
+    <Official id="104" official_name="George Clancy" role="assistant" />
+    <Official id="202" official_name="Vinny Munro" role="assistant" />
+    <Official id="116" official_name="Matt Goddard" role="TMO" />
+  </Officials>
+  <feed-info comp-id="210" comp_name="Rugby World Cup" />
+  <match attendance="0" game-id="6667" grp-id="" period_minute="80" period_second="11" rnd-id="" status="Result">
+    <away-team>
+      <HTscore>6</HTscore>
+      <score>16</score>
+      <team-id>500</team-id>
+      <team-name>Wales</team-name>
+    </away-team>
+    <descriptions format="OPTA_MAX" length="176">
+      <text>Rugby World Cup: 
+South Africa 17 Wales 16
+South Africa
+Try: Steyn 2, Hougaard 65, Conv: Steyn 3,66, Penk: Steyn 18, 
+Wales
+Try: Faletau 53, Conv: Hook 54, Penk: Hook 9,32,50, </text>
+    </descriptions>
+    <descriptions format="OPTA_LARGE" length="136">
+      <text>Rugby World Cup: 
+South Africa 17
+Try: Steyn, Hougaard, Conv: Steyn(2), Penk: Steyn, 
+Wales 16
+Try: Faletau, Conv: Hook, Penk: Hook(3), </text>
+    </descriptions>
+    <descriptions format="OPTA_MEDIUM" length="92">
+      <text>Rugby World Cup: 
+South Africa  17 (2 try, 2 conv, 1 penk)
+Wales  16 (1 try, 1 conv, 3 penk)</text>
+    </descriptions>
+    <descriptions format="OPTA_SMALL" length="70">
+      <text>Rugby World Cup: 
+South Africa  17 (2T, 2C, 1P)
+Wales  16 (1T, 1C, 3P)</text>
+    </descriptions>
+    <descriptions format="OPTA_SCORELINE" length="41">
+      <text>Rugby World Cup: South Africa 17 Wales 16</text>
+    </descriptions>
+    <events>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>900</team-id>
+      </event>
+      <event period="First Half" secs="59" time="2" type="TRY">
+        <player-code>8583</player-code>
+        <player-name>Steyn</player-name>
+        <team-id>900</team-id>
+      </event>
+      <event period="First Half" secs="59" time="3" type="CONV">
+        <player-code>7140</player-code>
+        <player-name>Steyn</player-name>
+        <team-id>900</team-id>
+      </event>
+      <event period="First Half" secs="25" time="9" type="PENK">
+        <player-code>6014</player-code>
+        <player-name>Hook</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="51" time="18" type="PENK">
+        <player-code>7140</player-code>
+        <player-name>Steyn</player-name>
+        <team-id>900</team-id>
+      </event>
+      <event period="First Half" secs="24" time="32" type="PENK">
+        <player-code>6014</player-code>
+        <player-name>Hook</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="21" time="41" type="END">
+        <team-id>900</team-id>
+      </event>
+      <event period="First Half" secs="22" time="41" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>900</team-id>
+      </event>
+      <event period="Second Half" secs="8" time="50" type="PENK">
+        <player-code>6014</player-code>
+        <player-name>Hook</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="51" time="53" type="TRY">
+        <player-code>11029</player-code>
+        <player-name>Faletau</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="28" time="54" type="CONV">
+        <player-code>6014</player-code>
+        <player-name>Hook</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="24" time="65" type="TRY">
+        <player-code>9636</player-code>
+        <player-name>Hougaard</player-name>
+        <team-id>900</team-id>
+      </event>
+      <event period="Second Half" secs="2" time="66" type="CONV">
+        <player-code>7140</player-code>
+        <player-name>Steyn</player-name>
+        <team-id>900</team-id>
+      </event>
+      <event period="Second Half" secs="11" time="80" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="11" time="80" type="END">
+        <team-id>900</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>900</team-id>
+      </event>
+      <event period="Post Game" secs="11" time="80" type="END">
+        <team-id>900</team-id>
+      </event>
+      <event period="Post Game" secs="11" time="80" type="END">
+        <team-id>500</team-id>
+      </event>
+    </events>
+    <home-team>
+      <HTscore>10</HTscore>
+      <score>17</score>
+      <team-id>900</team-id>
+      <team-name>South Africa</team-name>
+    </home-team>
+    <subs>
+      <sub period="First Half" secs="6" time="24">
+        <player-code>1882</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="6" time="24">
+        <player-code>3158</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="6" time="44">
+        <player-code>7146</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="6" time="44">
+        <player-code>1876</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="15" time="55">
+        <player-code>7012</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="15" time="55">
+        <player-code>9079</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="57">
+        <player-code>7052</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="14" time="57">
+        <player-code>1888</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="56" time="57">
+        <player-code>9008</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="56" time="57">
+        <player-code>7272</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="33" time="61">
+        <player-code>9636</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="33" time="61">
+        <player-code>6184</player-code>
+        <team-id>900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="0" time="66">
+        <player-code>15057</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="0" time="66">
+        <player-code>7680</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+    </subs>
+    <teams home_or_away="home" team_id="900" team_name="South Africa">
+      <Player id="8583" first="Francois" known_name="Francois Steyn" last="Steyn" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="8056" first="J.P" known_name="J.P Pietersen" last="Pietersen" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="3665" first="Jaques" known_name="Jaques Fourie" last="Fourie" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="3158" first="Jean" known_name="Jean De Villiers" last="De Villiers" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="6184" first="Bryan" known_name="Bryan Habana" last="Habana" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="7140" first="Morne" known_name="Morne Steyn" last="Steyn" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="5021" first="Fourie" known_name="Fourie du Preez" last="du Preez" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="9079" first="Tendai" known_name="Tendai Mtawarira" last="Mtawarira" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="1888" first="John" known_name="John Smit" last="Smit" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="8122" first="Jannie" known_name="Jannie du Plessis" last="du Plessis" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="3668" first="Danie" known_name="Danie Rossouw" last="Rossouw" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="1876" first="Victor" known_name="Victor Matfield" last="Matfield" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="8754" first="Heinrich" known_name="Heinrich Brussow" last="Brussow" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="3667" first="Schalk" known_name="Schalk Burger" last="Burger" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="7272" first="Pierre" known_name="Pierre Spies" last="Spies" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="7052" first="Bismarck" known_name="Bismarck Du Plessis" last="Du Plessis" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="7012" first="Gurthro" known_name="Gurthro Steenkamp" last="Steenkamp" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="5015" first="C. J." known_name="C. J. van der Linde" last="van der Linde" played="0" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="7146" first="Johann" known_name="Johann Muller" last="Muller" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="9008" first="Willem" known_name="Willem Alberts" last="Alberts" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="9636" first="Francois" known_name="Francois Hougaard" last="Hougaard" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="1882" first="Butch" known_name="Butch James" last="James" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+    <teams home_or_away="away" team_id="500" team_name="Wales">
+      <Player id="6014" first="James" known_name="James Hook" last="Hook" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="18273" first="George" known_name="George North" last="North" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="16161" first="Jonathan" known_name="Jonathan Davies" last="Davies" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="7981" first="Jamie" known_name="Jamie Roberts" last="Roberts" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="1673" first="Shane" known_name="Shane Williams" last="Williams" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="8491" first="Rhys" known_name="Rhys Priestland" last="Priestland" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="2652" first="Mike" known_name="Mike Phillips" last="Phillips" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="2659" first="Paul" known_name="Paul James" last="James" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="3677" first="Huw" known_name="Huw Bennett" last="Bennett" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="1967" first="Adam" known_name="Adam Jones" last="Jones" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="6101" first="Luke" known_name="Luke Charteris" last="Charteris" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="7680" first="Alun Wyn" known_name="Alun Wyn Jones" last="Jones" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="9156" first="Dan" known_name="Dan Lydiate" last="Lydiate" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="10238" first="Sam" known_name="Sam Warburton" last="Warburton" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="11029" first="Toby" known_name="Toby Faletau" last="Faletau" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="9935" first="Lloyd" known_name="Lloyd Burns" last="Burns" played="0" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="9963" first="Ryan" known_name="Ryan Bevington" last="Bevington" played="0" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="15057" first="Bradley" known_name="Bradley Davies" last="Davies" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="2310" first="Andrew" known_name="Andrew Powell" last="Powell" played="0" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="10297" first="Tavis" known_name="Tavis Knoyle" last="Knoyle" played="0" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="15007" first="Scott" known_name="Scott Williams" last="Williams" played="0" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="16273" first="Leigh" known_name="Leigh Halfpenny" last="Halfpenny" played="0" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+  </match>
+  <meta>
+      <dateline>11/09/2011 11:16:59 +0000</dateline>
+  </meta>
+</wapresults>

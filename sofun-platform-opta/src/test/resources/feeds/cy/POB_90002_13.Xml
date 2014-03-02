@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Partido>
+<DG DESC="Tour de Francia" CC="90002" DES="Tour de Francia" ID="90002" NBC="Saint Paul Trois Chateaux - Le Cap d´Agde (215 Km)" JN="13" FCH="14-07-2012" EP="7" TET="1" MOD="0" KMS="217" KA="217" KF="0" TCOM="7" DEP="9" IDM="0" FR="7" FN="POB_90002_13.Xml" FG="POB_90002.Xml" TC="05:18:57" IDUNICO="7100" TEMP="2012" ></DG>
+    <LISTACLF> 
+         <CLF ID="4" TIP="2" KM="126" DES="Mas de Londres"  >
+              <CRR PTO="1" NID="9001145" NB="Pablo Urtasun" MED="20" EQ="EUS" PA="ESP" CE="9000010" DO="38" PACOI="ESP"  />
+              <CRR PTO="2" NID="9000010" NB="Bradley Wiggins" MED="17" EQ="SKY" PA="GBR" CE="9000097" DO="101" PACOI="GBR"  />
+              <CRR PTO="3" NID="9000210" NB="Jérôme Pineau" MED="15" EQ="OPQ" PA="FRA" CE="9000021" DO="197" PACOI="FRA"  />
+              <CRR PTO="4" NID="9000799" NB="Matthieu Ladagnous" MED="13" EQ="FDJ" PA="FRA" CE="9000012" DO="144" PACOI="FRA"  />
+              <CRR PTO="5" NID="9000222" NB="Jimmy Engoulvent" MED="11" EQ="SAU" PA="FRA" CE="9000101" DO="93" PACOI="FRA"  />
+              <CRR PTO="6" NID="9000557" NB="Samuel Dumoulin" MED="10" EQ="COF" PA="FRA" CE="9000005" DO="83" PACOI="FRA"  />
+              <CRR PTO="7" NID="9001031" NB="Maxime Bouet" MED="9" EQ="ALM" PA="FRA" CE="9000001" DO="72" PACOI="FRA"  />
+              <CRR PTO="8" NID="9001109" NB="Michael Morkov" MED="8" EQ="SAX" PA="DIN" CE="9000006" DO="175" PACOI="DEN"  />
+              <CRR PTO="9" NID="9001345" NB="Peter Sagan" MED="7" EQ="LIQ" PA="SVK" CE="9000017" DO="57" PACOI="SVK"  />
+              <CRR PTO="10" NID="9000682" NB="André Greipel" MED="6" EQ="OLO" PA="ALM" CE="9000009" DO="114" PACOI="GER"  />
+              <CRR PTO="11" NID="9000962" NB="Matt Goss" MED="5" EQ="GEC" PA="AUT" CE="9000014" DO="204" PACOI="AUS"  />
+              <CRR PTO="12" NID="9000881" NB="Daryl Impey" MED="4" EQ="GEC" PA="SF" CE="9000014" DO="205" PACOI="RSA"  />
+              <CRR PTO="13" NID="9000091" NB="Baden Cooke" MED="3" EQ="GEC" PA="AUT" CE="9000014" DO="203" PACOI="AUS"  />
+              <CRR PTO="14" NID="9000256" NB="Bernhard Eisel" MED="2" EQ="SKY" PA="AUS" CE="9000097" DO="104" PACOI="AUT"  />
+              <CRR PTO="15" NID="9000443" NB="Michael Rogers" MED="1" EQ="SKY" PA="AUT" CE="9000097" DO="108" PACOI="AUS"  />
+         </CLF>
+         <CLF ID="3" TIP="3" KM="194" DES="Mont Saint-Clair (3ª)"  >
+              <CRR PTO="1" NID="9000460" NB="Jurgen Van den Broeck" MED="2" EQ="OLO" PA="BEL" CE="9000009" DO="111" PACOI="BEL"  />
+              <CRR PTO="2" NID="9000473" NB="Cadel Evans" MED="1" EQ="BMC" PA="AUT" CE="9000096" DO="1" PACOI="AUS"  />
+         </CLF>
+         <CLF ID="1" TIP="5" KM="217" DES="Meta"  >
+              <CRR PTO="1" NID="9000682" NB="André Greipel" MED="04:57:59" EQ="OLO" PA="ALM" CE="9000009" DO="114" PACOI="GER"  />
+              <CRR PTO="2" NID="9001345" NB="Peter Sagan" MED="+00:00:00" EQ="LIQ" PA="SVK" CE="9000017" DO="57" PACOI="SVK"  />
+              <CRR PTO="3" NID="9001101" NB="Edvald Boasson Hagen" MED="+00:00:00" EQ="SKY" PA="NOR" CE="9000097" DO="102" PACOI="NOR"  />
+              <CRR PTO="4" NID="9000237" NB="Sébastien Hinault" MED="+00:00:00" EQ="ALM" PA="FRA" CE="9000001" DO="75" PACOI="FRA"  />
+              <CRR PTO="5" NID="9000881" NB="Daryl Impey" MED="+00:00:00" EQ="GEC" PA="SF" CE="9000014" DO="205" PACOI="RSA"  />
+              <CRR PTO="6" NID="9001038" NB="Julien Simon" MED="+00:00:00" EQ="SAU" PA="FRA" CE="9000101" DO="99" PACOI="FRA"  />
+              <CRR PTO="7" NID="9001179" NB="Marco Marcato" MED="+00:00:00" EQ="VCD" PA="ITA" CE="9000042" DO="125" PACOI="ITA"  />
+              <CRR PTO="8" NID="9000259" NB="Philippe Gilbert" MED="+00:00:00" EQ="BMC" PA="BEL" CE="9000096" DO="4" PACOI="BEL"  />
+              <CRR PTO="9" NID="9000982" NB="Peter Velits" MED="+00:00:00" EQ="OPQ" PA="SVK" CE="9000021" DO="199" PACOI="SVK"  />
+              <CRR PTO="10" NID="9000344" NB="Danilo Hondo" MED="+00:00:00" EQ="LAM" PA="ALM" CE="9000016" DO="43" PACOI="GER"  />
+              <CRR PTO="12" NID="9000010" NB="Bradley Wiggins" MED="+00:00:00" EQ="SKY" PA="GBR" CE="9000097" DO="101" PACOI="GBR"  />
+              <CRR PTO="20" NID="9001353" NB="Tejay Van Garderen" MED="+00:00:00" EQ="BMC" PA="USA" CE="9000096" DO="9" PACOI="USA"  />
+         </CLF>
+         <CLF ID="2" TIP="6" KM="217" DES="General"  >
+              <CRR PTO="1" NID="9000010" NB="Bradley Wiggins" MED="59:32:32" EQ="SKY" PA="GBR" CE="9000097" DO="101" PACOI="GBR"  />
+              <CRR PTO="2" NID="9000880" NB="Chris Froome" MED="+00:02:05" EQ="SKY" PA="GBR" CE="9000097" DO="105" PACOI="GBR"  />
+              <CRR PTO="3" NID="9000300" NB="Vincenzo Nibali" MED="+00:02:23" EQ="LIQ" PA="ITA" CE="9000017" DO="51" PACOI="ITA"  />
+              <CRR PTO="4" NID="9000473" NB="Cadel Evans" MED="+00:03:19" EQ="BMC" PA="AUT" CE="9000096" DO="1" PACOI="AUS"  />
+              <CRR PTO="5" NID="9000460" NB="Jurgen Van den Broeck" MED="+00:04:48" EQ="OLO" PA="BEL" CE="9000009" DO="111" PACOI="BEL"  />
+              <CRR PTO="6" NID="9000077" NB="Haimar Zubeldia" MED="+00:06:15" EQ="RNT" PA="ESP" CE="9000100" DO="19" PACOI="ESP"  />
+              <CRR PTO="7" NID="9001353" NB="Tejay Van Garderen" MED="+00:06:57" EQ="BMC" PA="USA" CE="9000096" DO="9" PACOI="USA"  />
+              <CRR PTO="8" NID="9001397" NB="Jani Brajkovic" MED="+00:07:30" EQ="AST" PA="ESL" CE="9000018" DO="181" PACOI="SLO"  />
+              <CRR PTO="9" NID="9000777" NB="Pierre Rolland" MED="+00:08:31" EQ="EUC" PA="FRA" CE="9000102" DO="29" PACOI="FRA"  />
+              <CRR PTO="10" NID="9001407" NB="Thibaut Pinot" MED="+00:08:51" EQ="FDJ" PA="FRA" CE="9000012" DO="146" PACOI="FRA"  />
+              <CRR PTO="42" NID="9001345" NB="Peter Sagan" MED="+00:00:00" EQ="LIQ" PA="SVK" CE="9000017" DO="57" PACOI="SVK"  />
+         </CLF>
+    </LISTACLF> 
+    <LISTASIT> 
+         <SIT ID="1" KM="21" TC=""  >
+              <GRP ID="1" NCG="7" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="1" LD="0" PP="0" DIF="+00:01:00" COMPCO="Jérôme Pineau" COMPEQ="OPQ" COMPPA="FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA"  />
+              <GRP ID="3" NCG="140" LD="1" PP="1" DIF="+00:03:00" COMPCO="Fredrik Kessiakoff, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="AST, BMC, LIQ, SKY" COMPPA="SE, USA, SVK, GBR" LD2="1" LD3="1" LD5="1" COMPPACOI="SWE, USA, SVK, GBR"  />
+         </SIT>
+         <SIT ID="2" KM="31" TC=""  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:04:05" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="3" KM="45" TC="01:02:05"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:09:20" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="4" KM="54" TC="01:16:00"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:07:15" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="5" KM="64" TC="01:29:33"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:06:30" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="6" KM="90" TC="02:07:51"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:04:20" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="7" KM="107" TC="02:33:18"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:05:14" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="8" KM="121" TC="02:46:57"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:04:41" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="9" KM="148" TC="03:28:01"  >
+              <GRP ID="1" NCG="8" LD="0" PP="0" DIF="" COMPCO="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="2" NCG="150" LD="1" PP="0" DIF="+00:02:15" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="10" KM="148" TC="03:42:48"  >
+              <GRP ID="1" NCG="1" LD="0" PP="0" DIF="" COMPCO="Michael Morkov" COMPEQ="SAX" COMPPA="DIN" LD2="0" LD3="0" LD5="0" COMPPACOI="DEN"  />
+              <GRP ID="2" NCG="7" LD="0" PP="0" DIF="+00:00:30" COMPCO="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="3" NCG="150" LD="1" PP="1" DIF="+00:02:40" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="11" KM="164" TC="03:50:13"  >
+              <GRP ID="1" NCG="1" LD="0" PP="0" DIF="" COMPCO="Michael Morkov" COMPEQ="SAX" COMPPA="DIN" LD2="0" LD3="0" LD5="0" COMPPACOI="DEN"  />
+              <GRP ID="2" NCG="7" LD="0" PP="0" DIF="+00:00:30" COMPCO="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="3" NCG="150" LD="1" PP="1" DIF="+00:02:51" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="12" KM="170" TC="03:59:34"  >
+              <GRP ID="1" NCG="1" LD="0" PP="0" DIF="" COMPCO="Michael Morkov" COMPEQ="SAX" COMPPA="DIN" LD2="0" LD3="0" LD5="0" COMPPACOI="DEN"  />
+              <GRP ID="2" NCG="7" LD="0" PP="0" DIF="+00:01:06" COMPCO="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="3" NCG="150" LD="1" PP="1" DIF="+00:03:30" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="13" KM="182" TC="04:06:39"  >
+              <GRP ID="1" NCG="1" LD="0" PP="0" DIF="" COMPCO="Michael Morkov" COMPEQ="SAX" COMPPA="DIN" LD2="0" LD3="0" LD5="0" COMPPACOI="DEN"  />
+              <GRP ID="2" NCG="7" LD="0" PP="0" DIF="+00:02:59" COMPCO="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="3" NCG="150" LD="1" PP="1" DIF="+00:02:56" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="14" KM="182" TC="04:08:18"  >
+              <GRP ID="1" NCG="1" LD="0" PP="0" DIF="" COMPCO="Michael Morkov" COMPEQ="SAX" COMPPA="DIN" LD2="0" LD3="0" LD5="0" COMPPACOI="DEN"  />
+              <GRP ID="2" NCG="7" LD="0" PP="0" DIF="+00:01:02" COMPCO="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" COMPEQ="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" COMPPA="FRA, FRA, FRA, FRA, NL, ESP, FRA" LD2="0" LD3="0" LD5="0" COMPPACOI="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+              <GRP ID="3" NCG="150" LD="1" PP="1" DIF="+00:02:40" COMPCO="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" COMPEQ="BMC, AST, SKY, LIQ" COMPPA="USA, SE, GBR, SVK" LD2="1" LD3="1" LD5="1" COMPPACOI="USA, SWE, GBR, SVK"  />
+         </SIT>
+         <SIT ID="15" KM="196" TC="04:30:23"  >
+              <GRP ID="1" NCG="120" LD="1" PP="1" DIF="" COMPCO="Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="BMC, LIQ, SKY" COMPPA="USA, SVK, GBR" LD2="0" LD3="1" LD5="1" COMPPACOI="USA, SVK, GBR"  />
+              <GRP ID="2" NCG="17" LD="0" PP="0" DIF="+00:00:30" COMPCO="Fredrik Kessiakoff" COMPEQ="AST" COMPPA="SE" LD2="1" LD3="0" LD5="0" COMPPACOI="SWE"  />
+         </SIT>
+         <SIT ID="16" KM="198" TC="04:41:10"  >
+              <GRP ID="1" NCG="120" LD="1" PP="1" DIF="" COMPCO="Rubén Pérez, Konstantsin Sivtsov, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="EUS, SKY, BMC, LIQ, SKY" COMPPA="ESP, BIE, USA, SVK, GBR" LD2="0" LD3="1" LD5="1" COMPPACOI="ESP, BLR, USA, SVK, GBR"  />
+              <GRP ID="2" NCG="18" LD="0" PP="0" DIF="+00:01:50" COMPCO="Fredrik Kessiakoff" COMPEQ="AST" COMPPA="SE" LD2="1" LD3="0" LD5="0" COMPPACOI="SWE"  />
+         </SIT>
+         <SIT ID="17" KM="208" TC="04:49:49"  >
+              <GRP ID="1" NCG="120" LD="1" PP="1" DIF="" COMPCO="Rubén Pérez, Konstantsin Sivtsov, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="EUS, SKY, BMC, LIQ, SKY" COMPPA="ESP, BIE, USA, SVK, GBR" LD2="0" LD3="1" LD5="1" COMPPACOI="ESP, BLR, USA, SVK, GBR"  />
+              <GRP ID="2" NCG="18" LD="0" PP="0" DIF="+00:01:50" COMPCO="Fredrik Kessiakoff" COMPEQ="AST" COMPPA="SE" LD2="1" LD3="0" LD5="0" COMPPACOI="SWE"  />
+         </SIT>
+         <SIT ID="18" KM="208" TC="04:50:07"  >
+              <GRP ID="1" NCG="120" LD="1" PP="1" DIF="" COMPCO="Rubén Pérez, Konstantsin Sivtsov, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="EUS, SKY, BMC, LIQ, SKY" COMPPA="ESP, BIE, USA, SVK, GBR" LD2="0" LD3="1" LD5="1" COMPPACOI="ESP, BLR, USA, SVK, GBR"  />
+              <GRP ID="2" NCG="18" LD="0" PP="0" DIF="+00:00:09" COMPCO="Fredrik Kessiakoff" COMPEQ="AST" COMPPA="SE" LD2="1" LD3="0" LD5="0" COMPPACOI="SWE"  />
+         </SIT>
+         <SIT ID="19" KM="208" TC="04:51:06"  >
+              <GRP ID="1" NCG="2" LD="0" PP="0" DIF="" COMPCO="Alexandre Vinokourov, Michael Albasini" COMPEQ="AST, GEC" COMPPA="KZ, SUI" LD2="0" LD3="0" LD5="0" COMPPACOI="KAZ, SUI"  />
+              <GRP ID="2" NCG="30" LD="1" PP="1" DIF="+00:00:08" COMPCO="Peter Sagan, Bradley Wiggins, Tejay Van Garderen" COMPEQ="LIQ, SKY, BMC" COMPPA="SVK, GBR, USA" LD2="0" LD3="1" LD5="1" COMPPACOI="SVK, GBR, USA"  />
+         </SIT>
+         <SIT ID="20" KM="215" TC="04:53:02"  >
+              <GRP ID="1" NCG="120" LD="1" PP="1" DIF="" COMPCO="Tejay Van Garderen, Peter Sagan, Bradley Wiggins" COMPEQ="BMC, LIQ, SKY" COMPPA="USA, SVK, GBR" LD2="0" LD3="1" LD5="1" COMPPACOI="USA, SVK, GBR"  />
+              <GRP ID="2" NCG="22" LD="0" PP="0" DIF="+00:03:00" COMPCO="Fredrik Kessiakoff" COMPEQ="AST" COMPPA="SE" LD2="1" LD3="0" LD5="0" COMPPACOI="SWE"  />
+         </SIT>
+    </LISTASIT> 
+    <LDRS>
+         <LDR IDCLF="1" NID="9000010" NB="Bradley Wiggins" DO="101" CE="9000097" EQ="SKY" PA="GBR" PACOI="GBR"  ></LDR>
+         <LDR IDCLF="2" NID="9001131" NB="Fredrik Carl Wilhelm Kessiakoff" DO="187" CE="9000018" EQ="AST" PA="SE" PACOI="SWE"  ></LDR>
+         <LDR IDCLF="3" NID="9001345" NB="Peter Sagan" DO="57" CE="9000017" EQ="LIQ" PA="SVK" PACOI="SVK"  ></LDR>
+         <LDR IDCLF="5" NID="9001353" NB="Tejay Van Garderen" DO="9" CE="9000096" EQ="BMC" PA="USA" PACOI="USA"  ></LDR>
+    </LDRS> 
+    <Peliculas>
+    <Pelicula ID= "1" KA="" KF="217" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="217" IDM="0" CM="Hola, bienvenidos a la 13ª etapa del Tour  de Francia 2012. Hoy los ciclistas tendrán que realizar un recorrido de 217 kilómetros entre las localidades francesas de Saint Paul Troix Chateaux y Le Cap d´Agde."  />
+    <Pelicula ID= "2" KA="" KF="200" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="200" IDM="0" CM="No hay cambios en lo alto de la clasificación general. Bradley Wiggins sigue contando con una ventaja de 2 05 sobre Chris Fromme y de 2 23 sobre Vincenzo Nibali. Entre los escapados de ayer, el que extrae el mayor beneficio es Egoi Martínez, que saca 7 54 al pelotón y consigue escalar hasta el 18º puesto, a 18 04 del líder."  />
+    <Pelicula ID= "3" KA="" KF="200" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="200" IDM="0" CM="Después de haber sido relegado Matt Goss a la última posición del grupo, además de recibir una sanción de 30 puntos, por no haber respetado una trayectoria recta en el sprint por el 6º puesto en la llegada con el pelotón a Annonay, Peter Sagan aumenta su ventaja en la clasificación por puntos. Pese a sus esfuerzos, el australiano desciende y se encuentra ahora a 56 puntos del maillot verde. Los 45 puntos que sumará el ganador del Cabo de Agde representa una de las últimas oportunidades que tiene Goss para luchar por el maillot."  />
+    <Pelicula ID= "4" KA="" KF="200" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="200" IDM="0" CM="164 corredores toman la salida en la localidad de Saint Paul Trois Chateaux.  Afortunadamente, no hay ningún abandono de último momento."  />
+    <Pelicula ID= "5" KA="" KF="200" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="200" IDM="0" CM="En estos momentos hay siete corredores a la cabeza de carrera, Engoulvent (SAU) y Bouet (ALM) han alcanzado a Urtasun (EUS), Dumoulin (COF), Ladagnous (FDJ), Morkov (STP) y Curvers (ARG) en el km 7. Jérôme Pineau se encuentra a 1&apos;05 y el pelotón a 2&apos;50."  />
+    <Pelicula ID= "6" KA="" KF="196" HCH="13" C1="1" C2="3" C3="-1" C4="-1" C5="196" IDM="0" CM=""  >
+         <GRP ID="1" A1="7" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="1" A2="0" A3="0" A4="+01:00" A5="Jérôme Pineau" A6="OPQ" A7="FRA" A8="FRA"  />
+         <GRP ID="3" A1="140" A2="1" A3="1" A4="+03:00" A5="Fredrik Kessiakoff, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" A6="AST, BMC, LIQ, SKY" A7="SE, USA, SVK, GBR" A8="SWE, USA, SVK, GBR"  />
+    </Pelicula>
+    <Pelicula ID= "7" KA="" KF="196" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="196" IDM="0" CM="Hoy los ciclistas encontrarán a 90 kilómetros de la meta la meta volante del día, con puntos para los quince primeros que pasen. A 23 kilómetros para la llegada se encuentra Mont-Saint-Clair, el único puerto del día, de 3ª categoría."  />
+    <Pelicula ID= "8" KA="" KF="186" HCH="13" C1="2" C2="2" C3="-1" C4="-1" C5="186" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+04:05" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "9" KA="" KF="186" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="186" IDM="0" CM="Pineau se ha sumado a la cabeza de carrera y ya son ocho los corredores que comandan la etapa. El resto del pelotón se encuentra a 4 minutos."  />
+    <Pelicula ID= "10" KA="" KF="186" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="186" IDM="0" CM="El Orica-GreenEdge marca el ritmo del pelotón que acusa ahora un retraso de 4&apos;05 sobre Urtasun (EUS), Bouet (ALM), Dumoulin (COF), Engoulvent (SAU), Ladagnous (FDJ), Morkov (STP), Pineau (OPQ) y Curvers (ARG)."  />
+    <Pelicula ID= "11" KA="45" KF="172" HCH="13" C1="3" C2="2" C3="-1" C4="-1" C5="172" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+09:20" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "12" KA="45" KF="172" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="172" IDM="0" CM="No para de aumentar la diferencia y los escapados gozan de cerca de 10 minutos de ventaja con respecto al pelotón, cuando cumple la carrera una hora."  />
+    <Pelicula ID= "13" KA="54" KF="163" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="163" IDM="0" CM="Los hombres a la cabeza han recorrido 41,8 km durante la primera hora de carrera."  />
+    <Pelicula ID= "14" KA="54" KF="163" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="163" IDM="0" CM="Tony Gallopin ha abandonado el Tour de Francia. El corredor se encontraba enfermo desde hace ya varios días."  />
+    <Pelicula ID= "15" KA="54" KF="163" HCH="13" C1="4" C2="2" C3="-1" C4="-1" C5="163" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+07:15" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "16" KA="54" KF="163" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="163" IDM="0" CM="La escapada no parece suponer ningún problema para el pelotón. De los 8 corredores a la cabeza, Maxime Bouet es el mejor clasificado, con la 54ª posición, a 1h04&apos; de Bradley Wiggins."  />
+    <Pelicula ID= "17" KA="64" KF="153" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="153" IDM="0" CM="Yukiya Arashiro y Aleksandr Kuchynski sufren una caída, pero se levantan rápidamente y retoman la carrera."  />
+    <Pelicula ID= "18" KA="64" KF="153" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="153" IDM="0" CM="De los ocho corredores presentes en la fuga de hoy, tres ya formaron parte del grupo que se mantuvo a la cabeza prácticamente toda la jornada entre Lieja y Seraing: Pablo Urtasun (EUS), Michael Morkov (STB) y Maxime Bouet (ALM). Los escapados fueron alcanzados a 8 km de la meta."  />
+    <Pelicula ID= "19" KA="64" KF="153" HCH="13" C1="5" C2="2" C3="-1" C4="-1" C5="153" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+06:30" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "20" KA="80" KF="137" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="137" IDM="0" CM="El pelotón va reduciendo su ventaja y ahora mismo se sitúa en 05:50. Por otro lado hay que destacar la labor de Urtasun, que ha probado suerte en varias escapadas desde el inicio del Tour. Formaba parte de la fuga compuesta por cuatro corredores en la etapa de San Quintín y fue el último corredor alcanzado en la última recta a menos 400 metros de la meta. Al final, terminaba 25º en esa etapa, que se adjudicó Andre Greipel."  />
+    <Pelicula ID= "21" KA="90" KF="127" HCH="13" C1="6" C2="2" C3="-1" C4="-1" C5="127" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+04:20" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "22" KA="98" KF="119" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="119" IDM="0" CM="Los hombres a la cabeza han recorrido 42,5 km en la segunda hora de la carrera, por lo que la media desde el inicio de la etapa se sitúa en 42,2 km/h."  />
+    <Pelicula ID= "23" KA="107" KF="110" HCH="13" C1="7" C2="2" C3="-1" C4="-1" C5="110" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+05:14" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "24" KA="121" KF="96" HCH="13" C1="8" C2="2" C3="-1" C4="-1" C5="96" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+04:41" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "25" KA="121" KF="96" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="96" IDM="0" CM="En siete kilómetros los ocho escapados llegarán al sprin intermedio, donde obtendrán puntos en la clasificación del maillot verde los quince primeros, es decir, los escapados más siete del pelotón. Peter Sagan continúa como líder en esta clasificación."  />
+    <Pelicula ID= "30" KA="126" KF="91" HCH="14" C1="4" C2="15" C3="2" C4="" C5="91" IDM="0" CM="Mas de Londres"  >
+         <GRP ID="1" A1="Pablo Urtasun" A2="ESP" A3="EUS" A4="20 Puntos" A5="38" A6="" A7="" A8="ESP"  />
+         <GRP ID="2" A1="Bradley Wiggins" A2="GBR" A3="SKY" A4="17 Puntos" A5="101" A6="" A7="" A8="GBR"  />
+         <GRP ID="3" A1="Jérôme Pineau" A2="FRA" A3="OPQ" A4="15 Puntos" A5="197" A6="" A7="" A8="FRA"  />
+         <GRP ID="4" A1="Matthieu Ladagnous" A2="FRA" A3="FDJ" A4="13 Puntos" A5="144" A6="" A7="" A8="FRA"  />
+         <GRP ID="5" A1="Jimmy Engoulvent" A2="FRA" A3="SAU" A4="11 Puntos" A5="93" A6="" A7="" A8="FRA"  />
+         <GRP ID="6" A1="Samuel Dumoulin" A2="FRA" A3="COF" A4="10 Puntos" A5="83" A6="" A7="" A8="FRA"  />
+         <GRP ID="7" A1="Maxime Bouet" A2="FRA" A3="ALM" A4="9 Puntos" A5="72" A6="" A7="" A8="FRA"  />
+         <GRP ID="8" A1="Michael Morkov" A2="DIN" A3="SAX" A4="8 Puntos" A5="175" A6="" A7="" A8="DEN"  />
+         <GRP ID="9" A1="Peter Sagan" A2="SVK" A3="LIQ" A4="7 Puntos" A5="57" A6="" A7="" A8="SVK"  />
+         <GRP ID="10" A1="André Greipel" A2="ALM" A3="OLO" A4="6 Puntos" A5="114" A6="" A7="" A8="GER"  />
+         <GRP ID="11" A1="Matt Goss" A2="AUT" A3="GEC" A4="5 Puntos" A5="204" A6="" A7="" A8="AUS"  />
+         <GRP ID="12" A1="Daryl Impey" A2="SF" A3="GEC" A4="4 Puntos" A5="205" A6="" A7="" A8="RSA"  />
+         <GRP ID="13" A1="Baden Cooke" A2="AUT" A3="GEC" A4="3 Puntos" A5="203" A6="" A7="" A8="AUS"  />
+         <GRP ID="14" A1="Bernhard Eisel" A2="AUS" A3="SKY" A4="2 Puntos" A5="104" A6="" A7="" A8="AUT"  />
+         <GRP ID="15" A1="Michael Rogers" A2="AUT" A3="SKY" A4="1 Puntos" A5="108" A6="" A7="" A8="AUS"  />
+    </Pelicula>
+    <Pelicula ID= "26" KA="128" KF="89" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="89" IDM="0" CM="El navarro Pablo Urtasun ha pasado el primero en el sprint intermedio y se ha adjudicado los 20 puntos en juego para el primer clasificado, aunque no se ha disputado sprint."  />
+    <Pelicula ID= "27" KA="128" KF="89" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="89" IDM="0" CM="Varios corredores han sufrido una caída, y Zabriskie y Velits han caído al suelo. Afortunadamente se han vuelto a poner en pie y retoman la carrera."  />
+    <Pelicula ID= "28" KA="132" KF="85" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="85" IDM="0" CM="Resultado y tiempos en la meta volante de Mas-de-Londres (km 126,5). 1. Urtasun, 20 pts 2. Curvers, 17 pts 3. J.Pineau, 15 pts 4. Ladagnous, 13 pts 5. Engoulvent, 11 pts 6. Dumoulin, 10 pts 7. Bouet, 9 pts 8. Morkov, 8 pts... 3 50   9. Sagan, 7 pts 10. Greipel, 6 pts 11. Goss, 5 pts 12. Impey, 4 pts 13. Cooke, 3 pts 14. Eisel, 2 pts 15. Rogers, 1 pt"  />
+    <Pelicula ID= "29" KA="141" KF="76" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="76" IDM="0" CM="Los hombres a la cabeza han recorrido 42 kilómetros en la tercera hora de carrera, con una media de 42,1 km/h desde el inicio de la etapa."  />
+    <Pelicula ID= "31" KA="148" KF="69" HCH="13" C1="9" C2="2" C3="-1" C4="-1" C5="69" IDM="0" CM=""  >
+         <GRP ID="1" A1="8" A2="0" A3="0" A4="" A5="Maxime Bouet, Michael Morkov, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, SAX, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, DIN, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, DEN, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="2" A1="150" A2="1" A3="0" A4="+02:15" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "32" KA="148" KF="69" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="69" IDM="0" CM="La diferencia del pelotón respecto a los escapados se va reduciendo, y a falta de 66 kilómetros para la meta, se ubica en 02:10&quot;.  Van a sufrir mucho los ocho corredores de cabeza de carrera para mantener su ventaja antes de llegar al puerto."  />
+    <Pelicula ID= "33" KA="148" KF="69" HCH="13" C1="10" C2="3" C3="-1" C4="-1" C5="69" IDM="0" CM=""  >
+         <GRP ID="1" A1="1" A2="0" A3="0" A4="" A5="Michael Morkov" A6="SAX" A7="DIN" A8="DEN"  />
+         <GRP ID="2" A1="7" A2="0" A3="0" A4="+00:30" A5="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="3" A1="150" A2="1" A3="1" A4="+02:40" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "34" KA="164" KF="53" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="53" IDM="0" CM="Morkov se ha escapado del grupo de cabeza de carrera, y ya aventaja en más de medio minuto al resto de sus compañeros de fuga."  />
+    <Pelicula ID= "35" KA="164" KF="53" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="53" IDM="0" CM="Kilómetros atrás el maillot verde Peter Sagan se vio obligado a cambiar la rueda delantera, pero pronto logró volver a reincorporarse al resto del pelotón."  />
+    <Pelicula ID= "36" KA="164" KF="53" HCH="13" C1="11" C2="3" C3="-1" C4="-1" C5="53" IDM="0" CM=""  >
+         <GRP ID="1" A1="1" A2="0" A3="0" A4="" A5="Michael Morkov" A6="SAX" A7="DIN" A8="DEN"  />
+         <GRP ID="2" A1="7" A2="0" A3="0" A4="+00:30" A5="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="3" A1="150" A2="1" A3="1" A4="+02:51" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "37" KA="170" KF="47" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="47" IDM="0" CM="Morkov cuenta cada vez con una ventaja mayor. El ciclista, con una gran cadencia de padalada y una valocidad altísima desde el principio de su escapada, le lleva ya 3:33&quot; al pelotón."  />
+    <Pelicula ID= "38" KA="170" KF="47" HCH="13" C1="12" C2="3" C3="-1" C4="-1" C5="47" IDM="0" CM=""  >
+         <GRP ID="1" A1="1" A2="0" A3="0" A4="" A5="Michael Morkov" A6="SAX" A7="DIN" A8="DEN"  />
+         <GRP ID="2" A1="7" A2="0" A3="0" A4="+01:06" A5="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="3" A1="150" A2="1" A3="1" A4="+03:30" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "39" KA="170" KF="47" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="47" IDM="0" CM="Cinco corredores de BMC se colocan a la cabeza del pelotón y tiran del grupo. En estos momentos la carrera circula por el litoral mediterráneo."  />
+    <Pelicula ID= "41" KA="182" KF="35" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="35" IDM="0" CM="Los hombres a la cabeza han recorrido 47,2 km en la 4ª hora de la carrera, por lo que la media desde el inicio de la etapa se sitúa en 43,4 km/h."  />
+    <Pelicula ID= "42" KA="182" KF="35" HCH="13" C1="14" C2="3" C3="-1" C4="-1" C5="35" IDM="0" CM=""  >
+         <GRP ID="1" A1="1" A2="0" A3="0" A4="" A5="Michael Morkov" A6="SAX" A7="DIN" A8="DEN"  />
+         <GRP ID="2" A1="7" A2="0" A3="0" A4="+01:02" A5="Maxime Bouet, Jérôme Pineau, Matthieu Ladagnous, Samuel Dumoulin, Roy Curvers, Pablo Urtasun, Jimmy Engoulvent" A6="ALM, OPQ, FDJ, COF, ARG, EUS, SAU" A7="FRA, FRA, FRA, FRA, NL, ESP, FRA" A8="FRA, FRA, FRA, FRA, NED, ESP, FRA"  />
+         <GRP ID="3" A1="150" A2="1" A3="1" A4="+02:40" A5="Tejay Van Garderen, Fredrik Kessiakoff, Bradley Wiggins, Peter Sagan" A6="BMC, AST, SKY, LIQ" A7="USA, SE, GBR, SVK" A8="USA, SWE, GBR, SVK"  />
+    </Pelicula>
+    <Pelicula ID= "44" KA="194" KF="23" HCH="14" C1="3" C2="2" C3="3" C4="" C5="23" IDM="0" CM="Mont Saint-Clair (3ª)"  >
+         <GRP ID="1" A1="Jurgen Van den Broeck" A2="BEL" A3="OLO" A4="2 Puntos" A5="111" A6="" A7="" A8="BEL"  />
+         <GRP ID="2" A1="Cadel Evans" A2="AUT" A3="BMC" A4="1 Puntos" A5="1" A6="" A7="" A8="AUS"  />
+    </Pelicula>
+    <Pelicula ID= "43" KA="196" KF="21" HCH="13" C1="15" C2="2" C3="-1" C4="-1" C5="21" IDM="0" CM=""  >
+         <GRP ID="1" A1="120" A2="1" A3="1" A4="" A5="Tejay Van Garderen, Peter Sagan, Bradley Wiggins" A6="BMC, LIQ, SKY" A7="USA, SVK, GBR" A8="USA, SVK, GBR"  />
+         <GRP ID="2" A1="17" A2="0" A3="0" A4="+00:30" A5="Fredrik Kessiakoff" A6="AST" A7="SE" A8="SWE"  />
+    </Pelicula>
+    <Pelicula ID= "45" KA="198" KF="19" HCH="13" C1="16" C2="2" C3="-1" C4="-1" C5="19" IDM="0" CM=""  >
+         <GRP ID="1" A1="120" A2="1" A3="1" A4="" A5="Rubén Pérez, Konstantsin Sivtsov, Tejay Van Garderen, Peter Sagan, Bradley Wiggins" A6="EUS, SKY, BMC, LIQ, SKY" A7="ESP, BIE, USA, SVK, GBR" A8="ESP, BLR, USA, SVK, GBR"  />
+         <GRP ID="2" A1="18" A2="0" A3="0" A4="+01:50" A5="Fredrik Kessiakoff" A6="AST" A7="SE" A8="SWE"  />
+    </Pelicula>
+    <Pelicula ID= "46" KA="208" KF="9" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="9" IDM="0" CM="Morkov, el más combativo de la jornada. Se trata del primer corredor que ha recibido esta distinción dos veces en el Tour 2012."  />
+    <Pelicula ID= "49" KA="215" KF="2" HCH="13" C1="20" C2="2" C3="-1" C4="-1" C5="2" IDM="0" CM=""  >
+         <GRP ID="1" A1="120" A2="1" A3="1" A4="" A5="Tejay Van Garderen, Peter Sagan, Bradley Wiggins" A6="BMC, LIQ, SKY" A7="USA, SVK, GBR" A8="USA, SVK, GBR"  />
+         <GRP ID="2" A1="22" A2="0" A3="0" A4="+03:00" A5="Fredrik Kessiakoff" A6="AST" A7="SE" A8="SWE"  />
+    </Pelicula>
+    <Pelicula ID= "50" KA="215" KF="2" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="2" IDM="0" CM="Luis León Sánchez prueba suerte a dos kilómetros para la meta, el pelotón le sigue."  />
+    <Pelicula ID= "51" KA="215" KF="2" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="2" IDM="0" CM="Tras varios kilómetros probando suerte, Albasini y Vinokourov perdieron su ventaja. Ahora Luis León, junto a otro corredor, buscan distanciarse de los perseguidores. Resta 1 kilómetro para la meta."  />
+    <Pelicula ID= "52" KA="" KF="0" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="0" IDM="0" CM="No hubo suerte para Luisle. Victoria al sprint de André Greipel, seguido de Sagan y Boasson Hagen."  />
+    <Pelicula ID= "53" KA="217" KF="" HCH="14" C1="1" C2="12" C3="5" C4="" C5="0" IDM="0" CM="Meta"  >
+         <GRP ID="1" A1="André Greipel" A2="ALM" A3="OLO" A4="04:57:59" A5="114" A6="" A7="" A8="GER"  />
+         <GRP ID="2" A1="Peter Sagan" A2="SVK" A3="LIQ" A4="m.t." A5="57" A6="" A7="" A8="SVK"  />
+         <GRP ID="3" A1="Edvald Boasson Hagen" A2="NOR" A3="SKY" A4="m.t." A5="102" A6="" A7="" A8="NOR"  />
+         <GRP ID="4" A1="Sébastien Hinault" A2="FRA" A3="ALM" A4="m.t." A5="75" A6="" A7="" A8="FRA"  />
+         <GRP ID="5" A1="Daryl Impey" A2="SF" A3="GEC" A4="m.t." A5="205" A6="" A7="" A8="RSA"  />
+         <GRP ID="6" A1="Julien Simon" A2="FRA" A3="SAU" A4="m.t." A5="99" A6="" A7="" A8="FRA"  />
+         <GRP ID="7" A1="Marco Marcato" A2="ITA" A3="VCD" A4="m.t." A5="125" A6="" A7="" A8="ITA"  />
+         <GRP ID="8" A1="Philippe Gilbert" A2="BEL" A3="BMC" A4="m.t." A5="4" A6="" A7="" A8="BEL"  />
+         <GRP ID="9" A1="Peter Velits" A2="SVK" A3="OPQ" A4="m.t." A5="199" A6="" A7="" A8="SVK"  />
+         <GRP ID="10" A1="Danilo Hondo" A2="ALM" A3="LAM" A4="m.t." A5="43" A6="" A7="" A8="GER"  />
+         <GRP ID="12" A1="Bradley Wiggins" A2="GBR" A3="SKY" A4="m.t." A5="101" A6="" A7="" A8="GBR"  />
+         <GRP ID="20" A1="Tejay Van Garderen" A2="USA" A3="BMC" A4="m.t." A5="9" A6="" A7="" A8="USA"  />
+    </Pelicula>
+    <Pelicula ID= "54" KA="217" KF="" HCH="14" C1="2" C2="11" C3="6" C4="" C5="0" IDM="0" CM="General"  >
+         <GRP ID="1" A1="Bradley Wiggins" A2="GBR" A3="SKY" A4="59:32:32" A5="101" A6="" A7="" A8="GBR"  />
+         <GRP ID="2" A1="Chris Froome" A2="GBR" A3="SKY" A4="+02:05" A5="105" A6="" A7="" A8="GBR"  />
+         <GRP ID="3" A1="Vincenzo Nibali" A2="ITA" A3="LIQ" A4="+02:23" A5="51" A6="" A7="" A8="ITA"  />
+         <GRP ID="4" A1="Cadel Evans" A2="AUT" A3="BMC" A4="+03:19" A5="1" A6="" A7="" A8="AUS"  />
+         <GRP ID="5" A1="Jurgen Van den Broeck" A2="BEL" A3="OLO" A4="+04:48" A5="111" A6="" A7="" A8="BEL"  />
+         <GRP ID="6" A1="Haimar Zubeldia" A2="ESP" A3="RNT" A4="+06:15" A5="19" A6="" A7="" A8="ESP"  />
+         <GRP ID="7" A1="Tejay Van Garderen" A2="USA" A3="BMC" A4="+06:57" A5="9" A6="" A7="" A8="USA"  />
+         <GRP ID="8" A1="Jani Brajkovic" A2="ESL" A3="AST" A4="+07:30" A5="181" A6="" A7="" A8="SLO"  />
+         <GRP ID="9" A1="Pierre Rolland" A2="FRA" A3="EUC" A4="+08:31" A5="29" A6="" A7="" A8="FRA"  />
+         <GRP ID="10" A1="Thibaut Pinot" A2="FRA" A3="FDJ" A4="+08:51" A5="146" A6="" A7="" A8="FRA"  />
+         <GRP ID="42" A1="Peter Sagan" A2="SVK" A3="LIQ" A4="m.t." A5="57" A6="" A7="" A8="SVK"  />
+    </Pelicula>
+    <Pelicula ID= "55" KA="" KF="0" HCH="6" C1="-1" C2="-1" C3="-1" C4="-1" C5="0" IDM="0" CM="Esperemos que hayan disfrutado con la etapa de hoy, mañana nuevamente vuelve la alta montaña, nuevas oportunidades para el italiano Nibali y Cadel Evans de intentar asaltar el maillot amarillo de Bradley Wiggins."  />
+    </Peliculas>
+</Partido>

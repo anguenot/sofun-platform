@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: sofun-hornetq-jms.xml 1893 2011-08-04 09:58:10Z anguenot $ -->
+
+<configuration xmlns="urn:hornetq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:hornetq /schema/hornetq-configuration.xsd">
+
+	<cluster-user>HORNETQ.CLUSTER.ADMIN.USER</cluster-user>
+	<cluster-password>cAFE%aqua*95</cluster-password>
+	
+	<security-settings>
+		<security-setting match="#">
+			<permission type="createDurableQueue" roles="Administrator, Member" />
+			<permission type="deleteDurableQueue" roles="Administrator, Member" />
+			<permission type="createNonDurableQueue" roles="Administrator, Member" />
+			<permission type="deleteNonDurableQueue" roles="Administrator, Member" />
+			<permission type="createTempQueue" roles="Administrator, Member, guest" />
+			<permission type="send" roles="Administrator, Member, guest" />
+			<permission type="consume" roles="Administrator, Member, guest" />
+		</security-setting>
+	</security-settings>
+
+</configuration>

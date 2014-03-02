@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Root>
+	<Status>-2</Status>
+	<Iteration>0</Iteration>
+	<Error>
+		<Firstname>-1</Firstname>
+		<Lastname>-1</Lastname>
+		<BirthDate>-1</BirthDate>
+		<PlayerID>-1</PlayerID>
+		<ActivationCode>-1</ActivationCode>
+	</Error>
+</Root>

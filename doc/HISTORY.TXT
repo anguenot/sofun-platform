@@ -1,0 +1,179 @@
+Release Notes - Sofun Platform - Version 0.6
+
+** Sub-task
+    * [PF-174] - More RU feeds
+    * [PF-175] - F feeds
+    * [PF-177] - Parse feeds only if modified using feed timestamp
+    * [PF-178] - Multi-season support
+    * [PF-182] - ISO / ISOC countries list
+    * [PF-183] - Avoid Singleton Timeout errors
+    * [PF-184] - F games properties
+
+
+** Bug
+    * [PF-108] - Banking information validation
+    * [PF-109] - Password validation
+    * [PF-110] - Old password verification upon password update
+    * [PF-186] - API: teamExists()  broken
+    * [PF-187] - Refactoring: change contestants UUID from long to String
+
+
+** Improvement
+    * [PF-185] - Searching Kups / Teams : batch implementation
+    * [PF-189] - Findbugs round
+    * [PF-197] - Opta - F7 - update start date
+
+** New Feature
+    * [PF-193] - Sync up kups and templates
+    * [PF-195] - API: ability to retrieve predictions last modified for a given member in a given kup
+    * [PF-196] - API: Kup invite API
+
+
+** Task
+    * [PF-41] - Core security
+    * [PF-137] - Kup registration within rooms : filter past events + delay to register to future events
+    * [PF-168] - Records member's connections (login, logout, remote addr)
+    * [PF-172] - Enhancing Opta support
+    * [PF-180] - Remove JMS unused queues
+    * [PF-188] - Refactoring: change games UUID from long to String
+    * [PF-198] - Sofun Platform 0.6 release
+
+Release Notes - Sofun Platform - Version 0.5
+
+** Sub-task
+    * [PF-129] - RU2 - tables w/ wrong round name
+    * [PF-132] - Handle BST time for flux.
+
+** Bug
+    * [PF-91] - Kup effective start date should checked for predictions
+    * [PF-111] - V13 - R13 - SQL injection risk
+    * [PF-130] - Deleting a Kup error
+    * [PF-131] - Member preferences edit error
+    * [PF-133] - OAuth Token bindings error when token removed
+    * [PF-138] - Membership relationship
+    * [PF-139] - Opta - RU6 parser - final winner value when no winner
+    
+** New Feature
+    * [PF-115] - Notifications, publications and privacy for members
+
+** Task
+    * [PF-89] - HornetQ cluster security configuration
+    * [PF-94] - Kups APIs
+    * [PF-116] - Full container managed transactions
+    * [PF-117] - Platform Status URL
+    * [PF-118] - Password reset mecanisms
+    * [PF-119] - Platform Notification Service
+    * [PF-120] - Session timeout
+    * [PF-123] - Team APIs
+    * [PF-125] - Credit transaction & Payline integration
+    * [PF-126] - Community APIs
+    * [PF-127] - Opta feed provider component
+    * [PF-134] - Opta parser +
+    * [PF-135] - Upgrade to JBoss 6.1.0-Final
+    * [PF-136] - Kup's life cycle: effective start / end date, long running Kups.
+    * [PF-140] - V8: Mauvaise invalidation de la session lors de la déconnexion de l'utilisateur.
+    * [PF-143] - V11: Ancien mot de passe non vérifié lors du changement de mot de passe.
+    * [PF-144] - V13: Création de requêtes SQL avec une concaténation de chaines de caractères.
+    * [PF-147] - V16: Utilisation d'une fonction de génération de nombre aléatoire avec une entropie faible.
+    * [PF-148] - V17: Utilisation de plusieurs algorithmes de chiffrement non sûrs (clés de chiffrement inférieures à 128 bits).
+    * [PF-151] - V20: Paramètres de sécurité des cookies trop permissifs.
+    * [PF-153] - ￼￼V22: Absence de contrôle de l'unicité de la session utilisateur.
+    * [PF-154] - V2 : Présence de code de debug commenté.
+    * [PF-155] - V3: Présence de méthodes vides.
+    * [PF-157] - V5: Définition de champs « public » sans l'attribut « final ».
+    * [PF-158] - V6: Comparaison de chaines de caractères avec l'opérateur « != » ou « == ».
+    * [PF-159] - V7: Appels de méthodes sans vérification de la valeur retournée.
+    * [PF-160] - V12: Présence de blocs « catch » vides.
+    * [PF-161] - Remove obsolete betradar component (now we use Opta as a data feed provider)
+    * [PF-162] - Update to com.restfb 1.6.7
+    * [PF-165] - sofun-core does not need ant script
+    * [PF-166] - 0.5 release
+    
+Sofun Platform - Version 0.4
+============================
+
+** Sub-task
+    * [PF-72] - JAAS integration
+    * [PF-87] - Principal Authentication
+    * [PF-96] - Session timeout
+    * [PF-97] - Core sessions : login() and logout() 
+
+** Bug
+    * [PF-73] - Problem with HornetQ
+    * [PF-74] - Persistence deployment error
+    * [PF-113] - Usage of Random versus SecureRandom
+    * [PF-114] - Kup Active Status Bug - array initialization
+
+** Task
+    * [PF-95] - Core session implementation
+    * [PF-104] - Change SVN project location
+
+Sofun Platform - Version 0.3
+============================
+
+** Sub-task
+    * [PF-33] - OAuth token scopes implementation. Fix lazy sessions on element
+    * [PF-34] - OAuth fix message signature validation.
+    * [PF-35] - OAuth tokens and expirations
+    * [PF-36] - OAuth request tokens. (clients / server)
+    * [PF-37] - OAuth validate request with access token.
+    * [PF-40] - OAuth scopes and permissions
+    * [PF-77] - OAuth Sofun Filter refactoring and cleanup
+
+** Bug
+    * [PF-75] - Deployment error: InitialContext did not implement EventContext
+    * [PF-84] - Prediction Policy Timer only deals with community 529
+    * [PF-85] - Kup points computation bug
+
+** Improvement
+    * [PF-31] - Cleanup maven dependencies
+    * [PF-82] - Cleanup / simplification of dependencies across modules.
+    * [PF-83] - Replace Quartz scheduler with EJB 3.1 Timer
+
+** Task
+    * [PF-38] - OAuth implementation
+    * [PF-71] - Remove Seam as a dependency
+    * [PF-78] - Remove images from sofun.war
+    * [PF-86] - Upgrade to com.restfb 1.6.6
+
+Sofun Platform - Version 0.2.5
+==============================
+
+** Bug
+    * [PF-106] - Creation of teams with password
+
+
+Sofun Platform - Version 0.2.4
+==============================
+
+** Bug
+    * [PF-105] - Kup's life cycle / created versus opened for bets / predictions
+
+Sofun Platform - Version 0.2.3
+==============================
+
+** Bug
+    * [PF-105] - Kup's life cycle / created versus opened for bets / predictions
+
+
+Sofun Platform - Version 0.2.2
+==============================
+
+** Bug
+
+    * [PF-103] - Canceling Kup if winnings < bet stake for some winners
+    
+Sofun Platform - Version 0.2.1
+==============================
+
+** Bug
+
+    * [PF-92] - Settled variables not initialized in Kup Policy
+    * [PF-93] - IBAN / RIB wrong condition in MemberResourceBean
+    * [PF-99] - Round off winnings: inferior cent as stated by Betkup rules
+    * [PF-100] - Winnings algo: bug when players have same amount of points
+    * [PF-101] - Sport's events status bug
+
+** Task
+
+    * [PF-102] - Web Service API: placing bets

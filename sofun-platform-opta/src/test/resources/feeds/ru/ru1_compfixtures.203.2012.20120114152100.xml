@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a05.nexus.opta.net
+     production time:    20120114T152102,496Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU1
+-->
+<fixtures>
+  <fixture id="18688" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="17:45:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="2350" />
+  </fixture>
+  <fixture id="18689" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="25" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="2050" />
+  </fixture>
+  <fixture id="18690" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="41" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="20" team_id="38" />
+  </fixture>
+  <fixture id="18691" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="20" team_id="3150" />
+  </fixture>
+  <fixture id="18692" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="22" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="45" />
+  </fixture>
+  <fixture id="18693" comp_id="203" comp_name="T14" game_date="20110826" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="22" team_id="4950" />
+  </fixture>
+  <fixture id="18694" comp_id="203" comp_name="T14" game_date="20110827" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="1" round_type_id="1" season_id="2012" stage="1" status="Result" time="16:00:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="5" team_id="1900" />
+  </fixture>
+  <fixture id="18696" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="9" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="3150" />
+  </fixture>
+  <fixture id="18697" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="35" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="10" team_id="1600" />
+  </fixture>
+  <fixture id="18699" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="47" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="1650" />
+  </fixture>
+  <fixture id="18701" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="28" team_id="3500" />
+  </fixture>
+  <fixture id="18698" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:20:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="0" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="17" team_id="2250" />
+  </fixture>
+  <fixture id="18700" comp_id="203" comp_name="T14" game_date="20110903" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Chaban-Delmas" venue_id="3">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="4850" />
+  </fixture>
+  <fixture id="18695" comp_id="203" comp_name="T14" game_date="20110904" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="2" round_type_id="1" season_id="2012" stage="1" status="Result" time="20:00:00" venue="Vuillermet" venue_id="230">
+    <team eighty_min_score="" home_or_away="home" score="9" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="19" team_id="2350" />
+  </fixture>
+  <fixture id="18703" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="2050" />
+  </fixture>
+  <fixture id="18704" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="34" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="38" />
+  </fixture>
+  <fixture id="18705" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="45" />
+  </fixture>
+  <fixture id="18707" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="3500" />
+  </fixture>
+  <fixture id="18708" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="39" />
+  </fixture>
+  <fixture id="18706" comp_id="203" comp_name="T14" game_date="20110909" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="19" team_id="4950" />
+  </fixture>
+  <fixture id="18702" comp_id="203" comp_name="T14" game_date="20110910" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="3" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:00:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="41" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="36" team_id="41" />
+  </fixture>
+  <fixture id="18710" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="11" team_id="3150" />
+  </fixture>
+  <fixture id="18712" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="45" />
+  </fixture>
+  <fixture id="18714" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Chaban-Delmas" venue_id="3">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="27" team_id="39" />
+  </fixture>
+  <fixture id="18715" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="33" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="4850" />
+  </fixture>
+  <fixture id="18709" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="4950" />
+  </fixture>
+  <fixture id="18711" comp_id="203" comp_name="T14" game_date="20110916" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="0" team_id="1900" />
+  </fixture>
+  <fixture id="18713" comp_id="203" comp_name="T14" game_date="20110917" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="4" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:00:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="11" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="22" team_id="2250" />
+  </fixture>
+  <fixture id="18717" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="20" team_id="38" />
+  </fixture>
+  <fixture id="18718" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="29" team_id="1650" />
+  </fixture>
+  <fixture id="18719" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="4850" />
+  </fixture>
+  <fixture id="18720" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="24" team_id="3500" />
+  </fixture>
+  <fixture id="18721" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="25" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="45" />
+  </fixture>
+  <fixture id="18722" comp_id="203" comp_name="T14" game_date="20110923" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="23" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="24" team_id="2350" />
+  </fixture>
+  <fixture id="18716" comp_id="203" comp_name="T14" game_date="20110924" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="5" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:00:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="34" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="8" team_id="1600" />
+  </fixture>
+  <fixture id="18724" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="19" team_id="3150" />
+  </fixture>
+  <fixture id="18725" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Andre Moga" venue_id="241">
+    <team eighty_min_score="" home_or_away="home" score="11" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="1900" />
+  </fixture>
+  <fixture id="18727" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="28" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="17" team_id="3500" />
+  </fixture>
+  <fixture id="18728" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="27" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="41" />
+  </fixture>
+  <fixture id="18729" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Vuillermet" venue_id="230">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="2050" />
+  </fixture>
+  <fixture id="18723" comp_id="203" comp_name="T14" game_date="20110930" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="39" />
+  </fixture>
+  <fixture id="18726" comp_id="203" comp_name="T14" game_date="20111001" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="6" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:00:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="22" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="2250" />
+  </fixture>
+  <fixture id="18730" comp_id="203" comp_name="T14" game_date="20111014" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="17" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="26" team_id="4950" />
+  </fixture>
+  <fixture id="18731" comp_id="203" comp_name="T14" game_date="20111014" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Chaban-Delmas" venue_id="3">
+    <team eighty_min_score="" home_or_away="home" score="22" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="41" />
+  </fixture>
+  <fixture id="18735" comp_id="203" comp_name="T14" game_date="20111014" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="29" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="3150" />
+  </fixture>
+  <fixture id="18736" comp_id="203" comp_name="T14" game_date="20111014" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="32" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="7" team_id="1900" />
+  </fixture>
+  <fixture id="18733" comp_id="203" comp_name="T14" game_date="20111014" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="3" team_id="2350" />
+  </fixture>
+  <fixture id="18732" comp_id="203" comp_name="T14" game_date="20111015" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:00:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="38" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="0" team_id="1650" />
+  </fixture>
+  <fixture id="18734" comp_id="203" comp_name="T14" game_date="20111016" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="7" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:05:00" venue="Stade Gerland" venue_id="7">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="1600" />
+  </fixture>
+  <fixture id="18739" comp_id="203" comp_name="T14" game_date="20111021" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="3" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="39" team_id="2250" />
+  </fixture>
+  <fixture id="18737" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="56" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="38" />
+  </fixture>
+  <fixture id="18738" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="10" team_id="4850" />
+  </fixture>
+  <fixture id="18740" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="15" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="45" />
+  </fixture>
+  <fixture id="18741" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="21" team_id="2050" />
+  </fixture>
+  <fixture id="18743" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="37" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="1600" />
+  </fixture>
+  <fixture id="18742" comp_id="203" comp_name="T14" game_date="20111022" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="8" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="9" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="16" team_id="39" />
+  </fixture>
+  <fixture id="18745" comp_id="203" comp_name="T14" game_date="20111028" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="41" />
+  </fixture>
+  <fixture id="18746" comp_id="203" comp_name="T14" game_date="20111029" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="16" team_id="1650" />
+  </fixture>
+  <fixture id="18748" comp_id="203" comp_name="T14" game_date="20111029" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="3" team_id="3500" />
+  </fixture>
+  <fixture id="18749" comp_id="203" comp_name="T14" game_date="20111029" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="41" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="0" team_id="1900" />
+  </fixture>
+  <fixture id="18744" comp_id="203" comp_name="T14" game_date="20111029" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="1600" />
+  </fixture>
+  <fixture id="18750" comp_id="203" comp_name="T14" game_date="20111029" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="18" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="4950" />
+  </fixture>
+  <fixture id="18754" comp_id="203" comp_name="T14" game_date="20111104" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="12" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="41" />
+  </fixture>
+  <fixture id="18755" comp_id="203" comp_name="T14" game_date="20111105" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:05:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="21" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="17" team_id="1650" />
+  </fixture>
+  <fixture id="18757" comp_id="203" comp_name="T14" game_date="20111105" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Andre Moga" venue_id="241">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="2050" />
+  </fixture>
+  <fixture id="18751" comp_id="203" comp_name="T14" game_date="20111105" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="37" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="16" team_id="2250" />
+  </fixture>
+  <fixture id="18761" comp_id="203" comp_name="T14" game_date="20111125" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:00:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="15" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="45" />
+  </fixture>
+  <fixture id="18760" comp_id="203" comp_name="T14" game_date="20111125" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="28" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="1900" />
+  </fixture>
+  <fixture id="18759" comp_id="203" comp_name="T14" game_date="20111125" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="35" team_id="1600" />
+  </fixture>
+  <fixture id="18758" comp_id="203" comp_name="T14" game_date="20111126" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="9" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="2350" />
+  </fixture>
+  <fixture id="18763" comp_id="203" comp_name="T14" game_date="20111126" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="29" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="2250" />
+  </fixture>
+  <fixture id="18764" comp_id="203" comp_name="T14" game_date="20111126" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="22" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="22" team_id="39" />
+  </fixture>
+  <fixture id="18762" comp_id="203" comp_name="T14" game_date="20111126" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="11" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="24" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="38" />
+  </fixture>
+  <fixture id="18753" comp_id="203" comp_name="T14" game_date="20111129" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="21" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="19" team_id="4850" />
+  </fixture>
+  <fixture id="18756" comp_id="203" comp_name="T14" game_date="20111130" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Matmut Stadium" venue_id="239">
+    <team eighty_min_score="" home_or_away="home" score="10" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="30" team_id="4950" />
+  </fixture>
+  <fixture id="18768" comp_id="203" comp_name="T14" game_date="20111202" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Andre Moga" venue_id="241">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="3500" />
+  </fixture>
+  <fixture id="18767" comp_id="203" comp_name="T14" game_date="20111203" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:05:00" venue="Stade Municipal, Toulouse" venue_id="197">
+    <team eighty_min_score="" home_or_away="home" score="33" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="39" />
+  </fixture>
+  <fixture id="18771" comp_id="203" comp_name="T14" game_date="20111203" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="33" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="16" team_id="2050" />
+  </fixture>
+  <fixture id="18769" comp_id="203" comp_name="T14" game_date="20111203" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Stade de France" venue_id="12">
+    <team eighty_min_score="" home_or_away="home" score="29" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="3" team_id="41" />
+  </fixture>
+  <fixture id="18765" comp_id="203" comp_name="T14" game_date="20111204" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="14:00:00" venue="Matmut Stadium" venue_id="239">
+    <team eighty_min_score="" home_or_away="home" score="19" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="1650" />
+  </fixture>
+  <fixture id="18770" comp_id="203" comp_name="T14" game_date="20111204" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="14:00:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="37" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="18" team_id="4850" />
+  </fixture>
+  <fixture id="18766" comp_id="203" comp_name="T14" game_date="20111204" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="12" round_type_id="1" season_id="2012" stage="1" status="Result" time="16:05:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="23" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="30" team_id="4950" />
+  </fixture>
+  <fixture id="18752" comp_id="203" comp_name="T14" game_date="20111213" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="10" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="34" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="12" team_id="3150" />
+  </fixture>
+  <fixture id="18772" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="18:00:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="6" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="2250" />
+  </fixture>
+  <fixture id="18773" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="18:30:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="23" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="10" team_id="1900" />
+  </fixture>
+  <fixture id="18776" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="18:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="38" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="13" team_id="38" />
+  </fixture>
+  <fixture id="18777" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="18:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team eighty_min_score="" home_or_away="home" score="20" team_id="39" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="45" />
+  </fixture>
+  <fixture id="18778" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="18:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="16" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="16" team_id="2050" />
+  </fixture>
+  <fixture id="18774" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team eighty_min_score="" home_or_away="home" score="26" team_id="41" />
+    <team eighty_min_score="" home_or_away="away" score="8" team_id="3150" />
+  </fixture>
+  <fixture id="18775" comp_id="203" comp_name="T14" game_date="20111223" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="13" round_type_id="1" season_id="2012" stage="1" status="Result" time="20:00:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="25" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="45" team_id="2350" />
+  </fixture>
+  <fixture id="18779" comp_id="203" comp_name="T14" game_date="20111230" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="20:00:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="30" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="4850" />
+  </fixture>
+  <fixture id="18784" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:05:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team eighty_min_score="" home_or_away="home" score="29" team_id="4950" />
+    <team eighty_min_score="" home_or_away="away" score="14" team_id="41" />
+  </fixture>
+  <fixture id="18780" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team eighty_min_score="" home_or_away="home" score="33" team_id="2050" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="1650" />
+  </fixture>
+  <fixture id="18781" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Andre Moga" venue_id="241">
+    <team eighty_min_score="" home_or_away="home" score="39" team_id="38" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="1600" />
+  </fixture>
+  <fixture id="18782" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="15" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="9" team_id="3500" />
+  </fixture>
+  <fixture id="18783" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Matmut Stadium" venue_id="239">
+    <team eighty_min_score="" home_or_away="home" score="6" team_id="45" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="2250" />
+  </fixture>
+  <fixture id="18785" comp_id="203" comp_name="T14" game_date="20111231" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="14" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team eighty_min_score="" home_or_away="home" score="25" team_id="1900" />
+    <team eighty_min_score="" home_or_away="away" score="6" team_id="39" />
+  </fixture>
+  <fixture id="18787" comp_id="203" comp_name="T14" game_date="20120106" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="19:45:00" venue="Stade Armandie" venue_id="96">
+    <team eighty_min_score="" home_or_away="home" score="6" team_id="3150" />
+    <team eighty_min_score="" home_or_away="away" score="15" team_id="1900" />
+  </fixture>
+  <fixture id="18786" comp_id="203" comp_name="T14" game_date="20120107" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team eighty_min_score="" home_or_away="home" score="51" team_id="2350" />
+    <team eighty_min_score="" home_or_away="away" score="10" team_id="45" />
+  </fixture>
+  <fixture id="18788" comp_id="203" comp_name="T14" game_date="20120107" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Charlety Stadium" venue_id="210">
+    <team eighty_min_score="" home_or_away="home" score="38" team_id="1600" />
+    <team eighty_min_score="" home_or_away="away" score="21" team_id="2050" />
+  </fixture>
+  <fixture id="18791" comp_id="203" comp_name="T14" game_date="20120107" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Jean Dauger" venue_id="150">
+    <team eighty_min_score="" home_or_away="home" score="20" team_id="4850" />
+    <team eighty_min_score="" home_or_away="away" score="27" team_id="38" />
+  </fixture>
+  <fixture id="18792" comp_id="203" comp_name="T14" game_date="20120107" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="13:15:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team eighty_min_score="" home_or_away="home" score="9" team_id="3500" />
+    <team eighty_min_score="" home_or_away="away" score="23" team_id="4950" />
+  </fixture>
+  <fixture id="18790" comp_id="203" comp_name="T14" game_date="20120107" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="15:15:00" venue="Stade Aime Giral" venue_id="77">
+    <team eighty_min_score="" home_or_away="home" score="14" team_id="1650" />
+    <team eighty_min_score="" home_or_away="away" score="14" team_id="41" />
+  </fixture>
+  <fixture id="18789" comp_id="203" comp_name="T14" game_date="20120108" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="15" round_type_id="1" season_id="2012" stage="1" status="Result" time="20:00:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team eighty_min_score="" home_or_away="home" score="25" team_id="2250" />
+    <team eighty_min_score="" home_or_away="away" score="19" team_id="39" />
+  </fixture>
+  <fixture id="18793" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18794" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="1900" />
+  </fixture>
+  <fixture id="18795" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Chaban-Delmas" venue_id="3">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="2250" />
+  </fixture>
+  <fixture id="18796" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18797" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18798" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team home_or_away="home" team_id="3500" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18799" comp_id="203" comp_name="T14" game_date="20120128" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="16" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18747" comp_id="203" comp_name="T14" game_date="20120203" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="9" round_type_id="1" season_id="2012" stage="1" time="19:45:00" venue="Stade Andre Moga" venue_id="241">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="45" />
+  </fixture>
+  <fixture id="18800" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18801" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Armandie" venue_id="96">
+    <team home_or_away="home" team_id="3150" />
+    <team home_or_away="away" team_id="2050" />
+  </fixture>
+  <fixture id="18802" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18803" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18804" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="41" />
+  </fixture>
+  <fixture id="18805" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18806" comp_id="203" comp_name="T14" game_date="20120211" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="17" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team home_or_away="home" team_id="4850" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18807" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Charlety Stadium" venue_id="210">
+    <team home_or_away="home" team_id="1600" />
+    <team home_or_away="away" team_id="39" />
+  </fixture>
+  <fixture id="18808" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Andre Moga" venue_id="241">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="4950" />
+  </fixture>
+  <fixture id="18809" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team home_or_away="home" team_id="1650" />
+    <team home_or_away="away" team_id="1900" />
+  </fixture>
+  <fixture id="18810" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team home_or_away="home" team_id="4850" />
+    <team home_or_away="away" team_id="2250" />
+  </fixture>
+  <fixture id="18811" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team home_or_away="home" team_id="3500" />
+    <team home_or_away="away" team_id="2050" />
+  </fixture>
+  <fixture id="18812" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="41" />
+  </fixture>
+  <fixture id="18813" comp_id="203" comp_name="T14" game_date="20120218" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="18" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team home_or_away="home" team_id="2350" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18814" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="4950" />
+  </fixture>
+  <fixture id="18815" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Armandie" venue_id="96">
+    <team home_or_away="home" team_id="3150" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18816" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18817" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18818" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team home_or_away="home" team_id="3500" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18819" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18820" comp_id="203" comp_name="T14" game_date="20120303" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="19" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="45" />
+  </fixture>
+  <fixture id="18821" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18822" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18823" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team home_or_away="home" team_id="1650" />
+    <team home_or_away="away" team_id="39" />
+  </fixture>
+  <fixture id="18824" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team home_or_away="home" team_id="2350" />
+    <team home_or_away="away" team_id="2050" />
+  </fixture>
+  <fixture id="18825" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Charlety Stadium" venue_id="210">
+    <team home_or_away="home" team_id="1600" />
+    <team home_or_away="away" team_id="45" />
+  </fixture>
+  <fixture id="18826" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Armandie" venue_id="96">
+    <team home_or_away="home" team_id="3150" />
+    <team home_or_away="away" team_id="2250" />
+  </fixture>
+  <fixture id="18827" comp_id="203" comp_name="T14" game_date="20120310" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="20" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18828" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Chaban-Delmas" venue_id="3">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18829" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team home_or_away="home" team_id="4850" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18830" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18831" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="1900" />
+  </fixture>
+  <fixture id="18832" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="4950" />
+  </fixture>
+  <fixture id="18833" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="41" />
+  </fixture>
+  <fixture id="18834" comp_id="203" comp_name="T14" game_date="20120324" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="21" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Charlety Stadium" venue_id="210">
+    <team home_or_away="home" team_id="1600" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18835" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Charlety Stadium" venue_id="210">
+    <team home_or_away="home" team_id="1600" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18836" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="2050" />
+  </fixture>
+  <fixture id="18837" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team home_or_away="home" team_id="1650" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18838" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18839" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team home_or_away="home" team_id="3500" />
+    <team home_or_away="away" team_id="39" />
+  </fixture>
+  <fixture id="18840" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="2250" />
+  </fixture>
+  <fixture id="18841" comp_id="203" comp_name="T14" game_date="20120331" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="22" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18842" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18843" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Armandie" venue_id="96">
+    <team home_or_away="home" team_id="3150" />
+    <team home_or_away="away" team_id="39" />
+  </fixture>
+  <fixture id="18844" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team home_or_away="home" team_id="4850" />
+    <team home_or_away="away" team_id="1900" />
+  </fixture>
+  <fixture id="18845" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18846" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team home_or_away="home" team_id="1650" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18847" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="45" />
+  </fixture>
+  <fixture id="18848" comp_id="203" comp_name="T14" game_date="20120414" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="23" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18849" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="41" />
+  </fixture>
+  <fixture id="18850" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Andre Moga" venue_id="241">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18851" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="4950" />
+  </fixture>
+  <fixture id="18852" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18853" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Charlety Stadium" venue_id="210">
+    <team home_or_away="home" team_id="1600" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18854" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="2050" />
+  </fixture>
+  <fixture id="18855" comp_id="203" comp_name="T14" game_date="20120421" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="24" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team home_or_away="home" team_id="2350" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18856" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Jean Dauger" venue_id="150">
+    <team home_or_away="home" team_id="4850" />
+    <team home_or_away="away" team_id="3150" />
+  </fixture>
+  <fixture id="18857" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Amedee-Domenech" venue_id="93">
+    <team home_or_away="home" team_id="3500" />
+    <team home_or_away="away" team_id="38" />
+  </fixture>
+  <fixture id="18858" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="2250" />
+  </fixture>
+  <fixture id="18859" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir" venue_id="131">
+    <team home_or_away="home" team_id="4950" />
+    <team home_or_away="away" team_id="1900" />
+  </fixture>
+  <fixture id="18860" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Aime Giral" venue_id="77">
+    <team home_or_away="home" team_id="1650" />
+    <team home_or_away="away" team_id="45" />
+  </fixture>
+  <fixture id="18861" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Yves Du Manoir, Colombes" venue_id="195">
+    <team home_or_away="home" team_id="41" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18862" comp_id="203" comp_name="T14" game_date="20120505" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="25" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Félix-Mayol à Toulon" venue_id="139">
+    <team home_or_away="home" team_id="39" />
+    <team home_or_away="away" team_id="2350" />
+  </fixture>
+  <fixture id="18863" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Armandie" venue_id="96">
+    <team home_or_away="home" team_id="3150" />
+    <team home_or_away="away" team_id="41" />
+  </fixture>
+  <fixture id="18864" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Parc des Sports Aguilera" venue_id="80">
+    <team home_or_away="home" team_id="1900" />
+    <team home_or_away="away" team_id="1600" />
+  </fixture>
+  <fixture id="18865" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Andre Moga" venue_id="241">
+    <team home_or_away="home" team_id="38" />
+    <team home_or_away="away" team_id="1650" />
+  </fixture>
+  <fixture id="18866" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Pierre-Antoine" venue_id="92">
+    <team home_or_away="home" team_id="2050" />
+    <team home_or_away="away" team_id="4850" />
+  </fixture>
+  <fixture id="18867" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Marcel Michelin" venue_id="82">
+    <team home_or_away="home" team_id="2250" />
+    <team home_or_away="away" team_id="3500" />
+  </fixture>
+  <fixture id="18868" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Matmut Stadium" venue_id="239">
+    <team home_or_away="home" team_id="45" />
+    <team home_or_away="away" team_id="39" />
+  </fixture>
+  <fixture id="18869" comp_id="203" comp_name="T14" game_date="20120512" group="T14" group_name="T14" leg="1" live_scores="1" public="0" round="26" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="Stade Ernest Wallon" venue_id="83">
+    <team home_or_away="home" team_id="2350" />
+    <team home_or_away="away" team_id="4950" />
+  </fixture>
+  <fixture id="18870" comp_id="203" comp_name="T14" game_date="20120526" group="PO" group_name="PO" leg="1" live_scores="1" public="0" round="27" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="" venue_id="">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="18871" comp_id="203" comp_name="T14" game_date="20120526" group="PO" group_name="PO" leg="1" live_scores="1" public="0" round="27" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="" venue_id="">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="18872" comp_id="203" comp_name="T14" game_date="20120602" group="SF" group_name="SF" leg="1" live_scores="1" public="0" round="28" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="" venue_id="">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="18873" comp_id="203" comp_name="T14" game_date="20120602" group="SF" group_name="SF" leg="1" live_scores="1" public="0" round="28" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="" venue_id="">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="18874" comp_id="203" comp_name="T14" game_date="20120609" group="Final" group_name="Final" leg="1" live_scores="1" public="0" round="29" round_type_id="1" season_id="2012" stage="1" time="13:30:00" venue="" venue_id="">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <teams>
+    <team id="7" name="TBC" />
+    <team id="38" name="Bordeaux Begles" />
+    <team id="39" name="Toulon" />
+    <team id="41" name="Racing Metro" />
+    <team id="45" name="Lyon" />
+    <team id="1600" name="Stade Francais" />
+    <team id="1650" name="Perpignan" />
+    <team id="1900" name="Biarritz" />
+    <team id="2050" name="Castres" />
+    <team id="2250" name="Clermont Auvergne" />
+    <team id="2350" name="Toulouse" />
+    <team id="3150" name="Agen" />
+    <team id="3500" name="Brive" />
+    <team id="4850" name="Bayonne" />
+    <team id="4950" name="Montpellier" />
+  </teams>
+</fixtures>

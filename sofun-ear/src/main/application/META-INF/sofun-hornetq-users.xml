@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: sofun-hornetq-jms.xml 1893 2011-08-04 09:58:10Z anguenot $ -->
+
+<configuration xmlns="urn:hornetq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:hornetq /schema/hornetq-users.xsd">
+
+	<defaultuser name="guest" password="guest">
+		<role name="guest" />
+	</defaultuser>
+
+	<user name="admin@sofungaming.com" password="cAFE%aqua*95">
+		<role name="Administrator" />
+	</user>
+
+</configuration>

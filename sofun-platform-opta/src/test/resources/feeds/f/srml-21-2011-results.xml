@@ -1,0 +1,4245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20111108T101334,142Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="IT_SA" competition_id="21" competition_name="Italian Serie A" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2011-11-08 10-13-34">
+    <MatchData uID="g377407">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1336">
+        <Date>2012-01-15 11:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377586">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1333">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377452">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1339">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377404">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1333">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377287">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="2709">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1405">
+        <Goal Period="SecondHalf" PlayerRef="p59856" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p19712" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377271">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1330">
+        <Date>2011-09-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t456">
+        <Goal Period="SecondHalf" PlayerRef="p18362" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p74375" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p15874" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377434">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1328">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377547">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1340">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377302">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1329">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377255">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1335">
+        <Date>2011-09-17 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377269">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2709">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1405">
+        <Goal Period="SecondHalf" PlayerRef="p13158" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56838" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49311" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t124">
+        <Goal Period="SecondHalf" PlayerRef="p38833" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18109" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377568">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="7598">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377528">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377250">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1336">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p10625" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t124">
+        <Goal Period="SecondHalf" PlayerRef="p18109" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p58768" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377279">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1340">
+        <Date>2011-09-25 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t131" />
+      <TeamData Score="1" Side="Away" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p37979" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377438">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1336">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377339">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="2709">
+        <Date>2011-11-05 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1405">
+        <Goal Period="SecondHalf" PlayerRef="p55712" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49299" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56838" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t123">
+        <Goal Period="SecondHalf" PlayerRef="p78091" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377461">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="3482">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377456">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1330">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377353">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="3276">
+        <Date>2011-11-27 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377468">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1333">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377583">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2698">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377551">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2531">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377382">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="3276">
+        <Date>2011-12-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377234">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1335">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377414">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1335">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377471">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1344">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377243">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1344">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t988">
+        <Goal Period="FirstHalf" PlayerRef="p39748" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10729" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p18361" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18360" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377389">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1339">
+        <Date>2011-12-18 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377361">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1328">
+        <Date>2011-12-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377496">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1335">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377500">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="3482">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377442">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1338">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377265">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="7598">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t128">
+        <Goal Period="FirstHalf" PlayerRef="p7347" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t123">
+        <Goal Period="SecondHalf" PlayerRef="p18381" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377464">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="7598">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377305">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="7598">
+        <Date>2011-10-22 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p16765" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p16765" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p10120" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7293" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377314">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2698">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p69143" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p39329" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p77454" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377419">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="2531">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377565">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377237">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="3482">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2179" />
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377332">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="3276">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1731" />
+      <TeamData Score="1" Side="Away" TeamRef="t130">
+        <Goal Period="SecondHalf" PlayerRef="p66733" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377385">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2698">
+        <Date>2011-12-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377378">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1336">
+        <Date>2011-12-12 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t121" />
+      <TeamData Score="0" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377603">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1333">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377340">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1343">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t136">
+        <Goal Period="SecondHalf" PlayerRef="p13520" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20007" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1415">
+        <Goal Period="SecondHalf" PlayerRef="p41296" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377323">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="3257">
+        <Date>2011-10-29 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1248">
+        <Goal Period="FirstHalf" PlayerRef="p21133" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46532" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t459">
+        <Goal Period="FirstHalf" PlayerRef="p40720" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377296">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2698">
+        <Date>2011-10-16 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t990" />
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377596">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1329">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377467">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="3276">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377367">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="7598">
+        <Date>2011-12-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377440">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1329">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377270">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1336">
+        <Date>2011-09-22 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p37979" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1415">
+        <Goal Period="SecondHalf" PlayerRef="p38866" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377576">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="3482">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377607">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2698">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377450">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1333">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377403">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1344">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377320">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2709">
+        <Date>2011-10-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1405">
+        <Goal Period="FirstHalf" PlayerRef="p17176" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p59856" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377511">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1330">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377507">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1340">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377375">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1338">
+        <Date>2011-12-10 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t130" />
+      <TeamData Score="0" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377474">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1335">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377290">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1343">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t136">
+        <Goal Period="SecondHalf" PlayerRef="p13520" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p28552" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377537">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377307">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1340">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t131">
+        <Goal Period="SecondHalf" PlayerRef="p7892" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t456">
+        <Goal Period="SecondHalf" PlayerRef="p55831" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55831" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377354">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1336">
+        <Date>2011-11-26 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377346">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="7598">
+        <Date>2011-11-20 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377480">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1328">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377416">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="3482">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377410">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1340">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377486">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1338">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377545">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="3257">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377431">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="2531">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377299">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1339">
+        <Date>2011-10-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t459">
+        <Goal Period="SecondHalf" PlayerRef="p37934" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t131">
+        <Goal Period="SecondHalf" PlayerRef="p18237" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p21154" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377515">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="7598">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377286">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="3482">
+        <Date>2011-10-02 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p38271" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39344" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p8518" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t1248">
+        <Goal Period="FirstHalf" PlayerRef="p11700" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13525" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55776" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377593">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2709">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377510">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1338">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377349">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1336">
+        <Date>2011-11-20 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t121" />
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377582">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="3257">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377463">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1343">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377257">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1339">
+        <Date>2011-09-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t459">
+        <Goal Period="SecondHalf" PlayerRef="p40720" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40720" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40720" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p18372" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377400">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1343">
+        <Date>2012-01-08 11:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t136" />
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377275">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1344">
+        <Date>2011-09-25 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t988">
+        <Goal Period="SecondHalf" PlayerRef="p10729" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38854" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p20153" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377300">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="3482">
+        <Date>2011-10-16 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2179" />
+      <TeamData Score="2" Side="Away" TeamRef="t123">
+        <Goal Period="FirstHalf" PlayerRef="p78091" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p26753" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377504">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1336">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377578">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2531">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377581">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1335">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377488">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2709">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377544">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="7598">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377457">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1343">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377381">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="3257">
+        <Date>2011-12-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377435">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1330">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377231">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1330">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t456" />
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377562">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377263">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1333">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t125">
+        <Goal Period="SecondHalf" PlayerRef="p18018" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50442" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50442" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377550">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377254">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="3257">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1248">
+        <Goal Period="FirstHalf" PlayerRef="p19787" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377411">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1330">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377555">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377604">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1336">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377426">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2698">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377281">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="3276">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1731" />
+      <TeamData Score="0" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377371">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1330">
+        <Date>2011-12-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377334">
+      <MatchInfo MatchDay="11" Period="PreMatch" Venue_id="2698">
+        <Date>2011-12-13 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t990" />
+      <TeamData Score="0" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377449">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="7598">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377418">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1336">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377497">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1330">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377439">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1335">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377458">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1335">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377313">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1344">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t988" />
+      <TeamData Score="1" Side="Away" TeamRef="t123">
+        <Goal Period="SecondHalf" PlayerRef="p26753" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377605">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1344">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377386">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="7598">
+        <Date>2011-12-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377536">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2709">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377310">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1343">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t136">
+        <Goal Period="FirstHalf" PlayerRef="p13520" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13520" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8367" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377415">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1338">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377233">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1329">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377539">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1338">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377393">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1329">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377308">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1336">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p62974" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377564">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1333">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377331">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1330">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t456">
+        <Goal Period="SecondHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377530">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2531">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377483">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1335">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377609">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1339">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377379">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2531">
+        <Date>2011-12-10 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1415" />
+      <TeamData Score="0" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377246">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="7598">
+        <Date>2011-09-11 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p10626" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42565" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20113" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27335" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t131">
+        <Goal Period="SecondHalf" PlayerRef="p40283" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377589">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1336">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377364">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1333">
+        <Date>2011-12-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377522">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1338">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377469">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1336">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377446">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2698">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377453">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1340">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377533">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377493">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="3257">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377585">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="7598">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377567">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="3276">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377397">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2709">
+        <Date>2012-01-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1405" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377301">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1328">
+        <Date>2011-10-23 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t123" />
+      <TeamData Score="2" Side="Away" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p26753" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p52049" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377274">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="3257">
+        <Date>2011-09-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1248">
+        <Goal Period="FirstHalf" PlayerRef="p46532" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p18688" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377406">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="7598">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377477">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2531">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377575">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1328">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377549">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377427">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2709">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377238">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1340">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t131" />
+      <TeamData Score="0" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377571">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2709">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377541">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1339">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377482">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2531">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377322">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1329">
+        <Date>2011-10-30 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="3" Side="Away" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p52049" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13530" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377490">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1328">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377338">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="3482">
+        <Date>2011-11-05 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2179" />
+      <TeamData Score="2" Side="Away" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p37979" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40276" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377374">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1335">
+        <Date>2011-12-10 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377595">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1343">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377501">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1335">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377519">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1344">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377401">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="3257">
+        <Date>2012-01-14 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1248" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377512">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1336">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377563">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1340">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377278">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1339">
+        <Date>2011-09-24 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377487">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1336">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377268">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="3482">
+        <Date>2011-09-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p39344" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39344" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p19480" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p13919" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377505">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1333">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377454">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="3257">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377472">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1336">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377348">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1340">
+        <Date>2011-11-20 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377293">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="3257">
+        <Date>2011-10-15 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1248">
+        <Goal Period="SecondHalf" PlayerRef="p13525" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p11477" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p13919" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377317">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1335">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28573" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28573" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28573" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t131">
+        <Goal Period="SecondHalf" PlayerRef="p40283" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377409">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1339">
+        <Date>2012-01-16 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377360">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1343">
+        <Date>2011-11-25 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t136" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377345">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1335">
+        <Date>2011-11-19 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377525">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1340">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377509">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2531">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377405">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2698">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377350">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2531">
+        <Date>2011-11-20 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377554">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377423">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1335">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377283">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1335">
+        <Date>2011-10-01 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="3" Side="Away" TeamRef="t459">
+        <Goal Period="FirstHalf" PlayerRef="p14880" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19802" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8522" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377247">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1338">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t130" />
+      <TeamData Score="2" Side="Away" TeamRef="t136">
+        <Goal Period="FirstHalf" PlayerRef="p20007" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13520" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377242">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="3276">
+        <Date>2011-09-10 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1731">
+        <Goal Period="FirstHalf" PlayerRef="p8704" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t459">
+        <Goal Period="SecondHalf" PlayerRef="p19802" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45154" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14880" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377298">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1335">
+        <Date>2011-10-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p15107" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28573" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p7174" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377326">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1338">
+        <Date>2011-10-30 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t130">
+        <Goal Period="FirstHalf" PlayerRef="p58834" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2179">
+        <Goal Period="FirstHalf" PlayerRef="p39344" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377335">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1336">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t129">
+        <Goal Period="SecondHalf" PlayerRef="p13510" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377594">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1338">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377529">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1328">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377380">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1343">
+        <Date>2011-12-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377447">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1335">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377355">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1338">
+        <Date>2011-11-26 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t130" />
+      <TeamData Score="0" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377260">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1343">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t136">
+        <Goal Period="FirstHalf" PlayerRef="p48852" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13520" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377553">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1330">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377412">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1328">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377535">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1329">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377577">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1343">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377387">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1336">
+        <Date>2011-12-18 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377588">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1344">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377580">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1338">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377280">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2531">
+        <Date>2011-09-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1415">
+        <Goal Period="SecondHalf" PlayerRef="p9793" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p60071" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9793" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377241">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="3257">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1248" />
+      <TeamData Score="0" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377473">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1339">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377432">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1339">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377428">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="3257">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377479">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1330">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377558">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="3482">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377253">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1329">
+        <Date>2011-09-17 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t124">
+        <Goal Period="FirstHalf" PlayerRef="p56972" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42884" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p38271" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377396">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="3482">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377370">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1340">
+        <Date>2011-12-04 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t131" />
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377485">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="7598">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377459">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1329">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377319">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3482">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2179">
+        <Goal Period="SecondHalf" PlayerRef="p14733" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1415">
+        <Goal Period="FirstHalf" PlayerRef="p9793" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377289">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1336">
+        <Date>2011-10-01 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p37979" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18549" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40276" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t456">
+        <Goal Period="SecondHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377466">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2709">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377591">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1336">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377424">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1338">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377273">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1329">
+        <Date>2011-09-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377239">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="2531">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1415" />
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377321">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1328">
+        <Date>2011-10-30 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t123">
+        <Goal Period="SecondHalf" PlayerRef="p78091" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7380" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p18117" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t456">
+        <Goal Period="FirstHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377579">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1336">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377342">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="3257">
+        <Date>2011-11-20 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377402">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="3276">
+        <Date>2012-01-15 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377259">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2531">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1415" />
+      <TeamData Score="1" Side="Away" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p16765" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377524">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377516">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="3482">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377392">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1328">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377521">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1329">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377462">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1335">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377436">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1340">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377304">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1335">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p11527" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377368">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1336">
+        <Date>2011-12-05 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377513">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1339">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377573">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1329">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377421">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="3276">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377252">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1328">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t123" />
+      <TeamData Score="2" Side="Away" TeamRef="t130">
+        <Goal Period="FirstHalf" PlayerRef="p10289" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46142" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377245">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="2698">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p14739" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19620" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t456">
+        <Goal Period="FirstHalf" PlayerRef="p55831" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p55831" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377584">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1340">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377542">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1328">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377494">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1344">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377276">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1336">
+        <Date>2011-09-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377330">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1343">
+        <Date>2011-10-30 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t136">
+        <Goal Period="FirstHalf" PlayerRef="p13520" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377422">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1336">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377475">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1329">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377363">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1344">
+        <Date>2011-12-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377598">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1335">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377590">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="3276">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377266">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1338">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t130">
+        <Goal Period="FirstHalf" PlayerRef="p34694" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t456">
+        <Goal Period="FirstHalf" PlayerRef="p48850" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377499">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="3276">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377292">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1329">
+        <Date>2011-10-16 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="0" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377358">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2709">
+        <Date>2011-11-27 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377377">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2709">
+        <Date>2011-12-10 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1405" />
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377232">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1328">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t123" />
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377395">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1338">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377316">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1336">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1248">
+        <Goal Period="SecondHalf" PlayerRef="p46532" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377465">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2698">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377398">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1336">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377272">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1328">
+        <Date>2011-09-24 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t123">
+        <Goal Period="SecondHalf" PlayerRef="p45129" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p18231" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8491" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p26746" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377443">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="3482">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377365">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2698">
+        <Date>2011-12-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t990" />
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377351">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1330">
+        <Date>2011-11-26 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t456" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377476">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="3257">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377508">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1343">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377506">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="3257">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377294">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="3276">
+        <Date>2011-10-16 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1731" />
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377311">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1330">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t456">
+        <Goal Period="FirstHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377520">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2709">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377248">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1335">
+        <Date>2011-09-09 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7174" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p6286" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377572">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1335">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t127" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377337">
+      <MatchInfo MatchDay="11" Period="PreMatch" Venue_id="1339">
+        <Date>2011-11-29 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377391">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1330">
+        <Date>2012-01-08 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377587">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1339">
+        <Date>2012-05-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377566">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1339">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377599">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1328">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377373">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1329">
+        <Date>2011-12-10 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t124" />
+      <TeamData Score="0" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377455">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1328">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377601">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="7598">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377548">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1333">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377277">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1335">
+        <Date>2011-09-24 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p4071" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377570">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1344">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377267">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1335">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p58928" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t136">
+        <Goal Period="FirstHalf" PlayerRef="p13520" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377531">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="3276">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377264">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2698">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t990">
+        <Goal Period="FirstHalf" PlayerRef="p20153" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38817" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20153" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377297">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1336">
+        <Date>2011-10-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t129">
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49822" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p37979" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377517">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="3276">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377309">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="2531">
+        <Date>2011-10-23 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1415">
+        <Goal Period="FirstHalf" PlayerRef="p73519" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9793" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377344">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2698">
+        <Date>2011-11-20 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377327">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1340">
+        <Date>2011-10-30 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t131">
+        <Goal Period="SecondHalf" PlayerRef="p10195" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37641" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377356">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1335">
+        <Date>2011-11-27 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="0" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377261">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="3276">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1731">
+        <Goal Period="FirstHalf" PlayerRef="p4193" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t129">
+        <Goal Period="SecondHalf" PlayerRef="p49822" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377318">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1339">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t459">
+        <Goal Period="FirstHalf" PlayerRef="p8522" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45154" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377347">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1339">
+        <Date>2011-11-19 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377383">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1344">
+        <Date>2011-12-17 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t988" />
+      <TeamData Score="0" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377235">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1336">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t129" />
+      <TeamData Score="0" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377433">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="3482">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377527">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="7598">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377325">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1335">
+        <Date>2011-10-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p18573" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t128">
+        <Goal Period="FirstHalf" PlayerRef="p20113" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7347" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377384">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1333">
+        <Date>2011-12-17 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t125" />
+      <TeamData Score="0" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377441">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2709">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377546">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1344">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377417">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="2709">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377559">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1338">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377336">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1335">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p15107" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p4169" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p13525" Type="Own" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377495">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2698">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377240">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1343">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t136" />
+      <TeamData Score="0" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377470">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1338">
+        <Date>2012-02-19 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t130" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377413">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1329">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377324">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1333">
+        <Date>2011-10-30 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t125">
+        <Goal Period="FirstHalf" PlayerRef="p18227" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377284">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="7598">
+        <Date>2011-10-02 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p20113" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20113" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377523">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1333">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377592">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="3482">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377557">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="3276">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377460">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="2531">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377437">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1343">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377491">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1336">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377343">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1333">
+        <Date>2011-11-19 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t125" />
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377552">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1329">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377369">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1339">
+        <Date>2011-12-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377306">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1338">
+        <Date>2011-10-23 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t130">
+        <Goal Period="FirstHalf" PlayerRef="p10289" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p46142" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7484" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="4" Side="Away" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p20360" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20360" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20360" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12204" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377251">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1330">
+        <Date>2011-09-18 11:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t456">
+        <Goal Period="FirstHalf" PlayerRef="p48850" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1405" />
+    </MatchData>
+    <MatchData uID="g377445">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1336">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t121" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377315">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="7598">
+        <Date>2011-10-25 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t128">
+        <Goal Period="SecondHalf" PlayerRef="p16765" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28277" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t125">
+        <Goal Period="SecondHalf" PlayerRef="p50442" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377244">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1333">
+        <Date>2011-09-11 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t125">
+        <Goal Period="FirstHalf" PlayerRef="p8516" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18018" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377561">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="3257">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377503">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1328">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t988" />
+    </MatchData>
+    <MatchData uID="g377388">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1335">
+        <Date>2011-12-17 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="0" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377478">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2698">
+        <Date>2012-02-26 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377429">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1333">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377574">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1330">
+        <Date>2012-04-29 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377399">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2531">
+        <Date>2012-01-07 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1415" />
+      <TeamData Score="0" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377420">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1343">
+        <Date>2012-01-22 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377408">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1335">
+        <Date>2012-01-15 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="0" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377540">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1330">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377481">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1343">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t456" />
+    </MatchData>
+    <MatchData uID="g377288">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1340">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t131">
+        <Goal Period="FirstHalf" PlayerRef="p40283" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p10669" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40283" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p20153" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377258">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1340">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t131">
+        <Goal Period="FirstHalf" PlayerRef="p40283" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40283" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t988">
+        <Goal Period="SecondHalf" PlayerRef="p49569" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377303">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1333">
+        <Date>2011-10-22 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t125">
+        <Goal Period="FirstHalf" PlayerRef="p50442" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50442" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1248">
+        <Goal Period="SecondHalf" PlayerRef="p19787" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14711" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377560">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2709">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377543">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="2698">
+        <Date>2012-04-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377538">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1343">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377600">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2531">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377451">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1336">
+        <Date>2012-02-12 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t129" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377444">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="3276">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377312">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3276">
+        <Date>2011-10-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1731">
+        <Goal Period="FirstHalf" PlayerRef="p45156" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t124">
+        <Goal Period="FirstHalf" PlayerRef="p52704" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377514">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2698">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377295">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1344">
+        <Date>2011-10-16 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t988" />
+      <TeamData Score="0" Side="Away" TeamRef="t128" />
+    </MatchData>
+    <MatchData uID="g377534">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="3482">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2179" />
+      <TeamData Score="" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377526">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="3257">
+        <Date>2012-04-01 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377489">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1340">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377430">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="7598">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Juventus Stadium</Stat>
+      <Stat Type="City">Torino</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t128" />
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377256">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1336">
+        <Date>2011-09-18 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p13510" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t990">
+        <Goal Period="SecondHalf" PlayerRef="p20153" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p69143" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377602">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1340">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377341">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1328">
+        <Date>2011-11-20 11:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t123" />
+      <TeamData Score="0" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377492">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1339">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t459" />
+      <TeamData Score="" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377502">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1329">
+        <Date>2012-03-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377362">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="3257">
+        <Date>2011-12-04 11:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1248" />
+      <TeamData Score="0" Side="Away" TeamRef="t124" />
+    </MatchData>
+    <MatchData uID="g377366">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1335">
+        <Date>2011-12-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377484">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1333">
+        <Date>2012-03-04 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t125" />
+      <TeamData Score="" Side="Away" TeamRef="t1731" />
+    </MatchData>
+    <MatchData uID="g377606">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1335">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t2179" />
+    </MatchData>
+    <MatchData uID="g377498">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2709">
+        <Date>2012-03-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1405" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377329">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2531">
+        <Date>2011-10-30 11:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t1415">
+        <Goal Period="SecondHalf" PlayerRef="p7158" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p60071" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9793" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p60071" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t988">
+        <Goal Period="SecondHalf" PlayerRef="p38854" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377262">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1344">
+        <Date>2011-09-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t988">
+        <Goal Period="SecondHalf" PlayerRef="p38854" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377236">
+      <MatchInfo MatchDay="1" Period="PreMatch" Venue_id="1339">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t990" />
+    </MatchData>
+    <MatchData uID="g377518">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1335">
+        <Date>2012-03-25 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t120" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377390">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1340">
+        <Date>2011-12-18 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ennio Tardini</Stat>
+      <Stat Type="City">Parma</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t131" />
+      <TeamData Score="" Side="Away" TeamRef="t130" />
+    </MatchData>
+    <MatchData uID="g377357">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="3482">
+        <Date>2011-11-26 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2179" />
+      <TeamData Score="0" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377249">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="2709">
+        <Date>2011-09-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renzo Barbera</Stat>
+      <Stat Type="City">Palermo</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t1405">
+        <Goal Period="SecondHalf" PlayerRef="p17176" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13158" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p59856" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13158" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p26746" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p12273" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p26746" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377328">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1336">
+        <Date>2011-10-29 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p18101" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40276" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4133" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377352">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1329">
+        <Date>2011-11-27 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Sant&#39;Elia</Stat>
+      <Stat Type="City">Cagliari</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t124" />
+      <TeamData Score="" Side="Away" TeamRef="t123" />
+    </MatchData>
+    <MatchData uID="g377569">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="2698">
+        <Date>2012-04-22 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luigi Ferraris</Stat>
+      <Stat Type="City">Genova</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t990" />
+      <TeamData Score="" Side="Away" TeamRef="t1415" />
+    </MatchData>
+    <MatchData uID="g377448">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1344">
+        <Date>2012-02-05 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <MatchData uID="g377608">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="3276">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Dino Manuzzi</Stat>
+      <Stat Type="City">Cesena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1731" />
+      <TeamData Score="" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g377291">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1330">
+        <Date>2011-10-16 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t456" />
+      <TeamData Score="0" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377285">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1338">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Via Del Mare</Stat>
+      <Stat Type="City">Lecce</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t130" />
+      <TeamData Score="2" Side="Away" TeamRef="t124">
+        <Goal Period="FirstHalf" PlayerRef="p27702" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p21140" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377282">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1333">
+        <Date>2011-10-02 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi</Stat>
+      <Stat Type="City">Firenze</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t125">
+        <Goal Period="FirstHalf" PlayerRef="p18018" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t129">
+        <Goal Period="FirstHalf" PlayerRef="p49822" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g377376">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="3482">
+        <Date>2011-12-11 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Silvio Piola</Stat>
+      <Stat Type="City">Novara</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2179" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g377359">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2531">
+        <Date>2011-11-27 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Artemio Franchi Montepaschi Arena</Stat>
+      <Stat Type="City">Siena</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1415" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377372">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1328">
+        <Date>2011-12-11 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Renato Dall&#39;Ara</Stat>
+      <Stat Type="City">Bologna</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t123" />
+      <TeamData Score="" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g377556">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1343">
+        <Date>2012-04-15 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Friuli</Stat>
+      <Stat Type="City">Udine</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t136" />
+      <TeamData Score="" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g377610">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="3257">
+        <Date>2012-05-13 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Angelo Massimino</Stat>
+      <Stat Type="City">Catania</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1248" />
+      <TeamData Score="" Side="Away" TeamRef="t136" />
+    </MatchData>
+    <MatchData uID="g377425">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1344">
+        <Date>2012-01-29 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377333">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1344">
+        <Date>2011-11-06 14:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t988">
+        <Goal Period="SecondHalf" PlayerRef="p21142" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t125" />
+    </MatchData>
+    <MatchData uID="g377597">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1330">
+        <Date>2012-05-06 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Atleti Azzurri d&#39;Italia</Stat>
+      <Stat Type="City">Bergamo</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t456" />
+      <TeamData Score="" Side="Away" TeamRef="t129" />
+    </MatchData>
+    <MatchData uID="g377532">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1344">
+        <Date>2012-04-07 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Marc&#39;Antonio Bentegodi</Stat>
+      <Stat Type="City">Verona</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t988" />
+      <TeamData Score="" Side="Away" TeamRef="t1248" />
+    </MatchData>
+    <MatchData uID="g377394">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1335">
+        <Date>2012-01-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t131" />
+    </MatchData>
+    <Team uID="t124">
+      <Name>Cagliari</Name>
+    </Team>
+    <Team uID="t127">
+      <Name>Internazionale</Name>
+    </Team>
+    <Team uID="t131">
+      <Name>Parma</Name>
+    </Team>
+    <Team uID="t1405">
+      <Name>Palermo</Name>
+    </Team>
+    <Team uID="t130">
+      <Name>Lecce</Name>
+    </Team>
+    <Team uID="t1248">
+      <Name>Catania</Name>
+    </Team>
+    <Team uID="t129">
+      <Name>Lazio</Name>
+    </Team>
+    <Team uID="t121">
+      <Name>Roma</Name>
+    </Team>
+    <Team uID="t990">
+      <Name>Genoa</Name>
+    </Team>
+    <Team uID="t136">
+      <Name>Udinese</Name>
+    </Team>
+    <Team uID="t125">
+      <Name>Fiorentina</Name>
+    </Team>
+    <Team uID="t123">
+      <Name>Bologna</Name>
+    </Team>
+    <Team uID="t128">
+      <Name>Juventus</Name>
+    </Team>
+    <Team uID="t120">
+      <Name>Milan</Name>
+    </Team>
+    <Team uID="t1731">
+      <Name>Cesena</Name>
+    </Team>
+    <Team uID="t1415">
+      <Name>Siena</Name>
+    </Team>
+    <Team uID="t2179">
+      <Name>Novara</Name>
+    </Team>
+    <Team uID="t456">
+      <Name>Atalanta</Name>
+    </Team>
+    <Team uID="t459">
+      <Name>Napoli</Name>
+    </Team>
+    <Team uID="t988">
+      <Name>Chievo</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

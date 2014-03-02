@@ -1,0 +1,73 @@
+<p>
+Bonjour ${member.firstName},
+</p>
+<br />
+
+<p>
+Vous faites partie des milliers de pronostiqueurs qui ont ouvert un compte sur Betkup à l'occasion de la Coupe du Monde de Football mais qui ne se sont pas encore inscrits sur la V2 de Betkup.
+</p>
+
+<p>
+Et ça n'est plus nécessaire !
+</p>
+<p>
+Nous venons de transférer votre compte et vos Teams (qu'on appelle maintenant "Room") sur cette nouvelle version du site et nous serions très honorés de vous y revoir. Non, vraiment.
+</p>
+
+<p>
+2012 va être une année riche en compétitions sportives majeures : Euro, CAN, Jeux Olympiques, Roland Garros, etc. Ce sont autant d'occasions de s'affronter sur des Kups toujours plus originales.
+</p>
+
+<p>
+De plus nous travaillons dur pour vous proposer LA fonctionnalité la plus votée sur le mur de feedback. Ainsi vous pourrez bientôt proposer à vos amis de constituer des cagnottes de "vrai argent" directement sur Betkup pour pimenter le jeu ! Bien sûr il s'agira d'une option.
+</p>
+
+<p>
+Nous comptons donc sur vous pour récupérer votre compte et reprendre la route des pronos, avec, pour commencer, les Kups sur 5 Ligues Européennes de foot et de rugby. Nous venons de les ouvrir, c'est gratuit, il y a 1 500 € de lots à gagner. Dépêchez-vous, ça commence avec les matchs de ce week end !
+</p>
+
+<p>
+Voilà vos informations de connexion pour vous connecter :
+</p>
+<p><strong>
+Attention, nous avons été obligés de vous générer un nouveau mot de passe pour des raisons de sécurité. Il est juste en dessous !
+</strong></p>
+
+<br />
+
+<p>
+Email de connexion : ${member.email}
+</p>
+<p>
+Mot de passe : ${cleartextPassword}
+</p>
+<p>
+Date de naissance : ${hrBirthdate}
+</p>
+
+<br />
+
+<p>
+Sportivement,
+</p>
+
+<br />
+
+<p>
+Julien P & Julien A,
+</p>
+<p>
+Fondateur et développeur en chef de Betkup,
+</p>
+<p>
+Ravis de vous accueillir à nouveau,
+</p>
+<p>
+Et joignables à cette adresse : <a href="mailto:julien@betkup.com">julien@betkup.com</a>
+</p>
+
+<br />
+
+<p>
+P.S : Et c'est toujours à cette adresse : <a href="https://www.betkup.fr">www.betkup.fr</a>
+</p>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Competicion>
+         <DG ID="90002" Des="Tour de Francia" DES="Tour de Francia" CD="9" DEP="9" PG="0" PE="0" PP="0" TEQU="1" FN="CMP_90002.Xml" FG="CMP_90002.Xml" TS="20120629133201" IDUNICO="7100" TEMP="2012" WIDCOMP="-1" WIDSEASON="-1" ></DG>
+    <Equipos>
+         <Eq ID="9000001" NB="AG2R LA MONDIALE" PA="FRA" PACOI="FRA" NES="3158" COR="ALM" URL="www.ag2r-cyclisme.com" ></Eq>
+         <Eq ID="9000005" NB="COFIDIS LE CREDIT EN LIGNE" PA="FRA" PACOI="FRA" NES="3158" COR="COF" URL="www.equipe-cofidis.com" ></Eq>
+         <Eq ID="9000006" NB="TEAM SAXO BANK" PA="DIN" PACOI="DEN" NES="3158" COR="SAX" URL="http://www.teamsaxobank.com/
+" ></Eq>
+         <Eq ID="9000009" NB="LOTTO BELISOL TEAM" PA="BEL" PACOI="BEL" NES="3158" COR="OLO" URL="http://www.lottobelisol.be/nl/home-1.htm" ></Eq>
+         <Eq ID="9000010" NB="EUSKALTEL - EUSKADI" PA="ESP" PACOI="ESP" NES="3158" COR="EUS" URL="http://www.fundacioneuskadi.com" ></Eq>
+         <Eq ID="9000012" NB="FDJ BIG MAT" PA="FRA" PACOI="FRA" NES="3158" COR="FDJ" URL="www.equipecyclistefdj.fr
+" ></Eq>
+         <Eq ID="9000014" NB="ORICA GREENEDGE CYCLING TEAM" PA="AUT" PACOI="AUS" NES="0" COR="GEC" URL="http://www.greenedgecycling.com/" ></Eq>
+         <Eq ID="9000015" NB="MOVISTAR TEAM" PA="ESP" PACOI="ESP" NES="3158" COR="MOV" URL="http://www.movistarteam.com/" ></Eq>
+         <Eq ID="9000016" NB="LAMPRE - ISD" PA="ITA" PACOI="ITA" NES="3158" COR="LAM" URL="http://www.teamlampreisd.com/" ></Eq>
+         <Eq ID="9000017" NB="LIQUIGAS - CANNONDALE" PA="ITA" PACOI="ITA" NES="3158" COR="LIQ" URL="www.teamliquigasbianchi.it" ></Eq>
+         <Eq ID="9000018" NB="ASTANA PRO TEAM" PA="KZ" PACOI="KAZ" NES="3158" COR="AST" URL="http://proteam-astana.com/content/Home-page/home_pageUK.php" ></Eq>
+         <Eq ID="9000021" NB="OMEGA PHARMA QUICKSTEP" PA="BEL" PACOI="BEL" NES="3158" COR="OPQ" URL="www.quickstepcycling.com" ></Eq>
+         <Eq ID="9000022" NB="RABOBANK CYCLING TEAM" PA="NL" PACOI="NED" NES="3158" COR="RAB" URL="http://www.rabobank.nl/wielrennen" ></Eq>
+         <Eq ID="9000037" NB="GARMIN BARRACUDA" PA="USA" PACOI="USA" NES="3158" COR="GRM" URL="www.slipstreamsports.com" ></Eq>
+         <Eq ID="9000040" NB="KATUSHA TEAM" PA="RUS" PACOI="RUS" NES="3158" COR="KAT" URL="http://www.katushateam.com/index.php?p=team" ></Eq>
+         <Eq ID="9000041" NB="TEAM ARGOS SHIMANO" PA="NL" PACOI="NED" NES="3158" COR="ARG" URL="www.1t4i.com" ></Eq>
+         <Eq ID="9000042" NB="VACANSOLEIL DCM PRO CYCLING" PA="NL" PACOI="NED" NES="3158" COR="VCD" URL="http://www.vacansoleilcyclingteam.co.uk/" ></Eq>
+         <Eq ID="9000096" NB="BMC RACING TEAM" PA="USA" PACOI="USA" NES="3158" COR="BMC" URL="http://www.bmcracingteam.com/" ></Eq>
+         <Eq ID="9000097" NB="SKY PROCYCLING" PA="GBR" PACOI="GBR" NES="3158" COR="SKY" URL="http://www.teamsky.com/" ></Eq>
+         <Eq ID="9000100" NB="RADIOSHACK NISSAN TREK" PA="LUX" PACOI="LUX" NES="3158" COR="RNT" URL="http://www.radioshacknissantrek.com/" ></Eq>
+         <Eq ID="9000101" NB="SAUR - SOJASUN" PA="FRA" PACOI="FRA" NES="3158" COR="SAU" URL="www.saur-sojasun.com" ></Eq>
+         <Eq ID="9000102" NB="TEAM EUROPCAR" PA="FRA" PACOI="FRA" NES="3158" COR="EUC" URL="www.teameuropcar.com" ></Eq>
+    </Equipos>
+    <Jugadores>
+         <Jg ID="9000168" CE="9000006" NB="Nick Nuyens" NC="Nick Nuyens" PA="BEL" PACOI="BEL" FCH="19800505" DE="1" AL="177" PE="71" DO="176" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9000372" CE="9000018" NB="Alexandre Vinokourov" NC="Alexandre Vinokourov" PA="KZ" PACOI="KAZ" FCH="19730916" DE="1" AL="177" PE="68" DO="189" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000376" CE="9000009" NB="Lars Bak" NC="Lars Ytting Bak" PA="DIN" PACOI="DEN" FCH="19800116" DE="1" AL="190" PE="76" DO="112" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000568" CE="9000001" NB="Christophe Riblon" NC="Christophe Riblon" PA="FRA" PACOI="FRA" FCH="19810117" DE="1" AL="180" PE="65" DO="78" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000573" CE="9000037" NB="Robert Hunter" NC="Robert Hunter" PA="SF" PACOI="RSA" FCH="19770422" DE="1" AL="179" PE="70" DO="64" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000001" CE="9000102" NB="Christophe Kern" NC="Christophe Kern" PA="FRA" PACOI="FRA" FCH="19810118" DE="1" AL="185" PE="72" DO="27" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000004" CE="9000102" NB="Giovanni Bernaudeau" NC="Giovanni Bernaudeau" PA="FRA" PACOI="FRA" FCH="19830825" DE="1" AL="175" PE="62" DO="23" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000010" CE="9000097" NB="Bradley Wiggins" NC="Bradley Wiggins" PA="GBR" PACOI="GBR" FCH="19800428" DE="1" AL="190" PE="72" DO="101" Eq="SKY" SK="1" HA="4" ></Jg>
+         <Jg ID="9000030" CE="9000018" NB="Dmitriy Fofonov" NC="Dmitriy Fofonov" PA="KZ" PACOI="KAZ" FCH="19760815" DE="1" AL="175" PE="64" DO="183" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000035" CE="9000014" NB="Stuart O´Grady" NC="Stuart O&apos;Grady" PA="AUT" PACOI="AUS" FCH="19730806" DE="1" AL="176" PE="73" DO="208" Eq="GEC" SK="1" HA="4" ></Jg>
+         <Jg ID="9000040" CE="9000037" NB="David Zabriskie" NC="David Zabriskie" PA="USA" PACOI="USA" FCH="19790112" DE="1" AL="183" PE="67" DO="69" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000041" CE="9000100" NB="Frank Schleck" NC="Frank Schleck" PA="LUX" PACOI="LUX" FCH="19800415" DE="1" AL="186" PE="67" DO="11" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000043" CE="9000017" NB="Ivan Basso" NC="Ivan Basso" PA="ITA" PACOI="ITA" FCH="19771126" DE="1" AL="183" PE="70" DO="52" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000046" CE="9000017" NB="Alessandro Vanotti" NC="Alessandro Vanotti" PA="ITA" PACOI="ITA" FCH="19800916" DE="1" AL="185" PE="73" DO="59" Eq="LIQ" SK="1" HA="3" ></Jg>
+         <Jg ID="9000061" CE="9000037" NB="Ryder Hesjedal" NC="Ryder Hesjedal" PA="CAN" PACOI="CAN" FCH="19801209" DE="1" AL="190" PE="72" DO="61" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000062" CE="9000037" NB="Tom Danielson" NC="Thomas Danielson" PA="USA" PACOI="USA" FCH="19780313" DE="1" AL="177" PE="59" DO="62" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000076" CE="9000010" NB="Gorka Verdugo" NC="Gorka Verdugo Markotegi" PA="ESP" PACOI="ESP" FCH="19781104" DE="1" AL="170" PE="62" DO="39" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000077" CE="9000100" NB="Haimar Zubeldia" NC="Haimar Zubeldia" PA="ESP" PACOI="ESP" FCH="19770401" DE="1" AL="179" PE="68" DO="19" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000080" CE="9000010" NB="Samuel Sánchez" NC="Samuel Sánchez González" PA="ESP" PACOI="ESP" FCH="19780205" DE="1" AL="175" PE="65" DO="31" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000083" CE="9000016" NB="Alessandro Petacchi" NC="Alessandro Petacchi" PA="ITA" PACOI="ITA" FCH="19740103" DE="1" AL="184" PE="73" DO="47" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000091" CE="9000014" NB="Baden Cooke" NC="Baden Cooke" PA="AUT" PACOI="AUS" FCH="19781012" DE="1" AL="178" PE="75" DO="203" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000097" CE="9000022" NB="Mark Renshaw" NC="Mark Renshaw" PA="AUT" PACOI="AUS" FCH="19821022" DE="1" AL="179" PE="72" DO="154" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000099" CE="9000012" NB="Sandy Casar" NC="Sandy Casar" PA="FRA" PACOI="FRA" FCH="19790202" DE="1" AL="179" PE="63" DO="141" Eq="FDJ" SK="1" HA="3" ></Jg>
+         <Jg ID="9000112" CE="9000040" NB="Joan Horrach" NC="Joan Horrach Ripoll" PA="ESP" PACOI="ESP" FCH="19740427" DE="1" AL="179" PE="70" DO="135" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000117" CE="9000015" NB="Vladimir Karpets" NC="Vladimir Karpets" PA="RUS" PACOI="RUS" FCH="19800920" DE="1" AL="190" PE="79" DO="166" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000126" CE="9000017" NB="Sylvester Szmyd" NC="Sylvester Szmyd" PA="POL" PACOI="POL" FCH="19780302" DE="1" AL="179" PE="60" DO="58" Eq="LIQ" SK="1" HA="4" ></Jg>
+         <Jg ID="9000137" CE="9000040" NB="Giampaolo Caruso" NC="Giampaolo Caruso" PA="ITA" PACOI="ITA" FCH="19800815" DE="1" AL="173" PE="60" DO="132" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000142" CE="9000016" NB="Michele Scarponi" NC="Michele Scarponi" PA="ITA" PACOI="ITA" FCH="19790925" DE="1" AL="174" PE="63" DO="41" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000144" CE="9000014" NB="Brett Lancaster" NC="Brett Daniel Lancaster" PA="AUT" PACOI="AUS" FCH="19791115" DE="1" AL="188" PE="78" DO="206" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000183" CE="9000015" NB="Juan Jose Cobo" NC="Juan José Cobo Acebo" PA="ESP" PACOI="ESP" FCH="19810211" DE="1" AL="175" PE="69" DO="162" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000203" CE="9000012" NB="Pierrick Fedrigo" NC="Pierrick Fedrigo" PA="FRA" PACOI="FRA" FCH="19781130" DE="1" AL="172" PE="66" DO="142" Eq="FDJ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000204" CE="9000102" NB="Yohann Gene" NC="Yohann Gene" PA="FRA" PACOI="FRA" FCH="19810625" DE="1" AL="175" PE="67" DO="25" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000210" CE="9000021" NB="Jérôme Pineau" NC="Jérôme Pineau" PA="FRA" PACOI="FRA" FCH="19800201" DE="1" AL="176" PE="66" DO="197" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000212" CE="9000041" NB="Matthieu Sprick" NC="Matthieu Sprick" PA="FRA" PACOI="FRA" FCH="19810929" DE="1" AL="181" PE="71" DO="217" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9000213" CE="9000102" NB="Thomas Voeckler" NC="Thomas Voeckler" PA="FRA" PACOI="FRA" FCH="19790622" DE="1" AL="177" PE="66" DO="21" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000218" CE="9000021" NB="Sylvain Chavanel" NC="Sylvain Chavanel" PA="FRA" PACOI="FRA" FCH="19790630" DE="1" AL="182" PE="70" DO="192" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000222" CE="9000101" NB="Jimmy Engoulvent" NC="Jimmy Engoulvent" PA="FRA" PACOI="FRA" FCH="19791207" DE="1" AL="187" PE="79" DO="93" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9000227" CE="9000096" NB="Amaël Moinard" NC="Amaël Moinard" PA="FRA" PACOI="FRA" FCH="19820202" DE="1" AL="180" PE="69" DO="6" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000228" CE="9000005" NB="David Moncoutie" NC="David Moncoutie" PA="FRA" PACOI="FRA" FCH="19750430" DE="1" AL="180" PE="69" DO="88" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9000231" CE="9000001" NB="Nicolas Roche" NC="Nicolas Roche" PA="IRL" PACOI="IRL" FCH="19840703" DE="1" AL="178" PE="70" DO="79" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000237" CE="9000001" NB="Sébastien Hinault" NC="Sébastien Hinault" PA="FRA" PACOI="FRA" FCH="19740211" DE="1" AL="175" PE="63" DO="75" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000241" CE="9000018" NB="Andrey Kashechkin" NC="Andrey Kashechkin" PA="KZ" PACOI="KAZ" FCH="19800321" DE="1" AL="184" PE="72" DO="186" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000243" CE="9000101" NB="Cyril Lemoine" NC="Cyril Lemoine" PA="FRA" PACOI="FRA" FCH="19830303" DE="1" AL="181" PE="70" DO="96" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9000255" CE="9000005" NB="Rémy Di Gregorio" NC="Rémy Di Gregorio" PA="FRA" PACOI="FRA" FCH="19850731" DE="1" AL="180" PE="67" DO="82" Eq="COF" SK="1" HA="3" ></Jg>
+         <Jg ID="9000256" CE="9000097" NB="Bernhard Eisel" NC="Bernhard Eisel" PA="AUS" PACOI="AUT" FCH="19810217" DE="1" AL="183" PE="76" DO="104" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000259" CE="9000096" NB="Philippe Gilbert" NC="Philippe Gilbert" PA="BEL" PACOI="BEL" FCH="19820705" DE="1" AL="179" PE="69" DO="4" Eq="BMC" SK="1" HA="4" ></Jg>
+         <Jg ID="9000266" CE="9000012" NB="Jérémy Roy" NC="Jérémy Roy" PA="FRA" PACOI="FRA" FCH="19830622" DE="1" AL="186" PE="68" DO="148" Eq="FDJ" SK="1" HA="4" ></Jg>
+         <Jg ID="9000278" CE="9000018" NB="Andriy Grivko" NC="Andrey Grivko" PA="UCR" PACOI="UKR" FCH="19830807" DE="1" AL="179" PE="62" DO="184" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000290" CE="9000100" NB="Fabian Cancellara" NC="Fabian Cancellara" PA="SUI" PACOI="SUI" FCH="19810318" DE="1" AL="186" PE="80" DO="12" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000299" CE="9000042" NB="Gustav Larsson" NC="Gustav Erik Larsson" PA="SE" PACOI="SWE" FCH="19800920" DE="1" AL="194" PE="77" DO="124" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9000300" CE="9000017" NB="Vincenzo Nibali" NC="Vincenzo Nibali" PA="ITA" PACOI="ITA" FCH="19841114" DE="1" AL="180" PE="64" DO="51" Eq="LIQ" SK="1" HA="1" ></Jg>
+         <Jg ID="9000303" CE="9000097" NB="Konstantsin Sivtsov" NC="Konstantsin Sivtsov" PA="BIE" PACOI="BLR" FCH="19820809" DE="1" AL="183" PE="68" DO="109" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000315" CE="9000016" NB="Marco Marzano" NC="Marco Marzano" PA="ITA" PACOI="ITA" FCH="19800610" DE="1" AL="171" PE="58" DO="46" Eq="LAM" SK="1" HA="6" ></Jg>
+         <Jg ID="9000324" CE="9000014" NB="Michael Albasini" NC="Michael Albasini" PA="SUI" PACOI="SUI" FCH="19801220" DE="1" AL="172" PE="65" DO="202" Eq="GEC" SK="1" HA="3" ></Jg>
+         <Jg ID="9000344" CE="9000016" NB="Danilo Hondo" NC="Danilo Hondo" PA="ALM" PACOI="GER" FCH="19740104" DE="1" AL="186" PE="75" DO="43" Eq="LAM" SK="1" HA="4" ></Jg>
+         <Jg ID="9000346" CE="9000021" NB="Levi Leipheimer" NC="Levi Leipheimer" PA="USA" PACOI="USA" FCH="19731024" DE="1" AL="171" PE="60" DO="191" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000359" CE="9000096" NB="Marcus Burghardt" NC="Marcus Burghardt" PA="ALM" PACOI="GER" FCH="19830630" DE="1" AL="189" PE="75" DO="2" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000365" CE="9000100" NB="Andréas Klöden" NC="Andréas Klöden" PA="ALM" PACOI="GER" FCH="19750622" DE="1" AL="183" PE="63" DO="15" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000381" CE="9000040" NB="Vladimir Gusev" NC="Vladimir Gusev" PA="RUS" PACOI="RUS" FCH="19820704" DE="1" AL="178" PE="73" DO="134" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000394" CE="9000006" NB="Nicki Sorensen" NC="Nicki Sorensen" PA="DIN" PACOI="DEN" FCH="19750514" DE="1" AL="182" PE="71" DO="179" Eq="SAX" SK="1" HA="4" ></Jg>
+         <Jg ID="9000396" CE="9000100" NB="Jens Voigt" NC="Jens Voigt" PA="ALM" PACOI="GER" FCH="19710917" DE="1" AL="189" PE="76" DO="18" Eq="RNT" SK="1" HA="4" ></Jg>
+         <Jg ID="9000397" CE="9000040" NB="Óscar Freire" NC="Óscar Freire Gómez" PA="ESP" PACOI="ESP" FCH="19760215" DE="1" AL="171" PE="64" DO="133" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000403" CE="9000006" NB="Karsten Kroon" NC="Karsten Kroon" PA="NL" PACOI="NED" FCH="19760129" DE="1" AL="180" PE="67" DO="173" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9000407" CE="9000021" NB="Bert Grabsch" NC="Bert Grabsch" PA="ALM" PACOI="GER" FCH="19750619" DE="1" AL="179" PE="78" DO="195" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000423" CE="9000014" NB="Pieter Weening" NC="Pieter Weening" PA="NL" PACOI="NED" FCH="19810405" DE="1" AL="186" PE="66" DO="209" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000431" CE="9000021" NB="Kevin De Weert" NC="Kevin De Weert" PA="BEL" PACOI="BEL" FCH="19820527" DE="1" AL="182" PE="71" DO="193" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000440" CE="9000040" NB="Luca Paolini" NC="Luca Paolini" PA="ITA" PACOI="ITA" FCH="19770117" DE="1" AL="174" PE="66" DO="137" Eq="KAT" SK="1" HA="3" ></Jg>
+         <Jg ID="9000443" CE="9000097" NB="Michael Rogers" NC="Michael Rogers" PA="AUT" PACOI="AUS" FCH="19791220" DE="1" AL="185" PE="75" DO="108" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000446" CE="9000096" NB="George Hincapie" NC="George Hincapie" PA="USA" PACOI="USA" FCH="19730629" DE="1" AL="191" PE="83" DO="5" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000449" CE="9000022" NB="Bram Tankink" NC="Bram Tankink" PA="NL" PACOI="NED" FCH="19781203" DE="1" AL="181" PE="71" DO="156" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000454" CE="9000100" NB="Yaroslav Popovych" NC="Yaroslav Popovych" PA="UCR" PACOI="UKR" FCH="19800104" DE="1" AL="175" PE="64" DO="17" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000460" CE="9000009" NB="Jurgen Van den Broeck" NC="Jurgen Van den Broeck" PA="BEL" PACOI="BEL" FCH="19830201" DE="1" AL="185" PE="72" DO="111" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000473" CE="9000096" NB="Cadel Evans" NC="Cadel Evans" PA="AUT" PACOI="AUS" FCH="19770214" DE="1" AL="174" PE="68" DO="1" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000481" CE="9000010" NB="Egoi Martínez" NC="Egoi Martínez de Esteban" PA="ESP" PACOI="ESP" FCH="19780515" DE="1" AL="184" PE="68" DO="35" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000495" CE="9000037" NB="Johan Van Summeren" NC="Johan Van Summeren" PA="BEL" PACOI="BEL" FCH="19810204" DE="1" AL="197" PE="79" DO="67" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000511" CE="9000096" NB="Manuel Quinziato" NC="Manuel Quinziato" PA="ITA" PACOI="ITA" FCH="19791030" DE="1" AL="185" PE="76" DO="7" Eq="BMC" SK="1" HA="1" ></Jg>
+         <Jg ID="9000519" CE="9000041" NB="Koen De Kort" NC="Koen De Kort" PA="NL" PACOI="NED" FCH="19820908" DE="1" AL="180" PE="70" DO="213" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9000528" CE="9000006" NB="Sergio Paulinho" NC="Sergio Paulinho" PA="POR" PACOI="POR" FCH="19800326" DE="1" AL="172" PE="64" DO="177" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9000530" CE="9000022" NB="Luis León Sanchez" NC="Luis León Sanchez Gil" PA="ESP" PACOI="ESP" FCH="19831124" DE="1" AL="187" PE="74" DO="155" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000538" CE="9000015" NB="Imanol Erviti" NC="Imanol Erviti" PA="ESP" PACOI="ESP" FCH="19831115" DE="1" AL="183" PE="70" DO="164" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000541" CE="9000015" NB="Ivan Gutierrez" NC="José Iván Gutiérrez Palacios" PA="ESP" PACOI="ESP" FCH="19781127" DE="1" AL="181" PE="71" DO="165" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000552" CE="9000010" NB="Mikel Astarloza" NC="Mikel Astarloza" PA="ESP" PACOI="ESP" FCH="19791117" DE="1" AL="185" PE="72" DO="32" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000557" CE="9000005" NB="Samuel Dumoulin" NC="Samuel Dumoulin" PA="FRA" PACOI="FRA" FCH="19800820" DE="1" AL="159" PE="56" DO="83" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9000558" CE="9000014" NB="Simon Gerrans" NC="Simon Gerrans" PA="AUT" PACOI="AUS" FCH="19800516" DE="1" AL="170" PE="64" DO="201" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000560" CE="9000016" NB="Yuriv Krivtsov" NC="Yuriv Krivtsov" PA="UCR" PACOI="UKR" FCH="19790207" DE="1" AL="178" PE="72" DO="44" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000574" CE="9000015" NB="Alejandro Valverde" NC="Alejandro Valverde Belmonte" PA="ESP" PACOI="ESP" FCH="19800425" DE="1" AL="178" PE="62" DO="161" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000595" CE="9000015" NB="Rubén Plaza" NC="Rubén Plaza Molina" PA="ESP" PACOI="ESP" FCH="19800229" DE="1" AL="182" PE="71" DO="168" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000600" CE="9000001" NB="Hubert Dupont" NC="Hubert Dupont" PA="FRA" PACOI="FRA" FCH="19801113" DE="1" AL="174" PE="59" DO="74" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000604" CE="9000097" NB="Christian Knees" NC="Christian Knees" PA="ALM" PACOI="GER" FCH="19810305" DE="1" AL="194" PE="71" DO="106" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000621" CE="9000100" NB="Maxime Monfort" NC="Maxime Monfort" PA="BEL" PACOI="BEL" FCH="19830114" DE="1" AL="181" PE="66" DO="16" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000641" CE="9000100" NB="Chris Horner" NC="Christopher Horner" PA="USA" PACOI="USA" FCH="19711023" DE="1" AL="180" PE="70" DO="14" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000645" CE="9000037" NB="David Millar" NC="David Millar" PA="GBR" PACOI="GBR" FCH="19770104" DE="1" AL="190" PE="77" DO="66" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000662" CE="9000010" NB="Rubén Pérez" NC="Rubén Pérez Moreno" PA="ESP" PACOI="ESP" FCH="19811030" DE="1" AL="183" PE="66" DO="36" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000664" CE="9000015" NB="José Joaquín Rojas" NC="José Joaquín Rojas" PA="ESP" PACOI="ESP" FCH="19850806" DE="1" AL="178" PE="69" DO="169" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9000676" CE="9000001" NB="Sebastien Minard" NC="Sebastien Minard" PA="FRA" PACOI="FRA" FCH="19820612" DE="1" AL="177" PE="63" DO="77" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000682" CE="9000009" NB="André Greipel" NC="André Greipel" PA="ALM" PACOI="GER" FCH="19820716" DE="1" AL="184" PE="78" DO="114" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000684" CE="9000016" NB="Davide Vigano" NC="Davide Vigano" PA="ITA" PACOI="ITA" FCH="19840612" DE="1" AL="182" PE="66" DO="49" Eq="LAM" SK="1" HA="1" ></Jg>
+         <Jg ID="9000707" CE="9000016" NB="Matthew Lloyd" NC="Matthew Lloyd" PA="AUT" PACOI="AUS" FCH="19830524" DE="1" AL="169" PE="59" DO="45" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000713" CE="9000009" NB="Adam Hansen" NC="Adam Hansen" PA="AUT" PACOI="AUS" FCH="19810511" DE="1" AL="186" PE="75" DO="115" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000714" CE="9000009" NB="Greg Henderson" NC="Gregory Henderson" PA="NZ" PACOI="NZL" FCH="19760910" DE="1" AL="180" PE="74" DO="116" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000719" CE="9000006" NB="Juan José Haedo" NC="Juan José Haedo" PA="ARG" PACOI="ARG" FCH="19810126" DE="1" AL="178" PE="72" DO="172" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9000724" CE="9000096" NB="Steve Cummings" NC="Steve Cummings" PA="GBR" PACOI="GBR" FCH="19810319" DE="1" AL="190" PE="75" DO="3" Eq="BMC" SK="1" HA="4" ></Jg>
+         <Jg ID="9000749" CE="9000018" NB="Maxim Iglinskiy" NC="Maxim Iglinskiy" PA="KZ" PACOI="KAZ" FCH="19810418" DE="1" AL="171" PE="62" DO="185" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000769" CE="9000102" NB="Vincent Jerome" NC="Vincent Jerome" PA="FRA" PACOI="FRA" FCH="19841126" DE="1" AL="174" PE="65" DO="26" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000771" CE="9000037" NB="Tyler Farrar" NC="Tyler Farrar" PA="USA" PACOI="USA" FCH="19840602" DE="1" AL="183" PE="74" DO="63" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000773" CE="9000041" NB="Yann Huguet" NC="Yann Huguet" PA="FRA" PACOI="FRA" FCH="19840502" DE="1" AL="177" PE="65" DO="216" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9000776" CE="9000101" NB="Jean-Marc Marino" NC="Jean-Marc Marino" PA="FRA" PACOI="FRA" FCH="19830815" DE="1" AL="177" PE="66" DO="98" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9000777" CE="9000102" NB="Pierre Rolland" NC="Pierre Rolland" PA="FRA" PACOI="FRA" FCH="19861010" DE="1" AL="184" PE="74" DO="29" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000780" CE="9000006" NB="Anders Lund" NC="Anders Lund" PA="DIN" PACOI="DEN" FCH="19850214" DE="1" AL="178" PE="64" DO="174" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9000782" CE="9000006" NB="Chris Sorensen" NC="Chris Anker Sorensen" PA="DIN" PACOI="DEN" FCH="19840905" DE="1" AL="185" PE="64" DO="178" Eq="SAX" SK="1" HA="4" ></Jg>
+         <Jg ID="9000786" CE="9000040" NB="Denis Menchov" NC="Denis Menchov" PA="RUS" PACOI="RUS" FCH="19780125" DE="1" AL="178" PE="65" DO="131" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9000797" CE="9000010" NB="Jorge Azanza" NC="Jorge Azanza Soto" PA="ESP" PACOI="ESP" FCH="19820616" DE="1" AL="185" PE="68" DO="33" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000798" CE="9000041" NB="Johannes Fröhlinger" NC="Johannes Fröhlinger" PA="ALM" PACOI="GER" FCH="19850609" DE="1" AL="173" PE="62" DO="214" Eq="ARG" SK="1" HA="4" ></Jg>
+         <Jg ID="9000799" CE="9000012" NB="Matthieu Ladagnous" NC="Matthieu Ladagnous" PA="FRA" PACOI="FRA" FCH="19861212" DE="1" AL="182" PE="73" DO="144" Eq="FDJ" SK="1" HA="3" ></Jg>
+         <Jg ID="9000801" CE="9000001" NB="Mikaël Cherel" NC="Mikaël Cherel" PA="FRA" PACOI="FRA" FCH="19860317" DE="1" AL="185" PE="65" DO="73" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000818" CE="9000009" NB="Marcel Sieberg" NC="Marcel Sieberg" PA="ALM" PACOI="GER" FCH="19820430" DE="1" AL="198" PE="80" DO="118" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000821" CE="9000021" NB="Dries Devenyns" NC="Dries Devenyns" PA="BEL" PACOI="BEL" FCH="19830722" DE="1" AL="177" PE="64" DO="194" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000829" CE="9000022" NB="Maarten Wynants" NC="Maarten Wynants" PA="BEL" PACOI="BEL" FCH="19820513" DE="1" AL="190" PE="74" DO="159" Eq="RAB" SK="1" HA="3" ></Jg>
+         <Jg ID="9000831" CE="9000022" NB="Robert Gesink" NC="Robert Gesink" PA="NL" PACOI="NED" FCH="19860531" DE="1" AL="189" PE="69" DO="151" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000832" CE="9000014" NB="Sébastian Langeveld" NC="Sébastian Langeveld" PA="NL" PACOI="NED" FCH="19850117" DE="1" AL="178" PE="68" DO="207" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000838" CE="9000097" NB="Mark Cavendish" NC="Mark Cavendish" PA="GBR" PACOI="GBR" FCH="19850521" DE="1" AL="175" PE="69" DO="103" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000841" CE="9000010" NB="Amets Txurruka" NC="Amets Txurruka" PA="ESP" PACOI="ESP" FCH="19821110" DE="1" AL="173" PE="61" DO="37" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9000849" CE="9000040" NB="Eduard Vorganov" NC="Eduard Vorganov" PA="RUS" PACOI="RUS" FCH="19821201" DE="1" AL="178" PE="66" DO="139" Eq="KAT" SK="1" HA="4" ></Jg>
+         <Jg ID="9000861" CE="9000101" NB="Jérôme Coppel" NC="Jérôme Coppel" PA="FRA" PACOI="FRA" FCH="19860806" DE="1" AL="178" PE="63" DO="91" Eq="SAU" SK="1" HA="4" ></Jg>
+         <Jg ID="9000864" CE="9000012" NB="Anthony Roux" NC="Anthony Roux" PA="FRA" PACOI="FRA" FCH="19870418" DE="1" AL="189" PE="70" DO="147" Eq="FDJ" SK="1" HA="4" ></Jg>
+         <Jg ID="9000865" CE="9000009" NB="Jelle Vanendert" NC="Jelle Vanendert" PA="BEL" PACOI="BEL" FCH="19850219" DE="1" AL="184" PE="64" DO="119" Eq="OLO" SK="1" HA="3" ></Jg>
+         <Jg ID="9000866" CE="9000012" NB="Yauheni Hutarovich" NC="Yauheni Hutarovich" PA="BIE" PACOI="BLR" FCH="19831129" DE="1" AL="179" PE="71" DO="143" Eq="FDJ" SK="1" HA="4" ></Jg>
+         <Jg ID="9000867" CE="9000101" NB="Guillaume Levarlet" NC="Guillaume Levarlet" PA="FRA" PACOI="FRA" FCH="19850725" DE="1" AL="183" PE="65" DO="97" Eq="SAU" SK="1" HA="4" ></Jg>
+         <Jg ID="9000880" CE="9000097" NB="Chris Froome" NC="Christopher Froome" PA="GBR" PACOI="GBR" FCH="19850520" DE="1" AL="186" PE="72" DO="105" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9000881" CE="9000014" NB="Daryl Impey" NC="Daryl Impey" PA="SF" PACOI="RSA" FCH="19841206" DE="1" AL="181" PE="70" DO="205" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000884" CE="9000012" NB="Cedric Pineau" NC="Cedric Pineau" PA="FRA" PACOI="FRA" FCH="19850508" DE="1" AL="177" PE="68" DO="145" Eq="FDJ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001397" CE="9000018" NB="Jani Brajkovic" NC="Janez Brajkovic" PA="ESL" PACOI="SLO" FCH="19831218" DE="1" AL="177" PE="58" DO="181" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9000928" CE="9000021" NB="Tony Martin" NC="Tony Martin" PA="ALM" PACOI="GER" FCH="19850423" DE="1" AL="185" PE="75" DO="196" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000934" CE="9000005" NB="Rein Taaramae" NC="Rein Taaramae" PA="EST" PACOI="EST" FCH="19870424" DE="1" AL="184" PE="67" DO="81" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9000940" CE="9000022" NB="Laurens Ten Dam" NC="Laurens Ten Dam" PA="NL" PACOI="NED" FCH="19801113" DE="1" AL="184" PE="68" DO="157" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000941" CE="9000022" NB="Bauke Mollema" NC="Bauke Mollema" PA="NL" PACOI="NED" FCH="19861126" DE="1" AL="182" PE="65" DO="153" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000951" CE="9000022" NB="Maarten Tjallingii" NC="Maarten Tjallingii" PA="NL" PACOI="NED" FCH="19771105" DE="1" AL="188" PE="81" DO="158" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9000952" CE="9000009" NB="Francis De Greef" NC="Francis De Greef" PA="BEL" PACOI="BEL" FCH="19850202" DE="1" AL="192" PE="77" DO="113" Eq="OLO" SK="1" HA="1" ></Jg>
+         <Jg ID="9000954" CE="9000009" NB="Jurgen Roelandts" NC="Jurgen Roelandts" PA="BEL" PACOI="BEL" FCH="19850702" DE="1" AL="184" PE="79" DO="117" Eq="OLO" SK="0" HA="0" ></Jg>
+         <Jg ID="9000955" CE="9000015" NB="Vasil Kiryenka" NC="Vasil Kiryenka" PA="BIE" PACOI="BLR" FCH="19810628" DE="1" AL="182" PE="70" DO="167" Eq="MOV" SK="1" HA="4" ></Jg>
+         <Jg ID="9000962" CE="9000014" NB="Matt Goss" NC="Matthew Goss" PA="AUT" PACOI="AUS" FCH="19861105" DE="1" AL="175" PE="70" DO="204" Eq="GEC" SK="0" HA="0" ></Jg>
+         <Jg ID="9000974" CE="9000037" NB="Dan Martin" NC="Daniel Martin" PA="IRL" PACOI="IRL" FCH="19860820" DE="1" AL="177" PE="62" DO="65" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000979" CE="9000037" NB="Christian Vande Velde" NC="Christian Vande Velde" PA="USA" PACOI="USA" FCH="19760522" DE="1" AL="180" PE="68" DO="68" Eq="GRM" SK="0" HA="0" ></Jg>
+         <Jg ID="9000981" CE="9000021" NB="Martin Velits" NC="Martin Velits" PA="SVK" PACOI="SVK" FCH="19850221" DE="1" AL="185" PE="70" DO="198" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9000982" CE="9000021" NB="Peter Velits" NC="Peter Velits" PA="SVK" PACOI="SVK" FCH="19850221" DE="1" AL="181" PE="63" DO="199" Eq="OPQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001005" CE="9000040" NB="Yuriy Trofimov" NC="Yuriy Trofimov" PA="RUS" PACOI="RUS" FCH="19840126" DE="1" AL="169" PE="59" DO="138" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9001031" CE="9000001" NB="Maxime Bouet" NC="Maxime Bouet" PA="FRA" PACOI="FRA" FCH="19861103" DE="1" AL="184" PE="67" DO="72" Eq="ALM" SK="1" HA="4" ></Jg>
+         <Jg ID="9001038" CE="9000101" NB="Julien Simon" NC="Julien Simon" PA="FRA" PACOI="FRA" FCH="19851004" DE="1" AL="176" PE="65" DO="99" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9001058" CE="9000015" NB="Rui Costa" NC="Rui Alberto Faria Da Costa" PA="POR" PACOI="POR" FCH="19861005" DE="1" AL="183" PE="69" DO="163" Eq="MOV" SK="0" HA="0" ></Jg>
+         <Jg ID="9001066" CE="9000001" NB="Blel Kadri" NC="Blel Kadri" PA="FRA" PACOI="FRA" FCH="19860903" DE="1" AL="176" PE="65" DO="76" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9001068" CE="9000017" NB="Daniel Oss" NC="Daniel Oss" PA="ITA" PACOI="ITA" FCH="19870113" DE="1" AL="190" PE="75" DO="56" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001077" CE="9000102" NB="Yukiya Arashiro" NC="Yukiya Arashiro" PA="JAP" PACOI="JPN" FCH="19840922" DE="1" AL="170" PE="65" DO="22" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9001079" CE="9000102" NB="Cyril Gautier" NC="Cyril Gautier" PA="FRA" PACOI="FRA" FCH="19870926" DE="1" AL="177" PE="68" DO="24" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9001101" CE="9000097" NB="Edvald Boasson Hagen" NC="Edvald Boasson Hagen" PA="NOR" PACOI="NOR" FCH="19870517" DE="1" AL="181" PE="76" DO="102" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9001103" CE="9000102" NB="Davide Malacarne" NC="Davide Malacarne" PA="ITA" PACOI="ITA" FCH="19870711" DE="1" AL="172" PE="61" DO="28" Eq="EUC" SK="0" HA="0" ></Jg>
+         <Jg ID="9001109" CE="9000006" NB="Michael Morkov" NC="Michael Morkov" PA="DIN" PACOI="DEN" FCH="19850430" DE="1" AL="183" PE="67" DO="175" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9001131" CE="9000018" NB="Fredrik Kessiakoff" NC="Fredrik Carl Wilhelm Kessiakoff" PA="SE" PACOI="SWE" FCH="19800517" DE="1" AL="175" PE="64" DO="187" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9001145" CE="9000010" NB="Pablo Urtasun" NC="Pablo Urtasun Pérez" PA="ESP" PACOI="ESP" FCH="19800329" DE="1" AL="181" PE="70" DO="38" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9001149" CE="9000041" NB="Albert Timmer" NC="Albert Timmer" PA="NL" PACOI="NED" FCH="19850613" DE="1" AL="186" PE="71" DO="218" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9001155" CE="9000042" NB="Kenny Robert van Hummel" NC="Kenny Robert van Hummel" PA="NL" PACOI="NED" FCH="19820930" DE="1" AL="176" PE="64" DO="129" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001160" CE="9000041" NB="Roy Curvers" NC="Roy Curvers" PA="NL" PACOI="NED" FCH="19791227" DE="1" AL="188" PE="73" DO="212" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9001164" CE="9000041" NB="Tom Veelers" NC="Tom Veelers" PA="NL" PACOI="NED" FCH="19840914" DE="1" AL="188" PE="80" DO="219" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9001166" CE="9000101" NB="Brice Feillu" NC="Brice Feillu" PA="FRA" PACOI="FRA" FCH="19850126" DE="1" AL="188" PE="66" DO="94" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9001172" CE="9000018" NB="Borut Bozic" NC="Borut Bozic" PA="ESL" PACOI="SLO" FCH="19800808" DE="1" AL="178" PE="70" DO="182" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9001177" CE="9000042" NB="Johnny Hoogerland" NC="Johnny Hoogerland" PA="NL" PACOI="NED" FCH="19830513" DE="1" AL="179" PE="70" DO="123" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001178" CE="9000042" NB="Lieuwe Westra" NC="Lieuwe Westra" PA="NL" PACOI="NED" FCH="19820911" DE="1" AL="185" PE="74" DO="121" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001179" CE="9000042" NB="Marco Marcato" NC="Marco Marcato" PA="ITA" PACOI="ITA" FCH="19840211" DE="1" AL="174" PE="68" DO="125" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001187" CE="9000042" NB="Wout Poels" NC="Wout Poels" PA="NL" PACOI="NED" FCH="19871001" DE="1" AL="183" PE="65" DO="126" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001199" CE="9000018" NB="Robert Kiserlovski" NC="Robert Kiserlovski" PA="CRO" PACOI="CRO" FCH="19860809" DE="1" AL="179" PE="62" DO="188" Eq="AST" SK="0" HA="0" ></Jg>
+         <Jg ID="9001204" CE="9000097" NB="Richie Porte" NC="Richie Porte" PA="AUT" PACOI="AUS" FCH="19850130" DE="1" AL="183" PE="72" DO="107" Eq="SKY" SK="0" HA="0" ></Jg>
+         <Jg ID="9001228" CE="9000001" NB="Jean-Christophe Peraud" NC="Jean-Christophe Peraud" PA="FRA" PACOI="FRA" FCH="19770522" DE="1" AL="172" PE="63" DO="71" Eq="ALM" SK="0" HA="0" ></Jg>
+         <Jg ID="9001243" CE="9000017" NB="Kristijan Koren" NC="Kristijan Koren" PA="ESL" PACOI="SLO" FCH="19861125" DE="1" AL="183" PE="72" DO="54" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001246" CE="9000016" NB="Grega Bole" NC="Grega Bole" PA="ESL" PACOI="SLO" FCH="19850813" DE="1" AL="179" PE="68" DO="42" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9001324" CE="9000096" NB="Michael Schär" NC="Michael Schär" PA="SUI" PACOI="SUI" FCH="19860529" DE="1" AL="196" PE="75" DO="8" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9001332" CE="9000022" NB="Steven Kruijswijk" NC="Steven Kruijswijk" PA="NL" PACOI="NED" FCH="19870607" DE="1" AL="178" PE="64" DO="152" Eq="RAB" SK="0" HA="0" ></Jg>
+         <Jg ID="9001340" CE="9000017" NB="Dominik Nerz" NC="Dominik Nerz" PA="ALM" PACOI="GER" FCH="19890825" DE="1" AL="180" PE="67" DO="55" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001345" CE="9000017" NB="Peter Sagan" NC="Peter Sagan" PA="SVK" PACOI="SVK" FCH="19900126" DE="1" AL="184" PE="73" DO="57" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001349" CE="9000005" NB="Jan Ghyselinck" NC="Jan Ghyselinck" PA="BEL" PACOI="BEL" FCH="19880224" DE="1" AL="0" PE="0" DO="86" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9001350" CE="9000041" NB="Patrick Gretsch" NC="Patrick Gretsch" PA="ALM" PACOI="GER" FCH="19870407" DE="1" AL="0" PE="0" DO="215" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9001353" CE="9000096" NB="Tejay Van Garderen" NC="Tejay Van Garderen" PA="USA" PACOI="USA" FCH="19880812" DE="1" AL="182" PE="79" DO="9" Eq="BMC" SK="0" HA="0" ></Jg>
+         <Jg ID="9001365" CE="9000042" NB="Rafael Valls" NC="Rafael Valls" PA="ESP" PACOI="ESP" FCH="19870625" DE="1" AL="171" PE="59" DO="128" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001371" CE="9000017" NB="Federico Canuti" NC="Federico Canuti" PA="ITA" PACOI="ITA" FCH="19850830" DE="1" AL="182" PE="70" DO="53" Eq="LIQ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001379" CE="9000016" NB="Simone Stortoni" NC="Simone Stortoni" PA="ITA" PACOI="ITA" FCH="19850707" DE="1" AL="169" PE="59" DO="48" Eq="LAM" SK="0" HA="0" ></Jg>
+         <Jg ID="9001381" CE="9000005" NB="Julien Fouchard" NC="Julien Fouchard" PA="FRA" PACOI="FRA" FCH="19860820" DE="1" AL="187" PE="74" DO="85" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9001382" CE="9000100" NB="Tony Gallopin" NC="Tony Gallopin" PA="FRA" PACOI="FRA" FCH="19880524" DE="1" AL="180" PE="70" DO="13" Eq="RNT" SK="0" HA="0" ></Jg>
+         <Jg ID="9001385" CE="9000005" NB="Romain Zingle" NC="Romain Zingle" PA="BEL" PACOI="BEL" FCH="19870129" DE="1" AL="175" PE="68" DO="89" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9001405" CE="9000010" NB="Gorka Izagirre" NC="Gorka Izagirre Insausti" PA="ESP" PACOI="ESP" FCH="19871007" DE="1" AL="179" PE="73" DO="34" Eq="EUS" SK="0" HA="0" ></Jg>
+         <Jg ID="9001407" CE="9000012" NB="Thibaut Pinot" NC="Thibaut Pinot" PA="FRA" PACOI="FRA" FCH="19900529" DE="1" AL="180" PE="63" DO="146" Eq="FDJ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001408" CE="9000012" NB="Arthur Vichot" NC="Arthur Vichot" PA="FRA" PACOI="FRA" FCH="19881126" DE="1" AL="183" PE="69" DO="149" Eq="FDJ" SK="0" HA="0" ></Jg>
+         <Jg ID="9001466" CE="9000040" NB="Aliaksandr Kuschynski" NC="Aliaksandr Kuschynski" PA="BIE" PACOI="BLR" FCH="19791027" DE="1" AL="182" PE="75" DO="136" Eq="KAT" SK="0" HA="0" ></Jg>
+         <Jg ID="9001515" CE="9000042" NB="Rob Ruijgh" NC="Rob Ruijgh" PA="NL" PACOI="NED" FCH="19861112" DE="1" AL="175" PE="63" DO="127" Eq="VCD" SK="0" HA="0" ></Jg>
+         <Jg ID="9001524" CE="9000005" NB="Nicolas Edet" NC="Nicolas Edet" PA="FRA" PACOI="FRA" FCH="19871202" DE="1" AL="176" PE="60" DO="84" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9001525" CE="9000005" NB="Luis Angel Mate" NC="Luis Angel Mate" PA="ESP" PACOI="ESP" FCH="19840323" DE="1" AL="177" PE="69" DO="87" Eq="COF" SK="0" HA="0" ></Jg>
+         <Jg ID="9001528" CE="9000101" NB="Fabrice Jeandesboz" NC="Fabrice Jeandesboz" PA="FRA" PACOI="FRA" FCH="19841204" DE="1" AL="179" PE="67" DO="95" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9001534" CE="9000101" NB="Anthony Delaplace" NC="Anthony Delaplace" PA="FRA" PACOI="FRA" FCH="19891111" DE="1" AL="181" PE="65" DO="92" Eq="SAU" SK="0" HA="0" ></Jg>
+         <Jg ID="9001538" CE="9000041" NB="Marcel Kittel" NC="Marcel Kittel" PA="ALM" PACOI="GER" FCH="19880511" DE="1" AL="175" PE="66" DO="211" Eq="ARG" SK="0" HA="0" ></Jg>
+         <Jg ID="9001650" CE="9000006" NB="Jonathan Cantwell" NC="Jonathan Cantwell" PA="AUT" PACOI="AUS" FCH="19820108" DE="1" AL="0" PE="0" DO="171" Eq="SAX" SK="0" HA="0" ></Jg>
+         <Jg ID="9001651" CE="9000042" NB="Kris Boeckmans" NC="Kris Boeckmans" PA="BEL" PACOI="BEL" FCH="19870213" DE="1" AL="180" PE="74" DO="122" Eq="VCD" SK="0" HA="0" ></Jg>
+    </Jugadores>
+    <Arbitros>
+    </Arbitros>
+    <Entrenadores>
+         <En ID="3666" NB="Didier Rous" CE="9000005" PA="FRA" PACOI="FRA" FCH="9999" ></En>
+         <En ID="3678" NB="Dan Frost" CE="9000006" PA="DIN" PACOI="DEN" FCH="9999" ></En>
+         <En ID="3683" NB="Brian Holm" CE="9000021" PA="DIN" PACOI="DEN" FCH="19621002" ></En>
+         <En ID="3670" NB="Maurizio Piovani" CE="9000016" PA="ITA" PACOI="ITA" FCH="9999" ></En>
+         <En ID="3681" NB="Frans Maassen" CE="9000022" PA="NL" PACOI="NED" FCH="9999" ></En>
+         <En ID="3675" NB="Lylian Lebreton" CE="9000101" PA="FRA" PACOI="FRA" FCH="9999" ></En>
+         <En ID="3667" NB="Gorka Gerrikagoitia" CE="9000010" PA="ESP" PACOI="ESP" FCH="9999" ></En>
+         <En ID="3677" NB="Christian Guiberteau" CE="9000041" PA="FRA" PACOI="FRA" FCH="19680106" ></En>
+         <En ID="3673" NB="Yvon Ledanois" CE="9000015" PA="FRA" PACOI="FRA" FCH="9999" ></En>
+         <En ID="3668" NB="Thierry Bricaud" CE="9000012" PA="FRA" PACOI="FRA" FCH="9999" ></En>
+         <En ID="3676" NB="Sean Yates" CE="9000097" PA="ING" PACOI="ING" FCH="19600518" ></En>
+         <En ID="3679" NB="Hilaire Van der Schueren" CE="9000042" PA="NL" PACOI="NED" FCH="9999" ></En>
+         <En ID="3682" NB="Alain Gallopin" CE="9000100" PA="FRA" PACOI="FRA" FCH="9999" ></En>
+         <En ID="2966" NB="John Lelangue" CE="9000096" PA="USA" PACOI="USA" FCH="9999" ></En>
+         <En ID="3671" NB="Stefano Zanatta" CE="9000017" PA="ITA" PACOI="ITA" FCH="9999" ></En>
+         <En ID="2968" NB="Jean-René Bernaudeau" CE="9000102" PA="FRA" PACOI="FRA" FCH="19560708" ></En>
+         <En ID="2956" NB="Vincent Lavenu" CE="9000001" PA="FRA" PACOI="FRA" FCH="19560112" ></En>
+         <En ID="3672" NB="Herman Frison" CE="9000009" PA="BEL" PACOI="BEL" FCH="9999" ></En>
+         <En ID="3600" NB="Giuseppe Martinelli" CE="9000018" PA="ITA" PACOI="ITA" FCH="9999" ></En>
+         <En ID="3674" NB="Matthew White" CE="9000014" PA="AUT" PACOI="AUS" FCH="9999" ></En>
+         <En ID="3669" NB="Valerio Piva" CE="9000040" PA="ITA" PACOI="ITA" FCH="19580705" ></En>
+         <En ID="2961" NB="Jonathan Vaughters" CE="9000037" PA="USA" PACOI="USA" FCH="19730610" ></En>
+    </Entrenadores>
+    <Presidentes>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000005" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000006" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000021" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000016" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000022" ></Pr>
+         <Pr ID="1012" NB="Desconocido/Unknown" CE="9000101" ></Pr>
+         <Pr ID="419" NB="Desconocido/Unknown" CE="9000010" ></Pr>
+         <Pr ID="1404" NB="Desconocido/Unknown" CE="9000041" ></Pr>
+         <Pr ID="419" NB="Desconocido/Unknown" CE="9000015" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000012" ></Pr>
+         <Pr ID="1404" NB="Desconocido/Unknown" CE="9000097" ></Pr>
+         <Pr ID="815" NB="Desconocido/Unknown" CE="9000042" ></Pr>
+         <Pr ID="1012" NB="Desconocido/Unknown" CE="9000100" ></Pr>
+         <Pr ID="1404" NB="Desconocido/Unknown" CE="9000096" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000017" ></Pr>
+         <Pr ID="1012" NB="Desconocido/Unknown" CE="9000102" ></Pr>
+         <Pr ID="419" NB="Desconocido/Unknown" CE="9000001" ></Pr>
+         <Pr ID="2224" NB="Coeman Geert" CE="9000009" ></Pr>
+         <Pr ID="2792" NB="Desconocido/Unknown" CE="9000018" ></Pr>
+         <Pr ID="0" NB="Desconocido/Unknown" CE="9000014" ></Pr>
+         <Pr ID="1012" NB="Desconocido/Unknown" CE="9000040" ></Pr>
+         <Pr ID="815" NB="Desconocido/Unknown" CE="9000037" ></Pr>
+    </Presidentes>
+    <Estadios>
+    </Estadios>
+    <Equipaciones>
+    </Equipaciones>
+</Competicion>

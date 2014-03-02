@@ -1,0 +1,4328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue02.sportingstatz.com
+     production time:    20111026T080038,956Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="FR_L1" competition_id="24" competition_name="French Ligue 1" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2011-10-26 09-00-38">
+    <MatchData uID="g359364">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1299">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359293">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2107">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p83341" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42954" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42954" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359383">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1311">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359334">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2528">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359255">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="3409">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t862">
+        <Goal Period="SecondHalf" PlayerRef="p86055" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38505" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t147">
+        <Goal Period="FirstHalf" PlayerRef="p44346" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44346" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359487">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="7340">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359309">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="2109">
+        <Date>2011-10-22 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t694" />
+      <TeamData Score="0" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359414">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2528">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359365">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="3253">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359340">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2506">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359548">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="3403">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359260">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="2506">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1395">
+        <Goal Period="FirstHalf" PlayerRef="p54796" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p31878" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54796" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359540">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1319">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359216">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="7340">
+        <Date>2011-08-14 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t5447">
+        <Goal Period="SecondHalf" PlayerRef="p103153" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359387">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="2109">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359318">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1309">
+        <Date>2011-10-29 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t143" />
+      <TeamData Score="0" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359241">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2107">
+        <Date>2011-08-28 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t693">
+        <Goal Period="FirstHalf" PlayerRef="p55264" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p55264" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t152">
+        <Goal Period="FirstHalf" PlayerRef="p54694" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359395">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2743">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359463">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2107">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359514">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1299">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359354">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2528">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359538">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="3254">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359419">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1310">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359457">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1319">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359579">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1309">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359519">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1315">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359460">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1310">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359454">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2743">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359344">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1299">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359277">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="3253">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t429">
+        <Goal Period="FirstHalf" PlayerRef="p2060" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p38261" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359556">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="7340">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359210">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2108">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p44346" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p66959" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6580" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t138">
+        <Goal Period="FirstHalf" PlayerRef="p37751" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359564">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2528">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359582">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="136">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359499">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1310">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359493">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="7521">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359296">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="3409">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t862">
+        <Goal Period="FirstHalf" PlayerRef="p44276" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p73799" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359431">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1315">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359965">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1311">
+        <Date>2011-09-11 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p54782" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359450">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2506">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359399">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1319">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359221">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="2107">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p55264" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p9974" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p67276" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359502">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1319">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359325">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2743">
+        <Date>2011-11-06 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t140" />
+      <TeamData Score="0" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359408">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="2109">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t694" />
+      <TeamData Score="0" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359541">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="2107">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359236">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="3253">
+        <Date>2011-08-28 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p40560" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27677" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27677" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p37852" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37852" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359349">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="3254">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359443">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2107">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359264">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2528">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1163">
+        <Goal Period="SecondHalf" PlayerRef="p51498" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t147">
+        <Goal Period="FirstHalf" PlayerRef="p13000" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p48830" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p66957" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359486">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="3403">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359311">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="3254">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p28431" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359571">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="3254">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359391">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="2107">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359320">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2506">
+        <Date>2011-10-30 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1395" />
+      <TeamData Score="0" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359520">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1319">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359251">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="3254">
+        <Date>2011-09-11 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t148" />
+      <TeamData Score="0" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359533">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1311">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359475">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2743">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359440">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1310">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359382">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2506">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359503">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2107">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359288">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3253">
+        <Date>2011-10-02 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t429">
+        <Goal Period="FirstHalf" PlayerRef="p27677" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8747" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359205">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2743">
+        <Date>2011-08-07 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t140">
+        <Goal Period="SecondHalf" PlayerRef="p28138" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t152">
+        <Goal Period="FirstHalf" PlayerRef="p54694" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37740" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359964">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1319">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t152">
+        <Goal Period="FirstHalf" PlayerRef="p17518" Type="Own" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p40676" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42786" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42786" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359372">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="136">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359322">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="136">
+        <Date>2011-10-30 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t427" />
+      <TeamData Score="0" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359565">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2743">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359246">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2739">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1028" />
+      <TeamData Score="1" Side="Away" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p38439" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359400">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1310">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359215">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1319">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t152">
+        <Goal Period="SecondHalf" PlayerRef="p6657" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359507">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="3403">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359437">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="3403">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359225">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2743">
+        <Date>2011-08-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t140">
+        <Goal Period="FirstHalf" PlayerRef="p42727" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p37751" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359500">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="3254">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359526">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="3409">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359434">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2528">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359303">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="7521">
+        <Date>2011-10-16 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1996">
+        <Goal Period="FirstHalf" PlayerRef="p83465" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p83465" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p47409" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359259">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1309">
+        <Date>2011-09-18 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359377">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2739">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359245">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2743">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t140" />
+      <TeamData Score="0" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359350">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1315">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359267">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="3403">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2130">
+        <Goal Period="FirstHalf" PlayerRef="p44314" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359476">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2739">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359300">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2506">
+        <Date>2011-10-15 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1395">
+        <Goal Period="FirstHalf" PlayerRef="p15741" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37993" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17954" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359394">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2528">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359423">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2107">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359263">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="7521">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t1996">
+        <Goal Period="SecondHalf" PlayerRef="p11501" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p11501" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37765" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6751" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359515">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="3253">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359338">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1309">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359464">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2528">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359290">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1310">
+        <Date>2011-10-02 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t144">
+        <Goal Period="FirstHalf" PlayerRef="p45124" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t862">
+        <Goal Period="FirstHalf" PlayerRef="p14811" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359497">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="3253">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359577">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="3253">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359523">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="7521">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359305">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="2743">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t140">
+        <Goal Period="SecondHalf" PlayerRef="p42727" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t862">
+        <Goal Period="SecondHalf" PlayerRef="p38505" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359458">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="3253">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359312">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1311">
+        <Date>2011-10-23 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t149">
+        <Goal Period="FirstHalf" PlayerRef="p20583" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20583" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359416">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2739">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359466">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="3403">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359319">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2108">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t147" />
+      <TeamData Score="0" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359439">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2109">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359366">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2109">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359226">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="3409">
+        <Date>2011-08-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t862">
+        <Goal Period="FirstHalf" PlayerRef="p44278" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359384">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1299">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359474">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1299">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359254">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1299">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t138">
+        <Goal Period="FirstHalf" PlayerRef="p28143" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1028">
+        <Goal Period="FirstHalf" PlayerRef="p12284" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359333">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2107">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t693" />
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359560">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1315">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359347">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2109">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359527">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2739">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359483">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2107">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359329">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1310">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="0" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359462">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1311">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359206">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="3409">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t862">
+        <Goal Period="FirstHalf" PlayerRef="p44276" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44278" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t5447">
+        <Goal Period="FirstHalf" PlayerRef="p89472" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10016" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359351">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1319">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359242">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="136">
+        <Date>2011-08-28 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t427">
+        <Goal Period="FirstHalf" PlayerRef="p38439" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p19510" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42779" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19500" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359284">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2743">
+        <Date>2011-10-01 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t140">
+        <Goal Period="FirstHalf" PlayerRef="p33103" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37740" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p28136" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p66959" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359314">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2528">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1163" />
+      <TeamData Score="0" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359488">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1309">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359404">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1299">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359388">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="3254">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359356">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="3409">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359229">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1310">
+        <Date>2011-08-21 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="0" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359495">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2743">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359521">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="2107">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359441">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="3254">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359425">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="3409">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359276">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="7340">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t5447">
+        <Goal Period="FirstHalf" PlayerRef="p10013" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10013" Type="Goal" />
+      </TeamData>
+      <TeamData Score="4" Side="Away" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p28155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p66947" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p96764" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p6669" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359447">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="7340">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359235">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="7340">
+        <Date>2011-08-27 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5447" />
+      <TeamData Score="1" Side="Away" TeamRef="t2130">
+        <Goal Period="SecondHalf" PlayerRef="p54683" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359346">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="3253">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359534">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1299">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359420">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2108">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359413">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="7521">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359513">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="7521">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359373">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="7521">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359308">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="3253">
+        <Date>2011-10-23 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p37439" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p2060" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27677" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p27675" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359417">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="3403">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359553">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1311">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359494">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1299">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359213">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="1311">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t149" />
+      <TeamData Score="1" Side="Away" TeamRef="t694">
+        <Goal Period="FirstHalf" PlayerRef="p37988" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359239">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2506">
+        <Date>2011-08-27 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1395" />
+      <TeamData Score="0" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359574">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1299">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359542">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="136">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359568">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="3403">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359299">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2108">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p44346" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p10955" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p86445" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p44346" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p44346" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t2130">
+        <Goal Period="SecondHalf" PlayerRef="p103147" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p86446" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p86446" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359451">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1315">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359436">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2739">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359262">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="136">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p55313" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p51621" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38439" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t140">
+        <Goal Period="FirstHalf" PlayerRef="p33103" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p33103" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359214">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1299">
+        <Date>2011-08-14 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p37751" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42759" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t144">
+        <Goal Period="FirstHalf" PlayerRef="p38419" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45124" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359479">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1310">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359561">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2107">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359427">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="3253">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359583">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="7521">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359341">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="1311">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359554">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1299">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359332">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1319">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t152" />
+      <TeamData Score="0" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359244">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2528">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1163">
+        <Goal Period="SecondHalf" PlayerRef="p19499" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54413" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54413" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1996">
+        <Goal Period="FirstHalf" PlayerRef="p6751" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359289">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2109">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p44379" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p99127" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359539">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1315">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359569">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1310">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359409">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1309">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359390">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1319">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359258">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="2109">
+        <Date>2011-09-17 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p11839" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37778" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p11839" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359357">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2739">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359470">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2506">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359424">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1299">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359482">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1319">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359498">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2109">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359444">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2528">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359335">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="3409">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359230">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2108">
+        <Date>2011-08-21 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p6580" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p66959" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p10955" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p10955" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359233">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="1311">
+        <Date>2011-08-21 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t149">
+        <Goal Period="FirstHalf" PlayerRef="p42779" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20583" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1996">
+        <Goal Period="FirstHalf" PlayerRef="p42733" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359209">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="1310">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t144">
+        <Goal Period="FirstHalf" PlayerRef="p20087" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38419" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p45033" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p51634" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359421">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="3254">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359376">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="3409">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359545">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2743">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359518">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="3254">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359315">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="3409">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t862" />
+      <TeamData Score="0" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359535">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="7340">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359328">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2109">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t694" />
+      <TeamData Score="0" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359524">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2528">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359557">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="3253">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359550">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1310">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359234">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1299">
+        <Date>2011-08-27 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p37751" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37751" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42950" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13395" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1163">
+        <Goal Period="SecondHalf" PlayerRef="p19499" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359272">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1311">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p42779" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p20583" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1395">
+        <Goal Period="SecondHalf" PlayerRef="p54796" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359301">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1315">
+        <Date>2011-10-16 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t150">
+        <Goal Period="SecondHalf" PlayerRef="p18168" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p37940" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359506">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2739">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359385">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="7340">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359218">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="2109">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p44379" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t140">
+        <Goal Period="SecondHalf" PlayerRef="p37754" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359528">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="3403">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359426">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="7340">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359367">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1310">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359472">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="136">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359362">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2506">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359281">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1315">
+        <Date>2011-09-25 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t150">
+        <Goal Period="FirstHalf" PlayerRef="p27670" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t152">
+        <Goal Period="SecondHalf" PlayerRef="p54694" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359489">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2108">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359370">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1319">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359207">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2739">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1028">
+        <Goal Period="FirstHalf" PlayerRef="p6669" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359291">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3254">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p40829" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5447">
+        <Goal Period="SecondHalf" PlayerRef="p40682" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359393">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="7521">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359428">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="1309">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359516">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="2109">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359324">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1299">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t138" />
+      <TeamData Score="0" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359484">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2528">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359403">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="1311">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359448">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1309">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359546">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="3409">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359228">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="3403">
+        <Date>2011-08-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t2130">
+        <Goal Period="SecondHalf" PlayerRef="p54683" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44224" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359285">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="2739">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p9974" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1395">
+        <Goal Period="SecondHalf" PlayerRef="p15741" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359307">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1319">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t152">
+        <Goal Period="SecondHalf" PlayerRef="p6501" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359531">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2108">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359266">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2739">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1028">
+        <Goal Period="FirstHalf" PlayerRef="p12284" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359304">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1299">
+        <Date>2011-10-23 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t138" />
+      <TeamData Score="1" Side="Away" TeamRef="t150">
+        <Goal Period="SecondHalf" PlayerRef="p45082" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359465">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="3409">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359469">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2108">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359253">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2107">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t693">
+        <Goal Period="FirstHalf" PlayerRef="p55265" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p85188" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359297">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="7340">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t5447">
+        <Goal Period="SecondHalf" PlayerRef="p51627" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t152">
+        <Goal Period="SecondHalf" PlayerRef="p6501" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54694" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359302">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="136">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t427" />
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359374">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2528">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359294">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2528">
+        <Date>2011-10-16 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1163">
+        <Goal Period="FirstHalf" PlayerRef="p17337" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p42779" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42779" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42779" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359562">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="136">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359480">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="3254">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359415">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2743">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359543">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="7521">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359336">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="3403">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359389">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1315">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359555">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1319">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359549">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="1309">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359433">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="7521">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359512">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1311">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359522">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="136">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359313">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="2107">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p55265" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5447">
+        <Goal Period="SecondHalf" PlayerRef="p44204" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359452">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="136">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359355">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2743">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359573">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="1311">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359279">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="2108">
+        <Date>2011-09-24 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t147" />
+      <TeamData Score="3" Side="Away" TeamRef="t149">
+        <Goal Period="FirstHalf" PlayerRef="p54782" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54782" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42779" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359250">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2108">
+        <Date>2011-09-11 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p10955" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359321">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1311">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t149" />
+      <TeamData Score="0" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359478">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2109">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359966">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="3253">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t429" />
+      <TeamData Score="0" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359570">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2108">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359432">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="136">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359212">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2506">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1395">
+        <Goal Period="FirstHalf" PlayerRef="p40832" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p59963" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20088" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359257">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="3253">
+        <Date>2011-09-17 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p9980" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42786" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p49367" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p83341" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359578">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2109">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359536">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="3253">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359505">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="3409">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359402">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="3254">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359455">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2739">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359330">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="3254">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t148" />
+      <TeamData Score="0" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359551">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2108">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359222">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="136">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p19925" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p40962" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359339">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2108">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359268">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1319">
+        <Date>2011-09-21 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t152">
+        <Goal Period="SecondHalf" PlayerRef="p39991" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t427">
+        <Goal Period="FirstHalf" PlayerRef="p55313" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359238">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1309">
+        <Date>2011-08-27 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p40833" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46696" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p44324" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359275">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="3409">
+        <Date>2011-09-25 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t862">
+        <Goal Period="SecondHalf" PlayerRef="p51525" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1163">
+        <Goal Period="SecondHalf" PlayerRef="p44257" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359237">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2109">
+        <Date>2011-08-27 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t694">
+        <Goal Period="SecondHalf" PlayerRef="p27674" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38261" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t148">
+        <Goal Period="FirstHalf" PlayerRef="p41754" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359278">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1309">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p14197" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t140">
+        <Goal Period="SecondHalf" PlayerRef="p35865" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359501">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1315">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359567">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2739">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359575">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1319">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359261">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1315">
+        <Date>2011-09-18 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t150">
+        <Goal Period="FirstHalf" PlayerRef="p44502" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p37867" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359509">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="1309">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359327">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="3253">
+        <Date>2011-11-05 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t429" />
+      <TeamData Score="0" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359380">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1310">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359392">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="136">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359232">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2506">
+        <Date>2011-08-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1395">
+        <Goal Period="FirstHalf" PlayerRef="p40832" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p67158" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359435">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2743">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359471">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1315">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359491">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="1311">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359348">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1310">
+        <Date>2011-11-27 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="0" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359412">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="136">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359386">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="3253">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359342">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="136">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359286">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3403">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2130">
+        <Goal Period="FirstHalf" PlayerRef="p83913" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1163">
+        <Goal Period="FirstHalf" PlayerRef="p51498" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359298">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1309">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p37044" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359558">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2109">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359219">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1309">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p20088" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1163">
+        <Goal Period="SecondHalf" PlayerRef="p54413" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359352">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2107">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359227">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2739">
+        <Date>2011-08-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p12284" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p9980" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27334" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359316">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="3403">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2130" />
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359363">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1311">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359445">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="1299">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t138" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359343">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="7521">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359331">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1315">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t150" />
+      <TeamData Score="0" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359381">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2108">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359240">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1315">
+        <Date>2011-08-28 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t150">
+        <Goal Period="FirstHalf" PlayerRef="p38260" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37940" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p43901" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p66947" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p73799" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359430">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="2506">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359358">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="3403">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359360">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="1309">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359442">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1311">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359517">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1310">
+        <Date>2012-04-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t144" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359473">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="7521">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359273">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2107">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t693">
+        <Goal Period="FirstHalf" PlayerRef="p55265" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42954" Type="Goal" />
+      </TeamData>
+      <TeamData Score="6" Side="Away" TeamRef="t150">
+        <Goal Period="FirstHalf" PlayerRef="p45109" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27670" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p45082" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44502" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p37940" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p44502" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359368">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="3254">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359326">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2739">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1028" />
+      <TeamData Score="0" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359361">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2108">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359537">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="2109">
+        <Date>2012-04-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359323">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="7521">
+        <Date>2011-10-30 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359280">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="2506">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1395">
+        <Goal Period="SecondHalf" PlayerRef="p37929" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2130">
+        <Goal Period="FirstHalf" PlayerRef="p86446" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359208">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="3403">
+        <Date>2011-08-07 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2130">
+        <Goal Period="FirstHalf" PlayerRef="p54683" Type="Goal" />
+      </TeamData>
+      <TeamData Score="5" Side="Away" TeamRef="t150">
+        <Goal Period="SecondHalf" PlayerRef="p38260" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18665" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45082" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43901" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44502" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359378">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="3403">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359510">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2108">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359295">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1299">
+        <Date>2011-10-15 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t138">
+        <Goal Period="FirstHalf" PlayerRef="p34741" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p18829" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27334" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p37901" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359310">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="1310">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p45124" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45124" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359292">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1311">
+        <Date>2011-10-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p38265" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54782" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359211">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="3254">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p12656" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p27334" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359379">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1309">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359411">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="1315">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359544">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2528">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359581">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2107">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359406">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="7340">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359481">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="1315">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359271">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="3254">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t148">
+        <Goal Period="FirstHalf" PlayerRef="p73678" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1996">
+        <Goal Period="SecondHalf" PlayerRef="p37765" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359231">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="3254">
+        <Date>2011-08-21 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t148">
+        <Goal Period="SecondHalf" PlayerRef="p27670" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t693">
+        <Goal Period="SecondHalf" PlayerRef="p57129" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49367" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359375">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2743">
+        <Date>2011-12-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359396">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="3409">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t1395" />
+    </MatchData>
+    <MatchData uID="g359398">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="3403">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359511">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2506">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359265">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2743">
+        <Date>2011-09-20 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t140">
+        <Goal Period="FirstHalf" PlayerRef="p33103" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p42786" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359461">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="3254">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Marcel Picot</Stat>
+      <Stat Type="City">Nancy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t148" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359270">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="1310">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p38419" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p38419" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359283">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="7521">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1996">
+        <Goal Period="SecondHalf" PlayerRef="p37950" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t144">
+        <Goal Period="FirstHalf" PlayerRef="p13399" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359563">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="7521">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359485">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="3409">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359220">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="1315">
+        <Date>2011-08-13 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t150">
+        <Goal Period="SecondHalf" PlayerRef="p18168" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p42779" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359422">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1311">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t149" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359418">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1319">
+        <Date>2012-02-04 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359453">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="7521">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359967">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="3409">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t862" />
+      <TeamData Score="0" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359353">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="136">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359369">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="1315">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359468">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1309">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359429">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="2108">
+        <Date>2012-02-11 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359256">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="7340">
+        <Date>2011-09-18 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t5447">
+        <Goal Period="FirstHalf" PlayerRef="p51627" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p6260" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t149">
+        <Goal Period="SecondHalf" PlayerRef="p26896" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p54782" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359282">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="136">
+        <Date>2011-09-24 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p40962" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t148" />
+    </MatchData>
+    <MatchData uID="g359401">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2108">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g359446">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="3409">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359504">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2528">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1163" />
+      <TeamData Score="" Side="Away" TeamRef="t152" />
+    </MatchData>
+    <MatchData uID="g359572">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="2506">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t5447" />
+    </MatchData>
+    <MatchData uID="g359269">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2109">
+        <Date>2011-09-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t694">
+        <Goal Period="FirstHalf" PlayerRef="p85188" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p34741" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359359">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="7340">
+        <Date>2011-12-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359456">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="3403">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t2130" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359274">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1299">
+        <Date>2011-09-25 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbé-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p34741" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37751" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34741" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34741" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t693">
+        <Goal Period="FirstHalf" PlayerRef="p42954" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359492">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="136">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Municipal</Stat>
+      <Stat Type="City">Toulouse</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t427" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359224">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2528">
+        <Date>2011-08-20 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1163">
+        <Goal Period="FirstHalf" PlayerRef="p54413" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5447">
+        <Goal Period="SecondHalf" PlayerRef="p80485" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359438">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1319">
+        <Date>2012-02-18 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t152" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359552">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2506">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g359525">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2743">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359247">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="3403">
+        <Date>2011-09-10 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Gaston Gérard</Stat>
+      <Stat Type="City">Dijon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2130">
+        <Goal Period="FirstHalf" PlayerRef="p86446" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p37998" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p57266" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359529">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="7340">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t427" />
+    </MatchData>
+    <MatchData uID="g359317">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="7340">
+        <Date>2011-10-29 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5447" />
+      <TeamData Score="0" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359496">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2739">
+        <Date>2012-03-31 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t1163" />
+    </MatchData>
+    <MatchData uID="g359345">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2743">
+        <Date>2011-11-26 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Jacques Chaban-Delmas</Stat>
+      <Stat Type="City">Bordeaux</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t140" />
+      <TeamData Score="" Side="Away" TeamRef="t1028" />
+    </MatchData>
+    <MatchData uID="g359217">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="3253">
+        <Date>2011-08-14 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t429" />
+      <TeamData Score="1" Side="Away" TeamRef="t147">
+        <Goal Period="SecondHalf" PlayerRef="p44346" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359490">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2506">
+        <Date>2012-03-24 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g359576">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="7340">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359547">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="2739">
+        <Date>2012-05-02 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359410">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="2506">
+        <Date>2012-01-28 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t147" />
+    </MatchData>
+    <MatchData uID="g359459">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2109">
+        <Date>2012-03-03 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Moustoir</Stat>
+      <Stat Type="City">Lorient</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t694" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359530">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="1309">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359371">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2107">
+        <Date>2011-12-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Bonal</Stat>
+      <Stat Type="City">Montbéliard</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t693" />
+      <TeamData Score="" Side="Away" TeamRef="t149" />
+    </MatchData>
+    <MatchData uID="g359306">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="2739">
+        <Date>2011-10-22 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1028">
+        <Goal Period="SecondHalf" PlayerRef="p12284" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t147">
+        <Goal Period="FirstHalf" PlayerRef="p44488" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p66959" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13000" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359337">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="7340">
+        <Date>2011-11-19 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t694" />
+    </MatchData>
+    <MatchData uID="g359223">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="7521">
+        <Date>2011-08-13 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1996" />
+      <TeamData Score="0" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359580">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1315">
+        <Date>2012-05-20 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Route-de-Lorient</Stat>
+      <Stat Type="City">Rennes</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t150" />
+      <TeamData Score="" Side="Away" TeamRef="t2130" />
+    </MatchData>
+    <MatchData uID="g359532">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2506">
+        <Date>2012-04-21 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Ray</Stat>
+      <Stat Type="City">Nice</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1395" />
+      <TeamData Score="" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g359467">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="7340">
+        <Date>2012-03-10 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t693" />
+    </MatchData>
+    <MatchData uID="g359449">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2108">
+        <Date>2012-02-25 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Mosson</Stat>
+      <Stat Type="City">Montpellier</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t147" />
+      <TeamData Score="" Side="Away" TeamRef="t140" />
+    </MatchData>
+    <MatchData uID="g359204">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2528">
+        <Date>2011-08-06 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francois-Coty</Stat>
+      <Stat Type="City">Ajaccio</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1163" />
+      <TeamData Score="2" Side="Away" TeamRef="t427">
+        <Goal Period="SecondHalf" PlayerRef="p19925" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44421" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359249">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="1310">
+        <Date>2011-09-10 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="1" Side="Away" TeamRef="t150">
+        <Goal Period="SecondHalf" PlayerRef="p37940" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359508">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="7340">
+        <Date>2012-04-07 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Sports, Annecy</Stat>
+      <Stat Type="City">Annecy</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5447" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359566">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="3409">
+        <Date>2012-05-12 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Francis-le Blé</Stat>
+      <Stat Type="City">Brest</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t862" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359559">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1309">
+        <Date>2012-05-05 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t143" />
+      <TeamData Score="" Side="Away" TeamRef="t862" />
+    </MatchData>
+    <MatchData uID="g359287">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="1319">
+        <Date>2011-10-01 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">St Etienne</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t152">
+        <Goal Period="FirstHalf" PlayerRef="p59017" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t138">
+        <Goal Period="FirstHalf" PlayerRef="p40552" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g359477">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="3253">
+        <Date>2012-03-17 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t429" />
+      <TeamData Score="" Side="Away" TeamRef="t1996" />
+    </MatchData>
+    <MatchData uID="g359397">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2739">
+        <Date>2012-01-14 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Michel-d&#39;Ornano</Stat>
+      <Stat Type="City">Caen</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1028" />
+      <TeamData Score="" Side="Away" TeamRef="t150" />
+    </MatchData>
+    <MatchData uID="g359243">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="7521">
+        <Date>2011-08-27 18:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade du Hainaut</Stat>
+      <Stat Type="City">Valenciennes</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1996">
+        <Goal Period="FirstHalf" PlayerRef="p49730" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t140">
+        <Goal Period="SecondHalf" PlayerRef="p35865" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49878" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t152">
+      <Name>St Etienne</Name>
+    </Team>
+    <Team uID="t693">
+      <Name>Sochaux</Name>
+    </Team>
+    <Team uID="t2130">
+      <Name>Dijon</Name>
+    </Team>
+    <Team uID="t1028">
+      <Name>Caen</Name>
+    </Team>
+    <Team uID="t862">
+      <Name>Brest</Name>
+    </Team>
+    <Team uID="t143">
+      <Name>Lyon</Name>
+    </Team>
+    <Team uID="t427">
+      <Name>Toulouse</Name>
+    </Team>
+    <Team uID="t144">
+      <Name>Marseille</Name>
+    </Team>
+    <Team uID="t5447">
+      <Name>Evian Thonon Gaillard</Name>
+    </Team>
+    <Team uID="t1996">
+      <Name>Valenciennes</Name>
+    </Team>
+    <Team uID="t149">
+      <Name>Paris Saint Germain</Name>
+    </Team>
+    <Team uID="t147">
+      <Name>Montpellier</Name>
+    </Team>
+    <Team uID="t694">
+      <Name>Lorient</Name>
+    </Team>
+    <Team uID="t1395">
+      <Name>Nice</Name>
+    </Team>
+    <Team uID="t138">
+      <Name>Auxerre</Name>
+    </Team>
+    <Team uID="t429">
+      <Name>Lille</Name>
+    </Team>
+    <Team uID="t1163">
+      <Name>Ajaccio</Name>
+    </Team>
+    <Team uID="t148">
+      <Name>Nancy</Name>
+    </Team>
+    <Team uID="t140">
+      <Name>Bordeaux</Name>
+    </Team>
+    <Team uID="t150">
+      <Name>Rennes</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

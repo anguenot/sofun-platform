@@ -1,0 +1,57 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+	version="2.0">
+	<persistence-unit name="SofunCore" transaction-type="RESOURCE_LOCAL">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<class>org.sofun.core.member.MemberImpl</class>
+		<class>org.sofun.core.member.MemberConnectionLogImpl</class>
+		<class>org.sofun.core.member.MemberRoleImpl</class>
+		<class>org.sofun.core.member.MemberPostalAddressImpl</class>
+		<class>org.sofun.core.session.SessionImpl</class>
+		<class>org.sofun.core.community.CommunityImpl</class>
+		<class>org.sofun.core.team.TeamImpl</class>
+		<class>org.sofun.core.community.table.MemberRankingTableEntryImpl</class>
+		<class>org.sofun.core.community.table.MemberRankingTableEntryStatsImpl</class>
+		<class>org.sofun.core.team.table.TeamRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentStageRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentRoundRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentGameRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentSeasonRankingTableImpl</class>
+		<class>org.sofun.core.kup.KupImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentSeasonImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentStageImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentGameImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentGameScoreImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentRoundImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableRowImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableKeyImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableColumnImpl</class>
+		<class>org.sofun.core.sport.SportImpl</class>
+		<class>org.sofun.core.sport.SportCategoryImpl</class>
+		<class>org.sofun.core.sport.SportContestantImpl</class>
+		<class>org.sofun.core.country.CountryImpl</class>
+		<class>org.sofun.platform.facebook.FacebookMemberLikeImpl</class>
+		<class>org.sofun.platform.facebook.FacebookMemberFriendImpl</class>
+		<class>org.sofun.core.feed.FeedImpl</class>
+		<class>org.sofun.core.feed.FeedEntryImpl</class>
+		<exclude-unlisted-classes>true</exclude-unlisted-classes>
+		<properties>
+			<property name="hibernate.connection.url" value="jdbc:hsqldb:mem:unit-testing-jpa" />
+			<property name="hibernate.connection.driver_class" value="org.hsqldb.jdbcDriver" />
+			<property name="hibernate.dialect" value="org.hibernate.dialect.HSQLDialect" />
+			<property name="hibernate.hbm2ddl.auto" value="create-drop" />
+			<property name="hibernate.connection.username" value="sa" />
+			<property name="hibernate.connection.password" value="" />
+		</properties>
+		<!-- properties> <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"></property> 
+			<property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/sofun"></property> 
+			<property name="hibernate.connection.username" value="sofun"></property> 
+			<property name="hibernate.connection.password" value="sofun"></property> 
+			<property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"></property> 
+			<property name="hibernate.hbm2ddl.auto" value="update"></property> <property 
+			name="hibernate.show_sql" value="true"/> </properties -->
+	</persistence-unit>
+</persistence>

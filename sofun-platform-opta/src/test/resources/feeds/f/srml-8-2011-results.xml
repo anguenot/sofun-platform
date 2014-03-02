@@ -1,0 +1,4359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20111109T090142,65Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EN_PR" competition_id="8" competition_name="English Barclays Premier League" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2011-11-09 09-01-42">
+    <MatchData uID="g360749">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="34">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360507">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="72">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t56">
+        <Goal Period="SecondHalf" PlayerRef="p98769" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p1718" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40755" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360663">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2691">
+        <Date>2012-01-03 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t43" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360633">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="34">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360555">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="28">
+        <Date>2011-10-23 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p14295" Type="Goal" />
+      </TeamData>
+      <TeamData Score="6" Side="Away" TeamRef="t43">
+        <Goal Period="FirstHalf" PlayerRef="p42493" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20664" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42493" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360767">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="2867">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360609">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="3250">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360594">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="61">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360805">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="1">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360780">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="47">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360593">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="28">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360502">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="70">
+        <Date>2011-09-11 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t54">
+        <Goal Period="FirstHalf" PlayerRef="p4570" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5">
+        <Goal Period="FirstHalf" PlayerRef="p86168" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360839">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="35">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360486">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="72">
+        <Date>2011-08-20 12:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t56" />
+      <TeamData Score="1" Side="Away" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p14775" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360662">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="70">
+        <Date>2012-01-02 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t54" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360544">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="61">
+        <Date>2011-10-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p40451" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19341" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40451" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t80">
+        <Goal Period="FirstHalf" PlayerRef="p15398" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360529">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="34">
+        <Date>2011-10-01 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t7">
+        <Goal Period="FirstHalf" PlayerRef="p27450" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p10738" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360560">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="37">
+        <Date>2011-10-29 12:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360531">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="47">
+        <Date>2011-10-02 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p80235" Type="Goal" />
+      </TeamData>
+      <TeamData Score="5" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p2051" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p2051" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40755" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p2051" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40755" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360525">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="68">
+        <Date>2011-09-25 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t52">
+        <Goal Period="SecondHalf" PlayerRef="p1764" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p59013" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360471">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="39">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t14">
+        <Goal Period="FirstHalf" PlayerRef="p39336" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t56">
+        <Goal Period="SecondHalf" PlayerRef="p19057" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360725">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="68">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360582">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="61">
+        <Date>2011-11-19 12:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t45" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360519">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="3250">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p21091" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360799">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="3250">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360549">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="3250">
+        <Date>2011-10-23 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p43274" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t110">
+        <Goal Period="FirstHalf" PlayerRef="p3773" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360759">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="3250">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360578">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="55">
+        <Date>2011-11-06 13:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t39">
+        <Goal Period="SecondHalf" PlayerRef="p16236" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28568" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40616" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t111">
+        <Goal Period="FirstHalf" PlayerRef="p16045" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360658">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="51">
+        <Date>2012-01-01 12:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t35" />
+      <TeamData Score="0" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360834">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="39">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360665">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="68">
+        <Date>2012-01-02 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360651">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="35">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360746">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="72">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360787">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="2867">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360553">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="70">
+        <Date>2011-10-23 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t54">
+        <Goal Period="SecondHalf" PlayerRef="p37084" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t11">
+        <Goal Period="SecondHalf" PlayerRef="p49384" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p4396" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p39202" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360574">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="39">
+        <Date>2011-11-05 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t14" />
+      <TeamData Score="0" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360526">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="1">
+        <Date>2011-09-24 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t110">
+        <Goal Period="SecondHalf" PlayerRef="p3773" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p38530" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360474">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="68">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t52" />
+      <TeamData Score="4" Side="Away" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p1059" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p19419" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9765" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27696" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360489">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="34">
+        <Date>2011-08-27 12:05:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t7" />
+      <TeamData Score="0" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360823">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="1">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360568">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2">
+        <Date>2011-10-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t111" />
+      <TeamData Score="2" Side="Away" TeamRef="t54">
+        <Goal Period="FirstHalf" PlayerRef="p20226" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39104" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360695">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="34">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360571">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="32">
+        <Date>2011-11-05 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5" />
+      <TeamData Score="1" Side="Away" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p2051" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360785">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="1">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360606">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="33">
+        <Date>2011-12-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360793">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2691">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360625">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="68">
+        <Date>2011-12-18 12:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t52" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360596">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="72">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360826">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="33">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360720">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="35">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360639">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="3250">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360491">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="35">
+        <Date>2011-08-27 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p11278" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p2051" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p43670" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p5741" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360794">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="31">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360602">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="70">
+        <Date>2011-12-05 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t54" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360694">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="55">
+        <Date>2012-01-31 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360848">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360711">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="47">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360829">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="3250">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360814">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="39">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360798">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="55">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360813">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="70">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360535">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="72">
+        <Date>2011-10-01 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t56">
+        <Goal Period="FirstHalf" PlayerRef="p37339" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27697" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t35">
+        <Goal Period="FirstHalf" PlayerRef="p20452" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18008" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360617">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="2867">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360701">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="39">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360540">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="35">
+        <Date>2011-10-15 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p1718" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p53392" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40755" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t11">
+        <Goal Period="SecondHalf" PlayerRef="p60865" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360672">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="39">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360669">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="34">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360684">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="61">
+        <Date>2012-01-21 12:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t45" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360562">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="61">
+        <Date>2011-10-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p5741" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p40204" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19569" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t5">
+        <Goal Period="SecondHalf" PlayerRef="p20359" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13239" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49806" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360677">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="51">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360646">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="72">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360689">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="47">
+        <Date>2012-01-31 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360608">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="55">
+        <Date>2011-12-04 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t39" />
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360588">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360778">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="55">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360682">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="70">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360845">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2867">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360802">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="39">
+        <Date>2012-04-14 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t14" />
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360496">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="33">
+        <Date>2011-08-28 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p37742" Type="Goal" />
+      </TeamData>
+      <TeamData Score="5" Side="Away" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360841">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="2691">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360638">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="31">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360705">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="68">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360654">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="61">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360649">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="3250">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360610">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="47">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360818">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="55">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360755">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="68">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360742">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="35">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360581">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2691">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360698">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="70">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360619">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="34">
+        <Date>2011-12-18 14:05:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t7" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360564">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="72">
+        <Date>2011-10-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t56">
+        <Goal Period="FirstHalf" PlayerRef="p59125" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34392" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p1764" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p2160" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360478">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t111">
+        <Goal Period="FirstHalf" PlayerRef="p16045" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t45">
+        <Goal Period="FirstHalf" PlayerRef="p28499" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360516">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="2867">
+        <Date>2011-09-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t80">
+        <Goal Period="SecondHalf" PlayerRef="p21083" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14166" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19688" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360614">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="61">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360664">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="31">
+        <Date>2012-01-04 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t4" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360640">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="47">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360522">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="2691">
+        <Date>2011-09-24 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p42493" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15157" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360488">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="55">
+        <Date>2011-08-21 14:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t39">
+        <Goal Period="FirstHalf" PlayerRef="p20450" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18818" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360604">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="31">
+        <Date>2011-12-03 12:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t4" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360842">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="61">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360634">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="32">
+        <Date>2011-12-20 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5" />
+      <TeamData Score="0" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360472">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="2691">
+        <Date>2011-08-15 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p20664" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360704">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="61">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360652">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="39">
+        <Date>2011-12-30 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t14" />
+      <TeamData Score="0" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360745">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="61">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360570">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="34">
+        <Date>2011-11-05 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p27450" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10738" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p10738" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p40204" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40451" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360726">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="1">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360518">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="55">
+        <Date>2011-09-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t39" />
+      <TeamData Score="3" Side="Away" TeamRef="t52">
+        <Goal Period="FirstHalf" PlayerRef="p15276" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19645" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p67731" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360657">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="2867">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360815">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="28">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360626">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="33">
+        <Date>2011-12-18 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360723">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="31">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360730">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="70">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360772">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="70">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360515">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="72">
+        <Date>2011-09-18 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t56">
+        <Goal Period="FirstHalf" PlayerRef="p28468" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1131" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p973" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p19057" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360752">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="70">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360579">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="35">
+        <Date>2011-11-20 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360475">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="1">
+        <Date>2011-08-14 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t110" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360554">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="39">
+        <Date>2011-10-22 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t14">
+        <Goal Period="FirstHalf" PlayerRef="p1231" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p5741" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360770">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="32">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360546">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="1">
+        <Date>2011-10-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t110">
+        <Goal Period="SecondHalf" PlayerRef="p12813" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1679" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360601">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="37">
+        <Date>2011-12-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="0" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360709">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="34">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360493">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="28">
+        <Date>2011-08-28 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="8" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p38530" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18892" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12882" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18892" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p50175" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p20467" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360786">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="72">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360597">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="2867">
+        <Date>2011-11-27 13:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360679">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="3250">
+        <Date>2012-01-22 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t3" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360831">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="32">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360769">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="34">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360680">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="47">
+        <Date>2012-01-21 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t30" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360480">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="34">
+        <Date>2011-08-20 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p10738" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27450" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1765" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5">
+        <Goal Period="SecondHalf" PlayerRef="p16058" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360718">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="55">
+        <Date>2012-02-12 13:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t39" />
+      <TeamData Score="0" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360512">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="37">
+        <Date>2011-09-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t11">
+        <Goal Period="FirstHalf" PlayerRef="p7645" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p60865" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39202" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t111">
+        <Goal Period="FirstHalf" PlayerRef="p49724" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360575">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="28">
+        <Date>2011-11-05 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p1841" Type="Own" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360835">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="28">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360627">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2">
+        <Date>2011-12-17 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t111" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360539">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="3250">
+        <Date>2011-10-16 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t56">
+        <Goal Period="FirstHalf" PlayerRef="p19057" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360846">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="33">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360715">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="72">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360810">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="34">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360645">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="1">
+        <Date>2011-12-26 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t110" />
+      <TeamData Score="0" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360592">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="39">
+        <Date>2011-11-27 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t14" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360685">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="68">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360532">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="37">
+        <Date>2011-10-01 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="2" Side="Away" TeamRef="t14">
+        <Goal Period="SecondHalf" PlayerRef="p40142" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39336" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360591">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="35">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360621">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="37">
+        <Date>2011-12-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360792">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="70">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360710">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="32">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360775">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="68">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360756">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="33">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360534">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="28">
+        <Date>2011-10-01 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p27258" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50175" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360832">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="47">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360569">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="3250">
+        <Date>2011-11-05 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p8758" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15943" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360618">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="51">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360585">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="2867">
+        <Date>2011-11-19 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360497">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="51">
+        <Date>2011-08-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t35" />
+      <TeamData Score="1" Side="Away" TeamRef="t110">
+        <Goal Period="SecondHalf" PlayerRef="p45158" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360690">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="28">
+        <Date>2012-01-31 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360801">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="35">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360703">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="31">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360686">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="1">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360676">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="33">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360673">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="28">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360558">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="55">
+        <Date>2011-10-22 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t39">
+        <Goal Period="SecondHalf" PlayerRef="p28568" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20450" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t80">
+        <Goal Period="FirstHalf" PlayerRef="p40555" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15398" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360699">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="3250">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360520">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="35">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p53392" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12303" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14402" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p53392" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t80">
+        <Goal Period="SecondHalf" PlayerRef="p19159" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360506">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="1">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t110">
+        <Goal Period="FirstHalf" PlayerRef="p12813" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360779">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="3250">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360700">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="35">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360733">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="31">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360605">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="68">
+        <Date>2011-12-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360737">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="51">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360613">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="28">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360771">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="37">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360741">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="47">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360490">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="32">
+        <Date>2011-08-27 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5" />
+      <TeamData Score="1" Side="Away" TeamRef="t11">
+        <Goal Period="SecondHalf" PlayerRef="p8758" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360545">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="68">
+        <Date>2011-10-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t52">
+        <Goal Period="FirstHalf" PlayerRef="p3731" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5">
+        <Goal Period="FirstHalf" PlayerRef="p20359" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360483">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="37">
+        <Date>2011-08-20 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="1" Side="Away" TeamRef="t52">
+        <Goal Period="FirstHalf" PlayerRef="p2019" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360501">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="37">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t11">
+        <Goal Period="FirstHalf" PlayerRef="p8378" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12745" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p2160" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27450" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360808">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="51">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360653">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="28">
+        <Date>2011-12-31 12:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1" />
+      <TeamData Score="0" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360660">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="32">
+        <Date>2012-01-02 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360589">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="3250">
+        <Date>2011-11-26 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t3" />
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360637">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2691">
+        <Date>2011-12-21 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360766">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="72">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360541">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="39">
+        <Date>2011-10-15 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t14">
+        <Goal Period="SecondHalf" PlayerRef="p1814" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360527">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="51">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t35" />
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360565">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2867">
+        <Date>2011-10-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t80">
+        <Goal Period="SecondHalf" PlayerRef="p15398" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40555" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19688" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p15398" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360764">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="61">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360648">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="51">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360511">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="47">
+        <Date>2011-09-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p10089" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t45">
+        <Goal Period="FirstHalf" PlayerRef="p19569" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40451" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360691">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="72">
+        <Date>2012-01-31 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t56" />
+      <TeamData Score="0" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360836">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="31">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360600">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="32">
+        <Date>2011-12-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360816">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="31">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360481">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="47">
+        <Date>2011-08-21 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p3630" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9765" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t43">
+        <Goal Period="FirstHalf" PlayerRef="p1632" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20664" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360803">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="28">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360473">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="31">
+        <Date>2011-08-13 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t4" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360573">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="70">
+        <Date>2011-11-06 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t54">
+        <Goal Period="SecondHalf" PlayerRef="p37742" Type="Own" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17349" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p36903" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360773">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2691">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360542">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="2691">
+        <Date>2011-10-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p15157" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42493" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19959" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17476" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t7">
+        <Goal Period="SecondHalf" PlayerRef="p13310" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360644">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="61">
+        <Date>2011-12-27 19:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t45" />
+      <TeamData Score="0" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360479">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="3250">
+        <Date>2011-08-20 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t3" />
+      <TeamData Score="2" Side="Away" TeamRef="t14">
+        <Goal Period="SecondHalf" PlayerRef="p39336" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41792" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360776">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="33">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360789">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="34">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360631">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="2">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t111" />
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360724">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="61">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360580">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="37">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360612">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="39">
+        <Date>2011-12-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360681">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="37">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360830">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="34">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360687">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="72">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360761">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="35">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360744">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="28">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360714">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="28">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360521">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="39">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t14">
+        <Goal Period="FirstHalf" PlayerRef="p39336" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8358" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t39">
+        <Goal Period="SecondHalf" PlayerRef="p18953" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360586">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="33">
+        <Date>2011-11-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360494">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="31">
+        <Date>2011-08-28 13:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p16005" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p16005" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t54">
+        <Goal Period="SecondHalf" PlayerRef="p20226" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360674">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="31">
+        <Date>2012-01-15 13:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t4" />
+      <TeamData Score="0" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360523">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="31">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p47412" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47412" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47412" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t5">
+        <Goal Period="FirstHalf" PlayerRef="p49806" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360678">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="2">
+        <Date>2012-01-16 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t111" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360576">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="31">
+        <Date>2011-11-05 12:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t4">
+        <Goal Period="FirstHalf" PlayerRef="p10466" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p14775" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t11">
+        <Goal Period="FirstHalf" PlayerRef="p49384" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360791">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="37">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360753">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2691">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360843">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="1">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360476">
+      <MatchInfo MatchDay="1" Period="Postponed" Venue_id="33">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Postponed">Other</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360708">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360533">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="70">
+        <Date>2011-10-02 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="6" Side="Home" TeamRef="t54">
+        <Goal Period="SecondHalf" PlayerRef="p1195" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1195" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20226" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1195" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1812" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p4570" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360620">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="32">
+        <Date>2011-12-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360667">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="2">
+        <Date>2012-01-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t111" />
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360650">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="47">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360719">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="3250">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360796">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="33">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360716">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="2867">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360765">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="1">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360552">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="47">
+        <Date>2011-10-22 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t30" />
+      <TeamData Score="2" Side="Away" TeamRef="t56">
+        <Goal Period="SecondHalf" PlayerRef="p27697" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34392" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360538">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="55">
+        <Date>2011-10-01 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t39">
+        <Goal Period="SecondHalf" PlayerRef="p18953" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t4">
+        <Goal Period="FirstHalf" PlayerRef="p21060" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47412" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360734">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="68">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360731">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="39">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360666">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="33">
+        <Date>2012-01-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360514">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="28">
+        <Date>2011-09-18 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p55909" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p38530" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p14402" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360820">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="37">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360628">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="55">
+        <Date>2011-12-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360837">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="68">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360747">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="2867">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360505">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="68">
+        <Date>2011-09-12 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t52" />
+      <TeamData Score="0" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360800">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="47">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360827">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="51">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360781">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="35">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360750">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="32">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360727">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="51">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360819">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="35">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360537">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="33">
+        <Date>2011-10-02 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p58621" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p41792" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360557">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="68">
+        <Date>2011-10-23 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t52">
+        <Goal Period="FirstHalf" PlayerRef="p3731" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360806">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="72">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360760">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="47">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360498">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2">
+        <Date>2011-08-27 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t111">
+        <Goal Period="FirstHalf" PlayerRef="p49724" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49724" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360566">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="33">
+        <Date>2011-10-30 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p36903" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p36903" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t52">
+        <Goal Period="SecondHalf" PlayerRef="p4255" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360598">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="51">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360656">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="72">
+        <Date>2012-01-01 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t56" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360509">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="34">
+        <Date>2011-09-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t7">
+        <Goal Period="FirstHalf" PlayerRef="p27450" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p16005" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360469">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="32">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t5">
+        <Goal Period="FirstHalf" PlayerRef="p58900" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t39">
+        <Goal Period="FirstHalf" PlayerRef="p18953" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40616" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360510">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="32">
+        <Date>2011-09-17 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t5">
+        <Goal Period="SecondHalf" PlayerRef="p13239" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13239" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p51507" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p21091" Type="Own" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p15675" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p43274" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8758" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360590">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="47">
+        <Date>2011-11-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360623">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="2691">
+        <Date>2011-12-18 16:10:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t43" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360632">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="55">
+        <Date>2011-12-20 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360504">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="61">
+        <Date>2011-09-11 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t45" />
+      <TeamData Score="1" Side="Away" TeamRef="t35">
+        <Goal Period="FirstHalf" PlayerRef="p26900" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360707">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="51">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360722">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2691">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360811">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="32">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360675">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="2867">
+        <Date>2012-01-15 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360517">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="33">
+        <Date>2011-09-18 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p17500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37055" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360550">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="34">
+        <Date>2011-10-22 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t7">
+        <Goal Period="FirstHalf" PlayerRef="p10738" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t35">
+        <Goal Period="FirstHalf" PlayerRef="p39253" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p16210" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360636">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="70">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t54" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360809">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="3250">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360484">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="28">
+        <Date>2011-08-22 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p27258" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50175" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360824">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="72">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360528">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="2">
+        <Date>2011-09-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t111">
+        <Goal Period="SecondHalf" PlayerRef="p28147" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p36903" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360615">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="1">
+        <Date>2011-12-11 16:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t110" />
+      <TeamData Score="0" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360584">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="72">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360738">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360670">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="32">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360712">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="37">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360804">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="61">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360777">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="2">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360572">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="47">
+        <Date>2011-11-06 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p9765" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9765" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3630" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18428" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18428" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360508">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="55">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t39" />
+      <TeamData Score="2" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p17500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360833">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="70">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360692">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="2867">
+        <Date>2012-01-31 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360825">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2867">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360556">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="31">
+        <Date>2011-10-22 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p27341" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360795">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="68">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360524">
+      <MatchInfo MatchDay="6" Period="FullTime" Venue_id="61">
+        <Date>2011-09-26 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t45">
+        <Goal Period="SecondHalf" PlayerRef="p40204" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15201" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t56">
+        <Goal Period="SecondHalf" PlayerRef="p15073" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360561">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="2691">
+        <Date>2011-10-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p19959" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42593" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42544" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t39">
+        <Goal Period="SecondHalf" PlayerRef="p7635" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360611">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="35">
+        <Date>2011-12-12 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360661">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="37">
+        <Date>2012-01-04 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="0" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360587">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="51">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360768">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="51">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360788">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="51">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360548">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="2">
+        <Date>2011-10-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t111">
+        <Goal Period="FirstHalf" PlayerRef="p28147" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p18428" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p38328" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14668" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360530">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="32">
+        <Date>2011-10-01 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t5" />
+      <TeamData Score="4" Side="Away" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p65807" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42493" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19959" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28554" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360470">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="70">
+        <Date>2011-08-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t54" />
+      <TeamData Score="0" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360763">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="28">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360748">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="55">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360740">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="34">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360595">
+      <MatchInfo MatchDay="13" Period="PreMatch" Venue_id="1">
+        <Date>2011-11-28 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t110" />
+      <TeamData Score="0" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360630">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="33">
+        <Date>2011-12-22 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360624">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="31">
+        <Date>2011-12-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360822">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="61">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360754">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="31">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360577">
+      <MatchInfo MatchDay="11" Period="FullTime" Venue_id="68">
+        <Date>2011-11-05 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t52">
+        <Goal Period="SecondHalf" PlayerRef="p3731" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4255" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t43">
+        <Goal Period="FirstHalf" PlayerRef="p42544" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14664" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20664" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360543">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="31">
+        <Date>2011-10-16 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p6240" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p47412" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360482">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="35">
+        <Date>2011-08-20 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p3897" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p10425" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t35">
+        <Goal Period="FirstHalf" PlayerRef="p20452" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360668">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="55">
+        <Date>2012-01-02 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g360757">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="2">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t35" />
+    </MatchData>
+    <MatchData uID="g360729">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="32">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360696">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="32">
+        <Date>2012-02-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360641">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="35">
+        <Date>2011-12-26 13:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="0" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360774">
+      <MatchInfo MatchDay="31" Period="PreMatch" Venue_id="31">
+        <Date>2012-03-31 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t4" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360559">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="35">
+        <Date>2011-10-29 12:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p2051" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43670" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1718" Type="Goal" />
+      </TeamData>
+      <TeamData Score="5" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20467" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p57214" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360647">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="2867">
+        <Date>2011-12-27 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360583">
+      <MatchInfo MatchDay="12" Period="PreMatch" Venue_id="1">
+        <Date>2011-11-19 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360487">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="2867">
+        <Date>2011-08-20 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360784">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="61">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t45" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360477">
+      <MatchInfo MatchDay="1" Period="FullTime" Venue_id="51">
+        <Date>2011-08-14 16:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t35">
+        <Goal Period="FirstHalf" PlayerRef="p20452" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p3332" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360758">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="55">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360790">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="32">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t5" />
+      <TeamData Score="" Side="Away" TeamRef="t14" />
+    </MatchData>
+    <MatchData uID="g360783">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="28">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t52" />
+    </MatchData>
+    <MatchData uID="g360622">
+      <MatchInfo MatchDay="16" Period="PreMatch" Venue_id="70">
+        <Date>2011-12-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360536">
+      <MatchInfo MatchDay="7" Period="FullTime" Venue_id="2867">
+        <Date>2011-10-02 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t80">
+        <Goal Period="FirstHalf" PlayerRef="p19688" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p15398" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360567">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="51">
+        <Date>2011-10-29 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t35" />
+      <TeamData Score="2" Side="Away" TeamRef="t14">
+        <Goal Period="FirstHalf" PlayerRef="p20208" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p40142" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360702">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="2691">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t54" />
+    </MatchData>
+    <MatchData uID="g360697">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="37">
+        <Date>2012-02-01 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g360847">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="51">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t35" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360821">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2691">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360739">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="3250">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t3" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360671">
+      <MatchInfo MatchDay="21" Period="PreMatch" Venue_id="35">
+        <Date>2012-01-14 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t8" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360551">
+      <MatchInfo MatchDay="9" Period="FullTime" Venue_id="32">
+        <Date>2011-10-23 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ewood Park</Stat>
+      <Stat Type="City">Blackburn</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t5">
+        <Goal Period="FirstHalf" PlayerRef="p58900" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p4611" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360782">
+      <MatchInfo MatchDay="32" Period="PreMatch" Venue_id="39">
+        <Date>2012-04-07 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360563">
+      <MatchInfo MatchDay="10" Period="FullTime" Venue_id="1">
+        <Date>2011-10-31 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t110">
+        <Goal Period="SecondHalf" PlayerRef="p12813" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t4">
+        <Goal Period="SecondHalf" PlayerRef="p47412" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p47412" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47412" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360492">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="39">
+        <Date>2011-08-27 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t14">
+        <Goal Period="FirstHalf" PlayerRef="p56979" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20208" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p26793" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t30">
+        <Goal Period="SecondHalf" PlayerRef="p9765" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360807">
+      <MatchInfo MatchDay="34" Period="PreMatch" Venue_id="2867">
+        <Date>2012-04-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t80" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360659">
+      <MatchInfo MatchDay="20" Period="PreMatch" Venue_id="34">
+        <Date>2012-01-02 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t7" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360683">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="2691">
+        <Date>2012-01-22 13:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t43" />
+      <TeamData Score="0" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360762">
+      <MatchInfo MatchDay="30" Period="PreMatch" Venue_id="39">
+        <Date>2012-03-24 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360688">
+      <MatchInfo MatchDay="22" Period="PreMatch" Venue_id="55">
+        <Date>2012-01-21 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360743">
+      <MatchInfo MatchDay="28" Period="PreMatch" Venue_id="37">
+        <Date>2012-03-10 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360732">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="2691">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t30" />
+    </MatchData>
+    <MatchData uID="g360503">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="2691">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37572" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360547">
+      <MatchInfo MatchDay="8" Period="FullTime" Venue_id="51">
+        <Date>2011-10-16 12:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">The Hawthorns</Stat>
+      <Stat Type="City">West Bromwich</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t35">
+        <Goal Period="SecondHalf" PlayerRef="p26900" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19151" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t39" />
+    </MatchData>
+    <MatchData uID="g360643">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="28">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t1" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360838">
+      <MatchInfo MatchDay="37" Period="PreMatch" Venue_id="55">
+        <Date>2012-05-05 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Molineux</Stat>
+      <Stat Type="City">Wolverhampton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t39" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360736">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="33">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360655">
+      <MatchInfo MatchDay="19" Period="PreMatch" Venue_id="1">
+        <Date>2011-12-31 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360797">
+      <MatchInfo MatchDay="33" Period="PreMatch" Venue_id="2">
+        <Date>2012-04-09 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360629">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="68">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t52" />
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360828">
+      <MatchInfo MatchDay="36" Period="PreMatch" Venue_id="2">
+        <Date>2012-04-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360495">
+      <MatchInfo MatchDay="3" Period="FullTime" Venue_id="2867">
+        <Date>2011-08-27 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Liberty Stadium</Stat>
+      <Stat Type="City">Swansea</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t80" />
+      <TeamData Score="0" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360599">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="34">
+        <Date>2011-12-03 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t7" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360706">
+      <MatchInfo MatchDay="24" Period="PreMatch" Venue_id="1">
+        <Date>2012-02-04 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t56" />
+    </MatchData>
+    <MatchData uID="g360840">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="37">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360616">
+      <MatchInfo MatchDay="15" Period="PreMatch" Venue_id="72">
+        <Date>2011-12-11 13:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t56" />
+      <TeamData Score="0" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360607">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2">
+        <Date>2011-12-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360635">
+      <MatchInfo MatchDay="17" Period="PreMatch" Venue_id="37">
+        <Date>2011-12-21 20:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t11" />
+      <TeamData Score="0" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360713">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="70">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t54" />
+      <TeamData Score="" Side="Away" TeamRef="t110" />
+    </MatchData>
+    <MatchData uID="g360499">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="3250">
+        <Date>2011-09-10 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p13227" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360817">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="68">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Road</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t52" />
+      <TeamData Score="" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g360728">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="2">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">DW Stadium</Stat>
+      <Stat Type="City">Wigan</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t111" />
+      <TeamData Score="" Side="Away" TeamRef="t7" />
+    </MatchData>
+    <MatchData uID="g360812">
+      <MatchInfo MatchDay="35" Period="PreMatch" Venue_id="47">
+        <Date>2012-04-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t30" />
+      <TeamData Score="" Side="Away" TeamRef="t80" />
+    </MatchData>
+    <MatchData uID="g360844">
+      <MatchInfo MatchDay="38" Period="PreMatch" Venue_id="72">
+        <Date>2012-05-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium of Light</Stat>
+      <Stat Type="City">Sunderland</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t56" />
+      <TeamData Score="" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g360500">
+      <MatchInfo MatchDay="4" Period="FullTime" Venue_id="47">
+        <Date>2011-09-10 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Reebok Stadium</Stat>
+      <Stat Type="City">Bolton</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t30" />
+      <TeamData Score="5" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p43020" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360642">
+      <MatchInfo MatchDay="18" Period="PreMatch" Venue_id="39">
+        <Date>2011-12-26 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t5" />
+    </MatchData>
+    <MatchData uID="g360693">
+      <MatchInfo MatchDay="23" Period="PreMatch" Venue_id="33">
+        <Date>2012-01-31 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t111" />
+    </MatchData>
+    <MatchData uID="g360751">
+      <MatchInfo MatchDay="29" Period="PreMatch" Venue_id="37">
+        <Date>2012-03-17 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Goodison Park</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t11" />
+      <TeamData Score="" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g360717">
+      <MatchInfo MatchDay="25" Period="PreMatch" Venue_id="33">
+        <Date>2012-02-11 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t6" />
+      <TeamData Score="" Side="Away" TeamRef="t4" />
+    </MatchData>
+    <MatchData uID="g360721">
+      <MatchInfo MatchDay="26" Period="PreMatch" Venue_id="39">
+        <Date>2012-02-25 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t14" />
+      <TeamData Score="" Side="Away" TeamRef="t11" />
+    </MatchData>
+    <MatchData uID="g360485">
+      <MatchInfo MatchDay="2" Period="FullTime" Venue_id="61">
+        <Date>2011-08-21 13:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Carrow Road</Stat>
+      <Stat Type="City">Norwich</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t45">
+        <Goal Period="FirstHalf" PlayerRef="p46695" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t110">
+        <Goal Period="SecondHalf" PlayerRef="p18215" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g360603">
+      <MatchInfo MatchDay="14" Period="PreMatch" Venue_id="2691">
+        <Date>2011-12-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t43" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360735">
+      <MatchInfo MatchDay="27" Period="PreMatch" Venue_id="1">
+        <Date>2012-03-03 15:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Britannia Stadium</Stat>
+      <Stat Type="City">Stoke</Stat>
+      <TeamData Score="" Side="Home" TeamRef="t110" />
+      <TeamData Score="" Side="Away" TeamRef="t45" />
+    </MatchData>
+    <MatchData uID="g360513">
+      <MatchInfo MatchDay="5" Period="FullTime" Venue_id="70">
+        <Date>2011-09-18 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Craven Cottage</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t54">
+        <Goal Period="SecondHalf" PlayerRef="p4570" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1812" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t43">
+        <Goal Period="FirstHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t35">
+      <Name>West Bromwich Albion</Name>
+    </Team>
+    <Team uID="t11">
+      <Name>Everton</Name>
+    </Team>
+    <Team uID="t7">
+      <Name>Aston Villa</Name>
+    </Team>
+    <Team uID="t80">
+      <Name>Swansea City</Name>
+    </Team>
+    <Team uID="t1">
+      <Name>Manchester United</Name>
+    </Team>
+    <Team uID="t30">
+      <Name>Bolton Wanderers</Name>
+    </Team>
+    <Team uID="t110">
+      <Name>Stoke City</Name>
+    </Team>
+    <Team uID="t6">
+      <Name>Tottenham Hotspur</Name>
+    </Team>
+    <Team uID="t39">
+      <Name>Wolverhampton Wanderers</Name>
+    </Team>
+    <Team uID="t3">
+      <Name>Arsenal</Name>
+    </Team>
+    <Team uID="t111">
+      <Name>Wigan Athletic</Name>
+    </Team>
+    <Team uID="t14">
+      <Name>Liverpool</Name>
+    </Team>
+    <Team uID="t8">
+      <Name>Chelsea</Name>
+    </Team>
+    <Team uID="t52">
+      <Name>Queens Park Rangers</Name>
+    </Team>
+    <Team uID="t4">
+      <Name>Newcastle United</Name>
+    </Team>
+    <Team uID="t56">
+      <Name>Sunderland</Name>
+    </Team>
+    <Team uID="t45">
+      <Name>Norwich City</Name>
+    </Team>
+    <Team uID="t43">
+      <Name>Manchester City</Name>
+    </Team>
+    <Team uID="t54">
+      <Name>Fulham</Name>
+    </Team>
+    <Team uID="t5">
+      <Name>Blackburn Rovers</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

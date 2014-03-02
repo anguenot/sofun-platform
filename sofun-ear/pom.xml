@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c)  Sofun Gaming SAS.
+  Copyright (c)  Julien Anguenot <julien@anguenot.org>
+  Copyright (c)  Julien De Preaumont <juliendepreaumont@gmail.com>
+  
+  All rights reserved. This program and the accompanying materials
+  are made available under the terms of the Eclipse Public License v1.0
+  which accompanies this distribution, and is available at
+  http://www.eclipse.org/legal/epl-v10.html
+  
+  Contributors:
+      Julien Anguenot <julien@anguenot.org> - initial API and implementation
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>sofun-core-parent</artifactId>
+		<groupId>org.sofun.core</groupId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>sofun-ear</artifactId>
+	<packaging>ear</packaging>
+	<name>Sofun Platform EAR</name>
+	<dependencies>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-core-api</artifactId>
+			<type>jar</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-core</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-war</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>war</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-platform-web-rest-api</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-platform-opta</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-platform-facebook</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-platform-notification</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+			<groupId>org.sofun.core</groupId>
+			<artifactId>sofun-platform-legigame</artifactId>
+			<version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+			<type>ejb</type>
+		</dependency>
+		<dependency>
+            <groupId>org.sofun.core</groupId>
+            <artifactId>sofun-platform-arjel-banned</artifactId>
+            <version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+            <type>ejb</type>
+        </dependency>
+        <dependency>
+            <groupId>org.sofun.core</groupId>
+            <artifactId>sofun-platform-affiliate</artifactId>
+            <version>${sofun.core.version}</version><!--$NO-MVN-MAN-VER$ -->
+            <type>ejb</type>
+        </dependency>
+		<dependency>
+			<groupId>postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.ehcache</groupId>
+			<artifactId>ehcache-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-entitymanager</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate.javax.persistence</groupId>
+			<artifactId>hibernate-jpa-2.0-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jettison-provider</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-multipart-provider</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-cdi</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jaxrs</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-oauth</artifactId>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-ear-plugin</artifactId>
+				<version>2.5</version>
+				<configuration>
+					<defaultJavaBundleDir>/lib/</defaultJavaBundleDir>
+					<jboss>
+						<version>5</version>
+						<library-directory>/lib</library-directory>
+						<data-sources>
+							<data-source>sofun-ds.xml</data-source>
+						</data-sources>
+						<security-domain>sofun-jaas</security-domain>
+						<loader-repository>org.sofun:loader=sofun.ear</loader-repository>
+						<loader-repository-config>java2ParentDelegation=true</loader-repository-config>
+					</jboss>
+					<modules>
+						<webModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-war</artifactId>
+							<unpack>true</unpack>
+							<contextRoot>sofun</contextRoot>
+							<bundleFileName>sofun.war</bundleFileName>
+						</webModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-core</artifactId>
+							<bundleFileName>sofun-core.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-platform-web-rest-api</artifactId>
+							<bundleFileName>sofun-platform-web-rest-api.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-platform-facebook</artifactId>
+							<bundleFileName>sofun-platform-facebook.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-platform-opta</artifactId>
+							<bundleFileName>sofun-platform-opta.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-platform-notification</artifactId>
+							<bundleFileName>sofun-platform-notification.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-platform-legigame</artifactId>
+							<bundleFileName>sofun-platform-legigame.jar</bundleFileName>
+						</ejbModule>
+						<ejbModule>
+                            <groupId>org.sofun.core</groupId>
+                            <artifactId>sofun-platform-arjel-banned</artifactId>
+                            <bundleFileName>sofun-platform-arjel-banned.jar</bundleFileName>
+                        </ejbModule>
+                        <ejbModule>
+                            <groupId>org.sofun.core</groupId>
+                            <artifactId>sofun-platform-affiliate</artifactId>
+                            <bundleFileName>sofun-platform-affiliate.jar</bundleFileName>
+                        </ejbModule>
+						<jarModule>
+							<groupId>org.sofun.core</groupId>
+							<artifactId>sofun-core-api</artifactId>
+						</jarModule>
+					</modules>
+				</configuration>
+			</plugin>
+		</plugins>
+		<finalName>sofun.ear</finalName>
+		<pluginManagement>
+			<plugins>
+				<!-- Ignore This plugin's configuration is used in m2e only. -->
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId> org.apache.maven.plugins </groupId>
+										<artifactId> maven-ear-plugin </artifactId>
+										<versionRange>[2.4.2,)</versionRange>
+										<goals>
+											<goal>generate-application-xml</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+</project>

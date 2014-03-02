@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: sofun-ds.xml 1933 2011-08-08 15:42:25Z anguenot $ -->
+<datasources>
+    <xa-datasource>
+        <jndi-name>sofun-core</jndi-name>
+        <xa-datasource-class>org.postgresql.xa.PGXADataSource
+        </xa-datasource-class>
+        <xa-datasource-property
+            name="ServerName">localhost</xa-datasource-property>
+        <xa-datasource-property
+            name="PortNumber">5432</xa-datasource-property>
+        <xa-datasource-property
+            name="DatabaseName">sofun</xa-datasource-property>
+        <xa-datasource-property
+            name="User">sofun</xa-datasource-property>
+        <xa-datasource-property
+            name="Password">sofun</xa-datasource-property>
+        <max-pool-size>150</max-pool-size>
+        <min-pool-size>15</min-pool-size>
+        <track-connection-by-tx />
+    </xa-datasource>
+</datasources>

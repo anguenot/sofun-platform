@@ -1,0 +1,17 @@
+<jboss-web>
+
+	<!-- hack to force EJB jndi registration to kick in before resteasy boostrap -->
+	<depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=CommunityResourceBean,service=EJB3
+	</depends>
+	<depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=CoreResourceBean,service=EJB3
+	</depends>
+	<depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=KupResourceBean,service=EJB3
+	</depends>
+	<depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=MemberResourceBean,service=EJB3
+	</depends>
+	<depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=TeamResourceBean,service=EJB3
+	</depends>
+    <depends>jboss.j2ee:ear=sofun.ear,jar=sofun-platform-web-rest-api.jar,name=SportResourceBean,service=EJB3
+    </depends>
+	
+</jboss-web>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: persistence.xml 3458 2012-05-24 17:06:52Z anguenot $ -->
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+	version="2.0">
+	<persistence-unit name="SofunCore" transaction-type="JTA">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<jta-data-source>java:/sofun-core</jta-data-source>
+		<class>org.sofun.core.member.MemberImpl</class>
+		<class>org.sofun.core.member.MemberConnectionLogImpl</class>
+		<class>org.sofun.core.member.MemberRoleImpl</class>
+		<class>org.sofun.core.member.MemberPostalAddressImpl</class>
+		<class>org.sofun.core.member.MemberCreditImpl</class>
+		<class>org.sofun.core.member.MemberIBANImpl</class>
+		<class>org.sofun.core.member.MemberRIBImpl</class>
+		<class>org.sofun.core.member.MemberTransactionImpl</class>
+		<class>org.sofun.core.member.PasswordResetTokenImpl</class>
+		<class>org.sofun.core.session.SessionImpl</class>
+		<class>org.sofun.core.community.CommunityImpl</class>
+		<class>org.sofun.core.team.TeamImpl</class>
+		<class>org.sofun.core.team.TeamTagImpl</class>
+		<class>org.sofun.core.team.TeamTypeImpl</class>
+		<class>org.sofun.core.community.table.MemberRankingTableEntryImpl</class>
+		<class>org.sofun.core.community.table.MemberRankingTableEntryStatsImpl</class>
+		<class>org.sofun.core.team.table.TeamRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentStageRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentRoundRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentGameRankingTableImpl</class>
+		<class>org.sofun.core.team.table.TeamTournamentSeasonRankingTableImpl</class>
+		<class>org.sofun.core.kup.KupImpl</class>
+		<class>org.sofun.core.kup.bet.KupMemberBetImpl</class>
+		<class>org.sofun.core.kup.table.KupRankingTableImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentSeasonImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentStageImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentGameImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentGameScoreImpl</class>
+		<class>org.sofun.core.sport.tournament.TournamentRoundImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentGameLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentRoundLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentStageLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentSeasonLeagueTableImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableRowImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableKeyImpl</class>
+		<class>org.sofun.core.sport.tournament.table.TournamentLeagueTableColumnImpl</class>
+		<class>org.sofun.core.sport.SportImpl</class>
+		<class>org.sofun.core.sport.SportCategoryImpl</class>
+		<class>org.sofun.core.sport.SportContestantImpl</class>
+		<class>org.sofun.core.country.CountryImpl</class>
+
+		<!-- FACEBOOK -->
+		<class>org.sofun.platform.facebook.FacebookMemberLikeImpl</class>
+		<class>org.sofun.platform.facebook.FacebookMemberFriendImpl</class>
+		<class>org.sofun.platform.facebook.FacebookMemberInfoImpl</class>
+
+		<!-- FEEDS -->
+		<class>org.sofun.core.feed.FeedImpl</class>
+		<class>org.sofun.core.feed.FeedEntryImpl</class>
+
+		<!-- PREDICTIONS -->
+		<class>org.sofun.core.prediction.PredictionImpl</class>
+		<class>org.sofun.core.prediction.PredictionResultImpl</class>
+		<class>org.sofun.core.prediction.contestant.PredictionOrderedContestantResultImpl</class>
+		<class>org.sofun.core.prediction.contestant.PredictionOrderedContestantsListImpl</class>
+		<class>org.sofun.core.prediction.tournament.contestant.PredictionGameOrderedContestantsListImpl</class>
+		<class>org.sofun.core.prediction.tournament.contestant.PredictionRoundOrderedContestantsListImpl</class>
+		<class>org.sofun.core.prediction.tournament.contestant.PredictionStageOrderedContestantsListImpl</class>
+		<class>org.sofun.core.prediction.tournament.contestant.PredictionSeasonOrderedContestantsListImpl</class>
+
+		<class>org.sofun.core.prediction.PredictionScoreImpl</class>
+		<class>org.sofun.core.prediction.tournament.PredictionGameScoreImpl</class>
+
+		<class>org.sofun.core.prediction.PredictionQuestionImpl</class>
+		<class>org.sofun.core.prediction.PredictionQuestionKupTiebreakerImpl</class>
+		<class>org.sofun.core.prediction.tournament.PredictionGameQuestionImpl</class>
+		<class>org.sofun.core.question.QuestionKupTiebreakerImpl</class>
+
+		<!-- OAuth -->
+		<class>org.sofun.core.security.oauth.OAuthSofunAccessToken</class>
+		<class>org.sofun.core.security.oauth.OAuthSofunConsumer</class>
+
+		<!-- Notifications -->
+		<class>org.sofun.platform.notification.MemberNotificationImpl</class>
+
+		<!-- Opta -->
+		<class>org.sofun.platform.opta.impl.OptaProcessedFeedImpl</class>
+
+		<class>org.sofun.core.question.QuestionImpl</class>
+		<class>org.sofun.core.question.QuestionGameImpl</class>
+
+		<!-- Legigame -->
+		<class>org.sofun.platform.legigame.MemberLegigameStatusImpl</class>
+
+		<!-- ARJEL Banned -->
+		<class>org.sofun.platform.arjel.banned.MemberARJELBannedCheckImpl</class>
+		
+		<class>org.sofun.core.banking.SofunTransactionImpl</class>
+
+		<properties>
+			<property name="hibernate.archive.autodetection" value="class" />
+			<property name="hibernate.transaction.manager_lookup_class"
+				value="org.hibernate.transaction.JBossTransactionManagerLookup" />
+			<property name="hibernate.transaction.auto_close_session"
+				value="false" />
+			<property name="hibernate.transaction.flush_before_completion"
+				value="false" />
+			<property name="hibernate.hbm2ddl.auto" value="update" />
+			<property name="hibernate.cache.region.factory_class"
+				value="net.sf.ehcache.hibernate.EhCacheRegionFactory" />
+		</properties>
+	</persistence-unit>
+</persistence>

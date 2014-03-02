@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root>
+	<Status>0</Status>
+	<Iteration>1</Iteration>
+	<Player>
+		<Firstname>JC</Firstname>
+		<Lastname>DUMORTIER</Lastname>
+		<BirthDate>24/03/1964</BirthDate>
+		<CityOfBirth>SAINT DENIS EN BUGEY</CityOfBirth>
+		<DepartmentOfBirth>12</DepartmentOfBirth>
+		<CountryOfBirth>FRANCE</CountryOfBirth>
+		<IBAN>FR7630066107610001032000100</IBAN>
+		<Email>ben.gdm@gmail.com</Email>
+		<ActivationCode>J83TLM</ActivationCode>
+		<Address>57 BD DE GRENELLE</Address>
+		<ZipCode>75015</ZipCode>
+		<City>PARIS</City>
+		<Country>FRANCE</Country>
+		<Attribut2>1</Attribut2>
+		<DateLastIteration>12/10/2010</DateLastIteration>
+		<ActivationStatus>0</ActivationStatus>
+	</Player>
+</Root>

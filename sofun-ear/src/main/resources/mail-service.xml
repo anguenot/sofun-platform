@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: mail-service.xml 1889 2011-08-04 09:55:48Z anguenot $ -->
+<server>
+
+	<mbean code="org.jboss.mail.MailService" name="jboss:service=Mail">
+		<attribute name="JNDIName">java:/Mail</attribute>
+		<attribute name="User"></attribute>
+		<attribute name="Password"></attribute>
+		<attribute name="Configuration">
+			<configuration>
+				<property name="mail.transport.protocol" value="smtp" />
+				<property name="mail.smtp.host" value="localhost" />
+				<property name="mail.smtp.port" value="25" />
+				<property name="mail.from" value="noreply@sofungaming.com" />
+				<property name="mail.debug" value="false" />
+			</configuration>
+		</attribute>
+		<depends>jboss:service=Naming</depends>
+	</mbean>
+
+</server>

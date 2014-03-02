@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue02.sportingstatz.com
+     production time:    20110910T153300,454Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU6
+-->
+<wapresults>
+  <Officials>
+    <Official id="74" official_name="Nigel Owens" role="referee" />
+    <Official id="87" official_name="Jonathon Kaplan" role="assistant" />
+    <Official id="139" official_name="Jerome Garces" role="assistant" />
+    <Official id="25" official_name="Graham Hughes" role="TMO" />
+  </Officials>
+  <feed-info comp-id="210" comp_name="Rugby World Cup" />
+  <match attendance="0" game-id="6662" grp-id="" period_minute="81" period_second="4" rnd-id="" status="Result">
+    <away-team>
+      <HTscore>15</HTscore>
+      <score>25</score>
+      <team-id>2900</team-id>
+      <team-name>Namibia</team-name>
+    </away-team>
+    <descriptions format="OPTA_MAX" length="209">
+      <text>Rugby World Cup: 
+Fiji 49 Namibia 25
+Fiji
+Try: Goneva 5,19,40,51, Nakarawa 18, Nalaga 77, Conv: Bai 6,18,42,52,77, Penk: Bai 16,24,74, 
+Namibia
+Try: Koll 42, Botha 56, Penk: Kotze 3,36, Dropg: Kotze 10,12,14, </text>
+    </descriptions>
+    <descriptions format="OPTA_LARGE" length="151">
+      <text>Rugby World Cup: 
+Fiji 49
+Try: Goneva(4), Nakarawa, Nalaga, Conv: Bai(5), Penk: Bai(3), 
+Namibia 25
+Try: Koll, Botha, Penk: Kotze(2), Dropg: Kotze(3), </text>
+    </descriptions>
+    <descriptions format="OPTA_MEDIUM" length="87">
+      <text>Rugby World Cup: 
+Fiji  49 (6 try, 5 conv, 3 penk)
+Namibia  25 (2 try, 2 penk, 3 dropg)</text>
+    </descriptions>
+    <descriptions format="OPTA_SMALL" length="64">
+      <text>Rugby World Cup: 
+Fiji  49 (6T, 5C, 3P)
+Namibia  25 (2T, 2P, 3D)</text>
+    </descriptions>
+    <descriptions format="OPTA_SCORELINE" length="35">
+      <text>Rugby World Cup: Fiji 49 Namibia 25</text>
+    </descriptions>
+    <events>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="1" time="3" type="PENK">
+        <player-code>18955</player-code>
+        <player-name>Kotze</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="19" time="5" type="TRY">
+        <player-code>9215</player-code>
+        <player-name>Goneva</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="55" time="6" type="CONV">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="9" time="10" type="DROPG">
+        <player-code>18955</player-code>
+        <player-name>Kotze</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="38" time="12" type="DROPG">
+        <player-code>18955</player-code>
+        <player-name>Kotze</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="9" time="14" type="DROPG">
+        <player-code>18955</player-code>
+        <player-name>Kotze</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="16" time="16" type="PENK">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="2" time="18" type="TRY">
+        <player-code>11067</player-code>
+        <player-name>Nakarawa</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="53" time="18" type="CONV">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="46" time="19" type="TRY">
+        <player-code>9215</player-code>
+        <player-name>Goneva</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="31" time="24" type="PENK">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="24" time="36" type="PENK">
+        <player-code>18955</player-code>
+        <player-name>Kotze</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="First Half" secs="44" time="40" type="TRY">
+        <player-code>9215</player-code>
+        <player-name>Goneva</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="13" time="42" type="CONV">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="32" time="42" type="END">
+        <team-id>954</team-id>
+      </event>
+      <event period="First Half" secs="34" time="42" type="END">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="45" time="42" type="TRY">
+        <player-code>17286</player-code>
+        <player-name>Koll</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="Second Half" secs="32" time="51" type="TRY">
+        <player-code>9215</player-code>
+        <player-name>Goneva</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="29" time="52" type="CONV">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="38" time="56" type="TRY">
+        <player-code>17292</player-code>
+        <player-name>Botha</player-name>
+        <team-id>2900</team-id>
+      </event>
+      <event period="Second Half" secs="8" time="74" type="PENK">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="6" time="77" type="TRY">
+        <player-code>9612</player-code>
+        <player-name>Nalaga</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="34" time="77" type="CONV">
+        <player-code>3187</player-code>
+        <player-name>Bai</player-name>
+        <team-id>954</team-id>
+      </event>
+      <event period="Second Half" secs="4" time="81" type="END">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Second Half" secs="4" time="81" type="END">
+        <team-id>954</team-id>
+      </event>
+      <event period="Extra Time First Half" secs="0" time="80" type="START">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>954</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Post Game" secs="4" time="81" type="END">
+        <team-id>2900</team-id>
+      </event>
+      <event period="Post Game" secs="4" time="81" type="END">
+        <team-id>954</team-id>
+      </event>
+    </events>
+    <home-team>
+      <HTscore>32</HTscore>
+      <score>49</score>
+      <team-id>954</team-id>
+      <team-name>Fiji</team-name>
+    </home-team>
+    <subs>
+      <sub period="Second Half" secs="29" time="47">
+        <player-code>10527</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="29" time="47">
+        <player-code>16148</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="38" time="50">
+        <player-code>19090</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="38" time="50">
+        <player-code>11065</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="52" time="53">
+        <player-code>17293</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="52" time="53">
+        <player-code>15249</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="55" time="53">
+        <player-code>17287</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="55" time="53">
+        <player-code>16149</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="4" time="54">
+        <player-code>14768</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="4" time="54">
+        <player-code>9221</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="25" time="55">
+        <player-code>9209</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="25" time="55">
+        <player-code>9220</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="22" time="58">
+        <player-code>8063</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="22" time="58">
+        <player-code>18547</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="8" time="64">
+        <player-code>19294</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="8" time="64">
+        <player-code>11203</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="7" time="69">
+        <player-code>17289</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="7" time="69">
+        <player-code>16142</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="69">
+        <player-code>17290</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="14" time="69">
+        <player-code>18299</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="51" time="74">
+        <player-code>11294</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="51" time="74">
+        <player-code>9219</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="1" time="78">
+        <player-code>11298</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="1" time="78">
+        <player-code>9215</player-code>
+        <team-id>954</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="78">
+        <player-code>17291</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="14" time="78">
+        <player-code>18955</player-code>
+        <team-id>2900</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+    </subs>
+    <teams home_or_away="home" team_id="954" team_name="Fiji">
+      <Player id="18240" first="Kini" known_name="Kini Murimurivalu" last="Murimurivalu" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="9215" first="Vereniki" known_name="Vereniki Goneva" last="Goneva" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="9221" first="Gabiriele" known_name="Gabiriele Lovobalavu" last="Lovobalavu" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="3187" first="Seremaia" known_name="Seremaia Bai" last="Bai" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="9612" first="Napolioni" known_name="Napolioni Nalaga" last="Nalaga" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="9262" first="Waisea" known_name="Waisea Luveniyali" last="Luveniyali" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="18547" first="Nemia" known_name="Nemia Kenatale Ranuku" last="Kenatale Ranuku" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="11203" first="Campese" known_name="Campese Ma' afu" last="Ma' afu" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="11065" first="Viliame" known_name="Viliame Veikoso" last="Veikoso" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="3515" first="Deacon" known_name="Deacon Manu" last="Manu" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="11067" first="Leone" known_name="Leone Nakarawa" last="Nakarawa" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="9219" first="Wame" known_name="Wame Lewaravu" last="Lewaravu" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="10611" first="Dominiko" known_name="Dominiko Waqaniburotu" last="Waqaniburotu" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="10570" first="Malakai" known_name="Malakai Ravulo" last="Ravulo" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="9220" first="Netani" known_name="Netani Talei" last="Talei" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="19090" first="Sunia" known_name="Sunia Koto Koto" last="Koto Koto" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="19294" first="Waisea" known_name="Waisea Daveta" last="Daveta" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="11294" first="Sekonaia" known_name="Sekonaia Kalou" last="Kalou" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="9209" first="Akapusi" known_name="Akapusi Qera" last="Qera" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="8063" first="Vitori" known_name="Vitori Buatava" last="Buatava" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="14768" first="Albert" known_name="Albert Vulivuli" last="Vulivuli" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="11298" first="Iliesa" known_name="Iliesa Keresoni" last="Keresoni" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+    <teams home_or_away="away" team_id="2900" team_name="Namibia">
+      <Player id="17292" first="Chrysander" known_name="Chrysander Botha" last="Botha" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="19327" first="Hendirk" known_name="Hendirk Dames" last="Dames" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="18992" first="Danie" known_name="Danie Van Wyk" last="Van Wyk" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="16158" first="Piet" known_name="Piet Van Zyl" last="Van Zyl" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="18299" first="Conrad" known_name="Conrad Marais" last="Marais" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="18955" first="Theuns" known_name="Theuns Kotze" last="Kotze" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="16142" first="Eugene" known_name="Eugene Jantjies" last="Jantjies" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="16153" first="Johnny" known_name="Johnny Redelinghuys" last="Redelinghuys" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="15249" first="Hugo" known_name="Hugo Horn" last="Horn" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="19331" first="Raoul" known_name="Raoul Larson" last="Larson" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="17286" first="Heinz" known_name="Heinz Koll" last="Koll" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="16149" first="Nico" known_name="Nico Esterhuyse" last="Esterhuyse" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="16148" first="Tinus" known_name="Tinus du Plessis" last="du Plessis" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="16147" first="Jaques" known_name="Jaques Burger" last="Burger" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="8764" first="Jacques" known_name="Jacques Nieuwenhuis" last="Nieuwenhuis" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="17293" first="Egbertus" known_name="Egbertus O'Callaghan" last="O'Callaghan" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="16115" first="Jane" known_name="Jane Du Toit" last="Du Toit" played="0" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="17287" first="Pieter" known_name="Pieter Jan Van Lill" last="Jan Van Lill" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="10527" first="Rohan" known_name="Rohan Kitshoff" last="Kitshoff" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="17289" first="Ryan" known_name="Ryan De La Harpe" last="De La Harpe" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="17290" first="Darryl" known_name="Darryl De La Harpe" last="De La Harpe" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="17291" first="Llewellyn" known_name="Llewellyn Winkler" last="Winkler" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+  </match>
+  <meta>
+      <dateline>10/09/2011 16:33:00 +0000</dateline>
+  </meta>
+</wapresults>

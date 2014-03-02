@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+                        http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+	<!-- Session timeout set to 5 minutes. -->
+	<session-config>
+		<session-timeout>5</session-timeout>
+	</session-config>
+
+	<!-- Do not scan for resources: explicit declaration below. -->
+	<context-param>
+		<param-name>resteasy.scan</param-name>
+		<param-value>false</param-value>
+	</context-param>
+
+	<!-- ReST API prefix. (i.e: /sofun/rest/*) -->
+	<context-param>
+		<param-name>resteasy.servlet.mapping.prefix</param-name>
+		<param-value>/rest</param-value>
+	</context-param>
+
+	<!-- Resteasy listner -->
+	<listener>
+		<listener-class>org.jboss.resteasy.plugins.server.servlet.ResteasyBootstrap</listener-class>
+	</listener>
+
+	<!-- Boostrap Resteasy servlet at startup time -->
+	<servlet>
+		<servlet-name>Resteasy</servlet-name>
+		<servlet-class>org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher</servlet-class>
+	</servlet>
+
+	<!-- Path to access ReST APIs -->
+	<servlet-mapping>
+		<servlet-name>Resteasy</servlet-name>
+		<url-pattern>/rest/*</url-pattern>
+	</servlet-mapping>
+
+	<!-- Beans providing Sofun ReST APIs -->
+	<context-param>
+		<param-name>resteasy.jndi.resources</param-name>
+		<param-value>sofun/SportResourceBean/local,sofun/CoreResourceBean/local,sofun/CommunityResourceBean/local,sofun/MemberResourceBean/local,sofun/KupResourceBean/local,sofun/TeamResourceBean/local</param-value>
+	</context-param>
+
+	<!-- The OAuth Servlet handles token exchange -->
+	<servlet>
+		<servlet-name>OAuth</servlet-name>
+		<servlet-class>org.jboss.resteasy.auth.oauth.OAuthServlet</servlet-class>
+	</servlet>
+
+	<!-- Base URL for the OAuth token exchange endpoint -->
+	<servlet-mapping>
+		<servlet-name>OAuth</servlet-name>
+		<url-pattern>/oauth/*</url-pattern>
+	</servlet-mapping>
+
+	<!-- OAuth Filter handling authentication for protected resources -->
+	<filter>
+		<filter-name>OAuth Filter</filter-name>
+		<filter-class>org.sofun.core.security.oauth.OAuthSofunFilter</filter-class>
+	</filter>
+
+	<!-- URLs that require OAuth authentication for protected resources. This 
+		is all Sofun ReST APIs -->
+	<filter-mapping>
+		<filter-name>OAuth Filter</filter-name>
+		<url-pattern>/rest/*</url-pattern>
+	</filter-mapping>
+
+	<!-- OAuth provider -->
+	<context-param>
+		<param-name>oauth.provider.provider-class</param-name>
+		<param-value>org.sofun.core.security.oauth.OAuthSofunProvider</param-value>
+	</context-param>
+
+	<!-- OAuth path for request tokens -->
+	<context-param>
+		<param-name>oauth.provider.tokens.request</param-name>
+		<param-value>/requestToken</param-value>
+	</context-param>
+
+	<!-- OAuth path for access tokens -->
+	<context-param>
+		<param-name>oauth.provider.tokens.access</param-name>
+		<param-value>/accessToken</param-value>
+	</context-param>
+
+</web-app>

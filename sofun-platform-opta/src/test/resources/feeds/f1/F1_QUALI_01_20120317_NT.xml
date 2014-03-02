@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+	opta production headers
+	F1_QUALI_1_20120317.xml
+	2012014  
+app
+2012-03-17T07:14:04+00:00
+--><block><param>
+<param name="timestamp" value="20120317071404"/>
+<param name="event" value="F1"/>
+<param name="gpno" value="1"/>
+<param name="session" value="QUALI"/>
+<param name="date" value="17.03.12"/>
+<param name="start" value="17:00"/>
+<param name="end" value="18:00"/>
+<param name="utc" value="11"/>
+<param name="iso_country" value="AUS"/>
+<param name="country" value="Australia"/>
+<param name="racetrack" value="Melbourne"/>
+<param name="track_length" value="5.303 KM"/>
+<param name="laps" value="58"/>
+<param name="race_distance" value="307.574 KM"/>
+<param name="track_status" value="FINISHED"/>
+<param name="lang" value="ENG"/>
+
+
+
+
+
+</param><driver>
+	<didx>2</didx>
+	<pos>1</pos>
+	<stn>4</stn>
+	<driver>Lewis Hamilton</driver>
+	<driver_first_name>Lewis</driver_first_name>
+	<driver_last_name>Hamilton</driver_last_name>
+	<driver_code>HAM</driver_code>
+	<nat>GBR</nat>
+	<tid>1</tid>
+	<team>Vodafone McLaren Mercedes</team>
+	<team_carbike>McLaren MP4-27</team_carbike>
+	<team_engine>Mercedes FO108X</team_engine>
+	<laps>14</laps>
+	
+	
+	<time>1:24.922</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>1</didx>
+	<pos>2</pos>
+	<stn>3</stn>
+	<driver>Jenson Button</driver>
+	<driver_first_name>Jenson</driver_first_name>
+	<driver_last_name>Button</driver_last_name>
+	<driver_code>BUT</driver_code>
+	<nat>GBR</nat>
+	<tid>1</tid>
+	<team>Vodafone McLaren Mercedes</team>
+	<team_carbike>McLaren MP4-27</team_carbike>
+	<team_engine>Mercedes FO108X</team_engine>
+	<laps>15</laps>
+	
+	
+	<time>0.152</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>291</didx>
+	<pos>3</pos>
+	<stn>10</stn>
+	<driver>Romain Grosjean</driver>
+	<driver_first_name>Romain</driver_first_name>
+	<driver_last_name>Grosjean</driver_last_name>
+	<driver_code>GRO</driver_code>
+	<nat>FRA</nat>
+	<tid>6</tid>
+	<team>Lotus F1 Team</team>
+	<team_carbike>Lotus E20</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>21</laps>
+	
+	
+	<time>0.380</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>3</didx>
+	<pos>4</pos>
+	<stn>7</stn>
+	<driver>Michael Schumacher</driver>
+	<driver_first_name>Michael</driver_first_name>
+	<driver_last_name>Schumacher</driver_last_name>
+	<driver_code>SCH</driver_code>
+	<nat>DEU</nat>
+	<tid>2</tid>
+	<team>Mercedes AMG Petronas F1 Team</team>
+	<team_carbike>Mercedes F1 WO3</team_carbike>
+	<team_engine>Mercedes FO108X</team_engine>
+	<laps>18</laps>
+	
+	
+	<time>0.414</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>6</didx>
+	<pos>5</pos>
+	<stn>2</stn>
+	<driver>Mark Webber</driver>
+	<driver_first_name>Mark</driver_first_name>
+	<driver_last_name>Webber</driver_last_name>
+	<driver_code>WEB</driver_code>
+	<nat>AUS</nat>
+	<tid>3</tid>
+	<team>Red Bull Racing</team>
+	<team_carbike>Red Bull RB8</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>17</laps>
+	
+	
+	<time>0.729</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>5</didx>
+	<pos>6</pos>
+	<stn>1</stn>
+	<driver>Sebastian Vettel</driver>
+	<driver_first_name>Sebastian</driver_first_name>
+	<driver_last_name>Vettel</driver_last_name>
+	<driver_code>VET</driver_code>
+	<nat>DEU</nat>
+	<tid>3</tid>
+	<team>Red Bull Racing</team>
+	<team_carbike>Red Bull RB8</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>18</laps>
+	
+	
+	<time>0.746</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>4</didx>
+	<pos>7</pos>
+	<stn>8</stn>
+	<driver>Nico Rosberg</driver>
+	<driver_first_name>Nico</driver_first_name>
+	<driver_last_name>Rosberg</driver_last_name>
+	<driver_code>ROS</driver_code>
+	<nat>DEU</nat>
+	<tid>2</tid>
+	<team>Mercedes AMG Petronas F1 Team</team>
+	<team_carbike>Mercedes F1 WO3</team_carbike>
+	<team_engine>Mercedes FO108X</team_engine>
+	<laps>16</laps>
+	
+	
+	<time>0.764</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>287</didx>
+	<pos>8</pos>
+	<stn>18</stn>
+	<driver>Pastor Maldonado</driver>
+	<driver_first_name>Pastor</driver_first_name>
+	<driver_last_name>Maldonado</driver_last_name>
+	<driver_code>MAL</driver_code>
+	<nat>VEN</nat>
+	<tid>5</tid>
+	<team>Williams F1 Team</team>
+	<team_carbike>Williams FW34</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>20</laps>
+	
+	
+	<time>0.986</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>10</didx>
+	<pos>9</pos>
+	<stn>12</stn>
+	<driver>Nico Hülkenberg</driver>
+	<driver_first_name>Nico</driver_first_name>
+	<driver_last_name>Hülkenberg</driver_last_name>
+	<driver_code>HUL</driver_code>
+	<nat>DEU</nat>
+	<tid>7</tid>
+	<team>Sahara Force India F1 Team</team>
+	<team_carbike>Force India VJM05</team_carbike>
+	<team_engine>Mercedes FO108Z</team_engine>
+	<laps>18</laps>
+	
+	
+	<time>1.529</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>290</didx>
+	<pos>10</pos>
+	<stn>16</stn>
+	<driver>Daniel Ricciardo</driver>
+	<driver_first_name>Daniel</driver_first_name>
+	<driver_last_name>Ricciardo</driver_last_name>
+	<driver_code>RIC</driver_code>
+	<nat>AUS</nat>
+	<tid>8</tid>
+	<team>Scuderia Toro Rosso</team>
+	<team_carbike>Toro Rosso STR7</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>16</laps>
+	
+	
+	<time>1.397</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>250</didx>
+	<pos>11</pos>
+	<stn>17</stn>
+	<driver>Jean-Éric Vergne</driver>
+	<driver_first_name>Jean-Éric</driver_first_name>
+	<driver_last_name>Vergne</driver_last_name>
+	<driver_code>VER</driver_code>
+	<nat>FRA</nat>
+	<tid>8</tid>
+	<team>Scuderia Toro Rosso</team>
+	<team_carbike>Toro Rosso STR7</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>12</laps>
+	
+	
+	<time>1.507</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>8</didx>
+	<pos>12</pos>
+	<stn>5</stn>
+	<driver>Fernando Alonso</driver>
+	<driver_first_name>Fernando</driver_first_name>
+	<driver_last_name>Alonso</driver_last_name>
+	<driver_code>ALO</driver_code>
+	<nat>ESP</nat>
+	<tid>4</tid>
+	<team>Scuderia Ferrari</team>
+	<team_carbike>Ferrari F2012</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>12</laps>
+	
+	
+	<time>1.572</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>22</didx>
+	<pos>13</pos>
+	<stn>14</stn>
+	<driver>Kamui Kobayashi</driver>
+	<driver_first_name>Kamui</driver_first_name>
+	<driver_last_name>Kobayashi</driver_last_name>
+	<driver_code>KOB</driver_code>
+	<nat>JPN</nat>
+	<tid>11</tid>
+	<team>Sauber F1 Team</team>
+	<team_carbike>Sauber C31</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>12</laps>
+	
+	
+	<time>1.668</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>59</didx>
+	<pos>14</pos>
+	<stn>19</stn>
+	<driver>Bruno Senna</driver>
+	<driver_first_name>Bruno</driver_first_name>
+	<driver_last_name>Senna</driver_last_name>
+	<driver_code>SEN</driver_code>
+	<nat>BRA</nat>
+	<tid>5</tid>
+	<team>Williams F1 Team</team>
+	<team_carbike>Williams FW34</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>16</laps>
+	
+	
+	<time>1.741</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>141</didx>
+	<pos>15</pos>
+	<stn>11</stn>
+	<driver>Paul Di Resta</driver>
+	<driver_first_name>Paul</driver_first_name>
+	<driver_last_name>Di Resta</driver_last_name>
+	<driver_code>DIR</driver_code>
+	<nat>GBR</nat>
+	<tid>7</tid>
+	<team>Sahara Force India F1 Team</team>
+	<team_carbike>Force India VJM05</team_carbike>
+	<team_engine>Mercedes FO108Z</team_engine>
+	<laps>16</laps>
+	
+	
+	<time>2.164</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>7</didx>
+	<pos>16</pos>
+	<stn>6</stn>
+	<driver>Felipe Massa</driver>
+	<driver_first_name>Felipe</driver_first_name>
+	<driver_last_name>Massa</driver_last_name>
+	<driver_code>MAS</driver_code>
+	<nat>BRA</nat>
+	<tid>4</tid>
+	<team>Scuderia Ferrari</team>
+	<team_carbike>Ferrari F2012</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>16</laps>
+	
+	
+	<time>2.575</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>288</didx>
+	<pos>17</pos>
+	<stn>15</stn>
+	<driver>Sergio Pérez</driver>
+	<driver_first_name>Sergio</driver_first_name>
+	<driver_last_name>Pérez</driver_last_name>
+	<driver_code>PER</driver_code>
+	<nat>MEX</nat>
+	<tid>11</tid>
+	<team>Sauber F1 Team</team>
+	<team_carbike>Sauber C31</team_carbike>
+	<team_engine>Ferrari 056</team_engine>
+	<laps>11</laps>
+	
+	
+	<time>1.674</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>934</didx>
+	<pos>18</pos>
+	<stn>9</stn>
+	<driver>Kimi Räikkönen</driver>
+	<driver_first_name>Kimi</driver_first_name>
+	<driver_last_name>Räikkönen</driver_last_name>
+	<driver_code>RAI</driver_code>
+	<nat>FIN</nat>
+	<tid>6</tid>
+	<team>Lotus F1 Team</team>
+	<team_carbike>Lotus E20</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>9</laps>
+	
+	
+	<time>2.836</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>18</didx>
+	<pos>19</pos>
+	<stn>20</stn>
+	<driver>Heikki Kovalainen</driver>
+	<driver_first_name>Heikki</driver_first_name>
+	<driver_last_name>Kovalainen</driver_last_name>
+	<driver_code>KOV</driver_code>
+	<nat>FIN</nat>
+	<tid>9</tid>
+	<team>Caterham F1 Team</team>
+	<team_carbike>Caterham CT01</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>7</laps>
+	
+	
+	<time>3.757</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>12</didx>
+	<pos>20</pos>
+	<stn>21</stn>
+	<driver>Vitaly Petrov</driver>
+	<driver_first_name>Vitaly</driver_first_name>
+	<driver_last_name>Petrov</driver_last_name>
+	<driver_code>PET</driver_code>
+	<nat>RUS</nat>
+	<tid>9</tid>
+	<team>Caterham F1 Team</team>
+	<team_carbike>Caterham CT01</team_carbike>
+	<team_engine>Renault RS27-2012</team_engine>
+	<laps>8</laps>
+	
+	
+	<time>4.096</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>23</didx>
+	<pos>21</pos>
+	<stn>24</stn>
+	<driver>Timo Glock</driver>
+	<driver_first_name>Timo</driver_first_name>
+	<driver_last_name>Glock</driver_last_name>
+	<driver_code>GLO</driver_code>
+	<nat>DEU</nat>
+	<tid>12</tid>
+	<team>Marussia F1 Team</team>
+	<team_carbike>Marussia MR01</team_carbike>
+	<team_engine>Cosworth CA2012</team_engine>
+	<laps>10</laps>
+	
+	
+	<time>6.001</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>935</didx>
+	<pos>22</pos>
+	<stn>25</stn>
+	<driver>Charles Pic</driver>
+	<driver_first_name>Charles</driver_first_name>
+	<driver_last_name>Pic</driver_last_name>
+	<driver_code>PIC</driver_code>
+	<nat>FRA</nat>
+	<tid>12</tid>
+	<team>Marussia F1 Team</team>
+	<team_carbike>Marussia MR01</team_carbike>
+	<team_engine>Cosworth CA2012</team_engine>
+	<laps>9</laps>
+	
+	
+	<time>6.748</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>55</didx>
+	<pos>23</pos>
+	<stn>22</stn>
+	<driver>Pedro de la Rosa</driver>
+	<driver_first_name>Pedro</driver_first_name>
+	<driver_last_name>de la Rosa</driver_last_name>
+	<driver_code>DEL</driver_code>
+	<nat>ESP</nat>
+	<tid>10</tid>
+	<team>HRT F1 Team</team>
+	<team_carbike>HRT F112</team_carbike>
+	<team_engine>Cosworth CA2012</team_engine>
+	<laps>6</laps>
+	
+	
+	<time>8.573</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver><driver>
+	<didx>289</didx>
+	<pos>24</pos>
+	<stn>23</stn>
+	<driver>Narain Karthikeyan</driver>
+	<driver_first_name>Narain</driver_first_name>
+	<driver_last_name>Karthikeyan</driver_last_name>
+	<driver_code>KAR</driver_code>
+	<nat>IND</nat>
+	<tid>10</tid>
+	<team>HRT F1 Team</team>
+	<team_carbike>HRT F112</team_carbike>
+	<team_engine>Cosworth CA2012</team_engine>
+	<laps>6</laps>
+	
+	
+	<time>8.721</time>
+	
+	<pitstops>0</pitstops>
+	<status>IN PIT</status>
+	
+	
+	
+</driver>
+</block>

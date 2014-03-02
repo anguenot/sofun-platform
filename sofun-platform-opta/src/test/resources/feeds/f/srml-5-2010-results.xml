@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110819T113727,322Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EU_CL" competition_id="5" competition_name="Champions League" game_system_id="1" season_id="2010" season_name="Season 2010/2011" timestamp="2011-08-19 12-37-27">
+    <MatchData uID="g343960">
+      <MatchInfo GroupName="G" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g343890">
+      <MatchInfo GroupName="A" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15403" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8438" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t171" />
+    </MatchData>
+    <MatchData uID="g350723">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="6909">
+        <Date>2011-03-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p38470" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p47431" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47431" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g343937">
+      <MatchInfo GroupName="E" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t481">
+        <Goal Period="FirstHalf" PlayerRef="p15738" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t156">
+        <Goal Period="SecondHalf" PlayerRef="p15208" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15208" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350715">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="33">
+        <Date>2011-03-09 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g343975">
+      <MatchInfo GroupName="H" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2718">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Braga Municipal</Stat>
+      <Stat Type="City">Braga</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t372">
+        <Goal Period="SecondHalf" PlayerRef="p38586" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p52550" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t216" />
+    </MatchData>
+    <MatchData uID="g356834">
+      <MatchInfo MatchDay="10" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="33">
+        <Date>2011-04-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t6" />
+      <TeamData Score="1" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350721">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="28">
+        <Date>2011-03-15 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p43020" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p1841" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343948">
+      <MatchInfo GroupName="F" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2695">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Pod Dubnom</Stat>
+      <Stat Type="City">Zilina</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1712">
+        <Goal Period="SecondHalf" PlayerRef="p41176" Type="Goal" />
+      </TeamData>
+      <TeamData Score="4" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p8442" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3897" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3897" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40755" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350713">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="35">
+        <Date>2011-03-16 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="0" Side="Away" TeamRef="t569" />
+    </MatchData>
+    <MatchData uID="g343965">
+      <MatchInfo GroupName="G" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1299">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbe-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t138">
+        <Goal Period="FirstHalf" PlayerRef="p54413" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43520" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t215">
+        <Goal Period="SecondHalf" PlayerRef="p55605" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343938">
+      <MatchInfo GroupName="E" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1336">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p6274" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14731" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2628">
+        <Goal Period="SecondHalf" PlayerRef="p28419" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343891">
+      <MatchInfo GroupName="A" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p3911" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7321" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p36903" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p36903" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p36903" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343904">
+      <MatchInfo GroupName="B" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p20088" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27675" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t251" />
+    </MatchData>
+    <MatchData uID="g343968">
+      <MatchInfo GroupName="G" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1299">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbe-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t138" />
+      <TeamData Score="2" Side="Away" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p8613" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343967">
+      <MatchInfo GroupName="G" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t215" />
+      <TeamData Score="4" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p18759" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19927" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343942">
+      <MatchInfo GroupName="E" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3787">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul Dr. Constantin Radulescu</Stat>
+      <Stat Type="City">Cluj</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2628" />
+      <TeamData Score="4" Side="Away" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343887">
+      <MatchInfo GroupName="A" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="124">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">De Grolsch Veste</Stat>
+      <Stat Type="City">Enschende</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t324">
+        <Goal Period="FirstHalf" PlayerRef="p26746" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p4993" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343931">
+      <MatchInfo GroupName="D" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3362">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Athens Olympic Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t264" />
+      <TeamData Score="3" Side="Away" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343901">
+      <MatchInfo GroupName="B" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2246">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ramat Gan</Stat>
+      <Stat Type="City">Ramat Gan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t245">
+        <Goal Period="SecondHalf" PlayerRef="p13262" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46696" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350724">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1365">
+        <Date>2011-02-15 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p17926" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p4157" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343920">
+      <MatchInfo GroupName="C" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="6" Side="Home" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p43670" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p17926" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10316" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40908" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14464" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17926" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t886">
+        <Goal Period="SecondHalf" PlayerRef="p73767" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343930">
+      <MatchInfo GroupName="D" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1377">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parken Stadion</Stat>
+      <Stat Type="City">Copenhagen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t569">
+        <Goal Period="FirstHalf" PlayerRef="p49888" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g357454">
+      <MatchInfo MatchDay="11" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="1360">
+        <Date>2011-04-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t186" />
+      <TeamData Score="2" Side="Away" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343957">
+      <MatchInfo GroupName="F" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p13449" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g343897">
+      <MatchInfo GroupName="A" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="124">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">De Grolsch Veste</Stat>
+      <Stat Type="City">Enschende</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t324">
+        <Goal Period="FirstHalf" PlayerRef="p5019" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p48832" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54908" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p7958" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4834" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343921">
+      <MatchInfo GroupName="C" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p27258" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p28690" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343949">
+      <MatchInfo GroupName="F" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p1718" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3897" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g343946">
+      <MatchInfo GroupName="E" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3787">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul Dr. Constantin Radulescu</Stat>
+      <Stat Type="City">Cluj</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2628">
+        <Goal Period="SecondHalf" PlayerRef="p56345" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p14731" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g356833">
+      <MatchInfo MatchDay="9" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="1335">
+        <Date>2011-04-05 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p26746" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3911" Type="Goal" />
+      </TeamData>
+      <TeamData Score="5" Side="Away" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p39167" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p4157" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17734" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p60914" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17734" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350722">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1336">
+        <Date>2011-02-16 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p6434" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p19500" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t455">
+        <Goal Period="FirstHalf" PlayerRef="p47429" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27793" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p57195" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343979">
+      <MatchInfo GroupName="H" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2718">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Braga Municipal</Stat>
+      <Stat Type="City">Braga</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t372">
+        <Goal Period="SecondHalf" PlayerRef="p38586" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38586" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g343962">
+      <MatchInfo GroupName="G" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t215">
+        <Goal Period="FirstHalf" PlayerRef="p14229" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343888">
+      <MatchInfo GroupName="A" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1380">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Weserstadion</Stat>
+      <Stat Type="City">Bremen</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t171">
+        <Goal Period="FirstHalf" PlayerRef="p17743" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41450" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p3773" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7524" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343954">
+      <MatchInfo GroupName="F" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2695">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Pod Dubnom</Stat>
+      <Stat Type="City">Zilina</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1712" />
+      <TeamData Score="7" Side="Away" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p20087" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37827" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37827" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p38419" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20087" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p6127" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37827" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g356835">
+      <MatchInfo MatchDay="10" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="28">
+        <Date>2011-04-12 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p12882" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p12303" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343900">
+      <MatchInfo GroupName="B" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t251">
+        <Goal Period="SecondHalf" PlayerRef="p42795" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19980" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t245" />
+    </MatchData>
+    <MatchData uID="g343917">
+      <MatchInfo GroupName="C" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t191">
+        <Goal Period="SecondHalf" PlayerRef="p51527" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17926" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17926" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t67" />
+    </MatchData>
+    <MatchData uID="g343961">
+      <MatchInfo GroupName="G" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1299">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Abbe-Deschamps</Stat>
+      <Stat Type="City">Auxerre</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t138" />
+      <TeamData Score="1" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p46497" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343969">
+      <MatchInfo GroupName="G" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t186">
+        <Goal Period="FirstHalf" PlayerRef="p19927" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19927" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19927" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t138" />
+    </MatchData>
+    <MatchData uID="g350725">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="2095">
+        <Date>2011-03-09 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p68309" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18659" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18659" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p16738" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343909">
+      <MatchInfo GroupName="B" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p59966" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20088" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t245">
+        <Goal Period="SecondHalf" PlayerRef="p40552" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p56838" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343963">
+      <MatchInfo GroupName="G" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t215">
+        <Goal Period="FirstHalf" PlayerRef="p28182" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p39336" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t138">
+        <Goal Period="SecondHalf" PlayerRef="p37412" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343913">
+      <MatchInfo GroupName="C" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t191" />
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343916">
+      <MatchInfo GroupName="C" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p38530" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t886" />
+    </MatchData>
+    <MatchData uID="g343955">
+      <MatchInfo GroupName="F" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2010-11-23 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t205" />
+      <TeamData Score="3" Side="Away" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p38419" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13449" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37852" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343915">
+      <MatchInfo GroupName="C" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="18">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ibrox Stadium</Stat>
+      <Stat Type="City">Glasgow</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t67">
+        <Goal Period="FirstHalf" PlayerRef="p41587" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t191">
+        <Goal Period="SecondHalf" PlayerRef="p41587" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343952">
+      <MatchInfo GroupName="F" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p13399" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1712" />
+    </MatchData>
+    <MatchData uID="g343977">
+      <MatchInfo GroupName="H" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2706">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FK Partizan Stadium</Stat>
+      <Stat Type="City">Belgrade</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t216" />
+      <TeamData Score="1" Side="Away" TeamRef="t372">
+        <Goal Period="FirstHalf" PlayerRef="p48419" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343978">
+      <MatchInfo GroupName="H" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t455">
+        <Goal Period="FirstHalf" PlayerRef="p38470" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37203" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p20467" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g357455">
+      <MatchInfo MatchDay="12" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="28">
+        <Date>2011-05-04 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p27258" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27707" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27258" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20695" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t167">
+        <Goal Period="FirstHalf" PlayerRef="p17441" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343941">
+      <MatchInfo GroupName="E" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t481">
+        <Goal Period="SecondHalf" PlayerRef="p15738" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p68312" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p4177" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p19500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20120" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343940">
+      <MatchInfo GroupName="E" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p56365" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56362" Type="Own" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t2628">
+        <Goal Period="SecondHalf" PlayerRef="p56346" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56362" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343895">
+      <MatchInfo GroupName="A" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p13919" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t324" />
+    </MatchData>
+    <MatchData uID="g343908">
+      <MatchInfo GroupName="B" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2246">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ramat Gan</Stat>
+      <Stat Type="City">Ramat Gan</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t245">
+        <Goal Period="SecondHalf" PlayerRef="p56646" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56838" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p56838" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t251" />
+    </MatchData>
+    <MatchData uID="g343973">
+      <MatchInfo GroupName="H" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2706">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FK Partizan Stadium</Stat>
+      <Stat Type="City">Belgrade</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t216">
+        <Goal Period="FirstHalf" PlayerRef="p64673" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p15675" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13227" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13439" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g356836">
+      <MatchInfo MatchDay="10" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="6909">
+        <Date>2011-04-12 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t455" />
+      <TeamData Score="1" Side="Away" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343922">
+      <MatchInfo GroupName="C" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3421">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Bursa Atatürk Stadi</Stat>
+      <Stat Type="City">Bursa</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t886">
+        <Goal Period="SecondHalf" PlayerRef="p45776" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t67">
+        <Goal Period="FirstHalf" PlayerRef="p4452" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343903">
+      <MatchInfo GroupName="B" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2095">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p4157" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4157" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17441" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t245">
+        <Goal Period="SecondHalf" PlayerRef="p74363" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343893">
+      <MatchInfo GroupName="A" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="33">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3773" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20298" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p8438" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343889">
+      <MatchInfo GroupName="A" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="33">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p20298" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p20298" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p4611" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p36903" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t324">
+        <Goal Period="SecondHalf" PlayerRef="p54908" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343971">
+      <MatchInfo GroupName="H" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="6" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p38401" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38401" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15675" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17878" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p17878" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13227" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t372" />
+    </MatchData>
+    <MatchData uID="g343958">
+      <MatchInfo GroupName="F" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2695">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Pod Dubnom</Stat>
+      <Stat Type="City">Zilina</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1712">
+        <Goal Period="SecondHalf" PlayerRef="p42622" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t205">
+        <Goal Period="SecondHalf" PlayerRef="p53005" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19825" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343939">
+      <MatchInfo GroupName="E" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1336">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t121">
+        <Goal Period="FirstHalf" PlayerRef="p14731" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t481">
+        <Goal Period="FirstHalf" PlayerRef="p66153" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43570" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15738" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343982">
+      <MatchInfo GroupName="H" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p47429" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6434" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t372" />
+    </MatchData>
+    <MatchData uID="g343925">
+      <MatchInfo GroupName="D" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3774">
+        <Date>2010-09-29 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Central Stadium Kazan</Stat>
+      <Stat Type="City">Kazan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1589">
+        <Goal Period="FirstHalf" PlayerRef="p50947" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343936">
+      <MatchInfo GroupName="E" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3787">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul Dr. Constantin Radulescu</Stat>
+      <Stat Type="City">Cluj</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t2628">
+        <Goal Period="FirstHalf" PlayerRef="p28419" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56345" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t481">
+        <Goal Period="FirstHalf" PlayerRef="p43575" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g357453">
+      <MatchInfo MatchDay="11" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="2095">
+        <Date>2011-04-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t167" />
+      <TeamData Score="2" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343970">
+      <MatchInfo GroupName="G" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="2" Side="Away" TeamRef="t215">
+        <Goal Period="SecondHalf" PlayerRef="p28182" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55605" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343914">
+      <MatchInfo GroupName="C" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="18">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ibrox Stadium</Stat>
+      <Stat Type="City">Glasgow</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t67">
+        <Goal Period="FirstHalf" PlayerRef="p18981" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t886" />
+    </MatchData>
+    <MatchData uID="g343981">
+      <MatchInfo GroupName="H" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p20467" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28554" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t216">
+        <Goal Period="SecondHalf" PlayerRef="p64673" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343910">
+      <MatchInfo GroupName="B" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t251">
+        <Goal Period="SecondHalf" PlayerRef="p19980" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t167">
+        <Goal Period="FirstHalf" PlayerRef="p17441" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41316" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343933">
+      <MatchInfo GroupName="D" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p49841" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p61559" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1589" />
+    </MatchData>
+    <MatchData uID="g343953">
+      <MatchInfo GroupName="F" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p41135" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41135" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12303" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p3897" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t205">
+        <Goal Period="SecondHalf" PlayerRef="p39422" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343924">
+      <MatchInfo GroupName="D" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1377">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parken Stadion</Stat>
+      <Stat Type="City">Copenhagen</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t569">
+        <Goal Period="SecondHalf" PlayerRef="p48337" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1589" />
+    </MatchData>
+    <MatchData uID="g343923">
+      <MatchInfo GroupName="D" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17279" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15780" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t264">
+        <Goal Period="FirstHalf" PlayerRef="p6600" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350717">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1360">
+        <Date>2011-03-16 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p19927" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46497" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p39563" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g343944">
+      <MatchInfo GroupName="E" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t481">
+        <Goal Period="FirstHalf" PlayerRef="p56711" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2628" />
+    </MatchData>
+    <MatchData uID="g343972">
+      <MatchInfo GroupName="H" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p17347" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t216" />
+    </MatchData>
+    <MatchData uID="g350711">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1349">
+        <Date>2011-03-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p5816" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p54104" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343894">
+      <MatchInfo GroupName="A" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1380">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Weserstadion</Stat>
+      <Stat Type="City">Bremen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t171" />
+      <TeamData Score="2" Side="Away" TeamRef="t324">
+        <Goal Period="SecondHalf" PlayerRef="p53041" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p54908" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343905">
+      <MatchInfo GroupName="B" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2246">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ramat Gan</Stat>
+      <Stat Type="City">Ramat Gan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t245" />
+      <TeamData Score="0" Side="Away" TeamRef="t167" />
+    </MatchData>
+    <MatchData uID="g343918">
+      <MatchInfo GroupName="C" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3421">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Bursa Atatürk Stadi</Stat>
+      <Stat Type="City">Bursa</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t886" />
+      <TeamData Score="3" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p38429" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14295" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p84374" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g358025">
+      <MatchInfo MatchDay="13" Period="FullTime" RoundNumber="5" RoundType="Final" Venue_id="5">
+        <Date>2011-05-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343927">
+      <MatchInfo GroupName="D" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3362">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Athens Olympic Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t264" />
+      <TeamData Score="0" Side="Away" TeamRef="t1589" />
+    </MatchData>
+    <MatchData uID="g356830">
+      <MatchInfo MatchDay="9" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="1360">
+        <Date>2011-04-05 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p46497" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17500" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t6" />
+    </MatchData>
+    <MatchData uID="g350712">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1377">
+        <Date>2011-02-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parken Stadion</Stat>
+      <Stat Type="City">Copenhagen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t569" />
+      <TeamData Score="2" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p3897" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3897" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343898">
+      <MatchInfo GroupName="A" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1380">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Weserstadion</Stat>
+      <Stat Type="City">Bremen</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t171">
+        <Goal Period="SecondHalf" PlayerRef="p41464" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5285" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p41945" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g343907">
+      <MatchInfo GroupName="B" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2095">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t167">
+        <Goal Period="FirstHalf" PlayerRef="p18659" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14941" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14941" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g343928">
+      <MatchInfo GroupName="D" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t569" />
+    </MatchData>
+    <MatchData uID="g343947">
+      <MatchInfo GroupName="F" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="1" Side="Away" TeamRef="t205">
+        <Goal Period="SecondHalf" PlayerRef="p41328" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343976">
+      <MatchInfo GroupName="H" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p54102" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15675" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28554" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17878" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p21091" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p38470" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343959">
+      <MatchInfo GroupName="G" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p40232" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40799" Type="Own" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t215" />
+    </MatchData>
+    <MatchData uID="g343912">
+      <MatchInfo GroupName="C" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3421">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Bursa Atatürk Stadi</Stat>
+      <Stat Type="City">Bursa</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t886" />
+      <TeamData Score="4" Side="Away" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p14464" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17926" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p51527" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28690" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350714">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1335">
+        <Date>2011-02-15 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="1" Side="Away" TeamRef="t6">
+        <Goal Period="SecondHalf" PlayerRef="p3773" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343902">
+      <MatchInfo GroupName="B" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2095">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p14941" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18659" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t251" />
+    </MatchData>
+    <MatchData uID="g343950">
+      <MatchInfo GroupName="F" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2010-09-28 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t205">
+        <Goal Period="FirstHalf" PlayerRef="p42515" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19825" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42515" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1712" />
+    </MatchData>
+    <MatchData uID="g343906">
+      <MatchInfo GroupName="B" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2010-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t251">
+        <Goal Period="FirstHalf" PlayerRef="p52303" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46525" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19534" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p46525" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p38454" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27669" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g356837">
+      <MatchInfo MatchDay="10" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="2095">
+        <Date>2011-04-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Veltins-Arena</Stat>
+      <Stat Type="City">Gelsenkirchen</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t167">
+        <Goal Period="SecondHalf" PlayerRef="p41316" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p4157" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p11527" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343919">
+      <MatchInfo GroupName="C" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="18">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ibrox Stadium</Stat>
+      <Stat Type="City">Glasgow</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t67" />
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343974">
+      <MatchInfo GroupName="H" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2718">
+        <Date>2010-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Braga Municipal</Stat>
+      <Stat Type="City">Braga</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t372" />
+      <TeamData Score="3" Side="Away" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p47429" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p47429" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p57195" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343966">
+      <MatchInfo GroupName="G" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2010-11-03 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p4174" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p4174" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p42839" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40232" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350720">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1310">
+        <Date>2011-02-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g343899">
+      <MatchInfo GroupName="B" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p14197" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t167" />
+    </MatchData>
+    <MatchData uID="g343945">
+      <MatchInfo GroupName="E" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2010-12-08 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t156">
+        <Goal Period="SecondHalf" PlayerRef="p28559" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p6903" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28559" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t481" />
+    </MatchData>
+    <MatchData uID="g356832">
+      <MatchInfo MatchDay="9" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="1349">
+        <Date>2011-04-06 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p9954" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18221" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12237" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p15780" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5816" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p76349" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343980">
+      <MatchInfo GroupName="H" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2706">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FK Partizan Stadium</Stat>
+      <Stat Type="City">Belgrade</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t216" />
+      <TeamData Score="3" Side="Away" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p68046" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27793" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38470" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343932">
+      <MatchInfo GroupName="D" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3774">
+        <Date>2010-11-24 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Central Stadium Kazan</Stat>
+      <Stat Type="City">Kazan</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1589">
+        <Goal Period="FirstHalf" PlayerRef="p50947" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t569" />
+    </MatchData>
+    <MatchData uID="g343934">
+      <MatchInfo GroupName="D" MatchDay="6" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1377">
+        <Date>2010-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parken Stadion</Stat>
+      <Stat Type="City">Copenhagen</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t569">
+        <Goal Period="SecondHalf" PlayerRef="p3986" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p50445" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6286" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t264">
+        <Goal Period="SecondHalf" PlayerRef="p6811" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343956">
+      <MatchInfo GroupName="F" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p10425" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40755" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1712">
+        <Goal Period="FirstHalf" PlayerRef="p67102" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g357456">
+      <MatchInfo MatchDay="12" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="1349">
+        <Date>2011-05-03 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p49579" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p39563" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343964">
+      <MatchInfo GroupName="G" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2010-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t186">
+        <Goal Period="FirstHalf" PlayerRef="p37605" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g343892">
+      <MatchInfo GroupName="A" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="124">
+        <Date>2010-10-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">De Grolsch Veste</Stat>
+      <Stat Type="City">Enschende</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t324">
+        <Goal Period="SecondHalf" PlayerRef="p4993" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t171">
+        <Goal Period="SecondHalf" PlayerRef="p41464" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g356831">
+      <MatchInfo MatchDay="9" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="35">
+        <Date>2011-04-06 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p13017" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350719">
+      <MatchInfo MatchDay="8" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="2775">
+        <Date>2011-03-15 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p55634" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15061" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350718">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1335">
+        <Date>2011-02-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="1" Side="Away" TeamRef="t156">
+        <Goal Period="SecondHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343951">
+      <MatchInfo GroupName="F" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2010-10-19 17:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t205" />
+      <TeamData Score="2" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p3897" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18689" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343929">
+      <MatchInfo GroupName="D" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3774">
+        <Date>2010-11-02 17:30:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Central Stadium Kazan</Stat>
+      <Stat Type="City">Kazan</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1589" />
+      <TeamData Score="0" Side="Away" TeamRef="t264" />
+    </MatchData>
+    <MatchData uID="g343911">
+      <MatchInfo GroupName="C" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2010-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1" />
+      <TeamData Score="0" Side="Away" TeamRef="t67" />
+    </MatchData>
+    <MatchData uID="g343935">
+      <MatchInfo GroupName="E" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2010-09-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t156">
+        <Goal Period="SecondHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t121" />
+    </MatchData>
+    <MatchData uID="g350710">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="3250">
+        <Date>2011-02-16 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13227" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343926">
+      <MatchInfo GroupName="D" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3362">
+        <Date>2010-09-29 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Athens Olympic Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t264" />
+      <TeamData Score="2" Side="Away" TeamRef="t569">
+        <Goal Period="FirstHalf" PlayerRef="p50445" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p48337" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g350716">
+      <MatchInfo MatchDay="7" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="1309">
+        <Date>2011-02-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t143">
+        <Goal Period="SecondHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p19927" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g343896">
+      <MatchInfo GroupName="A" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="33">
+        <Date>2010-11-24 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">White Hart Lane</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t6">
+        <Goal Period="FirstHalf" PlayerRef="p37055" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3773" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37742" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t171" />
+    </MatchData>
+    <MatchData uID="g343943">
+      <MatchInfo GroupName="E" MatchDay="5" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1336">
+        <Date>2010-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Olimpico</Stat>
+      <Stat Type="City">Roma</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t121">
+        <Goal Period="SecondHalf" PlayerRef="p4177" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p10625" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14731" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t67">
+      <Name>Rangers</Name>
+    </Team>
+    <Team uID="t127">
+      <Name>Internazionale</Name>
+    </Team>
+    <Team uID="t1589">
+      <Name>Rubin Kazan</Name>
+    </Team>
+    <Team uID="t455">
+      <Name>Shakhtar Donetsk</Name>
+    </Team>
+    <Team uID="t324">
+      <Name>FC Twente</Name>
+    </Team>
+    <Team uID="t1">
+      <Name>Manchester United</Name>
+    </Team>
+    <Team uID="t144">
+      <Name>Marseille</Name>
+    </Team>
+    <Team uID="t186">
+      <Name>Real Madrid</Name>
+    </Team>
+    <Team uID="t264">
+      <Name>Panathinaikos</Name>
+    </Team>
+    <Team uID="t120">
+      <Name>Milan</Name>
+    </Team>
+    <Team uID="t156">
+      <Name>FC Bayern München</Name>
+    </Team>
+    <Team uID="t191">
+      <Name>Valencia</Name>
+    </Team>
+    <Team uID="t215">
+      <Name>Ajax</Name>
+    </Team>
+    <Team uID="t178">
+      <Name>Barcelona</Name>
+    </Team>
+    <Team uID="t2628">
+      <Name>CFR Cluj</Name>
+    </Team>
+    <Team uID="t245">
+      <Name>Hapoel Tel Aviv</Name>
+    </Team>
+    <Team uID="t167">
+      <Name>FC Schalke 04</Name>
+    </Team>
+    <Team uID="t121">
+      <Name>Roma</Name>
+    </Team>
+    <Team uID="t143">
+      <Name>Lyon</Name>
+    </Team>
+    <Team uID="t205">
+      <Name>Spartak Moscow</Name>
+    </Team>
+    <Team uID="t481">
+      <Name>Basel</Name>
+    </Team>
+    <Team uID="t6">
+      <Name>Tottenham Hotspur</Name>
+    </Team>
+    <Team uID="t251">
+      <Name>Benfica</Name>
+    </Team>
+    <Team uID="t3">
+      <Name>Arsenal</Name>
+    </Team>
+    <Team uID="t138">
+      <Name>Auxerre</Name>
+    </Team>
+    <Team uID="t569">
+      <Name>FC København</Name>
+    </Team>
+    <Team uID="t1712">
+      <Name>MSK Zilina</Name>
+    </Team>
+    <Team uID="t8">
+      <Name>Chelsea</Name>
+    </Team>
+    <Team uID="t216">
+      <Name>FK Partizan Belgrade</Name>
+    </Team>
+    <Team uID="t886">
+      <Name>Bursaspor</Name>
+    </Team>
+    <Team uID="t372">
+      <Name>Sporting Braga</Name>
+    </Team>
+    <Team uID="t171">
+      <Name>SV Werder Bremen</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

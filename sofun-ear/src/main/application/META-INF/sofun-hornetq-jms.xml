@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: sofun-hornetq-jms.xml 2410 2011-11-07 11:13:29Z anguenot $ -->
+
+<configuration xmlns="urn:hornetq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:hornetq /schema/hornetq-jms.xsd">
+
+	<queue name="sofun-facebook">
+		<entry name="/queue/sofun-facebook" />
+	</queue>
+	<queue name="sofun-feeds">
+		<entry name="/queue/sofun-feeds" />
+	</queue>
+
+</configuration>

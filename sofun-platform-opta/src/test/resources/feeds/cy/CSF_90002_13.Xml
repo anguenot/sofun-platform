@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Clasificaciones>
+<DG ID="90002" DES="Tour de Francia" Fch="14-07-2012" JOR="13" CLFGRAL="999999" TCOM="7" DEP="9" FN="CSF_90002_13.Xml" FG="CGF_90002.Xml" TS="20120714174249" IDUNICO="7100" TEMP="2012"></DG>
+<JOR ID="13" DESC="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)">
+<CLF ID="14" ParDES="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" PrbID="1" PrbDES="Etapa Individual" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9000682" NJ="André Greipel" CE="9000009" NE="OLO" DO="114" CON1="" CON2="04:57:59" CON3="ALM" PACOI="GER" CON7="04:57:59" CON9=""></Puesto>
+	<Puesto ID="2" CJ="9001345" NJ="Peter Sagan" CE="9000017" NE="LIQ" DO="57" CON1="" CON2="04:57:59" CON3="SVK" PACOI="SVK" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="3" CJ="9001101" NJ="Edvald Boasson Hagen" CE="9000097" NE="SKY" DO="102" CON1="" CON2="04:57:59" CON3="NOR" PACOI="NOR" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="4" CJ="9000237" NJ="Sébastien Hinault" CE="9000001" NE="ALM" DO="75" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="5" CJ="9000881" NJ="Daryl Impey" CE="9000014" NE="GEC" DO="205" CON1="" CON2="04:57:59" CON3="SF" PACOI="RSA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="6" CJ="9001038" NJ="Julien Simon" CE="9000101" NE="SAU" DO="99" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="7" CJ="9001179" NJ="Marco Marcato" CE="9000042" NE="VCD" DO="125" CON1="" CON2="04:57:59" CON3="ITA" PACOI="ITA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="8" CJ="9000259" NJ="Philippe Gilbert" CE="9000096" NE="BMC" DO="4" CON1="" CON2="04:57:59" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="9" CJ="9000982" NJ="Peter Velits" CE="9000021" NE="OPQ" DO="199" CON1="" CON2="04:57:59" CON3="SVK" PACOI="SVK" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="10" CJ="9000344" NJ="Danilo Hondo" CE="9000016" NE="LAM" DO="43" CON1="" CON2="04:57:59" CON3="ALM" PACOI="GER" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="11" CJ="9000300" NJ="Vincenzo Nibali" CE="9000017" NE="LIQ" DO="51" CON1="" CON2="04:57:59" CON3="ITA" PACOI="ITA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="12" CJ="9000010" NJ="Bradley Wiggins" CE="9000097" NE="SKY" DO="101" CON1="" CON2="04:57:59" CON3="GBR" PACOI="GBR" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="13" CJ="9001397" NJ="Janez Brajkovic" CE="9000018" NE="AST" DO="181" CON1="" CON2="04:57:59" CON3="ESL" PACOI="SLO" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="14" CJ="9000431" NJ="Kevin De Weert" CE="9000021" NE="OPQ" DO="193" CON1="" CON2="04:57:59" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="15" CJ="9000880" NJ="Christopher Froome" CE="9000097" NE="SKY" DO="105" CON1="" CON2="04:57:59" CON3="GBR" PACOI="GBR" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="16" CJ="9000473" NJ="Cadel Evans" CE="9000096" NE="BMC" DO="1" CON1="" CON2="04:57:59" CON3="AUT" PACOI="AUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="17" CJ="9000460" NJ="Jurgen Van den Broeck" CE="9000009" NE="OLO" DO="111" CON1="" CON2="04:57:59" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="18" CJ="9000365" NJ="Andréas Klöden" CE="9000100" NE="RNT" DO="15" CON1="" CON2="04:57:59" CON3="ALM" PACOI="GER" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="19" CJ="9000231" NJ="Nicolas Roche" CE="9000001" NE="ALM" DO="79" CON1="" CON2="04:57:59" CON3="IRL" PACOI="IRL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="20" CJ="9001353" NJ="Tejay Van Garderen" CE="9000096" NE="BMC" DO="9" CON1="" CON2="04:57:59" CON3="USA" PACOI="USA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="21" CJ="9000212" NJ="Matthieu Sprick" CE="9000041" NE="ARG" DO="217" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="22" CJ="9000077" NJ="Haimar Zubeldia" CE="9000100" NE="RNT" DO="19" CON1="" CON2="04:57:59" CON3="ESP" PACOI="ESP" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="23" CJ="9000777" NJ="Pierre Rolland" CE="9000102" NE="EUC" DO="29" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="24" CJ="9000954" NJ="Jurgen Roelandts" CE="9000009" NE="OLO" DO="117" CON1="" CON2="04:57:59" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="25" CJ="9000782" NJ="Chris Anker Sorensen" CE="9000006" NE="SAX" DO="178" CON1="" CON2="04:57:59" CON3="DIN" PACOI="DEN" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="26" CJ="9000621" NJ="Maxime Monfort" CE="9000100" NE="RNT" DO="16" CON1="" CON2="04:57:59" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="27" CJ="9000481" NJ="Egoi Martínez de Esteban" CE="9000010" NE="EUS" DO="35" CON1="" CON2="04:57:59" CON3="ESP" PACOI="ESP" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="28" CJ="9000558" NJ="Simon Gerrans" CE="9000014" NE="GEC" DO="201" CON1="" CON2="04:57:59" CON3="AUT" PACOI="AUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="29" CJ="9000849" NJ="Eduard Vorganov" CE="9000040" NE="KAT" DO="139" CON1="" CON2="04:57:59" CON3="RUS" PACOI="RUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="30" CJ="9000641" NJ="Christopher Horner" CE="9000100" NE="RNT" DO="14" CON1="" CON2="04:57:59" CON3="USA" PACOI="USA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="31" CJ="9000861" NJ="Jérôme Coppel" CE="9000101" NE="SAU" DO="91" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="32" CJ="9000530" NJ="Luis León Sanchez Gil" CE="9000022" NE="RAB" DO="155" CON1="" CON2="04:57:59" CON3="ESP" PACOI="ESP" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="33" CJ="9001407" NJ="Thibaut Pinot" CE="9000012" NE="FDJ" DO="146" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="34" CJ="9000801" NJ="Mikaël Cherel" CE="9000001" NE="ALM" DO="73" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="35" CJ="9001058" NJ="Rui Alberto Faria Da Costa" CE="9000015" NE="MOV" DO="163" CON1="" CON2="04:57:59" CON3="POR" PACOI="POR" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="36" CJ="9000786" NJ="Denis Menchov" CE="9000040" NE="KAT" DO="131" CON1="" CON2="04:57:59" CON3="RUS" PACOI="RUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="37" CJ="9000137" NJ="Giampaolo Caruso" CE="9000040" NE="KAT" DO="132" CON1="" CON2="04:57:59" CON3="ITA" PACOI="ITA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="38" CJ="9000142" NJ="Michele Scarponi" CE="9000016" NE="LAM" DO="41" CON1="" CON2="04:57:59" CON3="ITA" PACOI="ITA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="39" CJ="9000979" NJ="Christian Vande Velde" CE="9000037" NE="GRM" DO="68" CON1="" CON2="04:57:59" CON3="USA" PACOI="USA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="40" CJ="9000041" NJ="Frank Schleck" CE="9000100" NE="RNT" DO="11" CON1="" CON2="04:57:59" CON3="LUX" PACOI="LUX" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="41" CJ="9001199" NJ="Robert Kiserlovski" CE="9000018" NE="AST" DO="188" CON1="" CON2="04:57:59" CON3="CRO" PACOI="CRO" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="42" CJ="9000203" NJ="Pierrick Fedrigo" CE="9000012" NE="FDJ" DO="142" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="43" CJ="9000117" NJ="Vladimir Karpets" CE="9000015" NE="MOV" DO="166" CON1="" CON2="04:57:59" CON3="RUS" PACOI="RUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="44" CJ="9000443" NJ="Michael Rogers" CE="9000097" NE="SKY" DO="108" CON1="" CON2="04:58:08" CON3="AUT" PACOI="AUS" CON7="+00:00:09" CON9=""></Puesto>
+	<Puesto ID="45" CJ="9000372" NJ="Alexandre Vinokourov" CE="9000018" NE="AST" DO="189" CON1="" CON2="04:58:45" CON3="KZ" PACOI="KAZ" CON7="+00:00:46" CON9=""></Puesto>
+	<Puesto ID="46" CJ="9000713" NJ="Adam Hansen" CE="9000009" NE="OLO" DO="115" CON1="" CON2="04:59:07" CON3="AUT" PACOI="AUS" CON7="+00:01:08" CON9=""></Puesto>
+	<Puesto ID="47" CJ="9000376" NJ="Lars Ytting Bak" CE="9000009" NE="OLO" DO="112" CON1="" CON2="04:59:18" CON3="DIN" PACOI="DEN" CON7="+00:01:19" CON9=""></Puesto>
+	<Puesto ID="48" CJ="9001077" NJ="Yukiya Arashiro" CE="9000102" NE="EUC" DO="22" CON1="" CON2="04:59:44" CON3="JAP" PACOI="JPN" CON7="+00:01:45" CON9=""></Puesto>
+	<Puesto ID="49" CJ="9000213" NJ="Thomas Voeckler" CE="9000102" NE="EUC" DO="21" CON1="" CON2="04:59:44" CON3="FRA" PACOI="FRA" CON7="+00:01:45" CON9=""></Puesto>
+	<Puesto ID="50" CJ="9000324" NJ="Michael Albasini" CE="9000014" NE="GEC" DO="202" CON1="" CON2="05:00:28" CON3="SUI" PACOI="SUI" CON7="+00:02:29" CON9=""></Puesto>
+	<Puesto ID="51" CJ="9000227" NJ="Amaël Moinard" CE="9000096" NE="BMC" DO="6" CON1="" CON2="05:06:02" CON3="FRA" PACOI="FRA" CON7="+00:08:03" CON9=""></Puesto>
+	<Puesto ID="52" CJ="9000952" NJ="Francis De Greef" CE="9000009" NE="OLO" DO="113" CON1="" CON2="05:06:35" CON3="BEL" PACOI="BEL" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="53" CJ="9000940" NJ="Laurens Ten Dam" CE="9000022" NE="RAB" DO="157" CON1="" CON2="05:06:35" CON3="NL" PACOI="NED" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="54" CJ="9000396" NJ="Jens Voigt" CE="9000100" NE="RNT" DO="18" CON1="" CON2="05:06:35" CON3="ALM" PACOI="GER" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="55" CJ="9001109" NJ="Michael Morkov" CE="9000006" NE="SAX" DO="175" CON1="" CON2="05:06:35" CON3="DIN" PACOI="DEN" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="56" CJ="9000719" NJ="Juan José Haedo" CE="9000006" NE="SAX" DO="172" CON1="" CON2="05:06:35" CON3="ARG" PACOI="ARG" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="57" CJ="9001031" NJ="Maxime Bouet" CE="9000001" NE="ALM" DO="72" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="58" CJ="9000449" NJ="Bram Tankink" CE="9000022" NE="RAB" DO="156" CON1="" CON2="05:06:35" CON3="NL" PACOI="NED" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="59" CJ="9000519" NJ="Koen De Kort" CE="9000041" NE="ARG" DO="213" CON1="" CON2="05:06:35" CON3="NL" PACOI="NED" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="60" CJ="9000866" NJ="Yauheni Hutarovich" CE="9000012" NE="FDJ" DO="143" CON1="" CON2="05:06:35" CON3="BIE" PACOI="BLR" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="61" CJ="9000818" NJ="Marcel Sieberg" CE="9000009" NE="OLO" DO="118" CON1="" CON2="05:06:35" CON3="ALM" PACOI="GER" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="62" CJ="9000266" NJ="Jérémy Roy" CE="9000012" NE="FDJ" DO="148" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="63" CJ="9000218" NJ="Sylvain Chavanel" CE="9000021" NE="OPQ" DO="192" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="64" CJ="9000981" NJ="Martin Velits" CE="9000021" NE="OPQ" DO="198" CON1="" CON2="05:06:35" CON3="SVK" PACOI="SVK" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="65" CJ="9000799" NJ="Matthieu Ladagnous" CE="9000012" NE="FDJ" DO="144" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="66" CJ="9000662" NJ="Rubén Pérez Moreno" CE="9000010" NE="EUS" DO="36" CON1="" CON2="05:06:35" CON3="ESP" PACOI="ESP" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="67" CJ="9000838" NJ="Mark Cavendish" CE="9000097" NE="SKY" DO="103" CON1="" CON2="05:06:35" CON3="GBR" PACOI="GBR" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="68" CJ="9000091" NJ="Baden Cooke" CE="9000014" NE="GEC" DO="203" CON1="" CON2="05:06:35" CON3="AUT" PACOI="AUS" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="69" CJ="9001103" NJ="Davide Malacarne" CE="9000102" NE="EUC" DO="28" CON1="" CON2="05:06:35" CON3="ITA" PACOI="ITA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="70" CJ="9000407" NJ="Bert Grabsch" CE="9000021" NE="OPQ" DO="195" CON1="" CON2="05:06:35" CON3="ALM" PACOI="GER" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="71" CJ="9001650" NJ="Jonathan Cantwell" CE="9000006" NE="SAX" DO="171" CON1="" CON2="05:06:35" CON3="AUT" PACOI="AUS" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="72" CJ="9000557" NJ="Samuel Dumoulin" CE="9000005" NE="COF" DO="83" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="73" CJ="9001385" NJ="Romain Zingle" CE="9000005" NE="COF" DO="89" CON1="" CON2="05:06:35" CON3="BEL" PACOI="BEL" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="74" CJ="9000278" NJ="Andrey Grivko" CE="9000018" NE="AST" DO="184" CON1="" CON2="05:06:35" CON3="UCR" PACOI="UKR" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="75" CJ="9000454" NJ="Yaroslav Popovych" CE="9000100" NE="RNT" DO="17" CON1="" CON2="05:06:35" CON3="UCR" PACOI="UKR" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="76" CJ="9001528" NJ="Fabrice Jeandesboz" CE="9000101" NE="SAU" DO="95" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="77" CJ="9001068" NJ="Daniel Oss" CE="9000017" NE="LIQ" DO="56" CON1="" CON2="05:06:35" CON3="ITA" PACOI="ITA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="78" CJ="9000210" NJ="Jérôme Pineau" CE="9000021" NE="OPQ" DO="197" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="79" CJ="9000243" NJ="Cyril Lemoine" CE="9000101" NE="SAU" DO="96" CON1="" CON2="05:06:35" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="80" CJ="9001172" NJ="Borut Bozic" CE="9000018" NE="AST" DO="182" CON1="" CON2="05:06:35" CON3="ESL" PACOI="SLO" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="81" CJ="9001160" NJ="Roy Curvers" CE="9000041" NE="ARG" DO="212" CON1="" CON2="05:09:10" CON3="NL" PACOI="NED" CON7="+00:11:11" CON9=""></Puesto>
+	<Puesto ID="82" CJ="9000511" NJ="Manuel Quinziato" CE="9000096" NE="BMC" DO="7" CON1="" CON2="05:10:30" CON3="ITA" PACOI="ITA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="83" CJ="9001466" NJ="Aliaksandr Kuschynski" CE="9000040" NE="KAT" DO="136" CON1="" CON2="05:10:30" CON3="BIE" PACOI="BLR" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="84" CJ="9001324" NJ="Michael Schär" CE="9000096" NE="BMC" DO="8" CON1="" CON2="05:10:30" CON3="SUI" PACOI="SUI" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="85" CJ="9000241" NJ="Andrey Kashechkin" CE="9000018" NE="AST" DO="186" CON1="" CON2="05:10:30" CON3="KZ" PACOI="KAZ" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="86" CJ="9001005" NJ="Yuriy Trofimov" CE="9000040" NE="KAT" DO="138" CON1="" CON2="05:10:30" CON3="RUS" PACOI="RUS" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="87" CJ="9000004" NJ="Giovanni Bernaudeau" CE="9000102" NE="EUC" DO="23" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="88" CJ="9000676" NJ="Sebastien Minard" CE="9000001" NE="ALM" DO="77" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="89" CJ="9000776" NJ="Jean-Marc Marino" CE="9000101" NE="SAU" DO="98" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="90" CJ="9000222" NJ="Jimmy Engoulvent" CE="9000101" NE="SAU" DO="93" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="91" CJ="9000035" NJ="Stuart O&apos;Grady" CE="9000014" NE="GEC" DO="208" CON1="" CON2="05:10:30" CON3="AUT" PACOI="AUS" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="92" CJ="9000144" NJ="Brett Daniel Lancaster" CE="9000014" NE="GEC" DO="206" CON1="" CON2="05:10:30" CON3="AUT" PACOI="AUS" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="93" CJ="9000962" NJ="Matthew Goss" CE="9000014" NE="GEC" DO="204" CON1="" CON2="05:10:30" CON3="AUT" PACOI="AUS" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="94" CJ="9000423" NJ="Pieter Weening" CE="9000014" NE="GEC" DO="209" CON1="" CON2="05:10:30" CON3="NL" PACOI="NED" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="95" CJ="9001332" NJ="Steven Kruijswijk" CE="9000022" NE="RAB" DO="152" CON1="" CON2="05:10:30" CON3="NL" PACOI="NED" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="96" CJ="9000446" NJ="George Hincapie" CE="9000096" NE="BMC" DO="5" CON1="" CON2="05:10:30" CON3="USA" PACOI="USA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="97" CJ="9000771" NJ="Tyler Farrar" CE="9000037" NE="GRM" DO="63" CON1="" CON2="05:10:30" CON3="USA" PACOI="USA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="98" CJ="9001131" NJ="Fredrik Carl Wilhelm Kessiakoff" CE="9000018" NE="AST" DO="187" CON1="" CON2="05:10:30" CON3="SE" PACOI="SWE" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="99" CJ="9000714" NJ="Gregory Henderson" CE="9000009" NE="OLO" DO="116" CON1="" CON2="05:10:30" CON3="NZ" PACOI="NZL" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="100" CJ="9001381" NJ="Julien Fouchard" CE="9000005" NE="COF" DO="85" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="101" CJ="9000604" NJ="Christian Knees" CE="9000097" NE="SKY" DO="106" CON1="" CON2="05:10:30" CON3="ALM" PACOI="GER" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="102" CJ="9001340" NJ="Dominik Nerz" CE="9000017" NE="LIQ" DO="55" CON1="" CON2="05:10:30" CON3="ALM" PACOI="GER" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="103" CJ="9000204" NJ="Yohann Gene" CE="9000102" NE="EUC" DO="25" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="104" CJ="9000256" NJ="Bernhard Eisel" CE="9000097" NE="SKY" DO="104" CON1="" CON2="05:10:30" CON3="AUS" PACOI="AUT" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="105" CJ="9000769" NJ="Vincent Jerome" CE="9000102" NE="EUC" DO="26" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="106" CJ="9001371" NJ="Federico Canuti" CE="9000017" NE="LIQ" DO="53" CON1="" CON2="05:10:30" CON3="ITA" PACOI="ITA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="107" CJ="9000046" NJ="Alessandro Vanotti" CE="9000017" NE="LIQ" DO="59" CON1="" CON2="05:10:30" CON3="ITA" PACOI="ITA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="108" CJ="9000099" NJ="Sandy Casar" CE="9000012" NE="FDJ" DO="141" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="109" CJ="9001155" NJ="Kenny Robert van Hummel" CE="9000042" NE="VCD" DO="129" CON1="" CON2="05:10:30" CON3="NL" PACOI="NED" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="110" CJ="9000773" NJ="Yann Huguet" CE="9000041" NE="ARG" DO="216" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="111" CJ="9000821" NJ="Dries Devenyns" CE="9000021" NE="OPQ" DO="194" CON1="" CON2="05:10:30" CON3="BEL" PACOI="BEL" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="112" CJ="9001149" NJ="Albert Timmer" CE="9000041" NE="ARG" DO="218" CON1="" CON2="05:10:30" CON3="NL" PACOI="NED" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="113" CJ="9001145" NJ="Pablo Urtasun Pérez" CE="9000010" NE="EUS" DO="38" CON1="" CON2="05:10:30" CON3="ESP" PACOI="ESP" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="114" CJ="9000864" NJ="Anthony Roux" CE="9000012" NE="FDJ" DO="147" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="115" CJ="9000440" NJ="Luca Paolini" CE="9000040" NE="KAT" DO="137" CON1="" CON2="05:12:03" CON3="ITA" PACOI="ITA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="116" CJ="9001243" NJ="Kristijan Koren" CE="9000017" NE="LIQ" DO="54" CON1="" CON2="05:12:03" CON3="ESL" PACOI="SLO" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="117" CJ="9001350" NJ="Patrick Gretsch" CE="9000041" NE="ARG" DO="215" CON1="" CON2="05:12:03" CON3="ALM" PACOI="GER" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="118" CJ="9000528" NJ="Sergio Paulinho" CE="9000006" NE="SAX" DO="177" CON1="" CON2="05:12:03" CON3="POR" PACOI="POR" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="119" CJ="9000867" NJ="Guillaume Levarlet" CE="9000101" NE="SAU" DO="97" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="120" CJ="9001066" NJ="Blel Kadri" CE="9000001" NE="ALM" DO="76" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="121" CJ="9000043" NJ="Ivan Basso" CE="9000017" NE="LIQ" DO="52" CON1="" CON2="05:12:03" CON3="ITA" PACOI="ITA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="122" CJ="9000359" NJ="Marcus Burghardt" CE="9000096" NE="BMC" DO="2" CON1="" CON2="05:12:03" CON3="ALM" PACOI="GER" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="123" CJ="9000126" NJ="Sylvester Szmyd" CE="9000017" NE="LIQ" DO="58" CON1="" CON2="05:12:03" CON3="POL" PACOI="POL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="124" CJ="9000884" NJ="Cedric Pineau" CE="9000012" NE="FDJ" DO="145" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="125" CJ="9000183" NJ="Juan José Cobo Acebo" CE="9000015" NE="MOV" DO="162" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="126" CJ="9000568" NJ="Christophe Riblon" CE="9000001" NE="ALM" DO="78" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="127" CJ="9001525" NJ="Luis Angel Mate" CE="9000005" NE="COF" DO="87" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="128" CJ="9001408" NJ="Arthur Vichot" CE="9000012" NE="FDJ" DO="149" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="129" CJ="9001651" NJ="Kris Boeckmans" CE="9000042" NE="VCD" DO="122" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="130" CJ="9000574" NJ="Alejandro Valverde Belmonte" CE="9000015" NE="MOV" DO="161" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="131" CJ="9000112" NJ="Joan Horrach Ripoll" CE="9000040" NE="KAT" DO="135" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="132" CJ="9000168" NJ="Nick Nuyens" CE="9000006" NE="SAX" DO="176" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="133" CJ="9000645" NJ="David Millar" CE="9000037" NE="GRM" DO="66" CON1="" CON2="05:12:03" CON3="GBR" PACOI="GBR" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="134" CJ="9000394" NJ="Nicki Sorensen" CE="9000006" NE="SAX" DO="179" CON1="" CON2="05:12:03" CON3="DIN" PACOI="DEN" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="135" CJ="9000315" NJ="Marco Marzano" CE="9000016" NE="LAM" DO="46" CON1="" CON2="05:12:03" CON3="ITA" PACOI="ITA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="136" CJ="9000403" NJ="Karsten Kroon" CE="9000006" NE="SAX" DO="173" CON1="" CON2="05:12:03" CON3="NL" PACOI="NED" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="137" CJ="9001349" NJ="Jan Ghyselinck" CE="9000005" NE="COF" DO="86" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="138" CJ="9001379" NJ="Simone Stortoni" CE="9000016" NE="LAM" DO="48" CON1="" CON2="05:12:03" CON3="ITA" PACOI="ITA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="139" CJ="9000780" NJ="Anders Lund" CE="9000006" NE="SAX" DO="174" CON1="" CON2="05:12:03" CON3="DIN" PACOI="DEN" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="140" CJ="9000346" NJ="Levi Leipheimer" CE="9000021" NE="OPQ" DO="191" CON1="" CON2="05:12:03" CON3="USA" PACOI="USA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="141" CJ="9000724" NJ="Steve Cummings" CE="9000096" NE="BMC" DO="3" CON1="" CON2="05:12:03" CON3="GBR" PACOI="GBR" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="142" CJ="9000749" NJ="Maxim Iglinskiy" CE="9000018" NE="AST" DO="185" CON1="" CON2="05:12:03" CON3="KZ" PACOI="KAZ" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="143" CJ="9000974" NJ="Daniel Martin" CE="9000037" NE="GRM" DO="65" CON1="" CON2="05:12:03" CON3="IRL" PACOI="IRL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="144" CJ="9001365" NJ="Rafael Valls" CE="9000042" NE="VCD" DO="128" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="145" CJ="9001246" NJ="Grega Bole" CE="9000016" NE="LAM" DO="42" CON1="" CON2="05:12:03" CON3="ESL" PACOI="SLO" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="146" CJ="9000595" NJ="Rubén Plaza Molina" CE="9000015" NE="MOV" DO="168" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="147" CJ="9001524" NJ="Nicolas Edet" CE="9000005" NE="COF" DO="84" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="148" CJ="9001204" NJ="Richie Porte" CE="9000097" NE="SKY" DO="107" CON1="" CON2="05:12:03" CON3="AUT" PACOI="AUS" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="149" CJ="9000381" NJ="Vladimir Gusev" CE="9000040" NE="KAT" DO="134" CON1="" CON2="05:12:03" CON3="RUS" PACOI="RUS" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="150" CJ="9000030" NJ="Dmitriy Fofonov" CE="9000018" NE="AST" DO="183" CON1="" CON2="05:12:03" CON3="KZ" PACOI="KAZ" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="151" CJ="9000040" NJ="David Zabriskie" CE="9000037" NE="GRM" DO="69" CON1="" CON2="05:12:03" CON3="USA" PACOI="USA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="152" CJ="9001228" NJ="Jean-Christophe Peraud" CE="9000001" NE="ALM" DO="71" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="153" CJ="9000495" NJ="Johan Van Summeren" CE="9000037" NE="GRM" DO="67" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="154" CJ="9001177" NJ="Johnny Hoogerland" CE="9000042" NE="VCD" DO="123" CON1="" CON2="05:12:03" CON3="NL" PACOI="NED" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="155" CJ="9001166" NJ="Brice Feillu" CE="9000101" NE="SAU" DO="94" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="156" CJ="9000797" NJ="Jorge Azanza Soto" CE="9000010" NE="EUS" DO="33" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="157" CJ="9001405" NJ="Gorka Izagirre Insausti" CE="9000010" NE="EUS" DO="34" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="158" CJ="9000955" NJ="Vasil Kiryenka" CE="9000015" NE="MOV" DO="167" CON1="" CON2="05:12:03" CON3="BIE" PACOI="BLR" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="159" CJ="9000934" NJ="Rein Taaramae" CE="9000005" NE="COF" DO="81" CON1="" CON2="05:12:03" CON3="EST" PACOI="EST" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="160" CJ="9001079" NJ="Cyril Gautier" CE="9000102" NE="EUC" DO="24" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="161" CJ="9000865" NJ="Jelle Vanendert" CE="9000009" NE="OLO" DO="119" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="162" CJ="9000832" NJ="Sébastian Langeveld" CE="9000014" NE="GEC" DO="207" CON1="" CON2="05:12:03" CON3="NL" PACOI="NED" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="163" CJ="9000001" NJ="Christophe Kern" CE="9000102" NE="EUC" DO="27" CON1="" CON2="05:12:11" CON3="FRA" PACOI="FRA" CON7="+00:14:12" CON9=""></Puesto>
+</CLF>
+<CLF ID="14" ParDES="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" PrbID="2" PrbDES="Etapa Montaña" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9000460" NJ="Jurgen Van den Broeck" CE="9000009" NE="OLO" DO="111" CON1="" CON2="2" CON3="BEL" PACOI="BEL" CON7="" CON9=""></Puesto>
+	<Puesto ID="2" CJ="9000473" NJ="Cadel Evans" CE="9000096" NE="BMC" DO="1" CON1="" CON2="1" CON3="AUT" PACOI="AUS" CON7="" CON9=""></Puesto>
+</CLF>
+<CLF ID="14" ParDES="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" PrbID="3" PrbDES="Etapa Puntos" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9001145" NJ="Pablo Urtasun Pérez" CE="9000010" NE="EUS" DO="38" CON1="" CON2="20" CON3="ESP" PACOI="ESP" CON7="" CON9=""></Puesto>
+	<Puesto ID="2" CJ="9001160" NJ="Roy Curvers" CE="9000041" NE="ARG" DO="212" CON1="" CON2="17" CON3="NL" PACOI="NED" CON7="" CON9=""></Puesto>
+	<Puesto ID="3" CJ="9000210" NJ="Jérôme Pineau" CE="9000021" NE="OPQ" DO="197" CON1="" CON2="15" CON3="FRA" PACOI="FRA" CON7="" CON9=""></Puesto>
+	<Puesto ID="4" CJ="9000799" NJ="Matthieu Ladagnous" CE="9000012" NE="FDJ" DO="144" CON1="" CON2="13" CON3="FRA" PACOI="FRA" CON7="" CON9=""></Puesto>
+	<Puesto ID="5" CJ="9000222" NJ="Jimmy Engoulvent" CE="9000101" NE="SAU" DO="93" CON1="" CON2="11" CON3="FRA" PACOI="FRA" CON7="" CON9=""></Puesto>
+	<Puesto ID="6" CJ="9000557" NJ="Samuel Dumoulin" CE="9000005" NE="COF" DO="83" CON1="" CON2="10" CON3="FRA" PACOI="FRA" CON7="" CON9=""></Puesto>
+	<Puesto ID="7" CJ="9001031" NJ="Maxime Bouet" CE="9000001" NE="ALM" DO="72" CON1="" CON2="9" CON3="FRA" PACOI="FRA" CON7="" CON9=""></Puesto>
+	<Puesto ID="8" CJ="9001109" NJ="Michael Morkov" CE="9000006" NE="SAX" DO="175" CON1="" CON2="8" CON3="DIN" PACOI="DEN" CON7="" CON9=""></Puesto>
+	<Puesto ID="9" CJ="9001345" NJ="Peter Sagan" CE="9000017" NE="LIQ" DO="57" CON1="" CON2="7" CON3="SVK" PACOI="SVK" CON7="" CON9=""></Puesto>
+	<Puesto ID="10" CJ="9000682" NJ="André Greipel" CE="9000009" NE="OLO" DO="114" CON1="" CON2="6" CON3="ALM" PACOI="GER" CON7="" CON9=""></Puesto>
+	<Puesto ID="11" CJ="9000962" NJ="Matthew Goss" CE="9000014" NE="GEC" DO="204" CON1="" CON2="5" CON3="AUT" PACOI="AUS" CON7="" CON9=""></Puesto>
+	<Puesto ID="12" CJ="9000881" NJ="Daryl Impey" CE="9000014" NE="GEC" DO="205" CON1="" CON2="4" CON3="SF" PACOI="RSA" CON7="" CON9=""></Puesto>
+	<Puesto ID="13" CJ="9000091" NJ="Baden Cooke" CE="9000014" NE="GEC" DO="203" CON1="" CON2="3" CON3="AUT" PACOI="AUS" CON7="" CON9=""></Puesto>
+	<Puesto ID="14" CJ="9000256" NJ="Bernhard Eisel" CE="9000097" NE="SKY" DO="104" CON1="" CON2="2" CON3="AUS" PACOI="AUT" CON7="" CON9=""></Puesto>
+	<Puesto ID="15" CJ="9000443" NJ="Michael Rogers" CE="9000097" NE="SKY" DO="108" CON1="" CON2="1" CON3="AUT" PACOI="AUS" CON7="" CON9=""></Puesto>
+</CLF>
+<CLF ID="14" ParDES="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" PrbID="5" PrbDES="Etapa Jóvenes" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9001345" NJ="Peter Sagan" CE="9000017" NE="LIQ" DO="57" CON1="" CON2="04:57:59" CON3="SVK" PACOI="SVK" CON7="04:57:59" CON9=""></Puesto>
+	<Puesto ID="2" CJ="9001101" NJ="Edvald Boasson Hagen" CE="9000097" NE="SKY" DO="102" CON1="" CON2="04:57:59" CON3="NOR" PACOI="NOR" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="3" CJ="9001353" NJ="Tejay Van Garderen" CE="9000096" NE="BMC" DO="9" CON1="" CON2="04:57:59" CON3="USA" PACOI="USA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="4" CJ="9001407" NJ="Thibaut Pinot" CE="9000012" NE="FDJ" DO="146" CON1="" CON2="04:57:59" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="5" CJ="9001103" NJ="Davide Malacarne" CE="9000102" NE="EUC" DO="28" CON1="" CON2="05:06:35" CON3="ITA" PACOI="ITA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="6" CJ="9001385" NJ="Romain Zingle" CE="9000005" NE="COF" DO="89" CON1="" CON2="05:06:35" CON3="BEL" PACOI="BEL" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="7" CJ="9001068" NJ="Daniel Oss" CE="9000017" NE="LIQ" DO="56" CON1="" CON2="05:06:35" CON3="ITA" PACOI="ITA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="8" CJ="9001332" NJ="Steven Kruijswijk" CE="9000022" NE="RAB" DO="152" CON1="" CON2="05:10:30" CON3="NL" PACOI="NED" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="9" CJ="9001340" NJ="Dominik Nerz" CE="9000017" NE="LIQ" DO="55" CON1="" CON2="05:10:30" CON3="ALM" PACOI="GER" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="10" CJ="9000864" NJ="Anthony Roux" CE="9000012" NE="FDJ" DO="147" CON1="" CON2="05:10:30" CON3="FRA" PACOI="FRA" CON7="+00:12:31" CON9=""></Puesto>
+	<Puesto ID="11" CJ="9001350" NJ="Patrick Gretsch" CE="9000041" NE="ARG" DO="215" CON1="" CON2="05:12:03" CON3="ALM" PACOI="GER" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="12" CJ="9001408" NJ="Arthur Vichot" CE="9000012" NE="FDJ" DO="149" CON1="" CON2="05:12:03" CON3="FRA" PACOI="FRA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="13" CJ="9001651" NJ="Kris Boeckmans" CE="9000042" NE="VCD" DO="122" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="14" CJ="9001349" NJ="Jan Ghyselinck" CE="9000005" NE="COF" DO="86" CON1="" CON2="05:12:03" CON3="BEL" PACOI="BEL" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="15" CJ="9001365" NJ="Rafael Valls" CE="9000042" NE="VCD" DO="128" CON1="" CON2="05:12:03" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+</CLF>
+<CLF ID="14" ParDES="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" PrbID="4" PrbDES="Etapa Equipos" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="0" NJ="" CE="9000097" NE="SKY PROCYCLING" CON1="" CON2="14:53:57" CON3="GBR" PACOI="GBR" CON7="14:53:57" CON9=""></Puesto>
+	<Puesto ID="2" CJ="0" NJ="" CE="9000009" NE="LOTTO BELISOL TEAM" CON1="" CON2="14:53:57" CON3="BEL" PACOI="BEL" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="3" CJ="0" NJ="" CE="9000096" NE="BMC RACING TEAM" CON1="" CON2="14:53:57" CON3="USA" PACOI="USA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="4" CJ="0" NJ="" CE="9000001" NE="AG2R LA MONDIALE" CON1="" CON2="14:53:57" CON3="FRA" PACOI="FRA" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="5" CJ="0" NJ="" CE="9000100" NE="RADIOSHACK NISSAN TREK" CON1="" CON2="14:53:57" CON3="LUX" PACOI="LUX" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="6" CJ="0" NJ="" CE="9000040" NE="KATUSHA TEAM" CON1="" CON2="14:53:57" CON3="RUS" PACOI="RUS" CON7="+00:00:00" CON9=""></Puesto>
+	<Puesto ID="7" CJ="0" NJ="" CE="9000018" NE="ASTANA PRO TEAM" CON1="" CON2="14:54:43" CON3="KZ" PACOI="KAZ" CON7="+00:00:46" CON9=""></Puesto>
+	<Puesto ID="8" CJ="0" NJ="" CE="9000014" NE="ORICA GREENEDGE CYCLING TEAM" CON1="" CON2="14:56:26" CON3="AUT" PACOI="AUS" CON7="+00:02:29" CON9=""></Puesto>
+	<Puesto ID="9" CJ="0" NJ="" CE="9000102" NE="TEAM EUROPCAR" CON1="" CON2="14:57:27" CON3="FRA" PACOI="FRA" CON7="+00:03:30" CON9=""></Puesto>
+	<Puesto ID="10" CJ="0" NJ="" CE="9000021" NE="OMEGA PHARMA QUICKSTEP" CON1="" CON2="15:02:33" CON3="BEL" PACOI="BEL" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="11" CJ="0" NJ="" CE="9000017" NE="LIQUIGAS - CANNONDALE" CON1="" CON2="15:02:33" CON3="ITA" PACOI="ITA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="12" CJ="0" NJ="" CE="9000101" NE="SAUR - SOJASUN" CON1="" CON2="15:02:33" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="13" CJ="0" NJ="" CE="9000012" NE="FDJ BIG MAT" CON1="" CON2="15:02:33" CON3="FRA" PACOI="FRA" CON7="+00:08:36" CON9=""></Puesto>
+	<Puesto ID="14" CJ="0" NJ="" CE="9000016" NE="LAMPRE - ISD" CON1="" CON2="15:08:01" CON3="ITA" PACOI="ITA" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="15" CJ="0" NJ="" CE="9000015" NE="MOVISTAR TEAM" CON1="" CON2="15:08:01" CON3="ESP" PACOI="ESP" CON7="+00:14:04" CON9=""></Puesto>
+	<Puesto ID="16" CJ="0" NJ="" CE="9000006" NE="TEAM SAXO BANK" CON1="" CON2="15:11:09" CON3="DIN" PACOI="DEN" CON7="+00:17:12" CON9=""></Puesto>
+	<Puesto ID="17" CJ="0" NJ="" CE="9000022" NE="RABOBANK CYCLING TEAM" CON1="" CON2="15:11:09" CON3="NL" PACOI="NED" CON7="+00:17:12" CON9=""></Puesto>
+	<Puesto ID="18" CJ="0" NJ="" CE="9000041" NE="TEAM ARGOS SHIMANO" CON1="" CON2="15:13:44" CON3="NL" PACOI="NED" CON7="+00:19:47" CON9=""></Puesto>
+	<Puesto ID="19" CJ="0" NJ="" CE="9000010" NE="EUSKALTEL - EUSKADI" CON1="" CON2="15:15:04" CON3="ESP" PACOI="ESP" CON7="+00:21:07" CON9=""></Puesto>
+	<Puesto ID="20" CJ="0" NJ="" CE="9000042" NE="VACANSOLEIL DCM PRO CYCLING" CON1="" CON2="15:20:32" CON3="NL" PACOI="NED" CON7="+00:26:35" CON9=""></Puesto>
+	<Puesto ID="21" CJ="0" NJ="" CE="9000037" NE="GARMIN BARRACUDA" CON1="" CON2="15:20:32" CON3="USA" PACOI="USA" CON7="+00:26:35" CON9=""></Puesto>
+	<Puesto ID="22" CJ="0" NJ="" CE="9000005" NE="COFIDIS LE CREDIT EN LIGNE" CON1="" CON2="15:23:40" CON3="FRA" PACOI="FRA" CON7="+00:29:43" CON9=""></Puesto>
+</CLF>
+</JOR>
+<JOR ID="999999" DESC="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)">
+<CLF ID="1" ParDES="Clasificación General - Individual-" PrbID="1" PrbDES="Clasificación General - Individual-" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9000010" NJ="Bradley Wiggins" CE="9000097" NE="SKY" DO="101" CON1="" CON2="59:32:32" CON3="GBR" PACOI="GBR" CON7="59:32:32"></Puesto>
+	<Puesto ID="2" CJ="9000880" NJ="Christopher Froome" CE="9000097" NE="SKY" DO="105" CON1="" CON2="59:34:37" CON3="GBR" PACOI="GBR" CON7="+00:02:05"></Puesto>
+	<Puesto ID="3" CJ="9000300" NJ="Vincenzo Nibali" CE="9000017" NE="LIQ" DO="51" CON1="" CON2="59:34:55" CON3="ITA" PACOI="ITA" CON7="+00:02:23"></Puesto>
+	<Puesto ID="4" CJ="9000473" NJ="Cadel Evans" CE="9000096" NE="BMC" DO="1" CON1="" CON2="59:35:51" CON3="AUT" PACOI="AUS" CON7="+00:03:19"></Puesto>
+	<Puesto ID="5" CJ="9000460" NJ="Jurgen Van den Broeck" CE="9000009" NE="OLO" DO="111" CON1="" CON2="59:37:20" CON3="BEL" PACOI="BEL" CON7="+00:04:48"></Puesto>
+	<Puesto ID="6" CJ="9000077" NJ="Haimar Zubeldia" CE="9000100" NE="RNT" DO="19" CON1="" CON2="59:38:47" CON3="ESP" PACOI="ESP" CON7="+00:06:15"></Puesto>
+	<Puesto ID="7" CJ="9001353" NJ="Tejay Van Garderen" CE="9000096" NE="BMC" DO="9" CON1="" CON2="59:39:29" CON3="USA" PACOI="USA" CON7="+00:06:57"></Puesto>
+	<Puesto ID="8" CJ="9001397" NJ="Janez Brajkovic" CE="9000018" NE="AST" DO="181" CON1="" CON2="59:40:02" CON3="ESL" PACOI="SLO" CON7="+00:07:30"></Puesto>
+	<Puesto ID="9" CJ="9000777" NJ="Pierre Rolland" CE="9000102" NE="EUC" DO="29" CON1="" CON2="59:41:03" CON3="FRA" PACOI="FRA" CON7="+00:08:31"></Puesto>
+	<Puesto ID="10" CJ="9001407" NJ="Thibaut Pinot" CE="9000012" NE="FDJ" DO="146" CON1="" CON2="59:41:23" CON3="FRA" PACOI="FRA" CON7="+00:08:51"></Puesto>
+	<Puesto ID="11" CJ="9000365" NJ="Andréas Klöden" CE="9000100" NE="RNT" DO="15" CON1="" CON2="59:42:01" CON3="ALM" PACOI="GER" CON7="+00:09:29"></Puesto>
+	<Puesto ID="12" CJ="9000041" NJ="Frank Schleck" CE="9000100" NE="RNT" DO="11" CON1="" CON2="59:42:17" CON3="LUX" PACOI="LUX" CON7="+00:09:45"></Puesto>
+	<Puesto ID="13" CJ="9000231" NJ="Nicolas Roche" CE="9000001" NE="ALM" DO="79" CON1="" CON2="59:43:21" CON3="IRL" PACOI="IRL" CON7="+00:10:49"></Puesto>
+	<Puesto ID="14" CJ="9000861" NJ="Jérôme Coppel" CE="9000101" NE="SAU" DO="91" CON1="" CON2="59:43:59" CON3="FRA" PACOI="FRA" CON7="+00:11:27"></Puesto>
+	<Puesto ID="15" CJ="9000641" NJ="Christopher Horner" CE="9000100" NE="RNT" DO="14" CON1="" CON2="59:45:13" CON3="USA" PACOI="USA" CON7="+00:12:41"></Puesto>
+	<Puesto ID="16" CJ="9000786" NJ="Denis Menchov" CE="9000040" NE="KAT" DO="131" CON1="" CON2="59:49:53" CON3="RUS" PACOI="RUS" CON7="+00:17:21"></Puesto>
+	<Puesto ID="17" CJ="9000621" NJ="Maxime Monfort" CE="9000100" NE="RNT" DO="16" CON1="" CON2="59:50:13" CON3="BEL" PACOI="BEL" CON7="+00:17:41"></Puesto>
+	<Puesto ID="18" CJ="9000481" NJ="Egoi Martínez de Esteban" CE="9000010" NE="EUS" DO="35" CON1="" CON2="59:50:36" CON3="ESP" PACOI="ESP" CON7="+00:18:04"></Puesto>
+	<Puesto ID="19" CJ="9001058" NJ="Rui Alberto Faria Da Costa" CE="9000015" NE="MOV" DO="163" CON1="" CON2="59:51:34" CON3="POR" PACOI="POR" CON7="+00:19:02"></Puesto>
+	<Puesto ID="20" CJ="9000782" NJ="Chris Anker Sorensen" CE="9000006" NE="SAX" DO="178" CON1="" CON2="59:52:44" CON3="DIN" PACOI="DEN" CON7="+00:20:12"></Puesto>
+	<Puesto ID="21" CJ="9000142" NJ="Michele Scarponi" CE="9000016" NE="LAM" DO="41" CON1="" CON2="59:53:04" CON3="ITA" PACOI="ITA" CON7="+00:20:32"></Puesto>
+	<Puesto ID="22" CJ="9001199" NJ="Robert Kiserlovski" CE="9000018" NE="AST" DO="188" CON1="" CON2="59:53:26" CON3="CRO" PACOI="CRO" CON7="+00:20:54"></Puesto>
+	<Puesto ID="23" CJ="9000982" NJ="Peter Velits" CE="9000021" NE="OPQ" DO="199" CON1="" CON2="60:00:09" CON3="SVK" PACOI="SVK" CON7="+00:27:37"></Puesto>
+	<Puesto ID="24" CJ="9000574" NJ="Alejandro Valverde Belmonte" CE="9000015" NE="MOV" DO="161" CON1="" CON2="60:05:31" CON3="ESP" PACOI="ESP" CON7="+00:32:59"></Puesto>
+	<Puesto ID="25" CJ="9000443" NJ="Michael Rogers" CE="9000097" NE="SKY" DO="108" CON1="" CON2="60:05:45" CON3="AUT" PACOI="AUS" CON7="+00:33:13"></Puesto>
+	<Puesto ID="26" CJ="9000849" NJ="Eduard Vorganov" CE="9000040" NE="KAT" DO="139" CON1="" CON2="60:06:31" CON3="RUS" PACOI="RUS" CON7="+00:33:59"></Puesto>
+	<Puesto ID="27" CJ="9000940" NJ="Laurens Ten Dam" CE="9000022" NE="RAB" DO="157" CON1="" CON2="60:12:49" CON3="NL" PACOI="NED" CON7="+00:40:17"></Puesto>
+	<Puesto ID="28" CJ="9000099" NJ="Sandy Casar" CE="9000012" NE="FDJ" DO="141" CON1="" CON2="60:16:43" CON3="FRA" PACOI="FRA" CON7="+00:44:11"></Puesto>
+	<Puesto ID="29" CJ="9000865" NJ="Jelle Vanendert" CE="9000009" NE="OLO" DO="119" CON1="" CON2="60:17:17" CON3="BEL" PACOI="BEL" CON7="+00:44:45"></Puesto>
+	<Puesto ID="30" CJ="9000043" NJ="Ivan Basso" CE="9000017" NE="LIQ" DO="52" CON1="" CON2="60:17:45" CON3="ITA" PACOI="ITA" CON7="+00:45:13"></Puesto>
+	<Puesto ID="31" CJ="9000372" NJ="Alexandre Vinokourov" CE="9000018" NE="AST" DO="189" CON1="" CON2="60:19:12" CON3="KZ" PACOI="KAZ" CON7="+00:46:40"></Puesto>
+	<Puesto ID="32" CJ="9000346" NJ="Levi Leipheimer" CE="9000021" NE="OPQ" DO="191" CON1="" CON2="60:19:49" CON3="USA" PACOI="USA" CON7="+00:47:17"></Puesto>
+	<Puesto ID="33" CJ="9000934" NJ="Rein Taaramae" CE="9000005" NE="COF" DO="81" CON1="" CON2="60:21:28" CON3="EST" PACOI="EST" CON7="+00:48:56"></Puesto>
+	<Puesto ID="34" CJ="9000183" NJ="Juan José Cobo Acebo" CE="9000015" NE="MOV" DO="162" CON1="" CON2="60:27:12" CON3="ESP" PACOI="ESP" CON7="+00:54:40"></Puesto>
+	<Puesto ID="35" CJ="9000213" NJ="Thomas Voeckler" CE="9000102" NE="EUC" DO="21" CON1="" CON2="60:28:26" CON3="FRA" PACOI="FRA" CON7="+00:55:54"></Puesto>
+	<Puesto ID="36" CJ="9001365" NJ="Rafael Valls" CE="9000042" NE="VCD" DO="128" CON1="" CON2="60:28:29" CON3="ESP" PACOI="ESP" CON7="+00:55:57"></Puesto>
+	<Puesto ID="37" CJ="9001228" NJ="Jean-Christophe Peraud" CE="9000001" NE="ALM" DO="71" CON1="" CON2="60:29:18" CON3="FRA" PACOI="FRA" CON7="+00:56:46"></Puesto>
+	<Puesto ID="38" CJ="9000137" NJ="Giampaolo Caruso" CE="9000040" NE="KAT" DO="132" CON1="" CON2="60:30:07" CON3="ITA" PACOI="ITA" CON7="+00:57:35"></Puesto>
+	<Puesto ID="39" CJ="9001179" NJ="Marco Marcato" CE="9000042" NE="VCD" DO="125" CON1="" CON2="60:33:21" CON3="ITA" PACOI="ITA" CON7="+01:00:49"></Puesto>
+	<Puesto ID="40" CJ="9001332" NJ="Steven Kruijswijk" CE="9000022" NE="RAB" DO="152" CON1="" CON2="60:34:08" CON3="NL" PACOI="NED" CON7="+01:01:36"></Puesto>
+	<Puesto ID="41" CJ="9000446" NJ="George Hincapie" CE="9000096" NE="BMC" DO="5" CON1="" CON2="60:37:27" CON3="USA" PACOI="USA" CON7="+01:04:55"></Puesto>
+	<Puesto ID="42" CJ="9001345" NJ="Peter Sagan" CE="9000017" NE="LIQ" DO="57" CON1="" CON2="60:37:32" CON3="SVK" PACOI="SVK" CON7="+01:05:00"></Puesto>
+	<Puesto ID="43" CJ="9001204" NJ="Richie Porte" CE="9000097" NE="SKY" DO="107" CON1="" CON2="60:37:58" CON3="AUT" PACOI="AUS" CON7="+01:05:26"></Puesto>
+	<Puesto ID="44" CJ="9001528" NJ="Fabrice Jeandesboz" CE="9000101" NE="SAU" DO="95" CON1="" CON2="60:39:14" CON3="FRA" PACOI="FRA" CON7="+01:06:42"></Puesto>
+	<Puesto ID="45" CJ="9000431" NJ="Kevin De Weert" CE="9000021" NE="OPQ" DO="193" CON1="" CON2="60:39:32" CON3="BEL" PACOI="BEL" CON7="+01:07:00"></Puesto>
+	<Puesto ID="46" CJ="9000218" NJ="Sylvain Chavanel" CE="9000021" NE="OPQ" DO="192" CON1="" CON2="60:39:59" CON3="FRA" PACOI="FRA" CON7="+01:07:27"></Puesto>
+	<Puesto ID="47" CJ="9001340" NJ="Dominik Nerz" CE="9000017" NE="LIQ" DO="55" CON1="" CON2="60:41:26" CON3="ALM" PACOI="GER" CON7="+01:08:54"></Puesto>
+	<Puesto ID="48" CJ="9000801" NJ="Mikaël Cherel" CE="9000001" NE="ALM" DO="73" CON1="" CON2="60:41:55" CON3="FRA" PACOI="FRA" CON7="+01:09:23"></Puesto>
+	<Puesto ID="49" CJ="9000396" NJ="Jens Voigt" CE="9000100" NE="RNT" DO="18" CON1="" CON2="60:43:24" CON3="ALM" PACOI="GER" CON7="+01:10:52"></Puesto>
+	<Puesto ID="50" CJ="9000979" NJ="Christian Vande Velde" CE="9000037" NE="GRM" DO="68" CON1="" CON2="60:43:35" CON3="USA" PACOI="USA" CON7="+01:11:03"></Puesto>
+	<Puesto ID="51" CJ="9000203" NJ="Pierrick Fedrigo" CE="9000012" NE="FDJ" DO="142" CON1="" CON2="60:45:01" CON3="FRA" PACOI="FRA" CON7="+01:12:29"></Puesto>
+	<Puesto ID="52" CJ="9001103" NJ="Davide Malacarne" CE="9000102" NE="EUC" DO="28" CON1="" CON2="60:45:02" CON3="ITA" PACOI="ITA" CON7="+01:12:30"></Puesto>
+	<Puesto ID="53" CJ="9001324" NJ="Michael Schär" CE="9000096" NE="BMC" DO="8" CON1="" CON2="60:45:56" CON3="SUI" PACOI="SUI" CON7="+01:13:24"></Puesto>
+	<Puesto ID="54" CJ="9001101" NJ="Edvald Boasson Hagen" CE="9000097" NE="SKY" DO="102" CON1="" CON2="60:46:05" CON3="NOR" PACOI="NOR" CON7="+01:13:33"></Puesto>
+	<Puesto ID="55" CJ="9001031" NJ="Maxime Bouet" CE="9000001" NE="ALM" DO="72" CON1="" CON2="60:46:06" CON3="FRA" PACOI="FRA" CON7="+01:13:34"></Puesto>
+	<Puesto ID="56" CJ="9000227" NJ="Amaël Moinard" CE="9000096" NE="BMC" DO="6" CON1="" CON2="60:46:11" CON3="FRA" PACOI="FRA" CON7="+01:13:39"></Puesto>
+	<Puesto ID="57" CJ="9000259" NJ="Philippe Gilbert" CE="9000096" NE="BMC" DO="4" CON1="" CON2="60:46:19" CON3="BEL" PACOI="BEL" CON7="+01:13:47"></Puesto>
+	<Puesto ID="58" CJ="9001005" NJ="Yuriy Trofimov" CE="9000040" NE="KAT" DO="138" CON1="" CON2="60:46:26" CON3="RUS" PACOI="RUS" CON7="+01:13:54"></Puesto>
+	<Puesto ID="59" CJ="9000278" NJ="Andrey Grivko" CE="9000018" NE="AST" DO="184" CON1="" CON2="60:46:54" CON3="UCR" PACOI="UKR" CON7="+01:14:22"></Puesto>
+	<Puesto ID="60" CJ="9001131" NJ="Fredrik Carl Wilhelm Kessiakoff" CE="9000018" NE="AST" DO="187" CON1="" CON2="60:47:21" CON3="SE" PACOI="SWE" CON7="+01:14:49"></Puesto>
+	<Puesto ID="61" CJ="9001079" NJ="Cyril Gautier" CE="9000102" NE="EUC" DO="24" CON1="" CON2="60:47:46" CON3="FRA" PACOI="FRA" CON7="+01:15:14"></Puesto>
+	<Puesto ID="62" CJ="9000558" NJ="Simon Gerrans" CE="9000014" NE="GEC" DO="201" CON1="" CON2="60:48:36" CON3="AUT" PACOI="AUS" CON7="+01:16:04"></Puesto>
+	<Puesto ID="63" CJ="9000126" NJ="Sylvester Szmyd" CE="9000017" NE="LIQ" DO="58" CON1="" CON2="60:48:50" CON3="POL" PACOI="POL" CON7="+01:16:18"></Puesto>
+	<Puesto ID="64" CJ="9000974" NJ="Daniel Martin" CE="9000037" NE="GRM" DO="65" CON1="" CON2="60:50:07" CON3="IRL" PACOI="IRL" CON7="+01:17:35"></Puesto>
+	<Puesto ID="65" CJ="9000266" NJ="Jérémy Roy" CE="9000012" NE="FDJ" DO="148" CON1="" CON2="60:50:34" CON3="FRA" PACOI="FRA" CON7="+01:18:02"></Puesto>
+	<Puesto ID="66" CJ="9000030" NJ="Dmitriy Fofonov" CE="9000018" NE="AST" DO="183" CON1="" CON2="60:52:47" CON3="KZ" PACOI="KAZ" CON7="+01:20:15"></Puesto>
+	<Puesto ID="67" CJ="9001405" NJ="Gorka Izagirre Insausti" CE="9000010" NE="EUS" DO="34" CON1="" CON2="60:54:31" CON3="ESP" PACOI="ESP" CON7="+01:21:59"></Puesto>
+	<Puesto ID="68" CJ="9000117" NJ="Vladimir Karpets" CE="9000015" NE="MOV" DO="166" CON1="" CON2="60:54:55" CON3="RUS" PACOI="RUS" CON7="+01:22:23"></Puesto>
+	<Puesto ID="69" CJ="9000955" NJ="Vasil Kiryenka" CE="9000015" NE="MOV" DO="167" CON1="" CON2="60:55:39" CON3="BIE" PACOI="BLR" CON7="+01:23:07"></Puesto>
+	<Puesto ID="70" CJ="9000381" NJ="Vladimir Gusev" CE="9000040" NE="KAT" DO="134" CON1="" CON2="60:56:50" CON3="RUS" PACOI="RUS" CON7="+01:24:18"></Puesto>
+	<Puesto ID="71" CJ="9000359" NJ="Marcus Burghardt" CE="9000096" NE="BMC" DO="2" CON1="" CON2="60:56:56" CON3="ALM" PACOI="GER" CON7="+01:24:24"></Puesto>
+	<Puesto ID="72" CJ="9000821" NJ="Dries Devenyns" CE="9000021" NE="OPQ" DO="194" CON1="" CON2="60:58:17" CON3="BEL" PACOI="BEL" CON7="+01:25:45"></Puesto>
+	<Puesto ID="73" CJ="9000568" NJ="Christophe Riblon" CE="9000001" NE="ALM" DO="78" CON1="" CON2="60:58:57" CON3="FRA" PACOI="FRA" CON7="+01:26:25"></Puesto>
+	<Puesto ID="74" CJ="9001408" NJ="Arthur Vichot" CE="9000012" NE="FDJ" DO="149" CON1="" CON2="60:59:52" CON3="FRA" PACOI="FRA" CON7="+01:27:20"></Puesto>
+	<Puesto ID="75" CJ="9001177" NJ="Johnny Hoogerland" CE="9000042" NE="VCD" DO="123" CON1="" CON2="61:00:48" CON3="NL" PACOI="NED" CON7="+01:28:16"></Puesto>
+	<Puesto ID="76" CJ="9000454" NJ="Yaroslav Popovych" CE="9000100" NE="RNT" DO="17" CON1="" CON2="61:01:47" CON3="UCR" PACOI="UKR" CON7="+01:29:15"></Puesto>
+	<Puesto ID="77" CJ="9000528" NJ="Sergio Paulinho" CE="9000006" NE="SAX" DO="177" CON1="" CON2="61:02:22" CON3="POR" PACOI="POR" CON7="+01:29:50"></Puesto>
+	<Puesto ID="78" CJ="9000315" NJ="Marco Marzano" CE="9000016" NE="LAM" DO="46" CON1="" CON2="61:03:20" CON3="ITA" PACOI="ITA" CON7="+01:30:48"></Puesto>
+	<Puesto ID="79" CJ="9000867" NJ="Guillaume Levarlet" CE="9000101" NE="SAU" DO="97" CON1="" CON2="61:03:24" CON3="FRA" PACOI="FRA" CON7="+01:30:52"></Puesto>
+	<Puesto ID="80" CJ="9000344" NJ="Danilo Hondo" CE="9000016" NE="LAM" DO="43" CON1="" CON2="61:03:52" CON3="ALM" PACOI="GER" CON7="+01:31:20"></Puesto>
+	<Puesto ID="81" CJ="9000423" NJ="Pieter Weening" CE="9000014" NE="GEC" DO="209" CON1="" CON2="61:04:20" CON3="NL" PACOI="NED" CON7="+01:31:48"></Puesto>
+	<Puesto ID="82" CJ="9001109" NJ="Michael Morkov" CE="9000006" NE="SAX" DO="175" CON1="" CON2="61:04:23" CON3="DIN" PACOI="DEN" CON7="+01:31:51"></Puesto>
+	<Puesto ID="83" CJ="9000645" NJ="David Millar" CE="9000037" NE="GRM" DO="66" CON1="" CON2="61:05:08" CON3="GBR" PACOI="GBR" CON7="+01:32:36"></Puesto>
+	<Puesto ID="84" CJ="9000530" NJ="Luis León Sanchez Gil" CE="9000022" NE="RAB" DO="155" CON1="" CON2="61:05:48" CON3="ESP" PACOI="ESP" CON7="+01:33:16"></Puesto>
+	<Puesto ID="85" CJ="9000241" NJ="Andrey Kashechkin" CE="9000018" NE="AST" DO="186" CON1="" CON2="61:06:32" CON3="KZ" PACOI="KAZ" CON7="+01:34:00"></Puesto>
+	<Puesto ID="86" CJ="9000676" NJ="Sebastien Minard" CE="9000001" NE="ALM" DO="77" CON1="" CON2="61:07:15" CON3="FRA" PACOI="FRA" CON7="+01:34:43"></Puesto>
+	<Puesto ID="87" CJ="9000376" NJ="Lars Ytting Bak" CE="9000009" NE="OLO" DO="112" CON1="" CON2="61:09:21" CON3="DIN" PACOI="DEN" CON7="+01:36:49"></Puesto>
+	<Puesto ID="88" CJ="9001077" NJ="Yukiya Arashiro" CE="9000102" NE="EUC" DO="22" CON1="" CON2="61:10:05" CON3="JAP" PACOI="JPN" CON7="+01:37:33"></Puesto>
+	<Puesto ID="89" CJ="9000724" NJ="Steve Cummings" CE="9000096" NE="BMC" DO="3" CON1="" CON2="61:11:43" CON3="GBR" PACOI="GBR" CON7="+01:39:11"></Puesto>
+	<Puesto ID="90" CJ="9000954" NJ="Jurgen Roelandts" CE="9000009" NE="OLO" DO="117" CON1="" CON2="61:12:10" CON3="BEL" PACOI="BEL" CON7="+01:39:38"></Puesto>
+	<Puesto ID="91" CJ="9000797" NJ="Jorge Azanza Soto" CE="9000010" NE="EUS" DO="33" CON1="" CON2="61:12:17" CON3="ESP" PACOI="ESP" CON7="+01:39:45"></Puesto>
+	<Puesto ID="92" CJ="9000046" NJ="Alessandro Vanotti" CE="9000017" NE="LIQ" DO="59" CON1="" CON2="61:12:26" CON3="ITA" PACOI="ITA" CON7="+01:39:54"></Puesto>
+	<Puesto ID="93" CJ="9000210" NJ="Jérôme Pineau" CE="9000021" NE="OPQ" DO="197" CON1="" CON2="61:13:37" CON3="FRA" PACOI="FRA" CON7="+01:41:05"></Puesto>
+	<Puesto ID="94" CJ="9000324" NJ="Michael Albasini" CE="9000014" NE="GEC" DO="202" CON1="" CON2="61:14:29" CON3="SUI" PACOI="SUI" CON7="+01:41:57"></Puesto>
+	<Puesto ID="95" CJ="9000035" NJ="Stuart O&apos;Grady" CE="9000014" NE="GEC" DO="208" CON1="" CON2="61:14:35" CON3="AUT" PACOI="AUS" CON7="+01:42:03"></Puesto>
+	<Puesto ID="96" CJ="9001066" NJ="Blel Kadri" CE="9000001" NE="ALM" DO="76" CON1="" CON2="61:14:36" CON3="FRA" PACOI="FRA" CON7="+01:42:04"></Puesto>
+	<Puesto ID="97" CJ="9001379" NJ="Simone Stortoni" CE="9000016" NE="LAM" DO="48" CON1="" CON2="61:15:07" CON3="ITA" PACOI="ITA" CON7="+01:42:35"></Puesto>
+	<Puesto ID="98" CJ="9000040" NJ="David Zabriskie" CE="9000037" NE="GRM" DO="69" CON1="" CON2="61:15:41" CON3="USA" PACOI="USA" CON7="+01:43:09"></Puesto>
+	<Puesto ID="99" CJ="9000881" NJ="Daryl Impey" CE="9000014" NE="GEC" DO="205" CON1="" CON2="61:15:41" CON3="SF" PACOI="RSA" CON7="+01:43:09"></Puesto>
+	<Puesto ID="100" CJ="9000604" NJ="Christian Knees" CE="9000097" NE="SKY" DO="106" CON1="" CON2="61:15:55" CON3="ALM" PACOI="GER" CON7="+01:43:23"></Puesto>
+	<Puesto ID="101" CJ="9000981" NJ="Martin Velits" CE="9000021" NE="OPQ" DO="198" CON1="" CON2="61:17:36" CON3="SVK" PACOI="SVK" CON7="+01:45:04"></Puesto>
+	<Puesto ID="102" CJ="9001385" NJ="Romain Zingle" CE="9000005" NE="COF" DO="89" CON1="" CON2="61:18:13" CON3="BEL" PACOI="BEL" CON7="+01:45:41"></Puesto>
+	<Puesto ID="103" CJ="9000004" NJ="Giovanni Bernaudeau" CE="9000102" NE="EUC" DO="23" CON1="" CON2="61:19:00" CON3="FRA" PACOI="FRA" CON7="+01:46:28"></Puesto>
+	<Puesto ID="104" CJ="9000519" NJ="Koen De Kort" CE="9000041" NE="ARG" DO="213" CON1="" CON2="61:19:18" CON3="NL" PACOI="NED" CON7="+01:46:46"></Puesto>
+	<Puesto ID="105" CJ="9000799" NJ="Matthieu Ladagnous" CE="9000012" NE="FDJ" DO="144" CON1="" CON2="61:20:05" CON3="FRA" PACOI="FRA" CON7="+01:47:33"></Puesto>
+	<Puesto ID="106" CJ="9000091" NJ="Baden Cooke" CE="9000014" NE="GEC" DO="203" CON1="" CON2="61:20:15" CON3="AUT" PACOI="AUS" CON7="+01:47:43"></Puesto>
+	<Puesto ID="107" CJ="9000713" NJ="Adam Hansen" CE="9000009" NE="OLO" DO="115" CON1="" CON2="61:20:56" CON3="AUT" PACOI="AUS" CON7="+01:48:24"></Puesto>
+	<Puesto ID="108" CJ="9000001" NJ="Christophe Kern" CE="9000102" NE="EUC" DO="27" CON1="" CON2="61:22:21" CON3="FRA" PACOI="FRA" CON7="+01:49:49"></Puesto>
+	<Puesto ID="109" CJ="9001371" NJ="Federico Canuti" CE="9000017" NE="LIQ" DO="53" CON1="" CON2="61:22:53" CON3="ITA" PACOI="ITA" CON7="+01:50:21"></Puesto>
+	<Puesto ID="110" CJ="9000662" NJ="Rubén Pérez Moreno" CE="9000010" NE="EUS" DO="36" CON1="" CON2="61:23:09" CON3="ESP" PACOI="ESP" CON7="+01:50:37"></Puesto>
+	<Puesto ID="111" CJ="9001651" NJ="Kris Boeckmans" CE="9000042" NE="VCD" DO="122" CON1="" CON2="61:23:48" CON3="BEL" PACOI="BEL" CON7="+01:51:16"></Puesto>
+	<Puesto ID="112" CJ="9000440" NJ="Luca Paolini" CE="9000040" NE="KAT" DO="137" CON1="" CON2="61:23:57" CON3="ITA" PACOI="ITA" CON7="+01:51:25"></Puesto>
+	<Puesto ID="113" CJ="9000237" NJ="Sébastien Hinault" CE="9000001" NE="ALM" DO="75" CON1="" CON2="61:25:12" CON3="FRA" PACOI="FRA" CON7="+01:52:40"></Puesto>
+	<Puesto ID="114" CJ="9000682" NJ="André Greipel" CE="9000009" NE="OLO" DO="114" CON1="" CON2="61:26:07" CON3="ALM" PACOI="GER" CON7="+01:53:35"></Puesto>
+	<Puesto ID="115" CJ="9000168" NJ="Nick Nuyens" CE="9000006" NE="SAX" DO="176" CON1="" CON2="61:26:22" CON3="BEL" PACOI="BEL" CON7="+01:53:50"></Puesto>
+	<Puesto ID="116" CJ="9001243" NJ="Kristijan Koren" CE="9000017" NE="LIQ" DO="54" CON1="" CON2="61:27:24" CON3="ESL" PACOI="SLO" CON7="+01:54:52"></Puesto>
+	<Puesto ID="117" CJ="9000407" NJ="Bert Grabsch" CE="9000021" NE="OPQ" DO="195" CON1="" CON2="61:27:33" CON3="ALM" PACOI="GER" CON7="+01:55:01"></Puesto>
+	<Puesto ID="118" CJ="9001038" NJ="Julien Simon" CE="9000101" NE="SAU" DO="99" CON1="" CON2="61:28:11" CON3="FRA" PACOI="FRA" CON7="+01:55:39"></Puesto>
+	<Puesto ID="119" CJ="9000511" NJ="Manuel Quinziato" CE="9000096" NE="BMC" DO="7" CON1="" CON2="61:28:24" CON3="ITA" PACOI="ITA" CON7="+01:55:52"></Puesto>
+	<Puesto ID="120" CJ="9000962" NJ="Matthew Goss" CE="9000014" NE="GEC" DO="204" CON1="" CON2="61:29:08" CON3="AUT" PACOI="AUS" CON7="+01:56:36"></Puesto>
+	<Puesto ID="121" CJ="9000714" NJ="Gregory Henderson" CE="9000009" NE="OLO" DO="116" CON1="" CON2="61:29:09" CON3="NZ" PACOI="NZL" CON7="+01:56:37"></Puesto>
+	<Puesto ID="122" CJ="9000112" NJ="Joan Horrach Ripoll" CE="9000040" NE="KAT" DO="135" CON1="" CON2="61:30:09" CON3="ESP" PACOI="ESP" CON7="+01:57:37"></Puesto>
+	<Puesto ID="123" CJ="9000557" NJ="Samuel Dumoulin" CE="9000005" NE="COF" DO="83" CON1="" CON2="61:32:51" CON3="FRA" PACOI="FRA" CON7="+02:00:19"></Puesto>
+	<Puesto ID="124" CJ="9000866" NJ="Yauheni Hutarovich" CE="9000012" NE="FDJ" DO="143" CON1="" CON2="61:35:30" CON3="BIE" PACOI="BLR" CON7="+02:02:58"></Puesto>
+	<Puesto ID="125" CJ="9000394" NJ="Nicki Sorensen" CE="9000006" NE="SAX" DO="179" CON1="" CON2="61:35:38" CON3="DIN" PACOI="DEN" CON7="+02:03:06"></Puesto>
+	<Puesto ID="126" CJ="9000780" NJ="Anders Lund" CE="9000006" NE="SAX" DO="174" CON1="" CON2="61:36:01" CON3="DIN" PACOI="DEN" CON7="+02:03:29"></Puesto>
+	<Puesto ID="127" CJ="9000212" NJ="Matthieu Sprick" CE="9000041" NE="ARG" DO="217" CON1="" CON2="61:36:57" CON3="FRA" PACOI="FRA" CON7="+02:04:25"></Puesto>
+	<Puesto ID="128" CJ="9000818" NJ="Marcel Sieberg" CE="9000009" NE="OLO" DO="118" CON1="" CON2="61:37:32" CON3="ALM" PACOI="GER" CON7="+02:05:00"></Puesto>
+	<Puesto ID="129" CJ="9000144" NJ="Brett Daniel Lancaster" CE="9000014" NE="GEC" DO="206" CON1="" CON2="61:37:49" CON3="AUT" PACOI="AUS" CON7="+02:05:17"></Puesto>
+	<Puesto ID="130" CJ="9001650" NJ="Jonathan Cantwell" CE="9000006" NE="SAX" DO="171" CON1="" CON2="61:38:10" CON3="AUT" PACOI="AUS" CON7="+02:05:38"></Puesto>
+	<Puesto ID="131" CJ="9000403" NJ="Karsten Kroon" CE="9000006" NE="SAX" DO="173" CON1="" CON2="61:38:16" CON3="NL" PACOI="NED" CON7="+02:05:44"></Puesto>
+	<Puesto ID="132" CJ="9001524" NJ="Nicolas Edet" CE="9000005" NE="COF" DO="84" CON1="" CON2="61:38:35" CON3="FRA" PACOI="FRA" CON7="+02:06:03"></Puesto>
+	<Puesto ID="133" CJ="9001068" NJ="Daniel Oss" CE="9000017" NE="LIQ" DO="56" CON1="" CON2="61:38:56" CON3="ITA" PACOI="ITA" CON7="+02:06:24"></Puesto>
+	<Puesto ID="134" CJ="9000952" NJ="Francis De Greef" CE="9000009" NE="OLO" DO="113" CON1="" CON2="61:40:02" CON3="BEL" PACOI="BEL" CON7="+02:07:30"></Puesto>
+	<Puesto ID="135" CJ="9000769" NJ="Vincent Jerome" CE="9000102" NE="EUC" DO="26" CON1="" CON2="61:40:40" CON3="FRA" PACOI="FRA" CON7="+02:08:08"></Puesto>
+	<Puesto ID="136" CJ="9000864" NJ="Anthony Roux" CE="9000012" NE="FDJ" DO="147" CON1="" CON2="61:41:25" CON3="FRA" PACOI="FRA" CON7="+02:08:53"></Puesto>
+	<Puesto ID="137" CJ="9001160" NJ="Roy Curvers" CE="9000041" NE="ARG" DO="212" CON1="" CON2="61:41:33" CON3="NL" PACOI="NED" CON7="+02:09:01"></Puesto>
+	<Puesto ID="138" CJ="9000204" NJ="Yohann Gene" CE="9000102" NE="EUC" DO="25" CON1="" CON2="61:42:13" CON3="FRA" PACOI="FRA" CON7="+02:09:41"></Puesto>
+	<Puesto ID="139" CJ="9000776" NJ="Jean-Marc Marino" CE="9000101" NE="SAU" DO="98" CON1="" CON2="61:42:31" CON3="FRA" PACOI="FRA" CON7="+02:09:59"></Puesto>
+	<Puesto ID="140" CJ="9000595" NJ="Rubén Plaza Molina" CE="9000015" NE="MOV" DO="168" CON1="" CON2="61:42:33" CON3="ESP" PACOI="ESP" CON7="+02:10:01"></Puesto>
+	<Puesto ID="141" CJ="9000243" NJ="Cyril Lemoine" CE="9000101" NE="SAU" DO="96" CON1="" CON2="61:42:44" CON3="FRA" PACOI="FRA" CON7="+02:10:12"></Puesto>
+	<Puesto ID="142" CJ="9001166" NJ="Brice Feillu" CE="9000101" NE="SAU" DO="94" CON1="" CON2="61:43:18" CON3="FRA" PACOI="FRA" CON7="+02:10:46"></Puesto>
+	<Puesto ID="143" CJ="9000449" NJ="Bram Tankink" CE="9000022" NE="RAB" DO="156" CON1="" CON2="61:43:55" CON3="NL" PACOI="NED" CON7="+02:11:23"></Puesto>
+	<Puesto ID="144" CJ="9000884" NJ="Cedric Pineau" CE="9000012" NE="FDJ" DO="145" CON1="" CON2="61:44:19" CON3="FRA" PACOI="FRA" CON7="+02:11:47"></Puesto>
+	<Puesto ID="145" CJ="9000719" NJ="Juan José Haedo" CE="9000006" NE="SAX" DO="172" CON1="" CON2="61:44:35" CON3="ARG" PACOI="ARG" CON7="+02:12:03"></Puesto>
+	<Puesto ID="146" CJ="9001525" NJ="Luis Angel Mate" CE="9000005" NE="COF" DO="87" CON1="" CON2="61:44:36" CON3="ESP" PACOI="ESP" CON7="+02:12:04"></Puesto>
+	<Puesto ID="147" CJ="9001172" NJ="Borut Bozic" CE="9000018" NE="AST" DO="182" CON1="" CON2="61:45:43" CON3="ESL" PACOI="SLO" CON7="+02:13:11"></Puesto>
+	<Puesto ID="148" CJ="9001350" NJ="Patrick Gretsch" CE="9000041" NE="ARG" DO="215" CON1="" CON2="61:46:04" CON3="ALM" PACOI="GER" CON7="+02:13:32"></Puesto>
+	<Puesto ID="149" CJ="9000256" NJ="Bernhard Eisel" CE="9000097" NE="SKY" DO="104" CON1="" CON2="61:47:07" CON3="AUS" PACOI="AUT" CON7="+02:14:35"></Puesto>
+	<Puesto ID="150" CJ="9000838" NJ="Mark Cavendish" CE="9000097" NE="SKY" DO="103" CON1="" CON2="61:47:12" CON3="GBR" PACOI="GBR" CON7="+02:14:40"></Puesto>
+	<Puesto ID="151" CJ="9000749" NJ="Maxim Iglinskiy" CE="9000018" NE="AST" DO="185" CON1="" CON2="61:47:27" CON3="KZ" PACOI="KAZ" CON7="+02:14:55"></Puesto>
+	<Puesto ID="152" CJ="9001145" NJ="Pablo Urtasun Pérez" CE="9000010" NE="EUS" DO="38" CON1="" CON2="61:51:38" CON3="ESP" PACOI="ESP" CON7="+02:19:06"></Puesto>
+	<Puesto ID="153" CJ="9000773" NJ="Yann Huguet" CE="9000041" NE="ARG" DO="216" CON1="" CON2="61:51:39" CON3="FRA" PACOI="FRA" CON7="+02:19:07"></Puesto>
+	<Puesto ID="154" CJ="9001155" NJ="Kenny Robert van Hummel" CE="9000042" NE="VCD" DO="129" CON1="" CON2="61:52:11" CON3="NL" PACOI="NED" CON7="+02:19:39"></Puesto>
+	<Puesto ID="155" CJ="9001381" NJ="Julien Fouchard" CE="9000005" NE="COF" DO="85" CON1="" CON2="61:54:24" CON3="FRA" PACOI="FRA" CON7="+02:21:52"></Puesto>
+	<Puesto ID="156" CJ="9000832" NJ="Sébastian Langeveld" CE="9000014" NE="GEC" DO="207" CON1="" CON2="61:54:59" CON3="NL" PACOI="NED" CON7="+02:22:27"></Puesto>
+	<Puesto ID="157" CJ="9001246" NJ="Grega Bole" CE="9000016" NE="LAM" DO="42" CON1="" CON2="61:56:02" CON3="ESL" PACOI="SLO" CON7="+02:23:30"></Puesto>
+	<Puesto ID="158" CJ="9001466" NJ="Aliaksandr Kuschynski" CE="9000040" NE="KAT" DO="136" CON1="" CON2="61:57:14" CON3="BIE" PACOI="BLR" CON7="+02:24:42"></Puesto>
+	<Puesto ID="159" CJ="9001149" NJ="Albert Timmer" CE="9000041" NE="ARG" DO="218" CON1="" CON2="62:00:33" CON3="NL" PACOI="NED" CON7="+02:28:01"></Puesto>
+	<Puesto ID="160" CJ="9001349" NJ="Jan Ghyselinck" CE="9000005" NE="COF" DO="86" CON1="" CON2="62:00:45" CON3="BEL" PACOI="BEL" CON7="+02:28:13"></Puesto>
+	<Puesto ID="161" CJ="9000495" NJ="Johan Van Summeren" CE="9000037" NE="GRM" DO="67" CON1="" CON2="62:03:16" CON3="BEL" PACOI="BEL" CON7="+02:30:44"></Puesto>
+	<Puesto ID="162" CJ="9000222" NJ="Jimmy Engoulvent" CE="9000101" NE="SAU" DO="93" CON1="" CON2="62:05:45" CON3="FRA" PACOI="FRA" CON7="+02:33:13"></Puesto>
+	<Puesto ID="163" CJ="9000771" NJ="Tyler Farrar" CE="9000037" NE="GRM" DO="63" CON1="" CON2="62:09:48" CON3="USA" PACOI="USA" CON7="+02:37:16"></Puesto>
+</CLF>
+<CLF ID="2" ParDES="Clasificación General -Montaña-" PrbID="2" PrbDES="Clasificación General -Montaña-" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9001131" NJ="Fredrik Carl Wilhelm Kessiakoff" CE="9000018" NE="AST" DO="187" CON1="" CON2="66" CON3="SE" PACOI="SWE"></Puesto>
+	<Puesto ID="2" CJ="9000777" NJ="Pierre Rolland" CE="9000102" NE="EUC" DO="29" CON1="" CON2="55" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="3" CJ="9000782" NJ="Chris Anker Sorensen" CE="9000006" NE="SAX" DO="178" CON1="" CON2="39" CON3="DIN" PACOI="DEN"></Puesto>
+	<Puesto ID="4" CJ="9001199" NJ="Robert Kiserlovski" CE="9000018" NE="AST" DO="188" CON1="" CON2="37" CON3="CRO" PACOI="CRO"></Puesto>
+	<Puesto ID="5" CJ="9000142" NJ="Michele Scarponi" CE="9000016" NE="LAM" DO="41" CON1="" CON2="33" CON3="ITA" PACOI="ITA"></Puesto>
+	<Puesto ID="6" CJ="9000880" NJ="Christopher Froome" CE="9000097" NE="SKY" DO="105" CON1="" CON2="32" CON3="GBR" PACOI="GBR"></Puesto>
+	<Puesto ID="7" CJ="9001407" NJ="Thibaut Pinot" CE="9000012" NE="FDJ" DO="146" CON1="" CON2="32" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="8" CJ="9000982" NJ="Peter Velits" CE="9000021" NE="OPQ" DO="199" CON1="" CON2="29" CON3="SVK" PACOI="SVK"></Puesto>
+	<Puesto ID="9" CJ="9000213" NJ="Thomas Voeckler" CE="9000102" NE="EUC" DO="21" CON1="" CON2="28" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="10" CJ="9000001" NJ="Christophe Kern" CE="9000102" NE="EUC" DO="27" CON1="" CON2="20" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="11" CJ="9000473" NJ="Cadel Evans" CE="9000096" NE="BMC" DO="1" CON1="" CON2="19" CON3="AUT" PACOI="AUS"></Puesto>
+	<Puesto ID="12" CJ="9001228" NJ="Jean-Christophe Peraud" CE="9000001" NE="ALM" DO="71" CON1="" CON2="19" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="13" CJ="9000396" NJ="Jens Voigt" CE="9000100" NE="RNT" DO="18" CON1="" CON2="18" CON3="ALM" PACOI="GER"></Puesto>
+	<Puesto ID="14" CJ="9000530" NJ="Luis León Sanchez Gil" CE="9000022" NE="RAB" DO="155" CON1="" CON2="18" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID="15" CJ="9001109" NJ="Michael Morkov" CE="9000006" NE="SAX" DO="175" CON1="" CON2="14" CON3="DIN" PACOI="DEN"></Puesto>
+</CLF>
+<CLF ID="3" ParDES="Clasificacion General -Puntos-" PrbID="3" PrbDES="Clasificacion General -Puntos-" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9001345" NJ="Peter Sagan"     CE="9000017" NE="LIQ" DO="57" CON1="" CON2="296" CON3="SVK" PACOI="SVK"></Puesto>
+	<Puesto ID="2" CJ="9000682" NJ="André Greipel"     CE="9000009" NE="OLO" DO="114" CON1="" CON2="232" CON3="ALM" PACOI="GER"></Puesto>
+	<Puesto ID="3" CJ="9000962" NJ="Matthew Goss"     CE="9000014" NE="GEC" DO="204" CON1="" CON2="203" CON3="AUT" PACOI="AUS"></Puesto>
+	<Puesto ID="4" CJ="9000838" NJ="Mark Cavendish"     CE="9000097" NE="SKY" DO="103" CON1="" CON2="129" CON3="GBR" PACOI="GBR"></Puesto>
+	<Puesto ID="5" CJ="9001101" NJ="Edvald Boasson Hagen"     CE="9000097" NE="SKY" DO="102" CON1="" CON2="125" CON3="NOR" PACOI="NOR"></Puesto>
+	<Puesto ID="6" CJ="9000010" NJ="Bradley Wiggins"     CE="9000097" NE="SKY" DO="101" CON1="" CON2="104" CON3="GBR" PACOI="GBR"></Puesto>
+	<Puesto ID="7" CJ="9000473" NJ="Cadel Evans"     CE="9000096" NE="BMC" DO="1" CON1="" CON2="100" CON3="AUT" PACOI="AUS"></Puesto>
+	<Puesto ID="8" CJ="9000880" NJ="Christopher Froome"     CE="9000097" NE="SKY" DO="105" CON1="" CON2="84" CON3="GBR" PACOI="GBR"></Puesto>
+	<Puesto ID="9" CJ="9000881" NJ="Daryl Impey"     CE="9000014" NE="GEC" DO="205" CON1="" CON2="84" CON3="SF" PACOI="RSA"></Puesto>
+	<Puesto ID="10" CJ="9000300" NJ="Vincenzo Nibali"     CE="9000017" NE="LIQ" DO="51" CON1="" CON2="77" CON3="ITA" PACOI="ITA"></Puesto>
+	<Puesto ID="11" CJ="9000982" NJ="Peter Velits"     CE="9000021" NE="OPQ" DO="199" CON1="" CON2="76" CON3="SVK" PACOI="SVK"></Puesto>
+	<Puesto ID="12" CJ="9000237" NJ="Sébastien Hinault"     CE="9000001" NE="ALM" DO="75" CON1="" CON2="69" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="13" CJ="9000719" NJ="Juan José Haedo"     CE="9000006" NE="SAX" DO="172" CON1="" CON2="68" CON3="ARG" PACOI="ARG"></Puesto>
+	<Puesto ID="14" CJ="9001407" NJ="Thibaut Pinot"     CE="9000012" NE="FDJ" DO="146" CON1="" CON2="67" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID="15" CJ="9000866" NJ="Yauheni Hutarovich"     CE="9000012" NE="FDJ" DO="143" CON1="" CON2="62" CON3="BIE" PACOI="BLR"></Puesto>
+</CLF>
+<CLF ID="4" ParDES="General General -Equipos-" PrbID="4" PrbDES="General General -Equipos-" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="" NJ="" CE="9000100" NE="RADIOSHACK NISSAN TREK" CON1="" CON2="178:50:10" CON3="LUX" PACOI="LUX" CON7="178:50:10"></Puesto>
+	<Puesto ID="2" CJ="" NJ="" CE="9000097" NE="SKY PROCYCLING" CON1="" CON2="179:02:48" CON3="GBR" PACOI="GBR" CON7="+00:12:38"></Puesto>
+	<Puesto ID="3" CJ="" NJ="" CE="9000018" NE="ASTANA PRO TEAM" CON1="" CON2="179:15:29" CON3="KZ" PACOI="KAZ" CON7="+00:25:19"></Puesto>
+	<Puesto ID="4" CJ="" NJ="" CE="9000096" NE="BMC RACING TEAM" CON1="" CON2="179:25:24" CON3="USA" PACOI="USA" CON7="+00:35:14"></Puesto>
+	<Puesto ID="5" CJ="" NJ="" CE="9000015" NE="MOVISTAR TEAM" CON1="" CON2="179:43:30" CON3="ESP" PACOI="ESP" CON7="+00:53:20"></Puesto>
+	<Puesto ID="6" CJ="" NJ="" CE="9000017" NE="LIQUIGAS - CANNONDALE" CON1="" CON2="179:48:11" CON3="ITA" PACOI="ITA" CON7="+00:58:01"></Puesto>
+	<Puesto ID="7" CJ="" NJ="" CE="9000001" NE="AG2R LA MONDIALE" CON1="" CON2="179:50:32" CON3="FRA" PACOI="FRA" CON7="+01:00:22"></Puesto>
+	<Puesto ID="8" CJ="" NJ="" CE="9000012" NE="FDJ BIG MAT" CON1="" CON2="179:53:50" CON3="FRA" PACOI="FRA" CON7="+01:03:40"></Puesto>
+	<Puesto ID="9" CJ="" NJ="" CE="9000040" NE="KATUSHA TEAM" CON1="" CON2="179:54:37" CON3="RUS" PACOI="RUS" CON7="+01:04:27"></Puesto>
+	<Puesto ID="10" CJ="" NJ="" CE="9000102" NE="TEAM EUROPCAR" CON1="" CON2="179:56:11" CON3="FRA" PACOI="FRA" CON7="+01:06:01"></Puesto>
+	<Puesto ID="11" CJ="" NJ="" CE="9000021" NE="OMEGA PHARMA QUICKSTEP" CON1="" CON2="180:03:07" CON3="BEL" PACOI="BEL" CON7="+01:12:57"></Puesto>
+	<Puesto ID="12" CJ="" NJ="" CE="9000009" NE="LOTTO BELISOL TEAM" CON1="" CON2="180:29:52" CON3="BEL" PACOI="BEL" CON7="+01:39:42"></Puesto>
+	<Puesto ID="13" CJ="" NJ="" CE="9000101" NE="SAUR - SOJASUN" CON1="" CON2="180:36:21" CON3="FRA" PACOI="FRA" CON7="+01:46:11"></Puesto>
+	<Puesto ID="14" CJ="" NJ="" CE="9000022" NE="RABOBANK CYCLING TEAM" CON1="" CON2="180:48:18" CON3="NL" PACOI="NED" CON7="+01:58:08"></Puesto>
+	<Puesto ID="15" CJ="" NJ="" CE="9000016" NE="LAMPRE - ISD" CON1="" CON2="181:15:31" CON3="ITA" PACOI="ITA" CON7="+02:25:21"></Puesto>
+	<Puesto ID="16" CJ="" NJ="" CE="9000006" NE="TEAM SAXO BANK" CON1="" CON2="181:20:31" CON3="DIN" PACOI="DEN" CON7="+02:30:21"></Puesto>
+	<Puesto ID="17" CJ="" NJ="" CE="9000042" NE="VACANSOLEIL DCM PRO CYCLING" CON1="" CON2="181:23:33" CON3="NL" PACOI="NED" CON7="+02:33:23"></Puesto>
+	<Puesto ID="18" CJ="" NJ="" CE="9000010" NE="EUSKALTEL - EUSKADI" CON1="" CON2="181:32:05" CON3="ESP" PACOI="ESP" CON7="+02:41:55"></Puesto>
+	<Puesto ID="19" CJ="" NJ="" CE="9000005" NE="COFIDIS LE CREDIT EN LIGNE" CON1="" CON2="181:41:18" CON3="FRA" PACOI="FRA" CON7="+02:51:08"></Puesto>
+	<Puesto ID="20" CJ="" NJ="" CE="9000014" NE="ORICA GREENEDGE CYCLING TEAM" CON1="" CON2="181:58:03" CON3="AUT" PACOI="AUS" CON7="+03:07:53"></Puesto>
+	<Puesto ID="21" CJ="" NJ="" CE="9000037" NE="GARMIN BARRACUDA" CON1="" CON2="182:03:54" CON3="USA" PACOI="USA" CON7="+03:13:44"></Puesto>
+	<Puesto ID="22" CJ="" NJ="" CE="9000041" NE="TEAM ARGOS SHIMANO" CON1="" CON2="183:44:18" CON3="NL" PACOI="NED" CON7="+04:54:08"></Puesto>
+</CLF>
+<CLF ID="5" ParDES="General General -Jóvenes-" PrbID="5" PrbDES="General General -Jóvenes-" CLFIND="S" CLFPRB="">
+	<Puesto ID="1" CJ="9001353" NJ="Tejay Van Garderen" CE="9000096" NE="BMC" DO="9" CON1="" CON2="59:39:29" CON3="USA" PACOI="USA" CON7="59:39:29"></Puesto>
+	<Puesto ID="2" CJ="9001407" NJ="Thibaut Pinot" CE="9000012" NE="FDJ" DO="146" CON1="" CON2="59:41:23" CON3="FRA" PACOI="FRA" CON7="+00:01:54"></Puesto>
+	<Puesto ID="3" CJ="9000934" NJ="Rein Taaramae" CE="9000005" NE="COF" DO="81" CON1="" CON2="60:21:28" CON3="EST" PACOI="EST" CON7="+00:41:59"></Puesto>
+	<Puesto ID="4" CJ="9001365" NJ="Rafael Valls" CE="9000042" NE="VCD" DO="128" CON1="" CON2="60:29:09" CON3="ESP" PACOI="ESP" CON7="+00:49:40"></Puesto>
+	<Puesto ID="5" CJ="9001332" NJ="Steven Kruijswijk" CE="9000022" NE="RAB" DO="152" CON1="" CON2="60:34:28" CON3="NL" PACOI="NED" CON7="+00:54:59"></Puesto>
+	<Puesto ID="6" CJ="9001345" NJ="Peter Sagan" CE="9000017" NE="LIQ" DO="57" CON1="" CON2="60:37:32" CON3="SVK" PACOI="SVK" CON7="+00:58:03"></Puesto>
+	<Puesto ID="7" CJ="9001340" NJ="Dominik Nerz" CE="9000017" NE="LIQ" DO="55" CON1="" CON2="60:41:26" CON3="ALM" PACOI="GER" CON7="+01:01:57"></Puesto>
+	<Puesto ID="8" CJ="9001103" NJ="Davide Malacarne" CE="9000102" NE="EUC" DO="28" CON1="" CON2="60:45:02" CON3="ITA" PACOI="ITA" CON7="+01:05:33"></Puesto>
+	<Puesto ID="9" CJ="9001101" NJ="Edvald Boasson Hagen" CE="9000097" NE="SKY" DO="102" CON1="" CON2="60:46:05" CON3="NOR" PACOI="NOR" CON7="+01:06:36"></Puesto>
+	<Puesto ID="10" CJ="9001079" NJ="Cyril Gautier" CE="9000102" NE="EUC" DO="24" CON1="" CON2="60:47:46" CON3="FRA" PACOI="FRA" CON7="+01:08:17"></Puesto>
+	<Puesto ID="11" CJ="9000481" NJ="Egoi Martínez de Esteban" CE="9000010" NE="EUS" DO="35" CON1="" CON2="60:54:31" CON3="ESP" PACOI="ESP" CON7="+01:15:02"></Puesto>
+	<Puesto ID="12" CJ="9001408" NJ="Arthur Vichot" CE="9000012" NE="FDJ" DO="149" CON1="" CON2="60:59:52" CON3="FRA" PACOI="FRA" CON7="+01:20:23"></Puesto>
+	<Puesto ID="13" CJ="9001385" NJ="Romain Zingle" CE="9000005" NE="COF" DO="89" CON1="" CON2="61:18:13" CON3="BEL" PACOI="BEL" CON7="+01:38:44"></Puesto>
+	<Puesto ID="14" CJ="9001651" NJ="Kris Boeckmans" CE="9000042" NE="VCD" DO="122" CON1="" CON2="61:24:08" CON3="BEL" PACOI="BEL" CON7="+01:44:39"></Puesto>
+	<Puesto ID="15" CJ="9001524" NJ="Nicolas Edet" CE="9000005" NE="COF" DO="84" CON1="" CON2="61:38:35" CON3="FRA" PACOI="FRA" CON7="+01:59:06"></Puesto>
+</CLF>
+<CLF ID="6" ParDES="Abandonos" PrbID="6" PrbDES="Abandonos" CLFIND="S" CLFPRB="">
+	<Puesto ID=" " CJ="9000303" NJ="Konstantsin Sivtsov" CE="9000097" NE="SKY" DO="109" CON1="" CON2="Etapa 3" CON3="BIE" PACOI="BLR"></Puesto>
+	<Puesto ID=" " CJ="9000664" NJ="José Joaquín Rojas" CE="9000015" NE="MOV" DO="169" CON1="" CON2="Etapa 3" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9001538" NJ="Marcel Kittel" CE="9000041" NE="ARG" DO="211" CON1="" CON2="Etapa 5" CON3="ALM" PACOI="GER"></Puesto>
+	<Puesto ID=" " CJ="9000062" NJ="Thomas Danielson" CE="9000037" NE="GRM" DO="62" CON1="" CON2="Etapa 6" CON3="USA" PACOI="USA"></Puesto>
+	<Puesto ID=" " CJ="9000684" NJ="Davide Vigano" CE="9000016" NE="LAM" DO="49" CON1="" CON2="Etapa 6" CON3="ITA" PACOI="ITA"></Puesto>
+	<Puesto ID=" " CJ="9000552" NJ="Mikel Astarloza" CE="9000010" NE="EUS" DO="32" CON1="" CON2="Etapa 6" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9001187" NJ="Wout Poels" CE="9000042" NE="VCD" DO="126" CON1="" CON2="Etapa 6" CON3="NL" PACOI="NED"></Puesto>
+	<Puesto ID=" " CJ="9000538" NJ="Imanol Erviti" CE="9000015" NE="MOV" DO="164" CON1="" CON2="Etapa 7" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9000829" NJ="Maarten Wynants" CE="9000022" NE="RAB" DO="159" CON1="" CON2="Etapa 7" CON3="BEL" PACOI="BEL"></Puesto>
+	<Puesto ID=" " CJ="9000397" NJ="Óscar Freire Gómez" CE="9000040" NE="KAT" DO="133" CON1="" CON2="Etapa 7" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9000600" NJ="Hubert Dupont" CE="9000001" NE="ALM" DO="74" CON1="" CON2="Etapa 7" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID=" " CJ="9000573" NJ="Robert Hunter" CE="9000037" NE="GRM" DO="64" CON1="" CON2="Etapa 7" CON3="SF" PACOI="RSA"></Puesto>
+	<Puesto ID=" " CJ="9000541" NJ="José Iván Gutiérrez Palacios" CE="9000015" NE="MOV" DO="165" CON1="" CON2="Etapa 7" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9000061" NJ="Ryder Hesjedal" CE="9000037" NE="GRM" DO="61" CON1="" CON2="Etapa 7" CON3="CAN" PACOI="CAN"></Puesto>
+	<Puesto ID=" " CJ="9001534" NJ="Anthony Delaplace" CE="9000101" NE="SAU" DO="92" CON1="" CON2="Etapa 7" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID=" " CJ="9000841" NJ="Amets Txurruka" CE="9000010" NE="EUS" DO="37" CON1="" CON2="Etapa 7" CON3="ESP" PACOI="ESP"></Puesto>
+	<Puesto ID=" " CJ="9000928" NJ="Tony Martin" CE="9000021" NE="OPQ" DO="196" CON1="" CON2="Etapa 10" CON3="ALM" PACOI="GER"></Puesto>
+	<Puesto ID=" " CJ="9000707" NJ="Matthew Lloyd" CE="9000016" NE="LAM" DO="45" CON1="" CON2="Etapa 11" CON3="AUT" PACOI="AUS"></Puesto>
+	<Puesto ID=" " CJ="9000255" NJ="Rémy Di Gregorio" CE="9000005" NE="COF" DO="82" CON1="" CON2="Etapa 11" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID=" " CJ="9000290" NJ="Fabian Cancellara" CE="9000100" NE="RNT" DO="12" CON1="" CON2="Etapa 11" CON3="SUI" PACOI="SUI"></Puesto>
+	<Puesto ID=" " CJ="9000299" NJ="Gustav Erik Larsson" CE="9000042" NE="VCD" DO="124" CON1="" CON2="Etapa 11" CON3="SE" PACOI="SWE"></Puesto>
+	<Puesto ID=" " CJ="9001178" NJ="Lieuwe Westra" CE="9000042" NE="VCD" DO="121" CON1="" CON2="Etapa 11" CON3="NL" PACOI="NED"></Puesto>
+	<Puesto ID=" " CJ="9001164" NJ="Tom Veelers" CE="9000041" NE="ARG" DO="219" CON1="" CON2="Etapa 12" CON3="NL" PACOI="NED"></Puesto>
+	<Puesto ID=" " CJ="9000831" NJ="Robert Gesink" CE="9000022" NE="RAB" DO="151" CON1="" CON2="Etapa 12" CON3="NL" PACOI="NED"></Puesto>
+	<Puesto ID=" " CJ="9000228" NJ="David Moncoutie" CE="9000005" NE="COF" DO="88" CON1="" CON2="Etapa 12" CON3="FRA" PACOI="FRA"></Puesto>
+	<Puesto ID=" " CJ="9001382" NJ="Tony Gallopin" CE="9000100" NE="RNT" DO="13" CON1="" CON2="Etapa 13" CON3="FRA" PACOI="FRA"></Puesto>
+</CLF>
+</JOR>
+</Clasificaciones>

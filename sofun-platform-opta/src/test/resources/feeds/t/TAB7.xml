@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abelsoninfo_feed version="1.0" name="Tennis" generated_at="2011-06-05T18:06:48+01:00">
+  <tournament type="Grand Slam" start_time="2011-05-22T09:00:00+01:00" end_date="2011-06-05" surface="Clay" name="French Open" tournament_class="French Open" id="7295" location="Paris, France" tournament_class_id="31">
+    <competition type="Singles" name="Mens Singles" id="7334" sex="Mens">
+      <round number="7" name="Final" id="38173">
+        <match status="Finished" start_time="2011-06-05T14:15:00+01:00" court="*1 PC" id="292324" time_zone_offset="+02:00">
+          <first_entry draw_position="1" seed_position="1" id="302460">
+            <player first_name="Rafael" last_name="Nadal" display_name="Rafael Nadal" initials="" nationality="ESP" id="4"/>
+          </first_entry>
+          <second_entry draw_position="96" seed_position="3" id="302489">
+            <player first_name="Roger" last_name="Federer" display_name="Roger Federer" initials="" nationality="SUI" id="3"/>
+          </second_entry>
+          <score number_of_sets="5" winning_entry_id="302460" current_server_id="" result_type="Win">
+            <set first_entry_games="7" second_entry_games="5" number="1" winning_entry_id="302460" first_entry_tie_break_score="" second_entry_tie_break_score=""/>
+            <set first_entry_games="7" second_entry_games="6" number="2" winning_entry_id="302460" first_entry_tie_break_score="7" second_entry_tie_break_score="3"/>
+            <set first_entry_games="5" second_entry_games="7" number="3" winning_entry_id="302489" first_entry_tie_break_score="" second_entry_tie_break_score=""/>
+            <set first_entry_games="6" second_entry_games="1" number="4" winning_entry_id="302460" first_entry_tie_break_score="" second_entry_tie_break_score=""/>
+          </score>
+        </match>
+      </round>
+    </competition>
+  </tournament>
+</abelsoninfo_feed>

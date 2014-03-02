@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2010 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue01.sportingstatz.com
+     production time:    20100809T080041,332Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="AF_CN" competition_id="190" competition_name="African Cup of Nations" game_system_id="1" season_id="2009" season_name="Season 2009/2010" timestamp="2010-08-09 09-00-41">
+    <MatchData uID="g312237">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-17 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t494">
+        <Goal Period="SecondHalf" PlayerRef="p14090" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6081" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1227">
+        <Goal Period="FirstHalf" PlayerRef="p32659" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p32617" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312224">
+      <MatchInfo GroupName="B" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6455">
+        <Date>2010-01-11 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Chimandela</Stat>
+      <Stat Type="City">Cabinda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1221" />
+      <TeamData Score="0" Side="Away" TeamRef="t1220" />
+    </MatchData>
+    <MatchData uID="g315789">
+      <MatchInfo Period="FullTime" RoundNumber="5" RoundType="Final" Venue_id="6522">
+        <Date>2010-01-31 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1219" />
+      <TeamData Score="1" Side="Away" TeamRef="t1225">
+        <Goal Period="SecondHalf" PlayerRef="p80298" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312230">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-14 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1218" />
+      <TeamData Score="1" Side="Away" TeamRef="t1215">
+        <Goal Period="FirstHalf" PlayerRef="p50117" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g315500">
+      <MatchInfo Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="6456">
+        <Date>2010-01-25 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1225">
+        <Goal Period="FirstHalf" PlayerRef="p17554" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p80298" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p17554" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t494">
+        <Goal Period="FirstHalf" PlayerRef="p17554" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312222">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-10 19:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t1161">
+        <Goal Period="SecondHalf" PlayerRef="p49410" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p34450" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34442" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p34450" Type="Goal" />
+      </TeamData>
+      <TeamData Score="4" Side="Away" TeamRef="t1218">
+        <Goal Period="SecondHalf" PlayerRef="p9954" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p51521" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9954" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3808" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312231">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-14 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1161">
+        <Goal Period="SecondHalf" PlayerRef="p49410" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p34450" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1853" />
+    </MatchData>
+    <MatchData uID="g312238">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-18 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1161" />
+      <TeamData Score="0" Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData uID="g312235">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-16 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1225">
+        <Goal Period="SecondHalf" PlayerRef="p80352" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p80298" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1859" />
+    </MatchData>
+    <MatchData uID="g312223">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-11 13:45:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1853">
+        <Goal Period="FirstHalf" PlayerRef="p34848" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p77044" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p34832" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData uID="g312240">
+      <MatchInfo GroupName="B" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6522">
+        <Date>2010-01-19 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1220" />
+      <TeamData Score="1" Side="Away" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p45124" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g315547">
+      <MatchInfo Period="FullTime" RoundNumber="3" RoundType="Semi-Finals" Venue_id="6522">
+        <Date>2010-01-28 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p33223" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1216" />
+    </MatchData>
+    <MatchData uID="g312245">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-21 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t494">
+        <Goal Period="SecondHalf" PlayerRef="p8438" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37880" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1224">
+        <Goal Period="SecondHalf" PlayerRef="p40560" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p49332" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312226">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-12 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1225">
+        <Goal Period="SecondHalf" PlayerRef="p17554" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p80298" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49561" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1216">
+        <Goal Period="FirstHalf" PlayerRef="p47362" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g315788">
+      <MatchInfo Period="FullTime" RoundNumber="4" RoundType="3rd and 4th Place" Venue_id="6456">
+        <Date>2010-01-30 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1216">
+        <Goal Period="SecondHalf" PlayerRef="p21134" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData uID="g312233">
+      <MatchInfo GroupName="B" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6455">
+        <Date>2010-01-15 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Chimandela</Stat>
+      <Stat Type="City">Cabinda</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1221">
+        <Goal Period="FirstHalf" PlayerRef="p43274" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12303" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28108" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1219">
+        <Goal Period="SecondHalf" PlayerRef="p33223" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g315237">
+      <MatchInfo Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="6522">
+        <Date>2010-01-24 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio 11 de Novembro</Stat>
+      <Stat Type="City">Luanda</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1161" />
+      <TeamData Score="1" Side="Away" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p33223" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312243">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-20 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1216">
+        <Goal Period="FirstHalf" PlayerRef="p26900" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p26900" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14934" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1859" />
+    </MatchData>
+    <MatchData uID="g312228">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-13 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t494" />
+      <TeamData Score="1" Side="Away" TeamRef="t1837">
+        <Goal Period="FirstHalf" PlayerRef="p28137" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312242">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-20 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1225">
+        <Goal Period="FirstHalf" PlayerRef="p49561" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37339" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1717" />
+    </MatchData>
+    <MatchData uID="g315548">
+      <MatchInfo Period="FullTime" RoundNumber="3" RoundType="Semi-Finals" Venue_id="6456">
+        <Date>2010-01-28 19:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1215" />
+      <TeamData Score="4" Side="Away" TeamRef="t1225">
+        <Goal Period="SecondHalf" PlayerRef="p80299" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p80298" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13607" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p33733" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312244">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-21 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1837">
+        <Goal Period="SecondHalf" PlayerRef="p34539" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1227">
+        <Goal Period="SecondHalf" PlayerRef="p37387" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p32620" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312227">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-12 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1859">
+        <Goal Period="SecondHalf" PlayerRef="p34283" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p80333" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1717">
+        <Goal Period="FirstHalf" PlayerRef="p34393" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p80352" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312239">
+      <MatchInfo GroupName="A" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6455">
+        <Date>2010-01-18 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Chimandela</Stat>
+      <Stat Type="City">Cabinda</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1218">
+        <Goal Period="FirstHalf" PlayerRef="p9954" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3808" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6806" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1853">
+        <Goal Period="SecondHalf" PlayerRef="p34848" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g315501">
+      <MatchInfo Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="6457">
+        <Date>2010-01-25 19:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1227">
+        <Goal Period="ShootOut" PlayerRef="p32555" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p80340" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p32617" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p49596" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1216">
+        <Goal Period="ShootOut" PlayerRef="p13262" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p28495" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p14934" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p21134" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p26900" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312234">
+      <MatchInfo GroupName="C" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6456">
+        <Date>2010-01-16 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Complexo da Sr. da Graça</Stat>
+      <Stat Type="City">Benguela</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1216">
+        <Goal Period="FirstHalf" PlayerRef="p13239" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t1717" />
+    </MatchData>
+    <MatchData uID="g315238">
+      <MatchInfo Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="6455">
+        <Date>2010-01-24 19:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Chimandela</Stat>
+      <Stat Type="City">Cabinda</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1221">
+        <Goal Period="SecondHalf" PlayerRef="p27333" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37352" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t1215">
+        <Goal Period="SecondHalf" PlayerRef="p28649" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p18887" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37062" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g312236">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-17 16:00:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1837" />
+      <TeamData Score="0" Side="Away" TeamRef="t1224" />
+    </MatchData>
+    <MatchData uID="g312229">
+      <MatchInfo GroupName="D" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6457">
+        <Date>2010-01-13 18:30:00</Date>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Alto da Chela</Stat>
+      <Stat Type="City">Huíla</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1227">
+        <Goal Period="FirstHalf" PlayerRef="p32659" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1224">
+        <Goal Period="FirstHalf" PlayerRef="p80303" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t1219">
+      <Name>Ghana</Name>
+    </Team>
+    <Team uID="t1859">
+      <Name>Mozambique</Name>
+    </Team>
+    <Team uID="t1161">
+      <Name>Angola</Name>
+    </Team>
+    <Team uID="t1224">
+      <Name>Tunisia</Name>
+    </Team>
+    <Team uID="t1837">
+      <Name>Gabon</Name>
+    </Team>
+    <Team uID="t1216">
+      <Name>Nigeria</Name>
+    </Team>
+    <Team uID="t1853">
+      <Name>Malawi</Name>
+    </Team>
+    <Team uID="t1220">
+      <Name>Burkina Faso</Name>
+    </Team>
+    <Team uID="t1227">
+      <Name>Zambia</Name>
+    </Team>
+    <Team uID="t1717">
+      <Name>Benin</Name>
+    </Team>
+    <Team uID="t494">
+      <Name>Cameroon</Name>
+    </Team>
+    <Team uID="t1218">
+      <Name>Mali</Name>
+    </Team>
+    <Team uID="t1225">
+      <Name>Egypt</Name>
+    </Team>
+    <Team uID="t1221">
+      <Name>Ivory Coast</Name>
+    </Team>
+    <Team uID="t1215">
+      <Name>Algeria</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

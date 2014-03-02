@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110910T125456,178Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU6
+-->
+<wapresults>
+  <Officials>
+    <Official id="37" official_name="Dave Pearson" role="referee" />
+    <Official id="202" official_name="Vinny Munro" role="assistant" />
+    <Official id="103" official_name="Tim Hayes" role="assistant" />
+    <Official id="234" official_name="S Veldsman" role="TMO" />
+  </Officials>
+  <feed-info comp-id="210" comp_name="Rugby World Cup" />
+  <match attendance="0" game-id="6661" grp-id="" period_minute="80" period_second="24" rnd-id="" status="Result">
+    <away-team>
+      <HTscore>11</HTscore>
+      <score>24</score>
+      <team-id>951</team-id>
+      <team-name>Romania</team-name>
+    </away-team>
+    <descriptions format="OPTA_MAX" length="226">
+      <text>Rugby World Cup: 
+Scotland 34 Romania 24
+Scotland
+Try: Blair 7, Ansbro 20, Danielli 75,78, Conv: Paterson 20, Penk: Paterson 2,37,51,70, 
+Romania
+Try: Lazar 40, Carpo 66, Conv: Dimofte 67, Penk: Dumbrava 11,22, Dimofte 53,61, </text>
+    </descriptions>
+    <descriptions format="OPTA_LARGE" length="175">
+      <text>Rugby World Cup: 
+Scotland 34
+Try: Blair, Ansbro, Danielli(2), Conv: Paterson, Penk: Paterson(4), 
+Romania 24
+Try: Lazar, Carpo, Conv: Dimofte, Penk: Dumbrava(2), Dimofte(2), </text>
+    </descriptions>
+    <descriptions format="OPTA_MEDIUM" length="90">
+      <text>Rugby World Cup: 
+Scotland  34 (4 try, 1 conv, 4 penk)
+Romania  24 (2 try, 1 conv, 4 penk)</text>
+    </descriptions>
+    <descriptions format="OPTA_SMALL" length="68">
+      <text>Rugby World Cup: 
+Scotland  34 (4T, 1C, 4P)
+Romania  24 (2T, 1C, 4P)</text>
+    </descriptions>
+    <descriptions format="OPTA_SCORELINE" length="39">
+      <text>Rugby World Cup: Scotland 34 Romania 24</text>
+    </descriptions>
+    <events>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>951</team-id>
+      </event>
+      <event period="First Half" secs="12" time="2" type="PENK">
+        <player-code>1604</player-code>
+        <player-name>Paterson</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="27" time="7" type="TRY">
+        <player-code>3074</player-code>
+        <player-name>Blair</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="18" time="11" type="PENK">
+        <player-code>3640</player-code>
+        <player-name>Dumbrava</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="First Half" secs="28" time="20" type="TRY">
+        <player-code>8832</player-code>
+        <player-name>Ansbro</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="59" time="20" type="CONV">
+        <player-code>1604</player-code>
+        <player-name>Paterson</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="57" time="22" type="PENK">
+        <player-code>3640</player-code>
+        <player-name>Dumbrava</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="First Half" secs="18" time="37" type="PENK">
+        <player-code>1604</player-code>
+        <player-name>Paterson</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="First Half" secs="28" time="40" type="TRY">
+        <player-code>8869</player-code>
+        <player-name>Lazar</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="First Half" secs="41" time="41" type="END">
+        <team-id>951</team-id>
+      </event>
+      <event period="First Half" secs="44" time="41" type="END">
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="59" time="51" type="PENK">
+        <player-code>1604</player-code>
+        <player-name>Paterson</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="35" time="53" type="PENK">
+        <player-code>7990</player-code>
+        <player-name>Dimofte</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="21" time="61" type="PENK">
+        <player-code>7990</player-code>
+        <player-name>Dimofte</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="41" time="66" type="TRY">
+        <player-code>8863</player-code>
+        <player-name>Carpo</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="59" time="67" type="CONV">
+        <player-code>7990</player-code>
+        <player-name>Dimofte</player-name>
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="53" time="70" type="PENK">
+        <player-code>1604</player-code>
+        <player-name>Paterson</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="20" time="75" type="TRY">
+        <player-code>1015</player-code>
+        <player-name>Danielli</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="14" time="78" type="TRY">
+        <player-code>1015</player-code>
+        <player-name>Danielli</player-name>
+        <team-id>700</team-id>
+      </event>
+      <event period="Second Half" secs="24" time="80" type="END">
+        <team-id>951</team-id>
+      </event>
+      <event period="Second Half" secs="24" time="80" type="END">
+        <team-id>700</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>700</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>951</team-id>
+      </event>
+      <event period="Post Game" secs="24" time="80" type="END">
+        <team-id>700</team-id>
+      </event>
+      <event period="Post Game" secs="24" time="80" type="END">
+        <team-id>951</team-id>
+      </event>
+    </events>
+    <home-team>
+      <HTscore>18</HTscore>
+      <score>34</score>
+      <team-id>700</team-id>
+      <team-name>Scotland</team-name>
+    </home-team>
+    <subs>
+      <sub period="Second Half" secs="21" time="51">
+        <player-code>16884</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="21" time="51">
+        <player-code>17318</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="21" time="51">
+        <player-code>3226</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="21" time="51">
+        <player-code>3640</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="35" time="52">
+        <player-code>4074</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="35" time="52">
+        <player-code>9723</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="39" time="52">
+        <player-code>2289</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="39" time="52">
+        <player-code>16250</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="12" time="58">
+        <player-code>8598</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="12" time="58">
+        <player-code>9383</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="35" time="61">
+        <player-code>6088</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="35" time="61">
+        <player-code>2285</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="39" time="61">
+        <player-code>3982</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="39" time="61">
+        <player-code>3074</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="6" time="62">
+        <player-code>7713</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="6" time="62">
+        <player-code>7717</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="68">
+        <player-code>6025</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="14" time="68">
+        <player-code>3983</player-code>
+        <team-id>700</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="24" time="68">
+        <player-code>8879</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="24" time="68">
+        <player-code>3225</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="27" time="68">
+        <player-code>1912</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="27" time="68">
+        <player-code>9276</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="18" time="76">
+        <player-code>8861</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="18" time="76">
+        <player-code>8870</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="55" time="79">
+        <player-code>16902</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="55" time="79">
+        <player-code>1900</player-code>
+        <team-id>951</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+    </subs>
+    <teams home_or_away="home" team_id="700" team_name="Scotland">
+      <Player id="1604" first="Chris" known_name="Chris Paterson" last="Paterson" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="9419" first="Max" known_name="Max Evans" last="Evans" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="8832" first="Joe" known_name="Joe Ansbro" last="Ansbro" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="5028" first="Sean" known_name="Sean Lamont" last="Lamont" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="1015" first="Simon" known_name="Simon Danielli" last="Danielli" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="9723" first="Ruaridh" known_name="Ruaridh Jackson" last="Jackson" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="3074" first="Mike" known_name="Mike Blair" last="Blair" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="2285" first="Allan" known_name="Allan Jacobsen" last="Jacobsen" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="3983" first="Ross" known_name="Ross Ford" last="Ford" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="4048" first="Geoff" known_name="Geoff Cross" last="Cross" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="16250" first="Richie" known_name="Richie Gray" last="Gray" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="3427" first="Alastair" known_name="Alastair Kellock" last="Kellock" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="7732" first="Kelly" known_name="Kelly Brown" last="Brown" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="7717" first="John" known_name="John Barclay" last="Barclay" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="8480" first="Richie" known_name="Richie Vernon" last="Vernon" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="6025" first="Scott" known_name="Scott Lawson" last="Lawson" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="6088" first="Alasdair" known_name="Alasdair Dickinson" last="Dickinson" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="2289" first="Nathan" known_name="Nathan Hines" last="Hines" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="7713" first="Ross" known_name="Ross Rennie" last="Rennie" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="3982" first="Chris" known_name="Chris Cusiter" last="Cusiter" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="4074" first="Dan" known_name="Dan Parks" last="Parks" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="5048" first="Rory" known_name="Rory Lamont" last="Lamont" played="0" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+    <teams home_or_away="away" team_id="951" team_name="Romania">
+      <Player id="9383" first="Iulian" known_name="Iulian Dumitras" last="Dumitras" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="8865" first="Stefan" known_name="Stefan Ciuntu" last="Ciuntu" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="7996" first="Csaba" known_name="Csaba Gal" last="Gal" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="7990" first="Ionut" known_name="Ionut Dimofte" last="Dimofte" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="16891" first="Madalin" known_name="Madalin Lemnaru" last="Lemnaru" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="3640" first="Danut" known_name="Danut Dumbrava" last="Dumbrava" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="3226" first="Lucian" known_name="Lucian Sirbu" last="Sirbu" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="8869" first="Hai" known_name="Hai Lazar" last="Lazar" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="3225" first="Marius" known_name="Marius Tincu" last="Tincu" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="9276" first="Paulica" known_name="Paulica Ion" last="Ion" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="8594" first="Valentin" known_name="Valentin Ursache" last="Ursache" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="1900" first="Cristian" known_name="Cristian Petre" last="Petre" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="8870" first="Mihai" known_name="Mihai Macovei" last="Macovei" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="3651" first="Ovidiu" known_name="Ovidiu Tonita" last="Tonita" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="8863" first="Daniel" known_name="Daniel Carpo" last="Carpo" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="8879" first="Bogdan" known_name="Bogdan Zebega" last="Zebega" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="1912" first="Silviu" known_name="Silviu Florea" last="Florea" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="16902" first="Valentin" known_name="Valentin Popirlan" last="Popirlan" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="8861" first="Stelian" known_name="Stelian Burcea" last="Burcea" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="17318" first="Florin" known_name="Florin Surugiu" last="Surugiu" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="16884" first="Ionel" known_name="Ionel Cazan" last="Cazan" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="8598" first="Florin" known_name="Florin Vlaicu" last="Vlaicu" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+    </teams>
+  </match>
+  <meta>
+      <dateline>10/09/2011 13:54:56 +0000</dateline>
+  </meta>
+</wapresults>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<season year="2011">
+  <tournament type="ATP World Tour 250 / WTA International" end_date="2011-01-09" surface="Hard" tournament_class_id="7" tournament_class="Brisbane" name="Brisbane 2011" location="Brisbane, Australia" id="7262" start_time="2011-01-02T00:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7227"/>
+    <competition sex="Mens" name="Mens Singles" id="7297"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-01-08" surface="Hard" tournament_class_id="33" tournament_class="Doha" name="Doha 2011" location="Doha, Qatar" id="7332" start_time="2011-01-03T07:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7295"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-01-09" surface="Hard" tournament_class_id="28" tournament_class="Chennai" name="Chennai 2011" location="Chennai, India" id="7333" start_time="2011-01-03T04:30:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7296"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-08" surface="Hard" tournament_class_id="285" tournament_class="Noumea Challenger" name="Noumea CH 2011" location="" id="7390" start_time="2011-01-03T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7386"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-01-08" surface="Hard" tournament_class_id="36" tournament_class="Auckland" name="Auckland 2011" location="Auckland, New Zealand" id="7263" start_time="2011-01-03T00:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7228"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-09" surface="Hard" tournament_class_id="359" tournament_class="Sao Paulo Challenger" name="Sao Paulo CH 2011" location="" id="7389" start_time="2011-01-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7385"/>
+  </tournament>
+  <tournament type="ATP World Tour 250 / WTA Premier" end_date="2011-01-15" surface="Hard" tournament_class_id="38" tournament_class="Sydney" name="Sydney 2011" location="Sydney, Australia" id="7265" start_time="2011-01-09T00:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7230"/>
+    <competition sex="Mens" name="Mens Singles" id="7298"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-01-15" surface="Hard" tournament_class_id="193" tournament_class="Hobart" name="Hobart 2011" location="Hobart, Australia" id="7264" start_time="2011-01-09T00:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7229"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-01-15" surface="Hard" tournament_class_id="36" tournament_class="Auckland" name="Auckland 2011" location="Auckland, New Zealand" id="7334" start_time="2011-01-10T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7299"/>
+  </tournament>
+  <tournament type="Grand Slam" end_date="2011-01-30" surface="Hard" tournament_class_id="32" tournament_class="Australian Open" name="Australian Open 2011" location="Melbourne, Australia" id="7266" start_time="2011-01-17T00:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7231"/>
+    <competition sex="Womens" name="Womens Doubles" id="7232"/>
+    <competition sex="Mens" name="Mens Singles" id="7300"/>
+    <competition sex="Mens" name="Mens Doubles" id="7301"/>
+    <competition sex="Mixed" name="Mixed Doubles" id="7302"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-30" surface="Hard" tournament_class_id="190" tournament_class="Heilbronn Challenger" name="Heilbronn CH 2011" location="" id="7395" start_time="2011-01-24T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7391"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-30" surface="Hard" tournament_class_id="195" tournament_class="Honolulu Challenger" name="Honolulu CH 2011" location="" id="7394" start_time="2011-01-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7390"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-30" surface="Hard" tournament_class_id="377" tournament_class="Singapore Challenger" name="Singapore CH 2011" location="" id="7393" start_time="2011-01-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7389"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-30" surface="Clay" tournament_class_id="95" tournament_class="Bucaramanga Challenger" name="Bucaramanga CH 2011" location="" id="7391" start_time="2011-01-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7387"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-01-28" surface="Hard" tournament_class_id="331" tournament_class="Reunion Challenger" name="Reunion Island CH 2011" location="" id="7392" start_time="2011-01-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7388"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-06" surface="Hard" tournament_class_id="142" tournament_class="Courmayeur Challenger" name="Courmayeur CH 2011" location="" id="7398" start_time="2011-01-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7394"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-06" surface="Clay" tournament_class_id="356" tournament_class="Santiago" name="Vina del Mar 2011" location="Santiago, Chile" id="7335" start_time="2011-01-31T13:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7303"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-06" surface="Hard" tournament_class_id="209" tournament_class="Kazan Challenger" name="Kazan CH 2011" location="" id="7397" start_time="2011-01-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7393"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-06" surface="Hard" tournament_class_id="440" tournament_class="Zagreb" name="Zagreb 2011" location="Zagreb, Croatia" id="7336" start_time="2011-01-31T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7304"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-05" surface="Hard" tournament_class_id="105" tournament_class="Burnie Challenger 1" name="Burnie CH 2011" location="" id="7396" start_time="2011-01-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7392"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-06" surface="Hard" tournament_class_id="514" tournament_class="Johannesburg" name="Johannesburg 2011" location="Johannesburg, South Africa" id="7337" start_time="2011-01-31T08:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7305"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-02-13" surface="Hard" tournament_class_id="475" tournament_class="Paris (Women)" name="Paris 2011" location="Paris, France" id="7267" start_time="2011-02-07T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7233"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-12" surface="Hard" tournament_class_id="114" tournament_class="Caloundra Challenger" name="Caloundra CH 2011" location="" id="7400" start_time="2011-02-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7396"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-02-13" surface="Hard" tournament_class_id="342" tournament_class="Rotterdam" name="Rotterdam 2011" location="Rotterdam, The Netherlands" id="7339" start_time="2011-02-07T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7307"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-02-13" surface="Hard" tournament_class_id="471" tournament_class="Pattaya City" name="Pattaya City 2011" location="Pattaya City, Thailand" id="7268" start_time="2011-02-07T03:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7234"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-12" surface="Clay" tournament_class_id="141" tournament_class="Costa Do Sauipe" name="Costa Do Sauipe 2011" location="Costa do Sauipe, Brazil" id="7338" start_time="2011-02-07T13:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7306"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-13" surface="Hard" tournament_class_id="323" tournament_class="Quimper Challenger" name="Quimper CH 2011" location="" id="7399" start_time="2011-02-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7395"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-13" surface="Hard" tournament_class_id="60" tournament_class="Bergamo Challenger" name="Bergamo CH 2011" location="" id="7401" start_time="2011-02-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7397"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-13" surface="Hard" tournament_class_id="349" tournament_class="San Jose" name="San Jose 2011" location="San Jose, USA" id="7340" start_time="2011-02-07T18:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7308"/>
+  </tournament>
+  <tournament type="ATP World Tour 500 / WTA International" end_date="2011-02-20" surface="Hard" tournament_class_id="256" tournament_class="Memphis" name="Memphis 2011" location="Memphis, USA" id="7272" start_time="2011-02-13T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7237"/>
+    <competition sex="Mens" name="Mens Singles" id="7310"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-19" surface="Clay" tournament_class_id="254" tournament_class="Meknes Challenger" name="Meknes CH 2011" location="" id="7402" start_time="2011-02-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7398"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-20" surface="Hard" tournament_class_id="249" tournament_class="Marseille" name="Marseille 2011" location="Marseille, France" id="7341" start_time="2011-02-14T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7309"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-20" surface="Clay" tournament_class_id="101" tournament_class="Buenos Aires" name="Buenos Aires 2011" location="Buenos Aires, Argentina" id="7342" start_time="2011-02-14T13:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7311"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-02-20" surface="Clay" tournament_class_id="466" tournament_class="Bogota (Women)" name="Bogota 2011" location="Bogota, Colombia" id="7271" start_time="2011-02-14T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7236"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-02-20" surface="Hard" tournament_class_id="40" tournament_class="Dubai" name="Dubai 2011" location="Dubai, UAE" id="7269" start_time="2011-02-14T06:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7235"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-02-26" surface="Hard" tournament_class_id="40" tournament_class="Dubai" name="Dubai 2011" location="Dubai, UAE" id="7343" start_time="2011-02-21T06:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7313"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-26" surface="Clay" tournament_class_id="396" tournament_class="Casablanca Challenger 1" name="Casablanca CH 2011" location="" id="7404" start_time="2011-02-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7400"/>
+  </tournament>
+  <tournament type="ATP World Tour 500 / WTA International" end_date="2011-02-26" surface="Clay" tournament_class_id="3" tournament_class="Acapulco" name="Acapulco 2011" location="Acapulco, Mexico" id="7274" start_time="2011-02-21T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7239"/>
+    <competition sex="Mens" name="Mens Singles" id="7312"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-02-27" surface="Carpet" tournament_class_id="435" tournament_class="Wolfsburg Challenger" name="Wolfsburg CH 2011" location="" id="7403" start_time="2011-02-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7399"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-02-27" surface="Hard" tournament_class_id="150" tournament_class="Delray Beach" name="Delray Beach 2011" location="Delray Beach, USA" id="7344" start_time="2011-02-21T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7314"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-02-26" surface="Hard" tournament_class_id="33" tournament_class="Doha" name="Doha 2011" location="Doha, Qatar" id="7273" start_time="2011-02-21T07:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7238"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-06" surface="Hard" tournament_class_id="127" tournament_class="Cherbourg Challenger" name="Cherbourg CH 2011" location="" id="7406" start_time="2011-02-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7402"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-03-06" surface="Hard" tournament_class_id="218" tournament_class="Kuala Lumpur" name="Malaysian Open 2011" location="Kuala Lumpur, Malaysia" id="7276" start_time="2011-02-28T02:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7241"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-06" surface="Hard" tournament_class_id="146" tournament_class="Dallas Challenger" name="Dallas CH 2011" location="" id="7405" start_time="2011-02-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7401"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-03-06" surface="Hard" tournament_class_id="270" tournament_class="Monterrey" name="Monterrey 2011" location="Monterrey, Mexico" id="7275" start_time="2011-02-28T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7240"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-05" surface="Hard" tournament_class_id="344" tournament_class="Salinas Challenger" name="Salinas CH 2011" location="" id="7407" start_time="2011-02-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7403"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Hard" tournament_class_id="148" tournament_class="Davis Cup" name="Davis Cup 2011 (H)" location="" id="7659" start_time="2011-03-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7700"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-10" surface="Carpet" tournament_class_id="148" tournament_class="Davis Cup" name="Davis Cup 2011 (Ca)" location="" id="7662" start_time="2011-03-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7703"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-12-04" surface="Clay" tournament_class_id="148" tournament_class="Davis Cup" name="Davis Cup 2011 (Cl)" location="" id="7661" start_time="2011-03-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7702"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-13" surface="Clay" tournament_class_id="357" tournament_class="Santiago Challenger 1" name="Santiago CH 2011" location="" id="7408" start_time="2011-03-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7404"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-13" surface="Carpet" tournament_class_id="220" tournament_class="Kyoto Challenger" name="Kyoto CH 2011" location="" id="7410" start_time="2011-03-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7406"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-13" surface="Hard" tournament_class_id="360" tournament_class="Sarajevo Challenger" name="Sarajevo CH 2011" location="" id="7409" start_time="2011-03-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7405"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000 / WTA Premier" end_date="2011-03-20" surface="Hard" tournament_class_id="34" tournament_class="Indian Wells Masters" name="Indian Wells 2011" location="Indian Wells, USA" id="7277" start_time="2011-03-09T18:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7242"/>
+    <competition sex="Mens" name="Mens Singles" id="7315"/>
+    <competition sex="Mens" name="Mens Doubles" id="7316"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-20" surface="Hard" tournament_class_id="504" tournament_class="San Jose Challenger" name="San Jose CH 2011" location="" id="7411" start_time="2011-03-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7407"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-19" surface="Clay" tournament_class_id="326" tournament_class="Rabat Challenger" name="Rabat CH 2011" location="" id="7415" start_time="2011-03-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7411"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-20" surface="Hard" tournament_class_id="335" tournament_class="Rimouski Challenger" name="Rimouski CH 2011" location="" id="7414" start_time="2011-03-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7410"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-19" surface="Hard" tournament_class_id="185" tournament_class="Guangzhou Challenger" name="Guangzhou CH 2011" location="" id="7412" start_time="2011-03-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7408"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-19" surface="Hard" tournament_class_id="505" tournament_class="Le Gosier Challenger" name="Le Gosier CH 2011" location="" id="7413" start_time="2011-03-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7409"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-27" surface="Clay" tournament_class_id="115" tournament_class="Caltanissetta Challenger" name="Caltanissetta CH 2011" location="" id="7419" start_time="2011-03-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7413"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-27" surface="Hard" tournament_class_id="201" tournament_class="Bath Challenger" name="Bath CH 2011" location="" id="7422" start_time="2011-03-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7416"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-27" surface="Hard" tournament_class_id="510" tournament_class="Pingguo Challenger" name="Pingguo CH 2011" location="" id="7421" start_time="2011-03-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7415"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-03-26" surface="Clay" tournament_class_id="248" tournament_class="Marrakech Challenger" name="Marrakech CH 2011" location="" id="7420" start_time="2011-03-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7414"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000 / WTA Premier" end_date="2011-04-03" surface="Hard" tournament_class_id="263" tournament_class="Miami Masters" name="Miami 2011" location="Miami, USA" id="7278" start_time="2011-03-22T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7243"/>
+    <competition sex="Mens" name="Mens Singles" id="7317"/>
+    <competition sex="Mens" name="Mens Doubles" id="7318"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-03" surface="Clay" tournament_class_id="383" tournament_class="St Brieuc Challenger" name="St. Brieuc CH 2011" location="" id="7433" start_time="2011-03-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7428"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-03" surface="Clay" tournament_class_id="49" tournament_class="Barletta Challenger" name="Barletta CH 2011" location="" id="7432" start_time="2011-03-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7427"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-03" surface="Clay" tournament_class_id="520" tournament_class="Barranquilla Challenger" name="Barranquilla CH 2011" location="" id="7434" start_time="2011-03-29T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7429"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-04-10" surface="Clay" tournament_class_id="123" tournament_class="Casablana (M) / Fes (W)" name="Casablanca 2011" location="Casablanca, Morocco" id="7346" start_time="2011-04-04T11:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7320"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-04-10" surface="Clay" tournament_class_id="500" tournament_class="Marbella" name="Marbella 2011" location="Marbella, Spain" id="7280" start_time="2011-04-04T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7245"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-04-10" surface="Clay" tournament_class_id="457" tournament_class="Charleston" name="Charleston 2011" location="Charleston, USA" id="7279" start_time="2011-04-04T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7244"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-10" surface="Clay" tournament_class_id="274" tournament_class="Monza Challenger" name="Monza CH 2011" location="" id="7435" start_time="2011-04-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7430"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-10" surface="Clay" tournament_class_id="314" tournament_class="Pereira Challenger" name="Pereira CH 2011" location="" id="7436" start_time="2011-04-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7431"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-10" surface="Hard" tournament_class_id="521" tournament_class="Recife Challenger" name="Recife CH 2011" location="" id="7437" start_time="2011-04-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7432"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-04-10" surface="Clay" tournament_class_id="420" tournament_class="USCC" name="USCC-Houston 2011" location="Houston, USA" id="7345" start_time="2011-04-04T16:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7319"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000" end_date="2011-04-17" surface="Clay" tournament_class_id="269" tournament_class="Monte Carlo Masters" name="Monte Carlo 2011" location="Monte-Carlo, Monaco" id="7348" start_time="2011-04-10T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Doubles" id="7322"/>
+    <competition sex="Mens" name="Mens Singles" id="7321"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-17" surface="Hard" tournament_class_id="25" tournament_class="Athens Challenger" name="Athens CH 2011" location="" id="7441" start_time="2011-04-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7436"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-17" surface="Clay" tournament_class_id="168" tournament_class="Blumenau Challenger" name="Blumenau CH 2011" location="" id="7440" start_time="2011-04-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7435"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-16" surface="Hard" tournament_class_id="394" tournament_class="Tallahassee Challenger" name="Tallahassee CH 2011" location="" id="7442" start_time="2011-04-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7437"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-17" surface="Clay" tournament_class_id="340" tournament_class="Rome Challenger 3" name="Rome CH 2011" location="" id="7438" start_time="2011-04-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7433"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-17" surface="Hard" tournament_class_id="501" tournament_class="Johannesburg Challenger" name="Johannesburg CH 2011" location="" id="7439" start_time="2011-04-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7434"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-04-24" surface="Clay" tournament_class_id="46" tournament_class="Barcelona" name="Barcelona 2011" location="Barcelona, Spain" id="7349" start_time="2011-04-18T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7323"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-04-24" surface="Clay" tournament_class_id="448" tournament_class="Stuttgart (Women)" name="Stuttgart 2011" location="Stuttgart, Germany" id="7281" start_time="2011-04-18T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7246"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-04-24" surface="Clay" tournament_class_id="123" tournament_class="Casablana (M) / Fes (W)" name="Fes 2011" location="Fes, Morocco" id="7282" start_time="2011-04-18T10:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7247"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-23" surface="Clay" tournament_class_id="282" tournament_class="Napoli Challenger 1" name="Napoli CH 2011" location="" id="7443" start_time="2011-04-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7438"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-04-24" surface="Clay" tournament_class_id="522" tournament_class="Santos Challenger" name="Santos CH 2011" location="" id="7444" start_time="2011-04-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7439"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-05-01" surface="Clay" tournament_class_id="277" tournament_class="Munich" name="Munich 2011" location="Munich, Germany" id="7351" start_time="2011-04-24T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7326"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-05-01" surface="Clay" tournament_class_id="57" tournament_class="Belgrade" name="Belgrade 2011" location="Belgrade, Serbia" id="7350" start_time="2011-04-25T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7325"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-01" surface="Clay" tournament_class_id="363" tournament_class="Sarasota Challenger" name="Sarasota CH 2011" location="" id="7447" start_time="2011-04-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7442"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-01" surface="Hard" tournament_class_id="223" tournament_class="Leon Challenger" name="Leon CH 2011" location="" id="7446" start_time="2011-04-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7441"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-01" surface="Clay" tournament_class_id="308" tournament_class="Ostrava Challenger" name="Ostrava CH 2011" location="" id="7445" start_time="2011-04-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7440"/>
+  </tournament>
+  <tournament type="ATP World Tour 250 / WTA International" end_date="2011-05-01" surface="Clay" tournament_class_id="162" tournament_class="Estoril" name="Estoril 2011" location="Estoril, Portugal" id="7284" start_time="2011-04-25T10:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7249"/>
+    <competition sex="Mens" name="Mens Singles" id="7324"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-04-30" surface="Clay" tournament_class_id="507" tournament_class="Barcelona (Women)" name="Barcelona 2011" location="Barcelona, Spain" id="7283" start_time="2011-04-25T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7248"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000 / WTA Premier" end_date="2011-05-08" surface="Clay" tournament_class_id="241" tournament_class="Madrid Masters" name="Madrid 2011" location="Madrid, Spain" id="7285" start_time="2011-04-30T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7250"/>
+    <competition sex="Mens" name="Mens Singles" id="7327"/>
+    <competition sex="Mens" name="Mens Doubles" id="7328"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-08" surface="Clay" tournament_class_id="319" tournament_class="Prague Challenger" name="Prague CH 2011" location="" id="7449" start_time="2011-05-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7444"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-08" surface="Clay" tournament_class_id="365" tournament_class="Savannah Challenger" name="Savannah CH 2011" location="" id="7450" start_time="2011-05-02T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7445"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-07" surface="Clay" tournament_class_id="338" tournament_class="Rome Challenger 1" name="Rome CH 2011" location="" id="7448" start_time="2011-05-02T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7443"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000 / WTA Premier" end_date="2011-05-15" surface="Clay" tournament_class_id="337" tournament_class="Rome Masters" name="Rome 2011" location="Rome, Italy" id="7286" start_time="2011-05-08T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7256"/>
+    <competition sex="Mens" name="Mens Singles" id="7329"/>
+    <competition sex="Mens" name="Mens Doubles" id="7330"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-15" surface="Clay" tournament_class_id="77" tournament_class="Bordeaux Challenger" name="Bordeaux CH 2011" location="" id="7452" start_time="2011-05-09T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7447"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-15" surface="Hard" tournament_class_id="107" tournament_class="Busan Challenger 1" name="Busan CH 2011" location="" id="7453" start_time="2011-05-09T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7448"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-16" surface="Clay" tournament_class_id="441" tournament_class="Zagreb Challenger" name="Zagreb CH 2011" location="" id="7451" start_time="2011-05-09T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7446"/>
+  </tournament>
+  <tournament type="World Team Cup" end_date="2011-05-21" surface="Clay" tournament_class_id="2" tournament_class="World Team Cup" name="WTC Dusseldorf 2011" location="Dusseldorf, Germany" id="7353" start_time="2011-05-15T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Doubles" id="7333"/>
+    <competition sex="Mens" name="Mens Singles" id="7332"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-05-21" surface="Clay" tournament_class_id="278" tournament_class="Nice" name="Nice 2011" location="Nice, France" id="7352" start_time="2011-05-15T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7331"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-05-21" surface="Clay" tournament_class_id="460" tournament_class="Strasbourg" name="Strasbourg 2011" location="Strasbourg, France" id="7294" start_time="2011-05-16T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7253"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-21" surface="Hard" tournament_class_id="164" tournament_class="Fergana Challenger" name="Fergana CH 2011" location="" id="7454" start_time="2011-05-16T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7449"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-22" surface="Hard" tournament_class_id="143" tournament_class="Cremona Challenger" name="Cremona CH 2011" location="" id="7455" start_time="2011-05-16T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7450"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-05-21" surface="Clay" tournament_class_id="508" tournament_class="Brussels (Women)" name="Brussels 2011" location="Brussels, Belgium" id="7293" start_time="2011-05-16T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7252"/>
+  </tournament>
+  <tournament type="Grand Slam" end_date="2011-06-05" surface="Clay" tournament_class_id="31" tournament_class="French Open" name="French Open 2011" location="Paris, France" id="7295" start_time="2011-05-22T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7254"/>
+    <competition sex="Womens" name="Womens Doubles" id="7255"/>
+    <competition sex="Mens" name="Mens Singles" id="7334"/>
+    <competition sex="Mixed" name="Mixed Doubles" id="7336"/>
+    <competition sex="Mens" name="Mens Doubles" id="7335"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-05-29" surface="Clay" tournament_class_id="10" tournament_class="Alessandria Challenger" name="Alessandria CH 2011" location="" id="7456" start_time="2011-05-23T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7451"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-04" surface="Clay" tournament_class_id="321" tournament_class="Prostejov Challenger" name="Prostejov CH 2011" location="" id="7458" start_time="2011-05-30T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7452"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-05" surface="Clay" tournament_class_id="174" tournament_class="Furth Challenger" name="Furth CH 2011" location="" id="7461" start_time="2011-05-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7455"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-05" surface="Grass" tournament_class_id="294" tournament_class="Nottingham Challenger" name="Nottingham CH 2011" location="" id="7460" start_time="2011-05-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7454"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-05" surface="Clay" tournament_class_id="333" tournament_class="Rijeka Challenger" name="Rijeka CH 2011" location="" id="7459" start_time="2011-05-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7453"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-06-13" surface="Grass" tournament_class_id="461" tournament_class="Birmingham" name="Birmingham 2011" location="Birmingham, UK" id="7296" start_time="2011-06-06T10:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7257"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-06-13" surface="Grass" tournament_class_id="229" tournament_class="Queens, London" name="Queens 2011" location="London, UK" id="7355" start_time="2011-06-06T10:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7338"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-11" surface="Clay" tournament_class_id="216" tournament_class="Kosice Challenger" name="Kosice CH 2011" location="" id="7463" start_time="2011-06-06T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7457"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-11" surface="Grass" tournament_class_id="524" tournament_class="Nottingham Challenger 2" name="Nottingham CH 2011" location="" id="7462" start_time="2011-06-06T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7456"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-06-12" surface="Hard" tournament_class_id="512" tournament_class="Copenhagen (Women)" name="Copenhagen 2011" location="Copenhagen, Denmark" id="7297" start_time="2011-06-06T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7258"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-06-12" surface="Grass" tournament_class_id="188" tournament_class="Halle" name="Halle 2011" location="Halle, Germany" id="7354" start_time="2011-06-06T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7337"/>
+  </tournament>
+  <tournament type="ATP World Tour 250 / WTA International" end_date="2011-06-18" surface="Grass" tournament_class_id="4" tournament_class="s-Hertogenbosch" name="s-Hertogenbosch 2011" location="s-Hertogenbosch, The Netherlands" id="7299" start_time="2011-06-12T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7260"/>
+    <competition sex="Mens" name="Mens Singles" id="7339"/>
+  </tournament>
+  <tournament type="ATP World Tour 250 / WTA Premier" end_date="2011-06-18" surface="Grass" tournament_class_id="293" tournament_class="Eastbourne" name="Eastbourne 2011" location="Eastbourne, UK" id="7298" start_time="2011-06-12T10:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7259"/>
+    <competition sex="Mens" name="Mens Singles" id="7340"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-19" surface="Clay" tournament_class_id="265" tournament_class="Milan Challenger" name="Milan CH 2011" location="" id="7464" start_time="2011-06-13T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7458"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-26" surface="Hard" tournament_class_id="523" tournament_class="Guadalajara Challenger" name="Guadalajara CH 2011" location="" id="7465" start_time="2011-06-20T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7459"/>
+  </tournament>
+  <tournament type="Grand Slam" end_date="2011-07-03" surface="Grass" tournament_class_id="1" tournament_class="Wimbledon" name="Wimbledon 2011" location="London, UK" id="7300" start_time="2011-06-20T10:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7261"/>
+    <competition sex="Mens" name="Mens Singles" id="7341"/>
+    <competition sex="Mens" name="Mens Doubles" id="7342"/>
+    <competition sex="Mixed" name="Mixed Doubles" id="7343"/>
+    <competition sex="Womens" name="Womens Doubles" id="7262"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-06-26" surface="Clay" tournament_class_id="247" tournament_class="Marburg Challenger" name="Marburg CH 2011" location="" id="7466" start_time="2011-06-20T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7460"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-02" surface="Hard" tournament_class_id="434" tournament_class="Winnetka Challenger" name="Winnetka CH 2011" location="" id="7468" start_time="2011-06-27T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7462"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-03" surface="Clay" tournament_class_id="89" tournament_class="Braunschweig Challenger" name="Braunschweig CH 2011" location="" id="7469" start_time="2011-06-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7463"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-03" surface="Clay" tournament_class_id="419" tournament_class="Turin Challenger" name="Turin CH 2011" location="" id="7467" start_time="2011-06-28T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7461"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-09" surface="Clay" tournament_class_id="52" tournament_class="Bastad" name="Bastad 2011" location="Bastad, Sweden" id="7302" start_time="2011-07-04T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7264"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-10" surface="Clay" tournament_class_id="297" tournament_class="Oberstaufen Challenger" name="Oberstaufen CH 2011" location="" id="7470" start_time="2011-07-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7464"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-10" surface="Hard" tournament_class_id="140" tournament_class="Pozoblanco Challenger" name="Pozoblanco CH 2011" location="" id="7472" start_time="2011-07-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7466"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-10" surface="Clay" tournament_class_id="348" tournament_class="San Benedetto Challenger" name="San Benedetto CH 2011" location="" id="7471" start_time="2011-07-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7465"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-10" surface="Clay" tournament_class_id="367" tournament_class="Scheveningen Challenger" name="Scheveningen CH 2011" location="" id="7473" start_time="2011-07-04T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7467"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-10" surface="Grass" tournament_class_id="292" tournament_class="Newport" name="Newport 2011" location="Newport, USA" id="7356" start_time="2011-07-04T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7344"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-10" surface="Clay" tournament_class_id="482" tournament_class="Budapest" name="Budapest 2011" location="Budapest, Hungary" id="7301" start_time="2011-07-04T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7263"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-17" surface="Clay" tournament_class_id="389" tournament_class="Stuttgart" name="Stuttgart 2011" location="Stuttgart, Germany" id="7358" start_time="2011-07-11T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7346"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-17" surface="Clay" tournament_class_id="499" tournament_class="Bad Gastein" name="Bad Gastein 2011" location="Bad Gastein, Austria" id="7304" start_time="2011-07-11T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7266"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-17" surface="Clay" tournament_class_id="71" tournament_class="Bogota Challenger 2" name="Bogota CH 2011" location="" id="7475" start_time="2011-07-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7469"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-17" surface="Hard" tournament_class_id="179" tournament_class="Granby Challenger" name="Granby CH 2011" location="" id="7476" start_time="2011-07-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7470"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-17" surface="Hard" tournament_class_id="18" tournament_class="Aptos Challenger" name="Aptos CH 2011" location="" id="7477" start_time="2011-07-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7471"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-17" surface="Clay" tournament_class_id="479" tournament_class="Palermo (Women)" name="Palermo 2011" location="Palermo, Italy" id="7303" start_time="2011-07-11T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7265"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-17" surface="Clay" tournament_class_id="52" tournament_class="Bastad" name="Bastad 2011" location="Bastad, Sweden" id="7357" start_time="2011-07-11T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7345"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-17" surface="Clay" tournament_class_id="525" tournament_class="Sopot Challenger" name="Sopot CH 2011" location="" id="7474" start_time="2011-07-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7468"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-24" surface="Hard" tournament_class_id="224" tournament_class="Lexington Challenger" name="Lexington CH 2011" location="" id="7479" start_time="2011-07-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7473"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-24" surface="Clay" tournament_class_id="317" tournament_class="Poznan Challenger" name="Poznan CH 2011" location="" id="7480" start_time="2011-07-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7474"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-24" surface="Clay" tournament_class_id="302" tournament_class="Orbetello Challenger" name="Orbetello CH 2011" location="" id="7482" start_time="2011-07-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7476"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-07-24" surface="Clay" tournament_class_id="189" tournament_class="Hamburg" name="Hamburg 2011" location="Hamburg, Germany" id="7360" start_time="2011-07-18T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7348"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-24" surface="Hard" tournament_class_id="502" tournament_class="Baku" name="Baku 2011" location="Baku, Azerbaijan" id="7305" start_time="2011-07-18T06:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7267"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-23" surface="Hard" tournament_class_id="313" tournament_class="Penza Challenger" name="Penza CH 2011" location="" id="7481" start_time="2011-07-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7475"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-23" surface="Hard" tournament_class_id="245" tournament_class="Manta Challenger" name="Manta CH 2011" location="" id="7478" start_time="2011-07-18T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7472"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-24" surface="Hard" tournament_class_id="506" tournament_class="Atlanta" name="Atlanta 2011" location="Atlanta, USA" id="7359" start_time="2011-07-18T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7347"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-31" surface="Hard" tournament_class_id="231" tournament_class="Los Angeles" name="Los Angeles 2011" location="Los Angeles, USA" id="7361" start_time="2011-07-25T18:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7349"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-31" surface="Hard" tournament_class_id="328" tournament_class="Recanati Challenger" name="Recanati CH 2011" location="" id="7484" start_time="2011-07-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7478"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-31" surface="Clay" tournament_class_id="421" tournament_class="Umag" name="Umag 2011" location="Umag, Croatia" id="7363" start_time="2011-07-25T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7351"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-31" surface="Hard" tournament_class_id="21" tournament_class="Astana Challenger 1" name="Astana CH 2011" location="" id="7487" start_time="2011-07-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7481"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-31" surface="Clay" tournament_class_id="527" tournament_class="Dortmund Challenger" name="Dortmund CH 2011" location="" id="7486" start_time="2011-07-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7480"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-31" surface="Hard" tournament_class_id="526" tournament_class="Wuhai Challenger" name="Wuhai CH 2011" location="" id="7485" start_time="2011-07-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7479"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-07-31" surface="Clay" tournament_class_id="183" tournament_class="Gstaad" name="Gstaad 2011" location="Gstaad, Switzerland" id="7362" start_time="2011-07-25T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7350"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-07-31" surface="Hard" tournament_class_id="456" tournament_class="Stanford" name="Stanford 2011" location="Stanford, USA" id="7307" start_time="2011-07-25T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7269"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-07-31" surface="Clay" tournament_class_id="395" tournament_class="Tampere Challenger" name="Tampere CH 2011" location="" id="7483" start_time="2011-07-25T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7477"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-07-31" surface="Hard" tournament_class_id="503" tournament_class="Washington (Women)" name="Washington 2011" location="Washington, USA" id="7306" start_time="2011-07-25T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7268"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-07" surface="Hard" tournament_class_id="55" tournament_class="Beijing Challenger" name="Beijing CH 2011" location="" id="7488" start_time="2011-08-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7482"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-08-07" surface="Hard" tournament_class_id="432" tournament_class="Washington" name="Washington 2011" location="Washington, USA" id="7364" start_time="2011-08-01T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7352"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-06" surface="Hard" tournament_class_id="116" tournament_class="Campos Do Jordao Challenger" name="Campos Do Jordao CH 2011" location="" id="7490" start_time="2011-08-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7484"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-07" surface="Hard" tournament_class_id="369" tournament_class="Segovia Challenger" name="Segovia CH 2011" location="" id="7491" start_time="2011-08-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7485"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-07" surface="Clay" tournament_class_id="412" tournament_class="Trani Challenger" name="Trani CH 2011" location="" id="7492" start_time="2011-08-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7486"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-07" surface="Hard" tournament_class_id="425" tournament_class="Vancouver Challenger" name="Vancouver CH 2011" location="" id="7489" start_time="2011-08-01T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7483"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-08-07" surface="Hard" tournament_class_id="462" tournament_class="San Diego" name="San Diego 2011" location="San Diego, USA" id="7308" start_time="2011-08-01T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7270"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-08-07" surface="Clay" tournament_class_id="213" tournament_class="Kitzbuhel" name="Kitzbuhel 2011" location="Kitzbuhel, Austria" id="7388" start_time="2011-08-01T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7384"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-14" surface="Clay" tournament_class_id="352" tournament_class="San Marino Challenger" name="San Marino CH 2011" location="" id="7495" start_time="2011-08-08T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7489"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-08-14" surface="Hard" tournament_class_id="273" tournament_class="Montreal / Toronto Masters" name="Toronto 2011" location="Toronto, Canada" id="7309" start_time="2011-08-08T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7271"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000" end_date="2011-08-14" surface="Hard" tournament_class_id="273" tournament_class="Montreal / Toronto Masters" name="Montreal 2011" location="Montreal, Canada" id="7366" start_time="2011-08-08T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7353"/>
+    <competition sex="Mens" name="Mens Doubles" id="7354"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-13" surface="Clay" tournament_class_id="347" tournament_class="Samarkand Challenger" name="Samarkand CH 2011" location="" id="7493" start_time="2011-08-08T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7487"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-14" surface="Hard" tournament_class_id="66" tournament_class="Binghamton Challenger" name="Binghamton CH 2011" location="" id="7494" start_time="2011-08-09T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7488"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000 / WTA Premier" end_date="2011-08-21" surface="Hard" tournament_class_id="132" tournament_class="Cincinnati Masters" name="Cincinnati 2011" location="Cincinnati, USA" id="7310" start_time="2011-08-14T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7272"/>
+    <competition sex="Mens" name="Mens Singles" id="7355"/>
+    <competition sex="Mens" name="Mens Doubles" id="7356"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-08-27" surface="Hard" tournament_class_id="316" tournament_class="Winston-Salem (M) / New Haven (W)" name="New Haven 2011" location="New Haven, USA" id="7311" start_time="2011-08-21T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7273"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-08-27" surface="Hard" tournament_class_id="528" tournament_class="Dallas (Women)" name="Dallas 2011" location="Dallas, Texas" id="7496" start_time="2011-08-21T16:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7490"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-08-27" surface="Hard" tournament_class_id="316" tournament_class="Winston-Salem (M) / New Haven (W)" name="Winston-Salem 2011" location="Winston-Salem, USA" id="7387" start_time="2011-08-21T15:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7383"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-28" surface="Hard" tournament_class_id="22" tournament_class="Astana Challenger 2" name="Astana CH 2011" location="" id="7498" start_time="2011-08-22T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7492"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-08-28" surface="Clay" tournament_class_id="243" tournament_class="Manerbio Challenger" name="Manerbio CH 2011" location="" id="7497" start_time="2011-08-22T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7491"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-03" surface="Hard" tournament_class_id="43" tournament_class="Bangkok Challenger 1" name="Bangkok CH 2011" location="" id="7499" start_time="2011-08-29T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7493"/>
+  </tournament>
+  <tournament type="Grand Slam" end_date="2011-09-12" surface="Hard" tournament_class_id="30" tournament_class="US Open" name="US Open 2011" location="New York, USA" id="7312" start_time="2011-08-29T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7274"/>
+    <competition sex="Womens" name="Womens Doubles" id="7275"/>
+    <competition sex="Mens" name="Mens Singles" id="7357"/>
+    <competition sex="Mens" name="Mens Doubles" id="7358"/>
+    <competition sex="Mixed" name="Mixed Doubles" id="7359"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-04" surface="Clay" tournament_class_id="136" tournament_class="Como Challenger" name="Como CH 2011" location="" id="7500" start_time="2011-08-29T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7494"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-10" surface="Clay" tournament_class_id="372" tournament_class="Seville Challenger" name="Seville CH 2011" location="" id="7502" start_time="2011-09-05T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7496"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-11" surface="Hard" tournament_class_id="529" tournament_class="Shanghai Challenger" name="Shanghai CH 2011" location="" id="7501" start_time="2011-09-05T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7495"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-11" surface="Clay" tournament_class_id="86" tournament_class="Brasov Challenger" name="Brasov CH 2011" location="" id="7505" start_time="2011-09-06T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7499"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-11" surface="Clay" tournament_class_id="177" tournament_class="Genova Challenger" name="Genova CH 2011" location="" id="7506" start_time="2011-09-06T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7500"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-11" surface="Hard" tournament_class_id="387" tournament_class="St Remy Challenger" name="St. Remy CH 2011" location="" id="7504" start_time="2011-09-06T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7498"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-11" surface="Clay" tournament_class_id="13" tournament_class="Alphen Challenger" name="Alphen CH 2011" location="" id="7503" start_time="2011-09-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7497"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Hard" tournament_class_id="530" tournament_class="Ningbo Challenger" name="Ningbo CH 2011" location="" id="7512" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7508"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Hard" tournament_class_id="199" tournament_class="Istanbul Challenger" name="Istanbul CH 2011" location="" id="7511" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7507"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Clay" tournament_class_id="59" tournament_class="Belo Horizonte Challenger" name="Belo Horizonte CH 2011" location="" id="7509" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7505"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Hard" tournament_class_id="415" tournament_class="Tulsa Challenger" name="Tulsa CH 2011" location="" id="7514" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7510"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-09-18" surface="Hard" tournament_class_id="450" tournament_class="Quebec City" name="Quebec City 2011" location="Quebec City, Canada" id="7314" start_time="2011-09-12T15:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7277"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-09-17" surface="Hard" tournament_class_id="399" tournament_class="Tashkent" name="Tashkent 2011" location="Tashkent, Uzbekhistan" id="7313" start_time="2011-09-12T06:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7276"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Clay" tournament_class_id="393" tournament_class="Szczecin Challenger" name="Szczecin CH 2011" location="" id="7515" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7511"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Clay" tournament_class_id="406" tournament_class="Todi Challenger" name="Todi CH 2011" location="" id="7513" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7509"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Clay" tournament_class_id="45" tournament_class="Banja Luka Challenger" name="Banja Luka CH 2011" location="" id="7510" start_time="2011-09-12T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7506"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-18" surface="Grass" tournament_class_id="148" tournament_class="Davis Cup" name="Davis Cup 2011 (G)" location="" id="7660" start_time="2011-09-16T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7701"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-09-25" surface="Clay" tournament_class_id="96" tournament_class="Bucharest" name="Bucharest 2011" location="Bucharest, Romania" id="7368" start_time="2011-09-19T08:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7361"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-09-25" surface="Hard" tournament_class_id="370" tournament_class="Seoul (Women)" name="Seoul 2011" location="Seoul, South Korea" id="7315" start_time="2011-09-19T02:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7278"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-25" surface="Clay" tournament_class_id="414" tournament_class="Trnava Challenger" name="Trnava CH 2011" location="" id="7521" start_time="2011-09-19T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7517"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-09-24" surface="Hard" tournament_class_id="184" tournament_class="Guangzhou (Women)" name="Guangzhou 2011" location="Guangzhou, China" id="7316" start_time="2011-09-19T03:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7279"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-09-25" surface="Hard" tournament_class_id="258" tournament_class="Metz" name="Metz 2011" location="Metz, France" id="7367" start_time="2011-09-19T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7360"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-25" surface="Clay" tournament_class_id="113" tournament_class="Cali Challenger" name="Cali CH 2011" location="" id="7519" start_time="2011-09-19T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7515"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-25" surface="Clay" tournament_class_id="116" tournament_class="Campos Do Jordao Challenger" name="Campinas CH 2011" location="" id="7518" start_time="2011-09-19T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7514"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-25" surface="Hard" tournament_class_id="200" tournament_class="Izmir Challenger" name="Izmir CH 2011" location="" id="7516" start_time="2011-09-19T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7512"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-24" surface="Hard" tournament_class_id="400" tournament_class="Tashkent Challenger" name="Tashkent CH 2011" location="" id="7517" start_time="2011-09-19T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7513"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-09-25" surface="Clay" tournament_class_id="228" tournament_class="Ljubljana Challenger" name="Ljubljana CH 2011" location="" id="7520" start_time="2011-09-20T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7516"/>
+  </tournament>
+  <tournament type="WTA Premier" end_date="2011-10-01" surface="Hard" tournament_class_id="451" tournament_class="Pan Pacific" name="Tokyo 2011" location="Tokyo, Japan" id="7317" start_time="2011-09-25T01:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7280"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-02" surface="Clay" tournament_class_id="283" tournament_class="Napoli Challenger 2" name="Napoli CH 2011" location="" id="7522" start_time="2011-09-26T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7518"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-02" surface="Hard" tournament_class_id="521" tournament_class="Recife Challenger" name="Recife CH 2011" location="" id="7524" start_time="2011-09-26T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7520"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-02" surface="Clay" tournament_class_id="8" tournament_class="Aguascalientes Challenger" name="Aguascalientes CH 2011" location="" id="7525" start_time="2011-09-26T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7521"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-02" surface="Clay" tournament_class_id="531" tournament_class="Madrid Challenger" name="Madrid CH 2011" location="" id="7523" start_time="2011-09-26T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7519"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-10-02" surface="Hard" tournament_class_id="42" tournament_class="Bangkok" name="Bangkok 2011" location="Bangkok, Thailand" id="7370" start_time="2011-09-26T03:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7363"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-10-02" surface="Hard" tournament_class_id="218" tournament_class="Kuala Lumpur" name="Kuala Lumpur 2011" location="Kuala Lumpur, Malaysia" id="7369" start_time="2011-09-26T02:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7362"/>
+  </tournament>
+  <tournament type="ATP World Tour 500 / WTA Premier" end_date="2011-10-09" surface="Hard" tournament_class_id="54" tournament_class="Beijing" name="Beijing 2011" location="Beijing, China" id="7318" start_time="2011-10-01T03:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7281"/>
+    <competition sex="Mens" name="Mens Singles" id="7364"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-09" surface="Hard" tournament_class_id="343" tournament_class="Sacramento Challenger" name="Sacramento CH 2011" location="" id="7526" start_time="2011-10-03T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7522"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-09" surface="Clay" tournament_class_id="310" tournament_class="Palermo Challenger" name="Palermo CH 2011" location="" id="7528" start_time="2011-10-03T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7524"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-09" surface="Hard" tournament_class_id="267" tournament_class="Mons Challenger" name="Mons CH 2011" location="" id="7527" start_time="2011-10-03T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7523"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-10-09" surface="Hard" tournament_class_id="409" tournament_class="Japan Open" name="Tokyo 2011" location="Tokyo, Japan" id="7371" start_time="2011-10-03T02:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7365"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000" end_date="2011-10-16" surface="Hard" tournament_class_id="374" tournament_class="Shanghai Masters" name="Shanghai 2011" location="Shanghai, China" id="7372" start_time="2011-10-09T03:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7366"/>
+    <competition sex="Mens" name="Mens Doubles" id="7367"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-10-16" surface="Hard" tournament_class_id="409" tournament_class="Japan Open" name="Osaka 2011" location="Osaka, Japan" id="7320" start_time="2011-10-10T02:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7283"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-16" surface="Hard" tournament_class_id="330" tournament_class="Rennes Challenger" name="Rennes CH 2011" location="" id="7529" start_time="2011-10-10T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7525"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-10-16" surface="Hard" tournament_class_id="226" tournament_class="Linz" name="Linz 2011" location="LInz, Austria" id="7319" start_time="2011-10-10T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7282"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-16" surface="Hard" tournament_class_id="404" tournament_class="Tiburon Challenger" name="Tiburon CH 2011" location="" id="7530" start_time="2011-10-11T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7526"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-23" surface="Hard" tournament_class_id="305" tournament_class="Orleans Challenger" name="Orleans CH 2011" location="" id="7532" start_time="2011-10-17T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7528"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-23" surface="Hard" tournament_class_id="371" tournament_class="Seoul Challenger" name="Seoul CH 2011" location="" id="7531" start_time="2011-10-17T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7527"/>
+  </tournament>
+  <tournament type="WTA International" end_date="2011-10-23" surface="Hard" tournament_class_id="237" tournament_class="Luxembourg" name="Luxembourg 2011" location="Luxembourg, Luxembourg" id="7322" start_time="2011-10-17T09:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7285"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-23" surface="Clay" tournament_class_id="325" tournament_class="Quito Challenger" name="Quito CH 2011" location="" id="7533" start_time="2011-10-17T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7529"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-10-23" surface="Hard" tournament_class_id="388" tournament_class="Stockholm" name="Stockholm 2011" location="Stockholm, Sweden" id="7373" start_time="2011-10-17T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7368"/>
+  </tournament>
+  <tournament type="ATP World Tour 250 / WTA Premier" end_date="2011-10-23" surface="Hard" tournament_class_id="275" tournament_class="Moscow" name="Moscow 2011" location="Moscow, Russia" id="7321" start_time="2011-10-17T07:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7284"/>
+    <competition sex="Mens" name="Mens Singles" id="7369"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-10-30" surface="Clay" tournament_class_id="532" tournament_class="San Jose do Rio Preto Challenger" name="Sao Jose do Rio Preto CH 2011" location="" id="7534" start_time="2011-10-24T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7530"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-10-30" surface="Hard" tournament_class_id="384" tournament_class="St Petersburg" name="St Petersburg 2011" location="St Petersburg, Russia" id="7376" start_time="2011-10-24T07:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7372"/>
+  </tournament>
+  <tournament type="ATP World Tour 250" end_date="2011-10-30" surface="Hard" tournament_class_id="427" tournament_class="Vienna" name="Vienna 2011" location="Vienna, Austria" id="7375" start_time="2011-10-24T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7371"/>
+  </tournament>
+  <tournament type="Season-Ending Championships" end_date="2011-10-30" surface="Hard" tournament_class_id="452" tournament_class="World Tour Finals (Women)" name="WTA Tour Championships 2011" location="Istanbul, Turkey" id="7323" start_time="2011-10-25T08:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7286"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-11-06" surface="Hard" tournament_class_id="422" tournament_class="Valencia" name="Valencia 2011" location="Valencia, Spain" id="7378" start_time="2011-10-30T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7374"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-06" surface="Carpet" tournament_class_id="161" tournament_class="Eckental Challenger" name="Eckental CH 2011" location="" id="7536" start_time="2011-10-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7532"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-06" surface="Clay" tournament_class_id="533" tournament_class="Sao Leopoldo Challenger" name="Sao Leopoldo CH 2011" location="" id="7537" start_time="2011-10-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7533"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-06" surface="Clay" tournament_class_id="252" tournament_class="Medellin Challenger" name="Medellin CH 2011" location="" id="7538" start_time="2011-10-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7534"/>
+  </tournament>
+  <tournament type="ATP World Tour 500" end_date="2011-11-06" surface="Hard" tournament_class_id="51" tournament_class="Basel" name="Basel 2011" location="Basel, Switzerland" id="7377" start_time="2011-10-31T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7373"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-06" surface="Hard" tournament_class_id="126" tournament_class="Charlottesville Challenger" name="Charlottesville CH 2011" location="" id="7535" start_time="2011-10-31T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7531"/>
+  </tournament>
+  <tournament type="Season-Ending Championships" end_date="2011-11-06" surface="Hard" tournament_class_id="534" tournament_class="WTA International Finals" name="Bali 2011" location="Bali, Indonesia" id="7324" start_time="2011-11-03T03:00:00+00:00">
+    <competition sex="Womens" name="Womens Singles" id="7287"/>
+  </tournament>
+  <tournament type="ATP World Tour Masters 1000" end_date="2011-11-13" surface="Hard" tournament_class_id="312" tournament_class="Paris Masters" name="Paris 2011" location="Paris, France" id="7379" start_time="2011-11-06T09:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7375"/>
+    <competition sex="Mens" name="Mens Doubles" id="7376"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-13" surface="Hard" tournament_class_id="232" tournament_class="Loughborough Challenger" name="Loughborough CH 2011" location="" id="7542" start_time="2011-11-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7538"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-13" surface="Hard" tournament_class_id="176" tournament_class="Geneva Challenger" name="Geneva CH 2011" location="" id="7540" start_time="2011-11-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7536"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-13" surface="Carpet" tournament_class_id="306" tournament_class="Ortisei Challenger" name="Ortisei CH 2011" location="" id="7543" start_time="2011-11-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7539"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-13" surface="Clay" tournament_class_id="103" tournament_class="Buenos Aires Challenger 2" name="Buenos Aires CH 2011" location="" id="7541" start_time="2011-11-07T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7537"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-13" surface="Hard" tournament_class_id="214" tournament_class="Knoxville Challenger" name="Knoxville CH 2011" location="" id="7539" start_time="2011-11-08T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7535"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-19" surface="Hard" tournament_class_id="125" tournament_class="Champaign Challenger" name="Champaign CH 2011" location="" id="7546" start_time="2011-11-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7542"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-20" surface="Clay" tournament_class_id="272" tournament_class="Montevideo Challenger" name="Montevideo CH 2011" location="" id="7545" start_time="2011-11-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7541"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-20" surface="Hard" tournament_class_id="87" tournament_class="Bratislava Challenger" name="Bratislava CH 2011" location="" id="7544" start_time="2011-11-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7540"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-20" surface="Hard" tournament_class_id="346" tournament_class="Salzburg Challenger" name="Salzburg CH 2011" location="" id="7547" start_time="2011-11-14T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7543"/>
+  </tournament>
+  <tournament type="ATP World Tour Finals" end_date="2011-11-27" surface="Hard" tournament_class_id="29" tournament_class="World Tour Finals" name="World Tour Finals London 2011" location="London, UK" id="7380" start_time="2011-11-20T10:00:00+00:00">
+    <competition sex="Mens" name="Mens Doubles" id="7378"/>
+    <competition sex="Mens" name="Mens Singles" id="7377"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-27" surface="Carpet" tournament_class_id="411" tournament_class="Toyota Challenger" name="Toyota CH 2011" location="" id="7657" start_time="2011-11-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7697"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-26" surface="Clay" tournament_class_id="187" tournament_class="Guayaquil Challenger" name="Guayaquil CH 2011" location="" id="7655" start_time="2011-11-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7695"/>
+  </tournament>
+  <tournament type="ATP Challenger" end_date="2011-11-27" surface="Hard" tournament_class_id="191" tournament_class="Helsinki Challenger" name="Helsinki CH 2011" location="" id="7656" start_time="2011-11-21T00:00:00+00:00">
+    <competition sex="Mens" name="Mens Singles" id="7696"/>
+  </tournament>
+</season>

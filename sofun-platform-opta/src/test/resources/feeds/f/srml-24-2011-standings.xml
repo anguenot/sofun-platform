@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20111025T171013,103Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="STANDINGS Latest" competition_code="FR_L1" competition_id="24" competition_name="French Ligue 1" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2011-10-25 18-10-13">
+    <Competition>
+      <TeamStandings Matchday="11">
+        <TeamRecord TeamRef="t149">
+          <Standing Type="Full">
+            <Against>8</Against>
+            <AwayAgainst>5</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>12</AwayFor>
+            <AwayLost>0</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>11</AwayPoints>
+            <AwayPosition>2</AwayPosition>
+            <AwayWon>3</AwayWon>
+            <Drawn>2</Drawn>
+            <For>21</For>
+            <HomeAgainst>3</HomeAgainst>
+            <HomeDrawn>0</HomeDrawn>
+            <HomeFor>9</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>15</HomePoints>
+            <HomePosition>1</HomePosition>
+            <HomeWon>5</HomeWon>
+            <Lost>1</Lost>
+            <Played>11</Played>
+            <Points>26</Points>
+            <Position>1</Position>
+            <StartDayPosition>1</StartDayPosition>
+            <Won>8</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t147">
+          <Standing Type="Full">
+            <Against>15</Against>
+            <AwayAgainst>8</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>12</AwayFor>
+            <AwayLost>1</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>11</AwayPoints>
+            <AwayPosition>4</AwayPosition>
+            <AwayWon>3</AwayWon>
+            <Drawn>2</Drawn>
+            <For>25</For>
+            <HomeAgainst>7</HomeAgainst>
+            <HomeDrawn>0</HomeDrawn>
+            <HomeFor>13</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>12</HomePoints>
+            <HomePosition>3</HomePosition>
+            <HomeWon>4</HomeWon>
+            <Lost>2</Lost>
+            <Played>11</Played>
+            <Points>23</Points>
+            <Position>2</Position>
+            <StartDayPosition>2</StartDayPosition>
+            <Won>7</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t429">
+          <Standing Type="Full">
+            <Against>12</Against>
+            <AwayAgainst>5</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>10</AwayFor>
+            <AwayLost>0</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>11</AwayPoints>
+            <AwayPosition>3</AwayPosition>
+            <AwayWon>3</AwayWon>
+            <Drawn>4</Drawn>
+            <For>21</For>
+            <HomeAgainst>7</HomeAgainst>
+            <HomeDrawn>2</HomeDrawn>
+            <HomeFor>11</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>11</HomePoints>
+            <HomePosition>5</HomePosition>
+            <HomeWon>3</HomeWon>
+            <Lost>1</Lost>
+            <Played>11</Played>
+            <Points>22</Points>
+            <Position>3</Position>
+            <StartDayPosition>4</StartDayPosition>
+            <Won>6</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t150">
+          <Standing Type="Full">
+            <Against>14</Against>
+            <AwayAgainst>9</AwayAgainst>
+            <AwayDrawn>0</AwayDrawn>
+            <AwayFor>13</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>12</AwayPoints>
+            <AwayPosition>1</AwayPosition>
+            <AwayWon>4</AwayWon>
+            <Drawn>3</Drawn>
+            <For>21</For>
+            <HomeAgainst>5</HomeAgainst>
+            <HomeDrawn>3</HomeDrawn>
+            <HomeFor>8</HomeFor>
+            <HomeLost>0</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>9</HomePoints>
+            <HomePosition>8</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>2</Lost>
+            <Played>11</Played>
+            <Points>21</Points>
+            <Position>4</Position>
+            <StartDayPosition>5</StartDayPosition>
+            <Won>6</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t143">
+          <Standing Type="Full">
+            <Against>13</Against>
+            <AwayAgainst>9</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>7</AwayFor>
+            <AwayLost>3</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>7</AwayPoints>
+            <AwayPosition>8</AwayPosition>
+            <AwayWon>2</AwayWon>
+            <Drawn>2</Drawn>
+            <For>18</For>
+            <HomeAgainst>4</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>11</HomeFor>
+            <HomeLost>0</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>13</HomePoints>
+            <HomePosition>2</HomePosition>
+            <HomeWon>4</HomeWon>
+            <Lost>3</Lost>
+            <Played>11</Played>
+            <Points>20</Points>
+            <Position>5</Position>
+            <StartDayPosition>3</StartDayPosition>
+            <Won>6</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t427">
+          <Standing Type="Full">
+            <Against>10</Against>
+            <AwayAgainst>5</AwayAgainst>
+            <AwayDrawn>3</AwayDrawn>
+            <AwayFor>5</AwayFor>
+            <AwayLost>1</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>9</AwayPoints>
+            <AwayPosition>5</AwayPosition>
+            <AwayWon>2</AwayWon>
+            <Drawn>4</Drawn>
+            <For>12</For>
+            <HomeAgainst>5</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>7</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>10</HomePoints>
+            <HomePosition>6</HomePosition>
+            <HomeWon>3</HomeWon>
+            <Lost>2</Lost>
+            <Played>11</Played>
+            <Points>19</Points>
+            <Position>6</Position>
+            <StartDayPosition>6</StartDayPosition>
+            <Won>5</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t694">
+          <Standing Type="Full">
+            <Against>9</Against>
+            <AwayAgainst>6</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>3</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>5</AwayPoints>
+            <AwayPosition>10</AwayPosition>
+            <AwayWon>1</AwayWon>
+            <Drawn>5</Drawn>
+            <For>12</For>
+            <HomeAgainst>3</HomeAgainst>
+            <HomeDrawn>3</HomeDrawn>
+            <HomeFor>9</HomeFor>
+            <HomeLost>0</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>12</HomePoints>
+            <HomePosition>4</HomePosition>
+            <HomeWon>3</HomeWon>
+            <Lost>2</Lost>
+            <Played>11</Played>
+            <Points>17</Points>
+            <Position>7</Position>
+            <StartDayPosition>7</StartDayPosition>
+            <Won>4</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t152">
+          <Standing Type="Full">
+            <Against>13</Against>
+            <AwayAgainst>8</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>6</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>8</AwayPoints>
+            <AwayPosition>7</AwayPosition>
+            <AwayWon>2</AwayWon>
+            <Drawn>4</Drawn>
+            <For>11</For>
+            <HomeAgainst>5</HomeAgainst>
+            <HomeDrawn>2</HomeDrawn>
+            <HomeFor>5</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>8</HomePoints>
+            <HomePosition>12</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>3</Lost>
+            <Played>11</Played>
+            <Points>16</Points>
+            <Position>8</Position>
+            <StartDayPosition>9</StartDayPosition>
+            <Won>4</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t1028">
+          <Standing Type="Full">
+            <Against>15</Against>
+            <AwayAgainst>8</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>10</AwayFor>
+            <AwayLost>1</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>8</AwayPoints>
+            <AwayPosition>6</AwayPosition>
+            <AwayWon>2</AwayWon>
+            <Drawn>3</Drawn>
+            <For>15</For>
+            <HomeAgainst>7</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>5</HomeFor>
+            <HomeLost>3</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>7</HomePoints>
+            <HomePosition>16</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>4</Lost>
+            <Played>11</Played>
+            <Points>15</Points>
+            <Position>9</Position>
+            <StartDayPosition>8</StartDayPosition>
+            <Won>4</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t693">
+          <Standing Type="Full">
+            <Against>23</Against>
+            <AwayAgainst>12</AwayAgainst>
+            <AwayDrawn>2</AwayDrawn>
+            <AwayFor>7</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>5</AwayPoints>
+            <AwayPosition>11</AwayPosition>
+            <AwayWon>1</AwayWon>
+            <Drawn>4</Drawn>
+            <For>17</For>
+            <HomeAgainst>11</HomeAgainst>
+            <HomeDrawn>2</HomeDrawn>
+            <HomeFor>10</HomeFor>
+            <HomeLost>2</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>8</HomePoints>
+            <HomePosition>13</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>4</Lost>
+            <Played>11</Played>
+            <Points>13</Points>
+            <Position>10</Position>
+            <StartDayPosition>11</StartDayPosition>
+            <Won>3</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t138">
+          <Standing Type="Full">
+            <Against>15</Against>
+            <AwayAgainst>6</AwayAgainst>
+            <AwayDrawn>4</AwayDrawn>
+            <AwayFor>4</AwayFor>
+            <AwayLost>1</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>4</AwayPoints>
+            <AwayPosition>12</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>6</Drawn>
+            <For>16</For>
+            <HomeAgainst>9</HomeAgainst>
+            <HomeDrawn>2</HomeDrawn>
+            <HomeFor>12</HomeFor>
+            <HomeLost>2</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>8</HomePoints>
+            <HomePosition>11</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>3</Lost>
+            <Played>11</Played>
+            <Points>12</Points>
+            <Position>11</Position>
+            <StartDayPosition>10</StartDayPosition>
+            <Won>2</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t144">
+          <Standing Type="Full">
+            <Against>12</Against>
+            <AwayAgainst>8</AwayAgainst>
+            <AwayDrawn>3</AwayDrawn>
+            <AwayFor>5</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>3</AwayPoints>
+            <AwayPosition>16</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>6</Drawn>
+            <For>12</For>
+            <HomeAgainst>4</HomeAgainst>
+            <HomeDrawn>3</HomeDrawn>
+            <HomeFor>7</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>9</HomePoints>
+            <HomePosition>9</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>3</Lost>
+            <Played>11</Played>
+            <Points>12</Points>
+            <Position>12</Position>
+            <StartDayPosition>15</StartDayPosition>
+            <Won>2</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t2130">
+          <Standing Type="Full">
+            <Against>22</Against>
+            <AwayAgainst>14</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>5</AwayFor>
+            <AwayLost>4</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>4</AwayPoints>
+            <AwayPosition>15</AwayPosition>
+            <AwayWon>1</AwayWon>
+            <Drawn>2</Drawn>
+            <For>11</For>
+            <HomeAgainst>8</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>6</HomeFor>
+            <HomeLost>2</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>7</HomePoints>
+            <HomePosition>15</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>6</Lost>
+            <Played>11</Played>
+            <Points>11</Points>
+            <Position>13</Position>
+            <StartDayPosition>12</StartDayPosition>
+            <Won>3</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t1395">
+          <Standing Type="Full">
+            <Against>11</Against>
+            <AwayAgainst>6</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>2</AwayFor>
+            <AwayLost>4</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>1</AwayPoints>
+            <AwayPosition>18</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>4</Drawn>
+            <For>11</For>
+            <HomeAgainst>5</HomeAgainst>
+            <HomeDrawn>3</HomeDrawn>
+            <HomeFor>9</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>9</HomePoints>
+            <HomePosition>7</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>5</Lost>
+            <Played>11</Played>
+            <Points>10</Points>
+            <Position>14</Position>
+            <StartDayPosition>13</StartDayPosition>
+            <Won>2</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t1996">
+          <Standing Type="Full">
+            <Against>13</Against>
+            <AwayAgainst>10</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>3</AwayFor>
+            <AwayLost>5</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>1</AwayPoints>
+            <AwayPosition>20</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>3</Drawn>
+            <For>12</For>
+            <HomeAgainst>3</HomeAgainst>
+            <HomeDrawn>2</HomeDrawn>
+            <HomeFor>9</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>8</HomePoints>
+            <HomePosition>10</HomePosition>
+            <HomeWon>2</HomeWon>
+            <Lost>6</Lost>
+            <Played>11</Played>
+            <Points>9</Points>
+            <Position>15</Position>
+            <StartDayPosition>14</StartDayPosition>
+            <Won>2</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t862">
+          <Standing Type="Full">
+            <Against>11</Against>
+            <AwayAgainst>4</AwayAgainst>
+            <AwayDrawn>4</AwayDrawn>
+            <AwayFor>2</AwayFor>
+            <AwayLost>2</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>4</AwayPoints>
+            <AwayPosition>13</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>9</Drawn>
+            <For>9</For>
+            <HomeAgainst>7</HomeAgainst>
+            <HomeDrawn>5</HomeDrawn>
+            <HomeFor>7</HomeFor>
+            <HomeLost>0</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>5</HomePoints>
+            <HomePosition>17</HomePosition>
+            <HomeWon>0</HomeWon>
+            <Lost>2</Lost>
+            <Played>11</Played>
+            <Points>9</Points>
+            <Position>16</Position>
+            <StartDayPosition>16</StartDayPosition>
+            <Won>0</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t5447">
+          <Standing Type="Full">
+            <Against>16</Against>
+            <AwayAgainst>7</AwayAgainst>
+            <AwayDrawn>5</AwayDrawn>
+            <AwayFor>5</AwayFor>
+            <AwayLost>1</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>5</AwayPoints>
+            <AwayPosition>9</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>6</Drawn>
+            <For>11</For>
+            <HomeAgainst>9</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>6</HomeFor>
+            <HomeLost>3</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>4</HomePoints>
+            <HomePosition>19</HomePosition>
+            <HomeWon>1</HomeWon>
+            <Lost>4</Lost>
+            <Played>11</Played>
+            <Points>9</Points>
+            <Position>17</Position>
+            <StartDayPosition>17</StartDayPosition>
+            <Won>1</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t140">
+          <Standing Type="Full">
+            <Against>18</Against>
+            <AwayAgainst>11</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>6</AwayFor>
+            <AwayLost>3</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>4</AwayPoints>
+            <AwayPosition>14</AwayPosition>
+            <AwayWon>1</AwayWon>
+            <Drawn>6</Drawn>
+            <For>12</For>
+            <HomeAgainst>7</HomeAgainst>
+            <HomeDrawn>5</HomeDrawn>
+            <HomeFor>6</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>5</HomePoints>
+            <HomePosition>18</HomePosition>
+            <HomeWon>0</HomeWon>
+            <Lost>4</Lost>
+            <Played>11</Played>
+            <Points>9</Points>
+            <Position>18</Position>
+            <StartDayPosition>18</StartDayPosition>
+            <Won>1</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t148">
+          <Standing Type="Full">
+            <Against>13</Against>
+            <AwayAgainst>8</AwayAgainst>
+            <AwayDrawn>1</AwayDrawn>
+            <AwayFor>3</AwayFor>
+            <AwayLost>4</AwayLost>
+            <AwayPlayed>5</AwayPlayed>
+            <AwayPoints>1</AwayPoints>
+            <AwayPosition>19</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>5</Drawn>
+            <For>8</For>
+            <HomeAgainst>5</HomeAgainst>
+            <HomeDrawn>4</HomeDrawn>
+            <HomeFor>5</HomeFor>
+            <HomeLost>1</HomeLost>
+            <HomePlayed>6</HomePlayed>
+            <HomePoints>7</HomePoints>
+            <HomePosition>14</HomePosition>
+            <HomeWon>1</HomeWon>
+            <Lost>5</Lost>
+            <Played>11</Played>
+            <Points>8</Points>
+            <Position>19</Position>
+            <StartDayPosition>20</StartDayPosition>
+            <Won>1</Won>
+          </Standing>
+        </TeamRecord>
+        <TeamRecord TeamRef="t1163">
+          <Standing Type="Full">
+            <Against>22</Against>
+            <AwayAgainst>12</AwayAgainst>
+            <AwayDrawn>3</AwayDrawn>
+            <AwayFor>4</AwayFor>
+            <AwayLost>3</AwayLost>
+            <AwayPlayed>6</AwayPlayed>
+            <AwayPoints>3</AwayPoints>
+            <AwayPosition>17</AwayPosition>
+            <AwayWon>0</AwayWon>
+            <Drawn>4</Drawn>
+            <For>10</For>
+            <HomeAgainst>10</HomeAgainst>
+            <HomeDrawn>1</HomeDrawn>
+            <HomeFor>6</HomeFor>
+            <HomeLost>3</HomeLost>
+            <HomePlayed>5</HomePlayed>
+            <HomePoints>4</HomePoints>
+            <HomePosition>20</HomePosition>
+            <HomeWon>1</HomeWon>
+            <Lost>6</Lost>
+            <Played>11</Played>
+            <Points>7</Points>
+            <Position>20</Position>
+            <StartDayPosition>19</StartDayPosition>
+            <Won>1</Won>
+          </Standing>
+        </TeamRecord>
+      </TeamStandings>
+    </Competition>
+    <Qualification>
+      <Type qualify="Europa_Cup">
+        <Team method="League_Position" team_id="150" team_name="Rennes">PO</Team>
+        <Team method="League_Position" team_id="143" team_name="Lyon">PO</Team>
+        <Team method="League_Position" team_id="427" team_name="Toulouse">Q3</Team>
+      </Type>
+      <Type qualify="Champions_League">
+        <Team method="League_Winners" team_id="149" team_name="Paris Saint Germain">Group</Team>
+        <Team method="League_Position" team_id="147" team_name="Montpellier">Group</Team>
+      </Type>
+      <Type qualify="Champions_League_Qualifying">
+        <Team method="League_Position" team_id="429" team_name="Lille">PO</Team>
+      </Type>
+    </Qualification>
+    <Team uID="t149">
+      <Name>Paris Saint Germain</Name>
+    </Team>
+    <Team uID="t147">
+      <Name>Montpellier</Name>
+    </Team>
+    <Team uID="t429">
+      <Name>Lille</Name>
+    </Team>
+    <Team uID="t150">
+      <Name>Rennes</Name>
+    </Team>
+    <Team uID="t143">
+      <Name>Lyon</Name>
+    </Team>
+    <Team uID="t427">
+      <Name>Toulouse</Name>
+    </Team>
+    <Team uID="t694">
+      <Name>Lorient</Name>
+    </Team>
+    <Team uID="t152">
+      <Name>St Etienne</Name>
+    </Team>
+    <Team uID="t1028">
+      <Name>Caen</Name>
+    </Team>
+    <Team uID="t693">
+      <Name>Sochaux</Name>
+    </Team>
+    <Team uID="t138">
+      <Name>Auxerre</Name>
+    </Team>
+    <Team uID="t144">
+      <Name>Marseille</Name>
+    </Team>
+    <Team uID="t2130">
+      <Name>Dijon</Name>
+    </Team>
+    <Team uID="t1395">
+      <Name>Nice</Name>
+    </Team>
+    <Team uID="t1996">
+      <Name>Valenciennes</Name>
+    </Team>
+    <Team uID="t862">
+      <Name>Brest</Name>
+    </Team>
+    <Team uID="t5447">
+      <Name>Evian Thonon Gaillard</Name>
+    </Team>
+    <Team uID="t140">
+      <Name>Bordeaux</Name>
+    </Team>
+    <Team uID="t148">
+      <Name>Nancy</Name>
+    </Team>
+    <Team uID="t1163">
+      <Name>Ajaccio</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

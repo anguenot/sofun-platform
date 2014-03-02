@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><block>
+	<param>
+		<param name="timestamp" value="20120223045500"/>
+		<param name="event" value="F1"/>
+		<param name="championship" value="constructors"/>
+	</param>
+	<standings>
+		<pos>1</pos>
+		<tid>3</tid>
+		<team>Red Bull Racing</team>
+		<team_carbike>Red Bull RB8</team_carbike>
+		<team_engine>Renault RS27-2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>11</pos>
+		<tid>2</tid>
+		<team>Mercedes AMG Petronas F1 Team</team>
+		<team_carbike>Mercedes-Benz F1 WO3</team_carbike>
+		<team_engine>Mercedes FO108X</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>10</pos>
+		<tid>6</tid>
+		<team>Lotus F1 Team</team>
+		<team_carbike>Lotus E20</team_carbike>
+		<team_engine>Renault RS27-2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>9</pos>
+		<tid>7</tid>
+		<team>Sahara Force India F1 Team</team>
+		<team_carbike>Force India VJM05</team_carbike>
+		<team_engine>Mercedes FO108Z</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>8</pos>
+		<tid>5</tid>
+		<team>Williams F1 Team</team>
+		<team_carbike>Williams FW34</team_carbike>
+		<team_engine>Renault RS27-2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>7</pos>
+		<tid>12</tid>
+		<team>Marussia F1 Team</team>
+		<team_carbike>Marussia MR01</team_carbike>
+		<team_engine>Cosworth CA2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>6</pos>
+		<tid>10</tid>
+		<team>HRT F1 Team</team>
+		<team_carbike>HRT F112</team_carbike>
+		<team_engine>Cosworth CA2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>5</pos>
+		<tid>8</tid>
+		<team>Scuderia Toro Rosso</team>
+		<team_carbike>Toro Rosso STR7</team_carbike>
+		<team_engine>Ferrari 056</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>4</pos>
+		<tid>11</tid>
+		<team>Sauber F1 Team</team>
+		<team_carbike>Sauber C31</team_carbike>
+		<team_engine>Ferrari 056</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>3</pos>
+		<tid>4</tid>
+		<team>Scuderia Ferrari</team>
+		<team_carbike>Ferrari F2012</team_carbike>
+		<team_engine>Ferrari 056</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>2</pos>
+		<tid>1</tid>
+		<team>Vodafone McLaren Mercedes</team>
+		<team_carbike>McLaren MP4-27</team_carbike>
+		<team_engine>Mercedes FO108X</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+	<standings>
+		<pos>12</pos>
+		<tid>9</tid>
+		<team>Caterham F1 Team</team>
+		<team_carbike>Caterham CT01</team_carbike>
+		<team_engine>Renault RS27-2012</team_engine>
+		<points>0</points>
+		<victories>0</victories>
+	</standings>
+</block>

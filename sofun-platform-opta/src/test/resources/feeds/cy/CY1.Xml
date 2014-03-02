@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Calendario>
+         <DG ID="90002" DES="Tour de Francia" TIP="7" DEP="9" Fase="00" ULT="01" DSIG="" JSIG="00" FSIG="00" PETA="1,2,3,5,4" PGRAL="101,102,103,105,104,106" FN="CNC_90002.Xml" FG="CNC_90002.Xml" NFAS="0" NJOR="21" NGRU="0" TEQU="1" DIV="1" TS="20120629115332" WIDSEASON="-1" WIDCOMP="-1" IDUNICO="7100" TEMP="2012"></DG>
+         <Fase ID="00">
+                   <Jor ID="00" FEC="30.06.2012" PAR="1">
+                                       <Par ID="1" PRB="S" CL="0000" CV="0000" EL="Liège - Liège (crono 6,4 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="30-06-2012" HOR="1400" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="30-06" DS="6" GD="1" CP="POB_90002_00" GF="0" TUTC="2012-06-30T12:00:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="01" FEC="01.07.2012" PAR="1">
+                                       <Par ID="2" PRB="S" CL="0000" CV="0000" EL="Liège - Seraing (198 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="01-07-2012" HOR="1205" CES="0" ARB="" EST="Montaña con llegada en alto" NAR="0" NES="7" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="01-07" DS="7" GD="1" CP="POB_90002_01" GF="0" TUTC="2012-07-01T10:05:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="02" FEC="02.07.2012" PAR="1">
+                                       <Par ID="3" PRB="S" CL="0000" CV="0000" EL="Visé - Tournai (207 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="02-07-2012" HOR="1235" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="02-07" DS="1" GD="1" CP="POB_90002_02" GF="0" TUTC="2012-07-02T10:35:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="03" FEC="03.07.2012" PAR="1">
+                                       <Par ID="11" PRB="S" CL="0000" CV="0000" EL="Orchies - Boulogne sur Mer  (197 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="03-07-2012" HOR="1230" CES="0" ARB="" EST="Montaña con llegada en alto" NAR="0" NES="7" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="03-07" DS="2" GD="1" CP="POB_90002_03" GF="0" TUTC="2012-07-03T10:30:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="04" FEC="04.07.2012" PAR="1">
+                                       <Par ID="4" PRB="S" CL="0000" CV="0000" EL="Abbeville - Rouen (214 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="04-07-2012" HOR="1210" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="04-07" DS="3" GD="1" CP="POB_90002_04" GF="0" TUTC="2012-07-04T10:10:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="05" FEC="05.07.2012" PAR="1">
+                                       <Par ID="5" PRB="S" CL="0000" CV="0000" EL="Rouen - Saint Quentin (196 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="05-07-2012" HOR="1230" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="05-07" DS="4" GD="1" CP="POB_90002_05" GF="0" TUTC="2012-07-05T10:30:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="06" FEC="06.07.2012" PAR="1">
+                                       <Par ID="6" PRB="S" CL="0000" CV="0000" EL="Épernay - Metz (207 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="06-07-2012" HOR="1215" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="06-07" DS="5" GD="1" CP="POB_90002_06" GF="0" TUTC="2012-07-06T10:15:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="07" FEC="07.07.2012" PAR="1">
+                                       <Par ID="7" PRB="S" CL="0000" CV="0000" EL="Tomblaine - Planche des Belles Filles (199 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="07-07-2012" HOR="1210" CES="0" ARB="" EST="Montaña con llegada en alto" NAR="0" NES="7" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="07-07" DS="6" GD="1" CP="POB_90002_07" GF="0" TUTC="2012-07-07T10:10:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="08" FEC="08.07.2012" PAR="1">
+                                       <Par ID="8" PRB="S" CL="0000" CV="0000" EL="Belfort - Porrentruy (157 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="08-07-2012" HOR="1300" CES="0" ARB="" EST="Mixta" NAR="0" NES="5" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="08-07" DS="7" GD="1" CP="POB_90002_08" GF="0" TUTC="2012-07-08T11:00:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="09" FEC="09.07.2012" PAR="1">
+                                       <Par ID="9" PRB="S" CL="0000" CV="0000" EL="Arc et Senans - Besançon (crono 41 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="09-07-2012" HOR="0945" CES="0" ARB="" EST="Crono Individual" NAR="0" NES="1" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="09-07" DS="1" GD="1" CP="POB_90002_09" GF="0" TUTC="2012-07-09T07:45:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="10" FEC="11.07.2012" PAR="1">
+                                       <Par ID="10" PRB="S" CL="0000" CV="0000" EL="Mâcon - Bellegarde sur Valserine (194 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="11-07-2012" HOR="1225" CES="0" ARB="" EST="Montaña" NAR="0" NES="6" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="11-07" DS="3" GD="1" CP="POB_90002_10" GF="0" TUTC="2012-07-11T10:25:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="11" FEC="12.07.2012" PAR="1">
+                                       <Par ID="12" PRB="S" CL="0000" CV="0000" EL="Albertville - La Toussuire Les Sybelles (148 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="12-07-2012" HOR="1305" CES="0" ARB="" EST="Montaña con llegada en alto" NAR="0" NES="7" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="12-07" DS="4" GD="1" CP="POB_90002_11" GF="0" TUTC="2012-07-12T11:05:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="12" FEC="13.07.2012" PAR="1">
+                                       <Par ID="13" PRB="S" CL="0000" CV="0000" EL="Saint Jean de Maurienne - Annonay Davézieux (226 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="13-07-2012" HOR="1100" CES="0" ARB="" EST="Mixta" NAR="0" NES="5" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="13-07" DS="5" GD="1" CP="POB_90002_12" GF="0" TUTC="2012-07-13T09:00:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="13" FEC="14.07.2012" PAR="1">
+                                       <Par ID="14" PRB="S" CL="0000" CV="0000" EL="Saint Paul Trois Chateaux - Le Cap d´Agde (217 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="14-07-2012" HOR="1145" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="14-07" DS="6" GD="1" CP="POB_90002_13" GF="0" TUTC="2012-07-14T09:45:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="14" FEC="15.07.2012" PAR="1">
+                                       <Par ID="20" PRB="S" CL="0000" CV="0000" EL="Limoux - Foix (191 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="15-07-2012" HOR="1220" CES="0" ARB="" EST="Montaña" NAR="0" NES="6" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="15-07" DS="7" GD="1" CP="POB_90002_14" GF="0" TUTC="2012-07-15T10:20:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="15" FEC="16.07.2012" PAR="1">
+                                       <Par ID="15" PRB="S" CL="0000" CV="0000" EL="Samatan - Pau (158 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="16-07-2012" HOR="1340" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="16-07" DS="1" GD="1" CP="POB_90002_15" GF="0" TUTC="2012-07-16T11:40:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="16" FEC="18.07.2012" PAR="1">
+                                       <Par ID="16" PRB="S" CL="0000" CV="0000" EL="Pau - Bagnères de Luchon (197 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="18-07-2012" HOR="1105" CES="0" ARB="" EST="Montaña" NAR="0" NES="6" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="18-07" DS="3" GD="1" CP="POB_90002_16" GF="0" TUTC="2012-07-18T09:05:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="17" FEC="19.07.2012" PAR="1">
+                                       <Par ID="17" PRB="S" CL="0000" CV="0000" EL="Bagnères de Luchon - Peyragudes (143 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="19-07-2012" HOR="1255" CES="0" ARB="" EST="Montaña con llegada en alto" NAR="0" NES="7" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="19-07" DS="4" GD="1" CP="POB_90002_17" GF="0" TUTC="2012-07-19T10:55:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="18" FEC="20.07.2012" PAR="1">
+                                       <Par ID="18" PRB="S" CL="0000" CV="0000" EL="Blagnac - Brive la Gaillarde (222 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="20-07-2012" HOR="1105" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="20-07" DS="5" GD="1" CP="POB_90002_18" GF="0" TUTC="2012-07-20T09:05:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="19" FEC="21.07.2012" PAR="1">
+                                       <Par ID="19" PRB="S" CL="0000" CV="0000" EL="Bonneval - Chartres (crono 53 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="21-07-2012" HOR="1035" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="21-07" DS="6" GD="1" CP="POB_90002_19" GF="0" TUTC="2012-07-21T08:35:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+                   <Jor ID="20" FEC="22.07.2012" PAR="1">
+                                       <Par ID="21" PRB="S" CL="0000" CV="0000" EL="Rambouillet - París Champs-Élysées (120 Km)" EV="" GL="0" GV="0" PL="0" PV="0" FEC="22-07-2012" HOR="1400" CES="0" ARB="" EST="Llana" NAR="0" NES="4" CONP="" CON3="" CON4="" TV="Ninguna" CTV="0" PTO1="#" PTO2="#" PTO3="#" OR="0" CORL="0" CORV="0" ARB1="" NAR1="0" ARB2="" NAR2="0" ARB3="" NAR3="0" PAISL="" PAISV="" DM="22-07" DS="7" GD="1" CP="POB_90002_20" GF="0" TUTC="2012-07-22T12:00:00" DTL="2" CTVS="0" NBP="" WIDPAR="-1" >
+                                       </Par>
+                   </Jor>
+         </Fase>
+</Calendario>

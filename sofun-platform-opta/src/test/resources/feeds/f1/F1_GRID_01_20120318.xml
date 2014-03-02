@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- opta --><block><param>
+<param name="timestamp" value="20120317120701"/>
+<param name="event" value="F1"/>
+<param name="gpno" value="1"/>
+<param name="session" value="GRID"/>
+<param name="date" value="18.03.12"/>
+<param name="start" value="17:00"/>
+<param name="end" value="19:00"/>
+<param name="utc" value="11"/>
+<param name="iso_country" value="AUS"/>
+<param name="country" value="Australia"/>
+<param name="racetrack" value="Melbourne"/>
+<param name="track_length" value="5.303 KM"/>
+<param name="laps" value="58"/>
+<param name="race_distance" value="307.574 KM"/>
+<param name="track_status" value="NOTSTARTED"/>
+<param name="lang" value="ENG"/>
+</param></block>

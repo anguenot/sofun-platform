@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: sofun-jboss-beans.xml 1936 2011-08-08 17:05:47Z anguenot $ -->
+<deployment xmlns="urn:jboss:bean-deployer:2.0">
+
+	<application-policy xmlns="urn:jboss:security-beans:1.0" name="sofun-jaas">
+		<authentication>
+			<login-module code="org.sofun.core.api.security.SofunLoginModule" flag="required">
+				<!--  module-option name="restore-login-identity">true</module-option -->
+				<module-option name="unauthenticatedIdentity">Anonymous</module-option>
+			</login-module>
+		</authentication>
+	</application-policy>
+
+	<application-policy xmlns="urn:jboss:security-beans:1.0" name="JmsXARealm">
+		<authentication>
+			<login-module code="org.jboss.resource.security.ConfiguredIdentityLoginModule" flag="required">
+				<module-option name="principal">admin@sofungaming.com</module-option>
+				<module-option name="userName">admin@sofungaming.com</module-option>
+				<module-option name="password">cAFE%aqua*95</module-option>
+				<module-option name="managedConnectionFactoryName">jboss.jca:service=TxCM,name=JmsXA</module-option>
+			</login-module>
+		</authentication>
+	</application-policy>
+
+</deployment>

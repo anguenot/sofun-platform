@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20111109T090148,164Z
+     production module:  Opta::Feed::XML::Soccer::TournamentSRML
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EU_CL" competition_id="5" competition_name="Champions League" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2011-11-09 09-01-48">
+    <MatchData uID="g382441">
+      <MatchInfo GroupName="F" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p57214" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p81880" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t202">
+        <Goal Period="FirstHalf" PlayerRef="p20121" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382486">
+      <MatchInfo GroupName="D" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t143" />
+      <TeamData Score="0" Side="Away" TeamRef="t215" />
+    </MatchData>
+    <MatchData uID="g382483">
+      <MatchInfo GroupName="C" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="7739">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul National, Bucharest</Stat>
+      <Stat Type="City">Bucharest</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2751" />
+      <TeamData Score="0" Side="Away" TeamRef="t481" />
+    </MatchData>
+    <MatchData uID="g382457">
+      <MatchInfo GroupName="F" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="1" Side="Away" TeamRef="t3">
+        <Goal Period="SecondHalf" PlayerRef="p41792" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382472">
+      <MatchInfo GroupName="A" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1366">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">El Madrigal</Stat>
+      <Stat Type="City">Castellón</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t449" />
+      <TeamData Score="3" Side="Away" TeamRef="t43">
+        <Goal Period="FirstHalf" PlayerRef="p42493" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p14664" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14664" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382493">
+      <MatchInfo GroupName="H" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t120" />
+      <TeamData Score="0" Side="Away" TeamRef="t178" />
+    </MatchData>
+    <MatchData uID="g382489">
+      <MatchInfo GroupName="F" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t144" />
+      <TeamData Score="0" Side="Away" TeamRef="t202" />
+    </MatchData>
+    <MatchData uID="g382506">
+      <MatchInfo GroupName="B" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="0" Side="Away" TeamRef="t1340" />
+    </MatchData>
+    <MatchData uID="g382440">
+      <MatchInfo GroupName="E" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1368">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">BayArena</Stat>
+      <Stat Type="City">Leverkusen</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t164">
+        <Goal Period="FirstHalf" PlayerRef="p38117" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p4113" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t414" />
+    </MatchData>
+    <MatchData uID="g382502">
+      <MatchInfo GroupName="H" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3876">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Synot Tip Arena</Stat>
+      <Stat Type="City">Prague</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2703" />
+      <TeamData Score="0" Side="Away" TeamRef="t120" />
+    </MatchData>
+    <MatchData uID="g382499">
+      <MatchInfo GroupName="G" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2710">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Dragao</Stat>
+      <Stat Type="City">Porto</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t201" />
+      <TeamData Score="0" Side="Away" TeamRef="t1341" />
+    </MatchData>
+    <MatchData uID="g382474">
+      <MatchInfo GroupName="B" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t127">
+        <Goal Period="SecondHalf" PlayerRef="p26746" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p7441" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p37783" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382487">
+      <MatchInfo GroupName="E" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1368">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">BayArena</Stat>
+      <Stat Type="City">Leverkusen</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t164" />
+      <TeamData Score="0" Side="Away" TeamRef="t8" />
+    </MatchData>
+    <MatchData uID="g382510">
+      <MatchInfo GroupName="D" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t215" />
+      <TeamData Score="0" Side="Away" TeamRef="t186" />
+    </MatchData>
+    <MatchData uID="g382509">
+      <MatchInfo GroupName="D" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3038">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Maksimir</Stat>
+      <Stat Type="City">Zagreb</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t394" />
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g382445">
+      <MatchInfo GroupName="H" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3581">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Horodskiy Stadium</Stat>
+      <Stat Type="City">Minsk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2155" />
+      <TeamData Score="5" Side="Away" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p56359" Type="Own" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382444">
+      <MatchInfo GroupName="G" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t455">
+        <Goal Period="SecondHalf" PlayerRef="p27793" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t479">
+        <Goal Period="SecondHalf" PlayerRef="p48545" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382436">
+      <MatchInfo GroupName="C" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7739">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul National, Bucharest</Stat>
+      <Stat Type="City">Bucharest</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2751" />
+      <TeamData Score="1" Side="Away" TeamRef="t251">
+        <Goal Period="FirstHalf" PlayerRef="p61573" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382485">
+      <MatchInfo GroupName="D" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t186" />
+      <TeamData Score="0" Side="Away" TeamRef="t394" />
+    </MatchData>
+    <MatchData uID="g382501">
+      <MatchInfo GroupName="H" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t178" />
+      <TeamData Score="0" Side="Away" TeamRef="t2155" />
+    </MatchData>
+    <MatchData uID="g382471">
+      <MatchInfo GroupName="A" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t459">
+        <Goal Period="SecondHalf" PlayerRef="p57145" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p57145" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382465">
+      <MatchInfo GroupName="F" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t3" />
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g382432">
+      <MatchInfo GroupName="A" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1339">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t459">
+        <Goal Period="FirstHalf" PlayerRef="p40720" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p19802" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t449" />
+    </MatchData>
+    <MatchData uID="g382435">
+      <MatchInfo GroupName="C" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p50175" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p50175" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18892" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t481">
+        <Goal Period="SecondHalf" PlayerRef="p15738" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15738" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p43573" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382478">
+      <MatchInfo GroupName="D" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t215">
+        <Goal Period="SecondHalf" PlayerRef="p48773" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p77992" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40649" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40798" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t394" />
+    </MatchData>
+    <MatchData uID="g382426">
+      <MatchInfo GroupName="B" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t127" />
+      <TeamData Score="1" Side="Away" TeamRef="t383">
+        <Goal Period="SecondHalf" PlayerRef="p51955" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382464">
+      <MatchInfo GroupName="E" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3341">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Cristal Arena</Stat>
+      <Stat Type="City">Genk</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t414">
+        <Goal Period="SecondHalf" PlayerRef="p54865" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p53392" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382418">
+      <MatchInfo GroupName="F" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1369">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Signal Iduna Park</Stat>
+      <Stat Type="City">Dortmund</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t157">
+        <Goal Period="SecondHalf" PlayerRef="p45034" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t3">
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382504">
+      <MatchInfo GroupName="A" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1366">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">El Madrigal</Stat>
+      <Stat Type="City">Castellón</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t449" />
+      <TeamData Score="0" Side="Away" TeamRef="t459" />
+    </MatchData>
+    <MatchData uID="g382442">
+      <MatchInfo GroupName="F" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p45124" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p45124" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38419" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t157" />
+    </MatchData>
+    <MatchData uID="g382507">
+      <MatchInfo GroupName="C" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t481" />
+      <TeamData Score="0" Side="Away" TeamRef="t1" />
+    </MatchData>
+    <MatchData uID="g382443">
+      <MatchInfo GroupName="G" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2493">
+        <Date>2011-09-28 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Petrovski</Stat>
+      <Stat Type="City">St. Petersburg</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1341">
+        <Goal Period="FirstHalf" PlayerRef="p48822" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19627" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p48822" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t201">
+        <Goal Period="FirstHalf" PlayerRef="p60025" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382496">
+      <MatchInfo GroupName="E" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3341">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Cristal Arena</Stat>
+      <Stat Type="City">Genk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t414" />
+      <TeamData Score="0" Side="Away" TeamRef="t164" />
+    </MatchData>
+    <MatchData uID="g382488">
+      <MatchInfo GroupName="E" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t191" />
+      <TeamData Score="0" Side="Away" TeamRef="t414" />
+    </MatchData>
+    <MatchData uID="g382431">
+      <MatchInfo GroupName="A" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g382468">
+      <MatchInfo GroupName="G" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2861">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Neo GSP Stadium</Stat>
+      <Stat Type="City">Nicosia</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t479">
+        <Goal Period="FirstHalf" PlayerRef="p48326" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p39473" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t201">
+        <Goal Period="SecondHalf" PlayerRef="p53645" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382429">
+      <MatchInfo GroupName="D" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3038">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Maksimir</Stat>
+      <Stat Type="City">Zagreb</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t394" />
+      <TeamData Score="1" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p46497" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382420">
+      <MatchInfo GroupName="G" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2861">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Neo GSP Stadium</Stat>
+      <Stat Type="City">Nicosia</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t479">
+        <Goal Period="SecondHalf" PlayerRef="p48326" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39473" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1341">
+        <Goal Period="SecondHalf" PlayerRef="p37282" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382437">
+      <MatchInfo GroupName="D" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t143">
+        <Goal Period="FirstHalf" PlayerRef="p44377" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p37998" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t394" />
+    </MatchData>
+    <MatchData uID="g382428">
+      <MatchInfo GroupName="C" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t251">
+        <Goal Period="FirstHalf" PlayerRef="p42795" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1">
+        <Goal Period="FirstHalf" PlayerRef="p3" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382473">
+      <MatchInfo GroupName="B" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3164">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Huseyin Avni Aker</Stat>
+      <Stat Type="City">Trabzon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t383" />
+      <TeamData Score="0" Side="Away" TeamRef="t1340" />
+    </MatchData>
+    <MatchData uID="g382469">
+      <MatchInfo GroupName="H" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3581">
+        <Date>2011-11-01 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Horodskiy Stadium</Stat>
+      <Stat Type="City">Minsk</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2155">
+        <Goal Period="SecondHalf" PlayerRef="p63448" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t120">
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382448">
+      <MatchInfo GroupName="A" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2691">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p37572" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p10390" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t449">
+        <Goal Period="FirstHalf" PlayerRef="p17278" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382476">
+      <MatchInfo GroupName="C" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t251">
+        <Goal Period="FirstHalf" PlayerRef="p80954" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t481">
+        <Goal Period="SecondHalf" PlayerRef="p14477" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382451">
+      <MatchInfo GroupName="C" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7739">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadionul National, Bucharest</Stat>
+      <Stat Type="City">Bucharest</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2751" />
+      <TeamData Score="2" Side="Away" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382459">
+      <MatchInfo GroupName="G" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t455">
+        <Goal Period="FirstHalf" PlayerRef="p47431" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p47429" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1341">
+        <Goal Period="FirstHalf" PlayerRef="p48822" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49230" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382421">
+      <MatchInfo GroupName="H" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p49579" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p51090" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p45215" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382452">
+      <MatchInfo GroupName="C" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t481" />
+      <TeamData Score="2" Side="Away" TeamRef="t251">
+        <Goal Period="FirstHalf" PlayerRef="p61573" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42795" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382430">
+      <MatchInfo GroupName="D" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="112">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Amsterdam Arena</Stat>
+      <Stat Type="City">Amsterdam</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t215" />
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g382449">
+      <MatchInfo GroupName="B" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2011-10-18 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t1340">
+        <Goal Period="SecondHalf" PlayerRef="p52117" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p52117" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41423" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t383" />
+    </MatchData>
+    <MatchData uID="g382480">
+      <MatchInfo GroupName="A" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2775">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Allianz Arena</Stat>
+      <Stat Type="City">Münich</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t156" />
+      <TeamData Score="0" Side="Away" TeamRef="t449" />
+    </MatchData>
+    <MatchData uID="g382495">
+      <MatchInfo GroupName="E" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t8" />
+      <TeamData Score="0" Side="Away" TeamRef="t191" />
+    </MatchData>
+    <MatchData uID="g382423">
+      <MatchInfo GroupName="A" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2691">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t43">
+        <Goal Period="SecondHalf" PlayerRef="p42593" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t459">
+        <Goal Period="SecondHalf" PlayerRef="p40720" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382450">
+      <MatchInfo GroupName="B" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3253">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t429" />
+      <TeamData Score="1" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p18231" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382419">
+      <MatchInfo GroupName="G" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2710">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Dragao</Stat>
+      <Stat Type="City">Porto</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t201">
+        <Goal Period="FirstHalf" PlayerRef="p53645" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p61133" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t455">
+        <Goal Period="FirstHalf" PlayerRef="p47429" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382425">
+      <MatchInfo GroupName="B" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3253">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t429">
+        <Goal Period="SecondHalf" PlayerRef="p9980" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27677" Type="Goal" />
+      </TeamData>
+      <TeamData Score="2" Side="Away" TeamRef="t1340">
+        <Goal Period="SecondHalf" PlayerRef="p52117" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p52117" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382434">
+      <MatchInfo GroupName="B" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3164">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Huseyin Avni Aker</Stat>
+      <Stat Type="City">Trabzon</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t383">
+        <Goal Period="SecondHalf" PlayerRef="p56097" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t429">
+        <Goal Period="FirstHalf" PlayerRef="p27677" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382455">
+      <MatchInfo GroupName="E" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1368">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">BayArena</Stat>
+      <Stat Type="City">Leverkusen</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t164">
+        <Goal Period="SecondHalf" PlayerRef="p38239" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p66842" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t191">
+        <Goal Period="FirstHalf" PlayerRef="p53048" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382477">
+      <MatchInfo GroupName="D" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t143" />
+      <TeamData Score="2" Side="Away" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Penalty" />
+        <Goal Period="FirstHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382470">
+      <MatchInfo GroupName="H" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3876">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Synot Tip Arena</Stat>
+      <Stat Type="City">Prague</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2703" />
+      <TeamData Score="4" Side="Away" TeamRef="t178">
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17878" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19054" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p19054" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382422">
+      <MatchInfo GroupName="H" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3876">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Synot Tip Arena</Stat>
+      <Stat Type="City">Prague</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t2703">
+        <Goal Period="FirstHalf" PlayerRef="p68947" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2155">
+        <Goal Period="SecondHalf" PlayerRef="p63448" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382416">
+      <MatchInfo GroupName="E" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3341">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Cristal Arena</Stat>
+      <Stat Type="City">Genk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t414" />
+      <TeamData Score="0" Side="Away" TeamRef="t191" />
+    </MatchData>
+    <MatchData uID="g382456">
+      <MatchInfo GroupName="E" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t8">
+        <Goal Period="FirstHalf" PlayerRef="p14402" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p19921" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37352" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p41135" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14402" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t414" />
+    </MatchData>
+    <MatchData uID="g382460">
+      <MatchInfo GroupName="G" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2710">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Dragao</Stat>
+      <Stat Type="City">Porto</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t201">
+        <Goal Period="FirstHalf" PlayerRef="p53645" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t479">
+        <Goal Period="FirstHalf" PlayerRef="p48326" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382415">
+      <MatchInfo GroupName="E" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="35">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stamford Bridge</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p43670" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p41270" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t164" />
+    </MatchData>
+    <MatchData uID="g382498">
+      <MatchInfo GroupName="F" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1369">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Signal Iduna Park</Stat>
+      <Stat Type="City">Dortmund</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t157" />
+      <TeamData Score="0" Side="Away" TeamRef="t144" />
+    </MatchData>
+    <MatchData uID="g382492">
+      <MatchInfo GroupName="G" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t455" />
+      <TeamData Score="0" Side="Away" TeamRef="t201" />
+    </MatchData>
+    <MatchData uID="g382447">
+      <MatchInfo GroupName="A" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1339">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t459">
+        <Goal Period="FirstHalf" PlayerRef="p50656" Type="Own" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t156">
+        <Goal Period="FirstHalf" PlayerRef="p44989" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382461">
+      <MatchInfo GroupName="H" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p20360" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2155" />
+    </MatchData>
+    <MatchData uID="g382500">
+      <MatchInfo GroupName="G" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2861">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Neo GSP Stadium</Stat>
+      <Stat Type="City">Nicosia</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t479" />
+      <TeamData Score="0" Side="Away" TeamRef="t455" />
+    </MatchData>
+    <MatchData uID="g382438">
+      <MatchInfo GroupName="D" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2011-09-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t186">
+        <Goal Period="FirstHalf" PlayerRef="p13135" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19927" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t215" />
+    </MatchData>
+    <MatchData uID="g382446">
+      <MatchInfo GroupName="H" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1335">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Giuseppe Meazza</Stat>
+      <Stat Type="City">Milano</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t120">
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p7174" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2703" />
+    </MatchData>
+    <MatchData uID="g382475">
+      <MatchInfo GroupName="C" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2011-11-02 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1">
+        <Goal Period="SecondHalf" PlayerRef="p62202" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p20695" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2751" />
+    </MatchData>
+    <MatchData uID="g382458">
+      <MatchInfo GroupName="F" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3063">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Karaiskaki Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t202">
+        <Goal Period="FirstHalf" PlayerRef="p20571" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p16287" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40868" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t157">
+        <Goal Period="FirstHalf" PlayerRef="p56764" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382466">
+      <MatchInfo GroupName="F" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1369">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Signal Iduna Park</Stat>
+      <Stat Type="City">Dortmund</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t157">
+        <Goal Period="FirstHalf" PlayerRef="p52540" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t202" />
+    </MatchData>
+    <MatchData uID="g382427">
+      <MatchInfo GroupName="C" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2208">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St Jakob-Park</Stat>
+      <Stat Type="City">Basel</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t481">
+        <Goal Period="FirstHalf" PlayerRef="p43573" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15738" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t2751">
+        <Goal Period="SecondHalf" PlayerRef="p62212" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382481">
+      <MatchInfo GroupName="B" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2011-11-22 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1340" />
+      <TeamData Score="0" Side="Away" TeamRef="t429" />
+    </MatchData>
+    <MatchData uID="g382463">
+      <MatchInfo GroupName="E" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2011-11-01 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="3" Side="Home" TeamRef="t191">
+        <Goal Period="SecondHalf" PlayerRef="p41795" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17926" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p53048" Type="Goal" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t164">
+        <Goal Period="FirstHalf" PlayerRef="p16141" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382503">
+      <MatchInfo GroupName="A" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2691">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Etihad Stadium</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t43" />
+      <TeamData Score="0" Side="Away" TeamRef="t156" />
+    </MatchData>
+    <MatchData uID="g382453">
+      <MatchInfo GroupName="D" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1360">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Santiago Bernabéu</Stat>
+      <Stat Type="City">Madrid</Stat>
+      <TeamData Score="4" Side="Home" TeamRef="t186">
+        <Goal Period="SecondHalf" PlayerRef="p37915" Type="Own" />
+        <Goal Period="FirstHalf" PlayerRef="p19927" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17861" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39816" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t143" />
+    </MatchData>
+    <MatchData uID="g382494">
+      <MatchInfo GroupName="H" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3581">
+        <Date>2011-11-23 18:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Horodskiy Stadium</Stat>
+      <Stat Type="City">Minsk</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t2155" />
+      <TeamData Score="0" Side="Away" TeamRef="t2703" />
+    </MatchData>
+    <MatchData uID="g382433">
+      <MatchInfo GroupName="B" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2311">
+        <Date>2011-09-27 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Luzhniki Stadium</Stat>
+      <Stat Type="City">Moscow</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t1340">
+        <Goal Period="FirstHalf" PlayerRef="p51437" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p18693" Type="Goal" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t127">
+        <Goal Period="FirstHalf" PlayerRef="p8491" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18231" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p49696" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382462">
+      <MatchInfo GroupName="H" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1349">
+        <Date>2011-10-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Camp Nou</Stat>
+      <Stat Type="City">Barcelona</Stat>
+      <TeamData Score="2" Side="Home" TeamRef="t178">
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12237" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t2703" />
+    </MatchData>
+    <MatchData uID="g382479">
+      <MatchInfo GroupName="A" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="1339">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">San Paolo</Stat>
+      <Stat Type="City">Napoli</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t459" />
+      <TeamData Score="0" Side="Away" TeamRef="t43" />
+    </MatchData>
+    <MatchData uID="g382491">
+      <MatchInfo GroupName="G" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2493">
+        <Date>2011-11-23 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Petrovski</Stat>
+      <Stat Type="City">St. Petersburg</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1341" />
+      <TeamData Score="0" Side="Away" TeamRef="t479" />
+    </MatchData>
+    <MatchData uID="g382467">
+      <MatchInfo GroupName="G" MatchDay="4" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2493">
+        <Date>2011-11-01 17:00:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Petrovski</Stat>
+      <Stat Type="City">St. Petersburg</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t1341">
+        <Goal Period="FirstHalf" PlayerRef="p34949" Type="Goal" />
+      </TeamData>
+      <TeamData Score="0" Side="Away" TeamRef="t455" />
+    </MatchData>
+    <MatchData uID="g382454">
+      <MatchInfo GroupName="D" MatchDay="3" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3038">
+        <Date>2011-10-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Maksimir</Stat>
+      <Stat Type="City">Zagreb</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t394" />
+      <TeamData Score="2" Side="Away" TeamRef="t215">
+        <Goal Period="SecondHalf" PlayerRef="p80607" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p32020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382508">
+      <MatchInfo GroupName="C" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2713">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio da Luz</Stat>
+      <Stat Type="City">Lisbon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t251" />
+      <TeamData Score="0" Side="Away" TeamRef="t2751" />
+    </MatchData>
+    <MatchData uID="g382505">
+      <MatchInfo GroupName="B" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3253">
+        <Date>2011-12-07 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stadium Lille Métropole</Stat>
+      <Stat Type="City">Lille</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t429" />
+      <TeamData Score="0" Side="Away" TeamRef="t383" />
+    </MatchData>
+    <MatchData uID="g382439">
+      <MatchInfo GroupName="E" MatchDay="2" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1365">
+        <Date>2011-09-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mestalla</Stat>
+      <Stat Type="City">Valencia</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t191">
+        <Goal Period="SecondHalf" PlayerRef="p17926" Type="Penalty" />
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t8">
+        <Goal Period="SecondHalf" PlayerRef="p2051" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382484">
+      <MatchInfo GroupName="C" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t1" />
+      <TeamData Score="0" Side="Away" TeamRef="t251" />
+    </MatchData>
+    <MatchData uID="g382424">
+      <MatchInfo GroupName="A" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1366">
+        <Date>2011-09-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">El Madrigal</Stat>
+      <Stat Type="City">Castellón</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t449" />
+      <TeamData Score="2" Side="Away" TeamRef="t156">
+        <Goal Period="SecondHalf" PlayerRef="p21227" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p44989" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData uID="g382482">
+      <MatchInfo GroupName="B" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3164">
+        <Date>2011-11-22 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Huseyin Avni Aker</Stat>
+      <Stat Type="City">Trabzon</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t383" />
+      <TeamData Score="0" Side="Away" TeamRef="t127" />
+    </MatchData>
+    <MatchData uID="g382490">
+      <MatchInfo GroupName="F" MatchDay="5" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3250">
+        <Date>2011-11-23 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Emirates Stadium</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t3" />
+      <TeamData Score="0" Side="Away" TeamRef="t157" />
+    </MatchData>
+    <MatchData uID="g382497">
+      <MatchInfo GroupName="F" MatchDay="6" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3063">
+        <Date>2011-12-06 19:45:00</Date>
+        <TZ>GMT</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Karaiskaki Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t202" />
+      <TeamData Score="0" Side="Away" TeamRef="t3" />
+    </MatchData>
+    <MatchData uID="g382417">
+      <MatchInfo GroupName="F" MatchDay="1" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3063">
+        <Date>2011-09-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Karaiskaki Stadium</Stat>
+      <Stat Type="City">Athens</Stat>
+      <TeamData Score="0" Side="Home" TeamRef="t202" />
+      <TeamData Score="1" Side="Away" TeamRef="t144">
+        <Goal Period="SecondHalf" PlayerRef="p20087" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t1341">
+      <Name>Zenit St Petersburg</Name>
+    </Team>
+    <Team uID="t127">
+      <Name>Internazionale</Name>
+    </Team>
+    <Team uID="t455">
+      <Name>Shakhtar Donetsk</Name>
+    </Team>
+    <Team uID="t1">
+      <Name>Manchester United</Name>
+    </Team>
+    <Team uID="t383">
+      <Name>Trabzonspor</Name>
+    </Team>
+    <Team uID="t186">
+      <Name>Real Madrid</Name>
+    </Team>
+    <Team uID="t144">
+      <Name>Marseille</Name>
+    </Team>
+    <Team uID="t120">
+      <Name>Milan</Name>
+    </Team>
+    <Team uID="t156">
+      <Name>FC Bayern München</Name>
+    </Team>
+    <Team uID="t202">
+      <Name>Olympiakos</Name>
+    </Team>
+    <Team uID="t191">
+      <Name>Valencia</Name>
+    </Team>
+    <Team uID="t215">
+      <Name>Ajax</Name>
+    </Team>
+    <Team uID="t201">
+      <Name>FC Porto</Name>
+    </Team>
+    <Team uID="t178">
+      <Name>Barcelona</Name>
+    </Team>
+    <Team uID="t414">
+      <Name>KRC Genk</Name>
+    </Team>
+    <Team uID="t394">
+      <Name>Dinamo Zagreb</Name>
+    </Team>
+    <Team uID="t143">
+      <Name>Lyon</Name>
+    </Team>
+    <Team uID="t2703">
+      <Name>Viktoria Plzen</Name>
+    </Team>
+    <Team uID="t481">
+      <Name>Basel</Name>
+    </Team>
+    <Team uID="t157">
+      <Name>Borussia Dortmund</Name>
+    </Team>
+    <Team uID="t479">
+      <Name>Apoel Nicosia</Name>
+    </Team>
+    <Team uID="t251">
+      <Name>Benfica</Name>
+    </Team>
+    <Team uID="t2751">
+      <Name>Otelul Galati</Name>
+    </Team>
+    <Team uID="t3">
+      <Name>Arsenal</Name>
+    </Team>
+    <Team uID="t429">
+      <Name>Lille</Name>
+    </Team>
+    <Team uID="t8">
+      <Name>Chelsea</Name>
+    </Team>
+    <Team uID="t164">
+      <Name>Bayer 04 Leverkusen</Name>
+    </Team>
+    <Team uID="t2155">
+      <Name>BATE Borisov</Name>
+    </Team>
+    <Team uID="t459">
+      <Name>Napoli</Name>
+    </Team>
+    <Team uID="t449">
+      <Name>Villarreal</Name>
+    </Team>
+    <Team uID="t43">
+      <Name>Manchester City</Name>
+    </Team>
+    <Team uID="t1340">
+      <Name>CSKA Moscow</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

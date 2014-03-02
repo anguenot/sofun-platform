@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110831T060255,294Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU1
+-->
+<fixtures>
+  <fixture id="6660" comp_id="210" comp_name="Rugby World Cup" game_date="20110909" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="850" />
+    <team home_or_away="away" team_id="750" />
+  </fixture>
+  <fixture id="6661" comp_id="210" comp_name="Rugby World Cup" game_date="20110910" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="02:00:00" venue="Southland Rugby Park" venue_id="100">
+    <team home_or_away="home" team_id="700" />
+    <team home_or_away="away" team_id="951" />
+  </fixture>
+  <fixture id="6662" comp_id="210" comp_name="Rugby World Cup" game_date="20110910" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Rotorua International Stadium" venue_id="107">
+    <team home_or_away="home" team_id="954" />
+    <team home_or_away="away" team_id="2900" />
+  </fixture>
+  <fixture id="6663" comp_id="210" comp_name="Rugby World Cup" game_date="20110910" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="North Harbour Stadium" venue_id="102">
+    <team home_or_away="home" team_id="650" />
+    <team home_or_away="away" team_id="3000" />
+  </fixture>
+  <fixture id="6664" comp_id="210" comp_name="Rugby World Cup" game_date="20110910" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Forsyth Bar" venue_id="224">
+    <team home_or_away="home" team_id="800" />
+    <team home_or_away="away" team_id="550" />
+  </fixture>
+  <fixture id="6665" comp_id="210" comp_name="Rugby World Cup" game_date="20110911" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="North Harbour Stadium" venue_id="102">
+    <team home_or_away="home" team_id="100" />
+    <team home_or_away="away" team_id="952" />
+  </fixture>
+  <fixture id="6666" comp_id="210" comp_name="Rugby World Cup" game_date="20110911" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Yarrow Stadium" venue_id="99">
+    <team home_or_away="home" team_id="600" />
+    <team home_or_away="away" team_id="2950" />
+  </fixture>
+  <fixture id="6667" comp_id="210" comp_name="Rugby World Cup" game_date="20110911" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="900" />
+    <team home_or_away="away" team_id="500" />
+  </fixture>
+  <fixture id="6668" comp_id="210" comp_name="Rugby World Cup" game_date="20110914" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="03:30:00" venue="Rotorua International Stadium" venue_id="107">
+    <team home_or_away="home" team_id="950" />
+    <team home_or_away="away" team_id="2900" />
+  </fixture>
+  <fixture id="6669" comp_id="210" comp_name="Rugby World Cup" game_date="20110914" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="06:00:00" venue="ITM Stadium" venue_id="101">
+    <team home_or_away="home" team_id="750" />
+    <team home_or_away="away" team_id="953" />
+  </fixture>
+  <fixture id="6670" comp_id="210" comp_name="Rugby World Cup" game_date="20110914" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="Southland Rugby Park" venue_id="100">
+    <team home_or_away="home" team_id="700" />
+    <team home_or_away="away" team_id="2850" />
+  </fixture>
+  <fixture id="6671" comp_id="210" comp_name="Rugby World Cup" game_date="20110915" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="Yarrow Stadium" venue_id="99">
+    <team home_or_away="home" team_id="8850" />
+    <team home_or_away="away" team_id="2950" />
+  </fixture>
+  <fixture id="6672" comp_id="210" comp_name="Rugby World Cup" game_date="20110916" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:00:00" venue="Waikato Stadium" venue_id="60">
+    <team home_or_away="home" team_id="850" />
+    <team home_or_away="away" team_id="3000" />
+  </fixture>
+  <fixture id="6673" comp_id="210" comp_name="Rugby World Cup" game_date="20110917" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Southland Rugby Park" venue_id="100">
+    <team home_or_away="home" team_id="800" />
+    <team home_or_away="away" team_id="951" />
+  </fixture>
+  <fixture id="6674" comp_id="210" comp_name="Rugby World Cup" game_date="20110917" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="900" />
+    <team home_or_away="away" team_id="954" />
+  </fixture>
+  <fixture id="6675" comp_id="210" comp_name="Rugby World Cup" game_date="20110917" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="100" />
+    <team home_or_away="away" team_id="600" />
+  </fixture>
+  <fixture id="6676" comp_id="210" comp_name="Rugby World Cup" game_date="20110918" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Waikato Stadium" venue_id="60">
+    <team home_or_away="home" team_id="500" />
+    <team home_or_away="away" team_id="950" />
+  </fixture>
+  <fixture id="6677" comp_id="210" comp_name="Rugby World Cup" game_date="20110918" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Forsyth Bar" venue_id="224">
+    <team home_or_away="home" team_id="550" />
+    <team home_or_away="away" team_id="2850" />
+  </fixture>
+  <fixture id="6678" comp_id="210" comp_name="Rugby World Cup" game_date="20110918" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="McLean Park" venue_id="104">
+    <team home_or_away="home" team_id="650" />
+    <team home_or_away="away" team_id="953" />
+  </fixture>
+  <fixture id="6679" comp_id="210" comp_name="Rugby World Cup" game_date="20110920" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="Trafalgar Park" venue_id="98">
+    <team home_or_away="home" team_id="952" />
+    <team home_or_away="away" team_id="8850" />
+  </fixture>
+  <fixture id="6680" comp_id="210" comp_name="Rugby World Cup" game_date="20110921" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="ITM Stadium" venue_id="101">
+    <team home_or_away="home" team_id="750" />
+    <team home_or_away="away" team_id="3000" />
+  </fixture>
+  <fixture id="6681" comp_id="210" comp_name="Rugby World Cup" game_date="20110922" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:00:00" venue="North Harbour Stadium" venue_id="102">
+    <team home_or_away="home" team_id="900" />
+    <team home_or_away="away" team_id="2900" />
+  </fixture>
+  <fixture id="6682" comp_id="210" comp_name="Rugby World Cup" game_date="20110923" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="100" />
+    <team home_or_away="away" team_id="2950" />
+  </fixture>
+  <fixture id="6683" comp_id="210" comp_name="Rugby World Cup" game_date="20110924" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Forsyth Bar" venue_id="224">
+    <team home_or_away="home" team_id="550" />
+    <team home_or_away="away" team_id="951" />
+  </fixture>
+  <fixture id="6684" comp_id="210" comp_name="Rugby World Cup" game_date="20110924" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="850" />
+    <team home_or_away="away" team_id="650" />
+  </fixture>
+  <fixture id="6685" comp_id="210" comp_name="Rugby World Cup" game_date="20110925" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="954" />
+    <team home_or_away="away" team_id="950" />
+  </fixture>
+  <fixture id="6686" comp_id="210" comp_name="Rugby World Cup" game_date="20110925" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Rotorua International Stadium" venue_id="107">
+    <team home_or_away="home" team_id="600" />
+    <team home_or_away="away" team_id="8850" />
+  </fixture>
+  <fixture id="6687" comp_id="210" comp_name="Rugby World Cup" game_date="20110925" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Westpac Stadium" venue_id="61">
+    <team home_or_away="home" team_id="800" />
+    <team home_or_away="away" team_id="700" />
+  </fixture>
+  <fixture id="6688" comp_id="210" comp_name="Rugby World Cup" game_date="20110926" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="Yarrow Stadium" venue_id="99">
+    <team home_or_away="home" team_id="500" />
+    <team home_or_away="away" team_id="2900" />
+  </fixture>
+  <fixture id="6689" comp_id="210" comp_name="Rugby World Cup" game_date="20110927" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="06:00:00" venue="McLean Park" venue_id="104">
+    <team home_or_away="home" team_id="953" />
+    <team home_or_away="away" team_id="3000" />
+  </fixture>
+  <fixture id="6690" comp_id="210" comp_name="Rugby World Cup" game_date="20110927" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="Trafalgar Park" venue_id="98">
+    <team home_or_away="home" team_id="952" />
+    <team home_or_away="away" team_id="2950" />
+  </fixture>
+  <fixture id="6691" comp_id="210" comp_name="Rugby World Cup" game_date="20110928" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="08:30:00" venue="FMG Stadium" venue_id="103">
+    <team home_or_away="home" team_id="2850" />
+    <team home_or_away="away" team_id="951" />
+  </fixture>
+  <fixture id="6692" comp_id="210" comp_name="Rugby World Cup" game_date="20110930" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="North Harbour Stadium" venue_id="102">
+    <team home_or_away="home" team_id="900" />
+    <team home_or_away="away" team_id="950" />
+  </fixture>
+  <fixture id="6693" comp_id="210" comp_name="Rugby World Cup" game_date="20111001" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Trafalgar Park" venue_id="98">
+    <team home_or_away="home" team_id="100" />
+    <team home_or_away="away" team_id="8850" />
+  </fixture>
+  <fixture id="6694" comp_id="210" comp_name="Rugby World Cup" game_date="20111001" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="650" />
+    <team home_or_away="away" team_id="750" />
+  </fixture>
+  <fixture id="6695" comp_id="210" comp_name="Rugby World Cup" game_date="20111001" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="550" />
+    <team home_or_away="away" team_id="700" />
+  </fixture>
+  <fixture id="6696" comp_id="210" comp_name="Rugby World Cup" game_date="20111002" group="B" group_name="B" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="02:00:00" venue="FMG Stadium" venue_id="103">
+    <team home_or_away="home" team_id="800" />
+    <team home_or_away="away" team_id="2850" />
+  </fixture>
+  <fixture id="6697" comp_id="210" comp_name="Rugby World Cup" game_date="20111002" group="A" group_name="A" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="04:30:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="850" />
+    <team home_or_away="away" team_id="953" />
+  </fixture>
+  <fixture id="6698" comp_id="210" comp_name="Rugby World Cup" game_date="20111002" group="D" group_name="D" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="07:00:00" venue="Waikato Stadium" venue_id="60">
+    <team home_or_away="home" team_id="500" />
+    <team home_or_away="away" team_id="954" />
+  </fixture>
+  <fixture id="6699" comp_id="210" comp_name="Rugby World Cup" game_date="20111002" group="C" group_name="C" leg="1" live_scores="11" public="1" round="1" round_type_id="1" season_id="2012" stage="1" time="09:30:00" venue="Forsyth Bar" venue_id="224">
+    <team home_or_away="home" team_id="600" />
+    <team home_or_away="away" team_id="952" />
+  </fixture>
+  <fixture id="6701" comp_id="210" comp_name="Rugby World Cup" game_date="20111008" group="QF" group_name="QF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="07:00:00" venue="Waikato Stadium" venue_id="60">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6700" comp_id="210" comp_name="Rugby World Cup" game_date="20111008" group="QF" group_name="QF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6703" comp_id="210" comp_name="Rugby World Cup" game_date="20111009" group="QF" group_name="QF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="07:00:00" venue="Wellington Regional Stadium" venue_id="57">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6702" comp_id="210" comp_name="Rugby World Cup" game_date="20111009" group="QF" group_name="QF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6704" comp_id="210" comp_name="Rugby World Cup" game_date="20111015" group="SF" group_name="SF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="10:00:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6705" comp_id="210" comp_name="Rugby World Cup" game_date="20111016" group="SF" group_name="SF" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="10:00:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6706" comp_id="210" comp_name="Rugby World Cup" game_date="20111021" group="3RD" group_name="3RD" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="09:30:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <fixture id="6707" comp_id="210" comp_name="Rugby World Cup" game_date="20111023" group="Final" group_name="Final" leg="1" live_scores="1" public="0" round="2" round_type_id="2" season_id="2012" stage="1" time="10:00:00" venue="Eden Park" venue_id="58">
+    <team home_or_away="home" team_id="7" />
+    <team home_or_away="away" team_id="7" />
+  </fixture>
+  <teams>
+    <team id="7" name="TBC" />
+    <team id="100" name="Australia" />
+    <team id="500" name="Wales" />
+    <team id="550" name="England" />
+    <team id="600" name="Ireland" />
+    <team id="650" name="France" />
+    <team id="700" name="Scotland" />
+    <team id="750" name="Tonga" />
+    <team id="800" name="Argentina" />
+    <team id="850" name="New Zealand" />
+    <team id="900" name="South Africa" />
+    <team id="950" name="Samoa" />
+    <team id="951" name="Romania" />
+    <team id="952" name="Italy" />
+    <team id="953" name="Canada" />
+    <team id="954" name="Fiji" />
+    <team id="2850" name="Georgia" />
+    <team id="2900" name="Namibia" />
+    <team id="2950" name="USA" />
+    <team id="3000" name="Japan" />
+    <team id="8850" name="Russia" />
+  </teams>
+</fixtures>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoccerFeed TimeStamp="20111021T104945+0100">
+  <SoccerDocument Type="Result" uID="f359299">
+    <Competition uID="c24">
+      <Country>France</Country>
+      <Name>French Ligue 1</Name>
+      <Stat Type="season_id">2011</Stat>
+      <Stat Type="season_name">Season 2011/2012</Stat>
+      <Stat Type="symid">FR_L1</Stat>
+      <Stat Type="matchday">10</Stat>
+    </Competition>
+    <MatchData>
+      <MatchInfo MatchType="Regular" Period="FullTime" TimeStamp="20111015T195149+0100">
+        <Date>20111015T180000+0100</Date>
+        <Result Type="NormalResult" Winner="t147" />
+      </MatchInfo>
+      <MatchOfficial uID="o38385">
+        <OfficialData>
+          <OfficialRef Type="Main" />
+        </OfficialData>
+        <OfficialName>
+          <First>Said</First>
+          <Last>Ennjimi</Last>
+        </OfficialName>
+      </MatchOfficial>
+      <Stat Type="match_time">94</Stat>
+      <TeamData Score="5" Side="Home" TeamRef="t147">
+        <Booking Card="Yellow" CardType="Yellow" EventID="886179752" EventNumber="1281" Period="FirstHalf" PlayerRef="p13000" Reason="Foul" Time="28" TimeStamp="20111015T182831+0100" uID="b147-1" />
+        <Booking Card="Yellow" CardType="Yellow" EventID="777510184" EventNumber="2512" Period="SecondHalf" PlayerRef="p66957" Reason="Dissent" Time="51" TimeStamp="20111015T190843+0100" uID="b147-2" />
+        <Goal EventID="2125329824" EventNumber="1275" Period="FirstHalf" PlayerRef="p86445" Time="27" TimeStamp="20111015T182702+0100" Type="Own" uID="g147-1" />
+        <Goal EventID="1209656515" EventNumber="2507" Period="SecondHalf" PlayerRef="p44346" Time="50" TimeStamp="20111015T190743+0100" Type="Goal" uID="g147-2" />
+        <Goal EventID="1337526645" EventNumber="2588" Period="SecondHalf" PlayerRef="p44346" Time="58" TimeStamp="20111015T191543+0100" Type="Penalty" uID="g147-3" />
+        <Goal EventID="740638741" EventNumber="2649" Period="SecondHalf" PlayerRef="p10955" Time="64" TimeStamp="20111015T192230+0100" Type="Goal" uID="g147-4" />
+        <Goal EventID="970930063" EventNumber="28110" Period="SecondHalf" PlayerRef="p44346" Time="81" TimeStamp="20111015T193845+0100" Type="Goal" uID="g147-5">
+          <Assist PlayerRef="p10955">p10955</Assist>
+          <SecondAssist PlayerRef="p6282">p6282</SecondAssist>
+        </Goal>
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p44476" Position="Goalkeeper" ShirtNumber="16" Status="Start" />
+          <MatchPlayer PlayerRef="p28136" Position="Defender" ShirtNumber="4" Status="Start" />
+          <MatchPlayer PlayerRef="p6282" Position="Defender" ShirtNumber="27" Status="Start" />
+          <MatchPlayer PlayerRef="p44324" Position="Defender" ShirtNumber="5" Status="Start" />
+          <MatchPlayer PlayerRef="p50301" Position="Defender" ShirtNumber="21" Status="Start" />
+          <MatchPlayer PlayerRef="p66957" Position="Midfielder" ShirtNumber="20" Status="Start" />
+          <MatchPlayer PlayerRef="p13941" Position="Midfielder" ShirtNumber="14" Status="Start" />
+          <MatchPlayer PlayerRef="p48830" Position="Midfielder" ShirtNumber="13" Status="Start" />
+          <MatchPlayer PlayerRef="p66959" Position="Midfielder" ShirtNumber="10" Status="Start" />
+          <MatchPlayer PlayerRef="p44346" Position="Striker" ShirtNumber="17" Status="Start" />
+          <MatchPlayer PlayerRef="p13000" Position="Striker" ShirtNumber="7" Status="Start" />
+          <MatchPlayer PlayerRef="p37434" Position="Substitute" ShirtNumber="9" Status="Sub" />
+          <MatchPlayer PlayerRef="p9999" Position="Substitute" ShirtNumber="1" Status="Sub" />
+          <MatchPlayer PlayerRef="p54539" Position="Substitute" ShirtNumber="24" Status="Sub" />
+          <MatchPlayer PlayerRef="p37848" Position="Substitute" ShirtNumber="2" Status="Sub" />
+          <MatchPlayer PlayerRef="p89518" Position="Substitute" ShirtNumber="25" Status="Sub" />
+          <MatchPlayer PlayerRef="p37831" Position="Substitute" ShirtNumber="6" Status="Sub" />
+          <MatchPlayer PlayerRef="p10955" Position="Substitute" ShirtNumber="19" Status="Sub" />
+        </PlayerLineUp>
+        <Substitution EventID="1707077791" EventNumber="25911" Period="2" Reason="Tactical" SubOff="p66957" SubOn="p10955" SubstitutePosition="4" Time="59" TimeStamp="20111015T191641+0100" uID="s147-1" />
+        <Substitution EventID="1865901325" EventNumber="27812" Period="2" Reason="Tactical" SubOff="p13000" SubOn="p37831" SubstitutePosition="3" Time="78" TimeStamp="20111015T193606+0100" uID="s147-2" />
+        <Substitution EventID="871987490" EventNumber="28613" Period="2" Reason="Tactical" SubOff="p44346" SubOn="p37434" SubstitutePosition="4" Time="86" TimeStamp="20111015T194432+0100" uID="s147-3" />
+      </TeamData>
+      <TeamData Score="3" Side="Away" TeamRef="t2130">
+        <Booking Card="Yellow" CardType="Yellow" EventID="97296006" EventNumber="12614" Period="FirstHalf" PlayerRef="p83913" Reason="Foul" Time="26" TimeStamp="20111015T182623+0100" uID="b2130-1" />
+        <Booking Card="Yellow" CardType="Yellow" EventID="1548462327" EventNumber="25715" Period="SecondHalf" PlayerRef="p57266" Reason="Foul" Time="57" TimeStamp="20111015T191454+0100" uID="b2130-2" />
+        <Goal EventID="1645614489" EventNumber="1920" Period="FirstHalf" PlayerRef="p86446" Time="9" TimeStamp="20111015T180849+0100" Type="Goal" uID="g2130-1" />
+        <Goal EventID="430238977" EventNumber="11121" Period="FirstHalf" PlayerRef="p86446" Time="11" TimeStamp="20111015T181104+0100" Type="Goal" uID="g2130-2" />
+        <Goal EventID="2029231142" EventNumber="29023" Period="SecondHalf" PlayerRef="p103147" Time="90" TimeStamp="20111015T194754+0100" Type="Goal" uID="g2130-3">
+          <Assist PlayerRef="p86446">p86446</Assist>
+        </Goal>
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p93619" Position="Goalkeeper" ShirtNumber="30" Status="Start" />
+          <MatchPlayer PlayerRef="p57266" Position="Defender" ShirtNumber="15" Status="Start" />
+          <MatchPlayer PlayerRef="p55254" Position="Defender" ShirtNumber="19" Status="Start" />
+          <MatchPlayer PlayerRef="p77587" Position="Defender" ShirtNumber="14" Status="Start" />
+          <MatchPlayer PlayerRef="p86445" Position="Defender" ShirtNumber="25" Status="Start" />
+          <MatchPlayer PlayerRef="p83913" Position="Midfielder" ShirtNumber="11" Status="Start" />
+          <MatchPlayer PlayerRef="p86447" Position="Midfielder" ShirtNumber="24" Status="Start" />
+          <MatchPlayer PlayerRef="p86446" Position="Midfielder" ShirtNumber="20" Status="Start" />
+          <MatchPlayer PlayerRef="p44207" Position="Midfielder" ShirtNumber="31" Status="Start" />
+          <MatchPlayer PlayerRef="p86449" Position="Striker" ShirtNumber="22" Status="Start" />
+          <MatchPlayer PlayerRef="p44224" Position="Striker" ShirtNumber="10" Status="Start" />
+          <MatchPlayer PlayerRef="p38259" Position="Substitute" ShirtNumber="26" Status="Sub" />
+          <MatchPlayer PlayerRef="p13939" Position="Substitute" ShirtNumber="27" Status="Sub" />
+          <MatchPlayer PlayerRef="p80221" Position="Substitute" ShirtNumber="16" Status="Sub" />
+          <MatchPlayer PlayerRef="p44314" Position="Substitute" ShirtNumber="7" Status="Sub" />
+          <MatchPlayer PlayerRef="p103147" Position="Substitute" ShirtNumber="17" Status="Sub" />
+          <MatchPlayer PlayerRef="p73857" Position="Substitute" ShirtNumber="29" Status="Sub" />
+          <MatchPlayer PlayerRef="p85682" Position="Substitute" ShirtNumber="6" Status="Sub" />
+        </PlayerLineUp>
+        <Substitution EventID="1848452156" EventNumber="26324" Period="2" Reason="Tactical" SubOff="p86449" SubOn="p44314" SubstitutePosition="4" Time="63" TimeStamp="20111015T192119+0100" uID="s2130-1" />
+        <Substitution EventID="1556818324" EventNumber="26325" Period="2" Reason="Tactical" SubOff="p83913" SubOn="p103147" SubstitutePosition="3" Time="63" TimeStamp="20111015T192127+0100" uID="s2130-2" />
+        <Substitution EventID="1225592021" EventNumber="27826" Period="2" Reason="Tactical" SubOff="p86447" SubOn="p73857" SubstitutePosition="3" Time="78" TimeStamp="20111015T193623+0100" uID="s2130-3" />
+      </TeamData>
+    </MatchData>
+    <Team uID="t147">
+      <Country>France</Country>
+      <Name>Montpellier</Name>
+      <Player Position="Goalkeeper" uID="p44476">
+        <PersonName>
+          <First>Geoffrey</First>
+          <Last>Jourdren</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p28136">
+        <PersonName>
+          <First>Vitorino Hilton</First>
+          <Known>Hilton</Known>
+          <Last>Da Silva</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p6282">
+        <PersonName>
+          <First>Cyril</First>
+          <Last>Jeunechamp</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p44324">
+        <PersonName>
+          <First>Henri</First>
+          <Known>Henri Bedimo</Known>
+          <Last>Bedimo Nsame</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p50301">
+        <PersonName>
+          <First>Abdelhamid</First>
+          <Last>El Kaoutari</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p66957">
+        <PersonName>
+          <First>Rémy</First>
+          <Last>Cabella</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p13941">
+        <PersonName>
+          <First>Romain</First>
+          <Last>Pitau</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p48830">
+        <PersonName>
+          <First>Marco</First>
+          <Last>Estrada</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p66959">
+        <PersonName>
+          <First>Younés</First>
+          <Last>Belhanda</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p44346">
+        <PersonName>
+          <First>Olivier</First>
+          <Last>Giroud</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p13000">
+        <PersonName>
+          <First>John</First>
+          <Last>Utaka</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p37434">
+        <PersonName>
+          <First>Hasan</First>
+          <Last>Kabze</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p9999">
+        <PersonName>
+          <First>Laurent</First>
+          <Last>Pionnier</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p54539">
+        <PersonName>
+          <First>Bengali Fodé</First>
+          <Last>Koita</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p37848">
+        <PersonName>
+          <First>Garry</First>
+          <Last>Bocaly</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p89518">
+        <PersonName>
+          <First>Mathieu</First>
+          <Last>Deplagne</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p37831">
+        <PersonName>
+          <First>Joris</First>
+          <Last>Marveaux</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p10955">
+        <PersonName>
+          <First>Souleymane</First>
+          <Last>Camara</Last>
+        </PersonName>
+      </Player>
+      <TeamOfficial Type="Manager" uID="man39022">
+        <PersonName>
+          <First>Rene</First>
+          <Last>Girard</Last>
+        </PersonName>
+      </TeamOfficial>
+    </Team>
+    <Team uID="t2130">
+      <Country>France</Country>
+      <Name>Dijon</Name>
+      <Player Position="Goalkeeper" uID="p93619">
+        <PersonName>
+          <First>Baptiste</First>
+          <Last>Reynet</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p57266">
+        <PersonName>
+          <First>Abdoulaye</First>
+          <Last>Bamba</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p55254">
+        <PersonName>
+          <First>Samuel</First>
+          <Last>Souprayen</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p77587">
+        <PersonName>
+          <First>Chaher</First>
+          <Last>Zarour</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p86445">
+        <PersonName>
+          <First>Steven</First>
+          <Last>Paulle</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p83913">
+        <PersonName>
+          <First>Éric</First>
+          <Last>Bautheac</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p86447">
+        <PersonName>
+          <First>Sanaa</First>
+          <Last>Altama</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p86446">
+        <PersonName>
+          <First>Benjamin</First>
+          <Last>Corgnet</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p44207">
+        <PersonName>
+          <First>Damien</First>
+          <Last>Marcq</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p86449">
+        <PersonName>
+          <First>Mehdi</First>
+          <Last>Courgnaud</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p44224">
+        <PersonName>
+          <First>Gregory</First>
+          <Last>Thil</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p38259">
+        <PersonName>
+          <First>Lesly</First>
+          <Last>Malouda</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p13939">
+        <PersonName>
+          <First>Cedric</First>
+          <Last>Varrault</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p80221">
+        <PersonName>
+          <First>Baba</First>
+          <Last>Tchagouni</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p44314">
+        <PersonName>
+          <First>Christophe</First>
+          <Last>Mandanne</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p103147">
+        <PersonName>
+          <First>Thomas</First>
+          <Last>Guerbert</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p73857">
+        <PersonName>
+          <First>Florin</First>
+          <Last>Berenguer</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Substitute" uID="p85682">
+        <PersonName>
+          <First>Zakaria</First>
+          <Last>Diallo</Last>
+        </PersonName>
+      </Player>
+      <TeamOfficial Type="Manager" uID="man39154">
+        <PersonName>
+          <First>Patrice</First>
+          <Last>Carteron</Last>
+        </PersonName>
+      </TeamOfficial>
+    </Team>
+    <Venue uID="v2108">
+      <Country>France</Country>
+      <Name>Stade de la Mosson</Name>
+    </Venue>
+  </SoccerDocument>
+</SoccerFeed>
